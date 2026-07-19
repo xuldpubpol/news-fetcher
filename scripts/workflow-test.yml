@@ -1,0 +1,26 @@
+name: Fetch International News
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests feedparser beautifulsoup4 lxml
+      - name: Fetch news from all sources
+        run: python scripts/fetch_all.py
+      - name: Commit and push
+        run: |
+          git config user.name 'news-fetcher bot'
+          git config user.email 'bot@news-fetcher'
+          git add -A
+          git diff --staged --quiet || git commit -m 'auto: update news data'
+          git push
