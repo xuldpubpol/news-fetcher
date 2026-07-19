@@ -4,6 +4,44 @@ import json, os, time, sys
 from datetime import datetime, timezone
 import urllib.request
 import xml.etree.ElementTree as ET
+from html.parser import HTMLParser
+
+class ArticleExtractor(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.in_body = False
+        self.in_script = False
+        self.in_style = False
+        self.skip_tags = {'nav', 'header', 'footer', 'aside', 'script', 'style', 'form'}
+        self.text_blocks = []
+        self.current_block = []
+        self.depth = 0
+    def handle_starttag(self, tag, attrs):
+        if tag in self.skip_tags:
+            if tag in ('script', 'style'):
+                self.in_script = True if tag == 'script' else self.in_script
+                self.in_style = True if tag == 'style' else self.in_style
+            self.depth += 1
+        if tag in ('p', 'div', 'article', 'section', 'h1', 'h2', 'h3', 'h4'):
+            if self.current_block:
+                text = ''.join(self.current_block).strip()
+                if text:
+                    self.text_blocks.append(text)
+                self.current_block = []
+    def handle_endtag(self, tag):
+        if tag in self.skip_tags:
+            self.depth -= 1
+            if tag == 'script': self.in_script = False
+            if tag == 'style': self.in_style = False
+    def handle_data(self, data):
+        if self.depth == 0 and not self.in_script and not self.in_style:
+            self.current_block.append(data)
+    def get_text(self):
+        if self.current_block:
+            text = ''.join(self.current_block).strip()
+            if text:
+                self.text_blocks.append(text)
+        return '\n\n'.join(self.text_blocks)
 
 SOURCES = {
     'foreign-affairs': {
@@ -35,6 +73,8 @@ SOURCES = {
         ],
     },
 }
+
+MAX_FULL_TEXT = 3
 
 # DATA_DIR: use GITHUB_WORKSPACE or fall back to repo root
 REPO_ROOT = os.environ.get('GITHUB_WORKSPACE') or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -82,6 +122,7 @@ def fetch_articles(source_key, feed_url):
                     'source': source_key, 'title': title.strip(),
                     'link': link.strip(), 'summary': summary.strip(),
                     'author': author.strip(), 'published': published.strip(),
+                    'full_text': fetch_full_text(link.strip()) if link.strip() else '',
                     'fetched_at': datetime.now(timezone.utc).isoformat(),
                 })
         return articles
@@ -129,3 +170,21 @@ def main():
 
 if __name__ == '__main__':
     main()
+def fetch_full_text(url):
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        resp = urllib.request.urlopen(req, timeout=30)
+        html = resp.read().decode('utf-8', errors='replace')
+        # Try to find article content between common selectors
+        extractor = ArticleExtractor()
+        extractor.feed(html)
+        text = extractor.get_text()
+        # Clean up
+        lines = [l.strip() for l in text.split('\n') if l.strip()]
+        # Remove very short lines (likely navigation)
+        lines = [l for l in lines if len(l) > 40]
+        return '\n\n'.join(lines[:100])
+    except Exception as e:
+        print(f'    Full-text fetch error: {e}')
+        return ''
