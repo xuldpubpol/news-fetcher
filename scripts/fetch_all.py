@@ -38,7 +38,7 @@ def fetch_source(key):
         st = s.tag.split("}")[-1]
         if st == "link": lnk = s.get("href", "") or (s.text or "")
       if not lnk: lnk = gt("guid")
-      res.append({"source":key,"title":t,"link":lnk,
+      res.append({"source":key,"title":t,"link":lnk,"full_text":"",
         "summary":(gt("description") or gt("summary") or "")[:500],
         "author":(gt("author") or gt("dc:creator") or ""),
         "published":(gt("pubDate") or gt("published") or ""),
