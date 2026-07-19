@@ -1,5 +1,7 @@
 import json, os, time
 from datetime import datetime, timezone
+import urllib.request
+import xml.etree.ElementTree as ET
 
 SOURCES = {
     'foreign-affairs': {
@@ -28,13 +30,25 @@ DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'news-data')
 os.makedirs(DATA_DIR, exist_ok=True)
 
 def fetch_rss(url):
-    import feedparser
-    import requests
     headers = {'User-Agent': 'Mozilla/5.0'}
     try:
-        resp = requests.get(url, headers=headers, timeout=30)
-        resp.raise_for_status()
-        feed = feedparser.parse(resp.content)
+        req = urllib.request.Request(url, headers=headers)
+        resp = urllib.request.urlopen(req, timeout=30)
+        content = resp.read()
+        root = ET.fromstring(content)
+        ns = {}
+        for n in ['atom', 'dc', 'content', 'rss']:
+            ns[n] = n
+        items = []
+        for item in root.iter('item'):
+            items.append(item)
+        if not items:
+            for entry in root.iter('{http://www.w3.org/2005/Atom}entry'):
+                items.append(entry)
+        class Feed:
+            pass
+        feed = Feed()
+        feed.entries = items
         return feed
     except Exception as e:
         print(f'Error fetching {url}: {e}')
@@ -43,15 +57,35 @@ def fetch_rss(url):
 def extract_articles(feed, source_key):
     articles = []
     now = datetime.now(timezone.utc).isoformat()
-    for entry in feed.entries[:30]:
+    for entry in feed.entries[:50]:
+        title = ''
+        link = ''
+        summary = ''
+        author = ''
+        published = ''
+        for child in entry:
+            tag = child.tag.split('}')[-1] if '}' in child.tag else child.tag
+            if tag == 'title':
+                title = child.text or ''
+            elif tag == 'link':
+                link = child.get('href', '') or (child.text or '')
+            elif tag in ('description', 'summary'):
+                summary = (child.text or '')[:500]
+            elif tag == 'author':
+                author = child.text or ''
+                for sub in child:
+                    st = sub.tag.split('}')[-1] if '}' in sub.tag else sub.tag
+                    if st == 'name':
+                        author = sub.text or ''
+            elif tag in ('pubDate', 'published', 'updated'):
+                published = child.text or ''
         article = {
             'source': source_key,
-            'title': entry.get('title', '').strip(),
-            'link': entry.get('link', ''),
-            'summary': (entry.get('summary') or entry.get('description', '')).strip()[:500],
-            'author': entry.get('author', ''),
-            'published': entry.get('published', ''),
-            'updated': entry.get('updated', ''),
+            'title': title.strip(),
+            'link': link.strip(),
+            'summary': summary.strip(),
+            'author': author.strip(),
+            'published': published.strip(),
             'fetched_at': now,
         }
         if article['title']:
@@ -92,14 +126,14 @@ def main():
     for key, config in SOURCES.items():
         print(f'Fetching {config["name"]}...')
         feed = fetch_rss(config['url'])
-        if feed is None:
-            continue
-        articles = extract_articles(feed, key)
-        save_articles(key, articles)
-        all_data[key] = articles
-        time.sleep(2)
+       if feed is None:
+           continue
+       articles = extract_articles(feed, key)
+       save_articles(key, articles)
+       all_data[key] = articles
+       time.sleep(2)
     if all_data:
-        generate_index(all_data)
+       generate_index(all_data)
     print('Done')
 
 if __name__ == '__main__':
