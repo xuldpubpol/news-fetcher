@@ -1,4 +1,1 @@
-requests
-feedparser
-beautifulsoup4
-lxml
+# No external dependencies - script uses Python stdlib only
