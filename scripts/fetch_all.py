@@ -6,10 +6,34 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 SOURCES = {
-    'foreign-affairs': {'url': 'https://rsshub.app/foreignaffairs', 'name': 'Foreign Affairs'},
-    'economist': {'url': 'https://rsshub.app/economist/latest', 'name': 'The Economist'},
-    'bbc': {'url': 'https://rsshub.app/bbc/world', 'name': 'BBC News'},
-    'the-diplomat': {'url': 'https://rsshub.app/the-diplomat', 'name': 'The Diplomat'},
+    'foreign-affairs': {
+        'name': 'Foreign Affairs',
+        'urls': [
+            'https://www.foreignaffairs.com/rss.xml',
+            'https://rsshub.app/foreignaffairs',
+        ],
+    },
+    'economist': {
+        'name': 'The Economist',
+        'urls': [
+            'https://www.economist.com/feeds/print-sections/77/business.xml',
+            'https://rsshub.app/economist/latest',
+        ],
+    },
+    'bbc': {
+        'name': 'BBC News',
+        'urls': [
+            'http://feeds.bbci.co.uk/news/rss.xml',
+            'https://rsshub.app/bbc/world',
+        ],
+    },
+    'the-diplomat': {
+        'name': 'The Diplomat',
+        'urls': [
+            'https://thediplomat.com/feed/',
+            'https://rsshub.app/the-diplomat',
+        ],
+    },
 }
 
 # DATA_DIR: use GITHUB_WORKSPACE or fall back to repo root
@@ -24,7 +48,10 @@ def get_text(child, tag):
     return ''
 
 def fetch_articles(source_key, feed_url):
-    headers = {'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)'}
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+        'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
+    }
     try:
         req = urllib.request.Request(feed_url, headers=headers)
         resp = urllib.request.urlopen(req, timeout=30)
@@ -59,7 +86,7 @@ def fetch_articles(source_key, feed_url):
                 })
         return articles
     except Exception as e:
-        print(f'Error fetching {feed_url}: {e}')
+        print(f'  Error: {e}')
         return []
 
 def save_data(source_key, articles):
@@ -87,7 +114,11 @@ def main():
     all_articles = {}
     for key, cfg in SOURCES.items():
         print(f'Fetching {cfg["name"]}...')
-        articles = fetch_articles(key, cfg['url'])
+        articles = []
+        for url in cfg['urls']:
+            articles = fetch_articles(key, url)
+            if articles: break
+            time.sleep(1)
         if articles:
             save_data(key, articles)
             all_articles[key] = articles
