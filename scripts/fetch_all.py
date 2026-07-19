@@ -1,140 +1,100 @@
-import json, os, time
+#!/usr/bin/env python3
+# Zero-dependency RSS news fetcher
+import json, os, time, sys
 from datetime import datetime, timezone
 import urllib.request
 import xml.etree.ElementTree as ET
 
 SOURCES = {
-    'foreign-affairs': {
-        'url': 'https://rsshub.app/foreignaffairs',
-        'name': 'Foreign Affairs',
-        'lang': 'en',
-    },
-    'economist': {
-        'url': 'https://rsshub.app/economist/latest',
-        'name': 'The Economist',
-        'lang': 'en',
-    },
-    'bbc': {
-        'url': 'https://rsshub.app/bbc/world',
-        'name': 'BBC News',
-        'lang': 'en',
-    },
-    'the-diplomat': {
-        'url': 'https://rsshub.app/the-diplomat',
-        'name': 'The Diplomat',
-        'lang': 'en',
-    },
+    'foreign-affairs': {'url': 'https://rsshub.app/foreignaffairs', 'name': 'Foreign Affairs'},
+    'economist': {'url': 'https://rsshub.app/economist/latest', 'name': 'The Economist'},
+    'bbc': {'url': 'https://rsshub.app/bbc/world', 'name': 'BBC News'},
+    'the-diplomat': {'url': 'https://rsshub.app/the-diplomat', 'name': 'The Diplomat'},
 }
 
-DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'news-data')
-os.makedirs(DATA_DIR, exist_ok=True)
+# DATA_DIR: use GITHUB_WORKSPACE or fall back to repo root
+REPO_ROOT = os.environ.get('GITHUB_WORKSPACE') or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.path.join(REPO_ROOT, 'news-data')
 
-def fetch_rss(url):
-    headers = {'User-Agent': 'Mozilla/5.0'}
+def get_text(child, tag):
+    for sub in child.iter():
+        t = sub.tag.split('}')[-1] if '}' in sub.tag else sub.tag
+        if t == tag and sub.text:
+            return sub.text.strip()
+    return ''
+
+def fetch_articles(source_key, feed_url):
+    headers = {'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)'}
     try:
-        req = urllib.request.Request(url, headers=headers)
+        req = urllib.request.Request(feed_url, headers=headers)
         resp = urllib.request.urlopen(req, timeout=30)
         content = resp.read()
         root = ET.fromstring(content)
-        ns = {}
-        for n in ['atom', 'dc', 'content', 'rss']:
-            ns[n] = n
-        items = []
-        for item in root.iter('item'):
-            items.append(item)
-        if not items:
-            for entry in root.iter('{http://www.w3.org/2005/Atom}entry'):
-                items.append(entry)
-        class Feed:
-            pass
-        feed = Feed()
-        feed.entries = items
-        return feed
+        articles = []
+        # Try Atom format first
+        ns = {'atom': 'http://www.w3.org/2005/Atom',
+              'dc': 'http://purl.org/dc/elements/1.1/',
+              'content': 'http://purl.org/rss/1.0/modules/content/'}
+        entries = root.findall('.//atom:entry', ns) or root.findall('.//item')
+        for entry in entries[:50]:
+            title = get_text(entry, 'title')
+            link = ''
+            for l in entry.findall('.//{http://www.w3.org/2005/Atom}link') or entry.findall('.//link'):
+                href = l.get('href', '') or (l.text or '')
+                if href: link = href
+            if not link and entry.find('.//guid') is not None:
+                link = (entry.find('.//guid').text or '')
+            summary = ''
+            for t in ['summary', 'description', 'content:encoded']:
+                val = get_text(entry, t)
+                if val: summary = val[:500]; break
+            author = get_text(entry, 'author') or get_text(entry, 'dc:creator')
+            published = get_text(entry, 'pubDate') or get_text(entry, 'published') or get_text(entry, 'dc:date')
+            if title:
+                articles.append({
+                    'source': source_key, 'title': title.strip(),
+                    'link': link.strip(), 'summary': summary.strip(),
+                    'author': author.strip(), 'published': published.strip(),
+                    'fetched_at': datetime.now(timezone.utc).isoformat(),
+                })
+        return articles
     except Exception as e:
-        print(f'Error fetching {url}: {e}')
-        return None
+        print(f'Error fetching {feed_url}: {e}')
+        return []
 
-def extract_articles(feed, source_key):
-    articles = []
-    now = datetime.now(timezone.utc).isoformat()
-    for entry in feed.entries[:50]:
-        title = ''
-        link = ''
-        summary = ''
-        author = ''
-        published = ''
-        for child in entry:
-            tag = child.tag.split('}')[-1] if '}' in child.tag else child.tag
-            if tag == 'title':
-                title = child.text or ''
-            elif tag == 'link':
-                link = child.get('href', '') or (child.text or '')
-            elif tag in ('description', 'summary'):
-                summary = (child.text or '')[:500]
-            elif tag == 'author':
-                author = child.text or ''
-                for sub in child:
-                    st = sub.tag.split('}')[-1] if '}' in sub.tag else sub.tag
-                    if st == 'name':
-                        author = sub.text or ''
-            elif tag in ('pubDate', 'published', 'updated'):
-                published = child.text or ''
-        article = {
-            'source': source_key,
-            'title': title.strip(),
-            'link': link.strip(),
-            'summary': summary.strip(),
-            'author': author.strip(),
-            'published': published.strip(),
-            'fetched_at': now,
-        }
-        if article['title']:
-            articles.append(article)
-    return articles
-
-def save_articles(source_key, articles):
+def save_data(source_key, articles):
     path = os.path.join(DATA_DIR, f'{source_key}.json')
+    os.makedirs(DATA_DIR, exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
-        json.dump({
-            'source': source_key,
-            'fetched_at': datetime.now(timezone.utc).isoformat(),
-            'count': len(articles),
-            'articles': articles,
-        }, f, ensure_ascii=False, indent=2)
+        json.dump({'source': source_key, 'fetched_at': datetime.now(timezone.utc).isoformat(),
+                   'count': len(articles), 'articles': articles}, f, ensure_ascii=False, indent=2)
     print(f'Saved {len(articles)} articles to {path}')
 
-def generate_index(all_data):
-    index = {
-        'fetched_at': datetime.now(timezone.utc).isoformat(),
-        'sources': {},
-    }
-    for key, data in all_data.items():
-        total = len(data)
-        titles = [a['title'] for a in data[:5]]
+def save_index(all_articles):
+    index = {'fetched_at': datetime.now(timezone.utc).isoformat(), 'sources': {}}
+    for key, arts in all_articles.items():
         index['sources'][key] = {
             'name': SOURCES[key]['name'],
-            'count': total,
-            'latest': titles[:5],
+            'count': len(arts),
+            'latest': [a['title'][:60] for a in arts[:5]],
         }
-    path = os.path.join(DATA_DIR, 'index.json')
-    with open(path, 'w', encoding='utf-8') as f:
+    idx_path = os.path.join(DATA_DIR, 'index.json')
+    with open(idx_path, 'w', encoding='utf-8') as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
-    print(f'Index saved')
+    print(f'Index saved ({len(all_articles)} sources)')
 
 def main():
-    all_data = {}
-    for key, config in SOURCES.items():
-        print(f'Fetching {config["name"]}...')
-        feed = fetch_rss(config['url'])
-       if feed is None:
-           continue
-       articles = extract_articles(feed, key)
-       save_articles(key, articles)
-       all_data[key] = articles
-       time.sleep(2)
-    if all_data:
-       generate_index(all_data)
-    print('Done')
+    all_articles = {}
+    for key, cfg in SOURCES.items():
+        print(f'Fetching {cfg["name"]}...')
+        articles = fetch_articles(key, cfg['url'])
+        if articles:
+            save_data(key, articles)
+            all_articles[key] = articles
+        time.sleep(2)
+    if all_articles:
+        save_index(all_articles)
+    print(f'Done. Fetched {sum(len(a) for a in all_articles.values())} articles total.')
 
 if __name__ == '__main__':
     main()
