@@ -1,38 +1,17 @@
 {
-  "fetched_at": "2026-07-19T11:56:13.463072+00:00",
+  "fetched_at": "2026-07-19T13:59:10.454538+00:00",
   "sources": {
     "foreign-affairs": {
       "name": "Foreign Affairs",
-      "count": 20,
-      "latest": [
-        "A Dangerous Game in the Arctic",
-        "America’s Trillion-Dollar Failure",
-        "The Coming Clash Between China and Europe",
-        "The Lost Art of Coercion",
-        "The World Is Giving Up on America"
-      ]
+      "count": 20
     },
     "bbc": {
       "name": "BBC News",
-      "count": 34,
-      "latest": [
-        "Burnham will be bolder but stick to Labour manifesto, deputy",
-        "Digital ID plan to be scrapped in Burnham's first major poli",
-        "Messi on the brink of history - will it be his last World Cu",
-        "Tate brothers arrested in US as further UK charges take tota",
-        "Russia launches major ballistic missile attack on Ukrainian "
-      ]
+      "count": 33
     },
     "the-diplomat": {
       "name": "The Diplomat",
-      "count": 50,
-      "latest": [
-        "China, the US, and Nuclear Energy Geopolitics in Southeast A",
-        "A Conversation With Mahabat Sadyrbek About the Kyrgyz Langua",
-        "The EU’s Contradictory Narratives on China",
-        "Europe Still Has Leverage Over China",
-        "Is Taiwan Pinning Its Strategy on an Outdated Vision of Amer"
-      ]
+      "count": 50
     }
   }
 }
