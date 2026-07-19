@@ -1,117 +1,72 @@
-#!/usr/bin/env python3
-# Zero-dependency RSS news fetcher
 import json, os, time, sys
 from datetime import datetime, timezone
 import urllib.request
 import xml.etree.ElementTree as ET
 
-# DATA_DIR: use GITHUB_WORKSPACE or fall back to repo root
-REPO_ROOT = os.environ.get('GITHUB_WORKSPACE') or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(REPO_ROOT, 'news-data')
+SOURCES = {
+  "foreign-affairs": {"name": "Foreign Affairs", "url": "https://www.foreignaffairs.com/rss.xml"},
+  "bbc": {"name": "BBC News", "url": "http://feeds.bbci.co.uk/news/rss.xml"},
+  "the-diplomat": {"name": "The Diplomat", "url": "https://thediplomat.com/feed/"},
+}
 
-def get_text(child, tag):
-    for sub in child.iter():
-        t = sub.tag.split('}')[-1] if '}' in sub.tag else sub.tag
-        if t == tag and sub.text:
-            return sub.text.strip()
-    return ''
+REPO_ROOT = os.environ.get("GITHUB_WORKSPACE", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+DATA_DIR = os.path.join(REPO_ROOT, "news-data")
 
-def fetch_articles(source_key, feed_url):
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
-        'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
-    }
-    try:
-        req = urllib.request.Request(feed_url, headers=headers)
-        resp = urllib.request.urlopen(req, timeout=30)
-        content = resp.read()
-        root = ET.fromstring(content)
-        articles = []
-        # Try Atom format first
-        ns = {'atom': 'http://www.w3.org/2005/Atom',
-              'dc': 'http://purl.org/dc/elements/1.1/',
-              'content': 'http://purl.org/rss/1.0/modules/content/'}
-        entries = root.findall('.//atom:entry', ns) or root.findall('.//item')
-        for entry in entries[:50]:
-            title = get_text(entry, 'title')
-            link = ''
-            for l in entry.findall('.//{http://www.w3.org/2005/Atom}link') or entry.findall('.//link'):
-                href = l.get('href', '') or (l.text or '')
-                if href: link = href
-            if not link and entry.find('.//guid') is not None:
-                link = (entry.find('.//guid').text or '')
-            summary = ''
-            for t in ['summary', 'description', 'content:encoded']:
-                val = get_text(entry, t)
-                if val: summary = val[:500]; break
-            author = get_text(entry, 'author') or get_text(entry, 'dc:creator')
-            published = get_text(entry, 'pubDate') or get_text(entry, 'published') or get_text(entry, 'dc:date')
-            if title:
-                articles.append({
-                    'source': source_key, 'title': title.strip(),
-                    'link': link.strip(), 'summary': summary.strip(),
-                    'author': author.strip(), 'published': published.strip(),
-                    'full_text': fetch_full_text(link.strip()) if link.strip() else '',
-                    'fetched_at': datetime.now(timezone.utc).isoformat(),
-                })
-        return articles
-    except Exception as e:
-        print(f'  Error: {e}')
-        return []
-
-def save_data(source_key, articles):
-    path = os.path.join(DATA_DIR, f'{source_key}.json')
-    os.makedirs(DATA_DIR, exist_ok=True)
-    with open(path, 'w', encoding='utf-8') as f:
-        json.dump({'source': source_key, 'fetched_at': datetime.now(timezone.utc).isoformat(),
-                   'count': len(articles), 'articles': articles}, f, ensure_ascii=False, indent=2)
-    print(f'Saved {len(articles)} articles to {path}')
-
-def save_index(all_articles):
-    index = {'fetched_at': datetime.now(timezone.utc).isoformat(), 'sources': {}}
-    for key, arts in all_articles.items():
-        index['sources'][key] = {
-            'name': SOURCES[key]['name'],
-            'count': len(arts),
-            'latest': [a['title'][:60] for a in arts[:5]],
-        }
-    idx_path = os.path.join(DATA_DIR, 'index.json')
-    with open(idx_path, 'w', encoding='utf-8') as f:
-        json.dump(index, f, ensure_ascii=False, indent=2)
-    print(f'Index saved ({len(all_articles)} sources)')
+def fetch_source(key):
+  cfg = SOURCES.get(key, {})
+  hdrs = {"User-Agent": "Mozilla/5.0"}
+  try:
+    req = urllib.request.Request(cfg["url"], headers=hdrs)
+    resp = urllib.request.urlopen(req, timeout=30)
+    root = ET.fromstring(resp.read())
+    now = datetime.now(timezone.utc).isoformat()
+    items = []
+    for e in root.iter():
+      t = e.tag.split("}")[-1]
+      if t in ("item", "entry"): items.append(e)
+    res = []
+    for e in items[:50]:
+      def gt(t):
+        for s in e.iter():
+          st = s.tag.split("}")[-1]
+          if st == t and s.text: return s.text.strip()
+        return ""
+      t = gt("title")
+      if not t: continue
+      lnk = ""
+      for s in e.iter():
+        st = s.tag.split("}")[-1]
+        if st == "link": lnk = s.get("href", "") or (s.text or "")
+      if not lnk: lnk = gt("guid")
+      res.append({"source":key,"title":t,"link":lnk,
+        "summary":(gt("description") or gt("summary") or "")[:500],
+        "author":(gt("author") or gt("dc:creator") or ""),
+        "published":(gt("pubDate") or gt("published") or ""),
+        "fetched_at":now})
+    return res
+  except Exception as e: print("Err:", key, e); return []
 
 def main():
-    all_articles = {}
-    for key, cfg in SOURCES.items():
-        print(f'Fetching {cfg["name"]}...')
-        articles = []
-        for url in cfg['urls']:
-            articles = fetch_articles(key, url)
-            if articles: break
-            time.sleep(1)
-        if articles:
-            save_data(key, articles)
-            all_articles[key] = articles
-        time.sleep(2)
-    if all_articles:
-        save_index(all_articles)
-    print(f'Done. Fetched {sum(len(a) for a in all_articles.values())} articles total.')
+  all_a = {}
+  for k in SOURCES:
+    print("Fetching", SOURCES[k]["name"])
+    arts = fetch_source(k)
+    if arts:
+      os.makedirs(DATA_DIR, exist_ok=True)
+      fp = os.path.join(DATA_DIR, k+".json")
+      with open(fp, "w", encoding="utf-8") as f:
+        json.dump({"source":k,"fetched_at":datetime.now(timezone.utc).isoformat(),
+          "count":len(arts),"articles":arts}, f, ensure_ascii=False, indent=2)
+      print("  Saved", len(arts))
+      all_a[k] = arts
+    time.sleep(2)
+  if all_a:
+    idx = {"fetched_at":datetime.now(timezone.utc).isoformat(),"sources":{}}
+    for k,arts in all_a.items():
+      idx["sources"][k] = {"name":SOURCES[k]["name"],"count":len(arts)}
+    with open(os.path.join(DATA_DIR, "index.json"), "w", encoding="utf-8") as f:
+      json.dump(idx, f, ensure_ascii=False, indent=2)
+    print("Done:", sum(len(a) for a in all_a.values()))
 
-if __name__ == '__main__':
-    main()
-def fetch_full_text(url):
-    hdrs = {"User-Agent": "Mozilla/5.0 (Win64)"}
-    try:
-        req = urllib.request.Request(url, headers=hdrs)
-        resp = urllib.request.urlopen(req, timeout=60)
-        html = resp.read().decode("utf-8", errors="replace")
-        import re as r2
-        p = chr(60) + chr(112) + chr(62) + chr(40) + chr(46) + chr(42) + chr(63) + chr(41) + chr(60) + chr(47) + chr(112) + chr(62)
-        parts = r2.findall(p, html)
-        txts = [t.strip() for t in parts if len(t.strip()) > 40]
-        if txts:
-            return chr(10).join(txts[:80])
-        return "No article text found"
-    except Exception as e:
-        return "Error: " + str(e)
-
+if __name__ == "__main__":
+  main()
