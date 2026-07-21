@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-21T16:59:42.800986+00:00",
-  "count": 39,
+  "fetched_at": "2026-07-21T21:45:48.055050+00:00",
+  "count": 37,
   "articles": [
     {
       "source": "bbc",
@@ -11,67 +11,37 @@
       "summary": "Joshua Kerry, 28, attacked Widdecombe while she was eating lunch at her home in Devon before stealing her wallet, prosecutors say.",
       "author": "",
       "published": "Tue, 21 Jul 2026 15:35:08 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
-      "title": "London-based civil servants offered move to No 10 North in Manchester",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham tells cabinet to tackle living costs at first meeting",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "London-based civil servants willing to move north have been told they will be offered relocation packages, the BBC understands.",
+      "summary": "The new prime minister chaired his first cabinet after announcing a cut to VAT on household electricity.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 16:01:00 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "published": "Tue, 21 Jul 2026 20:09:03 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
-      "title": "Argentina's Fernandez defends team after ugly scenes in World Cup final loss to Spain",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8jn91e9mdyo?at_medium=RSS&at_campaign=rss",
+      "title": "Sackings, cabinet surprises and policies: Burnham's first 24 hours as PM",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjz907pppo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Midfielder Enzo Fernandez claims Argentina represented their nation \"in the best possible way\" in the World Cup.",
+      "summary": "The new prime minister enters Number 10 in a flurry of activity - but he is still facing calls for a snap election.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 13:19:17 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "published": "Tue, 21 Jul 2026 17:14:44 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
-      "title": "Row escalates in Ukraine over army chief's future",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
+      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 12:33:15 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-      "author": "",
-      "published": "Tue, 21 Jul 2026 16:10:56 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Parts of the UK move closer to drought",
-      "link": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Eight areas across England are now in prolonged dry weather – the stage before drought.",
-      "author": "",
-      "published": "Tue, 21 Jul 2026 13:46:05 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Thames Water announces hosepipe ban for 10 million",
-      "link": "https://www.bbc.co.uk/news/articles/crmrnvl2xw8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The water company said the three heatwaves contributed to the ban.",
-      "author": "",
-      "published": "Tue, 21 Jul 2026 12:45:44 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "published": "Tue, 21 Jul 2026 19:57:38 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -81,17 +51,47 @@
       "summary": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
       "author": "",
       "published": "Tue, 21 Jul 2026 15:57:29 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russian warship carried out firing exercise off Plymouth coast",
-      "link": "https://www.bbc.co.uk/news/articles/ce970jryrk3o?at_medium=RSS&at_campaign=rss",
+      "title": "Chelsea sign Morgan Rogers for British record transfer fee of £117m",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes.",
+      "summary": "Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?",
       "author": "",
-      "published": "Tue, 21 Jul 2026 15:40:29 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "published": "Tue, 21 Jul 2026 20:57:20 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Parts of the UK move closer to drought",
+      "link": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Eight areas across England are now in prolonged dry weather – the stage before drought.",
+      "author": "",
+      "published": "Tue, 21 Jul 2026 13:46:05 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Thames Water announces hosepipe ban for 10 million",
+      "link": "https://www.bbc.co.uk/news/articles/crmrnvl2xw8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The water company said the three heatwaves contributed to the ban.",
+      "author": "",
+      "published": "Tue, 21 Jul 2026 12:45:44 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+      "author": "",
+      "published": "Tue, 21 Jul 2026 18:07:34 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +101,7 @@
       "summary": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.",
       "author": "",
       "published": "Tue, 21 Jul 2026 13:10:49 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +111,27 @@
       "summary": "The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises.",
       "author": "",
       "published": "Tue, 21 Jul 2026 15:37:58 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Scottish Labour leader Anas Sarwar set to become a minister in Burnham's government",
+      "link": "https://www.bbc.co.uk/news/articles/ce970y1n7plo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It would mean Sarwar leaving the Scottish Parliament and his leader role, then taking up a seat in the House of Lords.",
+      "author": "",
+      "published": "Tue, 21 Jul 2026 20:56:18 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "London-based civil servants offered move to No 10 North in Manchester",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "London-based civil servants willing to move north have been told they will be offered relocation packages, the BBC understands.",
+      "author": "",
+      "published": "Tue, 21 Jul 2026 16:01:00 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +141,7 @@
       "summary": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
       "author": "",
       "published": "Tue, 21 Jul 2026 14:25:22 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +151,7 @@
       "summary": "The potential contender to replace Keir Starmer is now back in the cabinet under Andy Burnham.",
       "author": "",
       "published": "Tue, 21 Jul 2026 16:12:23 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -141,17 +161,7 @@
       "summary": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham",
       "author": "",
       "published": "Tue, 21 Jul 2026 15:50:17 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Chris Mason: Starmer ally takes swipe at Burnham's first big policy",
-      "link": "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sir Keir Starmer's former right hand man Darren Jones says Andy Burnham's VAT cut is unfunded.",
-      "author": "",
-      "published": "Tue, 21 Jul 2026 09:00:36 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -161,7 +171,7 @@
       "summary": "The government has announced it will cut VAT on domestic electricity to zero but Britons still pay more for power than many other European nations.",
       "author": "",
       "published": "Tue, 21 Jul 2026 16:11:14 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +181,7 @@
       "summary": "Buying on social media livestreams is fast becoming regular consumer behaviour for many.",
       "author": "",
       "published": "Mon, 20 Jul 2026 23:06:04 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +191,7 @@
       "summary": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
       "author": "",
       "published": "Tue, 21 Jul 2026 00:16:08 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -191,27 +201,7 @@
       "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
       "author": "",
       "published": "Tue, 21 Jul 2026 14:36:47 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Bumblebees are struggling in UK heatwaves - but you can help them",
-      "link": "https://www.bbc.co.uk/news/articles/c141lymnl2yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The furry bodies of UK bumblebees are specially adapted for cold weather - making heatwaves a struggle.",
-      "author": "",
-      "published": "Tue, 21 Jul 2026 00:01:32 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The 20-somethings betting big on tech stocks",
-      "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC hears from people about the risks and rewards of investing in technology shares.",
-      "author": "",
-      "published": "Mon, 20 Jul 2026 22:00:41 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -220,8 +210,8 @@
       "full_text": "",
       "summary": "Joel M made the judges' personal items disappear on the latest series of America's Got Talent.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 11:13:53 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "published": "Tue, 21 Jul 2026 17:44:04 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -231,17 +221,27 @@
       "summary": "Visitors flocked to see the 30m-deep (100ft) turquoise waters during the Covid pandemic.",
       "author": "",
       "published": "Tue, 21 Jul 2026 05:13:10 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
       "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 16:50:51 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "published": "Tue, 21 Jul 2026 17:33:22 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russian warship carried out firing exercise off Plymouth coast",
+      "link": "https://www.bbc.co.uk/news/articles/ce970jryrk3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes.",
+      "author": "",
+      "published": "Tue, 21 Jul 2026 18:39:47 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +251,7 @@
       "summary": "Former Manchester United manager Sir Alex Ferguson says Kevin Keegan \"carried the love of the game on his sleeve\" as he paid tribute to his former rival.",
       "author": "",
       "published": "Tue, 21 Jul 2026 13:21:54 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +261,7 @@
       "summary": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative.",
       "author": "",
       "published": "Tue, 21 Jul 2026 15:54:11 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "The blaze close to the parking lots at Bordeaux-Mérignac Airport is said to have originated from a brush fire.",
       "author": "",
       "published": "Tue, 21 Jul 2026 16:44:30 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -281,17 +281,7 @@
       "summary": "Kayden Moy was fatally wounded during a confrontation on Irvine Beach in North Ayrshire in May 2025.",
       "author": "",
       "published": "Tue, 21 Jul 2026 14:42:07 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "B&M fined £2m over mice infestations",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvxm1n3keo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mouse droppings and gnawed food are found after inspections at three stores in Birmingham.",
-      "author": "",
-      "published": "Tue, 21 Jul 2026 16:55:20 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +291,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +301,7 @@
       "summary": "Andy Burnham makes John Healey his chancellor as he assembles his cabinet.",
       "author": "",
       "published": "Mon, 20 Jul 2026 22:58:00 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -321,17 +311,17 @@
       "summary": "From Manchester mayor to prime minister; who is he and what does stand for?",
       "author": "",
       "published": "Mon, 20 Jul 2026 14:00:00 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
-      "title": "Consortium in talks to buy Liverpool minority stake",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1j1081dyn1o?at_medium=RSS&at_campaign=rss",
+      "title": "Chelsea sign £117m Rogers - what will he bring?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A consortium led by British-Indian millionaire businessman Amit Bhatia expresses an interest in buying a minority stake in Liverpool.",
+      "summary": "Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?",
       "author": "",
-      "published": "Tue, 21 Jul 2026 16:37:11 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "published": "Tue, 21 Jul 2026 20:57:20 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -341,7 +331,17 @@
       "summary": "Midfielder Enzo Fernandez claims Argentina represented their nation \"in the best possible way\" in the World Cup.",
       "author": "",
       "published": "Tue, 21 Jul 2026 13:19:17 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Littler throws nine-darter in superb Matchplay win",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/cn9nge10504o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "World number one Luke Littler throws a thrilling nine-darter as he books his place in the quarter-finals of the World Matchplay with a 11-8 win over Nathan Aspinall.",
+      "author": "",
+      "published": "Tue, 21 Jul 2026 21:41:43 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
@@ -350,48 +350,28 @@
       "full_text": "",
       "summary": "Fans tell BBC Sport that a crackdown on touting is affecting some of the club's most loyal fans.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 14:34:05 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "published": "Tue, 21 Jul 2026 19:05:39 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
-      "title": "Villa in talks to sign Chelsea's Garnacho",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss",
+      "title": "Consortium in talks to buy Liverpool minority stake",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1j1081dyn1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Aston Villa enter talks to sign Chelsea winger Alejandro Garnacho on loan, with a potential obligation to buy.",
+      "summary": "A consortium led by British-Indian millionaire businessman Amit Bhatia expresses an interest in buying a minority stake in Liverpool.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 16:16:41 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "published": "Tue, 21 Jul 2026 16:37:11 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Pressure is intense and scrutiny constant' - referee Taylor retires",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c87n8ydlegqo?at_medium=RSS&at_campaign=rss",
+      "title": "Chelsea interested in former Man City defender Stones",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Anthony Taylor announces his retirement from refereeing with immediate effect - ending a 20-year career.",
+      "summary": "Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 15:33:42 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sunrisers thrash MI London in Hundred opener",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cewrx4j9wn5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Phoebe Litchfield top-scores with 43 as Sunrisers Leeds start the new era of The Hundred with a seven-wicket win.",
-      "author": "",
-      "published": "Tue, 21 Jul 2026 16:27:09 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Progress or standing still - where are England under Borthwick?",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crr8r25yv7vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "As the 2027 Rugby World Cup continues to creep closer, where are England under Steve Borthwick, and do their Nations Championship performances point to progress?",
-      "author": "",
-      "published": "Tue, 21 Jul 2026 13:41:54 GMT",
-      "fetched_at": "2026-07-21T16:59:39.531678+00:00"
+      "published": "Tue, 21 Jul 2026 18:57:34 GMT",
+      "fetched_at": "2026-07-21T21:45:39.113305+00:00"
     }
   ]
 }
