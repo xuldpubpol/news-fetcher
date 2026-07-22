@@ -1,137 +1,167 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-22T09:17:42.996402+00:00",
-  "count": 33,
+  "fetched_at": "2026-07-22T17:00:18.661766+00:00",
+  "count": 35,
   "articles": [
     {
       "source": "bbc",
-      "title": "Chris Mason: Another Starmer critic gets promotion as Sarwar joins Burnham government",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rv14em3jo?at_medium=RSS&at_campaign=rss",
+      "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
+      "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Months after calling on Keir Starmer to quit, the Scottish Labour leader is set to become a minister in Burnham's government, the BBC's political editor writes.",
+      "summary": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 05:22:32 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 15:43:55 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "PC Harper killers' potential early release is an 'insult', says his mother",
-      "link": "https://www.bbc.co.uk/news/articles/c89nxj4d5pqo?at_medium=RSS&at_campaign=rss",
+      "title": "Most bus fares in England to be capped at £2 from January",
+      "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "PC Harper, 28, sustained fatal injuries while responding to a quad bike theft in Berkshire in 2019.",
+      "summary": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
       "author": "",
-      "published": "Wed, 22 Jul 2026 07:50:39 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 12:26:03 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
       "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 08:37:13 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 14:52:25 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-      "link": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water quality tests",
+      "link": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
+      "summary": "Matthew Wright is accused alongside three others of trying to save the firm millions in penalties.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 05:33:04 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 16:07:15 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Prince George poses in suit for new photo as he becomes a teenager",
+      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+      "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
+      "author": "",
+      "published": "Wed, 22 Jul 2026 11:40:11 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Prince George enjoys coastal fun in new video as he becomes a teenager",
       "link": "https://www.bbc.co.uk/news/articles/cm2ge7z0708o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "It's a big year for the young prince, who will start secondary school at the elite Eton College in September.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 08:45:04 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 14:42:32 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "title": "Mamdani walks back pledge to arrest Netanyahu citing lack of authority",
+      "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
+      "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 03:05:08 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 16:29:28 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Military kit still failing women, troops say",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1jdgpzjlo?at_medium=RSS&at_campaign=rss",
+      "title": "Tankers make sharp U-turns after Houthi shipping threat",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Servicewomen still face shortages of properly fitting kit, five years after a landmark report.",
+      "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 05:21:24 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 14:42:49 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nottingham attacks NHS trust faces manslaughter probe",
-      "link": "https://www.bbc.co.uk/news/articles/cp8engx2xyeo?at_medium=RSS&at_campaign=rss",
+      "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+      "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The hospital trust treated Valdo Calocane before he killed three people in the city in 2023.",
+      "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 08:16:08 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 15:50:17 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Streeting apologises after early prisoner release comments heard on mic",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4x44mm50o?at_medium=RSS&at_campaign=rss",
+      "title": "Modelling scout linked to Epstein found dead in Paris",
+      "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The defence secretary and Mahmood were also heard making jokes about the new justice secretary.",
+      "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 07:56:46 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 14:54:27 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Great Apes kiss and cuddle to keep the peace, says study",
-      "link": "https://www.bbc.co.uk/news/articles/c5y045vprg5o?at_medium=RSS&at_campaign=rss",
+      "title": "Liverpool issue bans as £1.2m seized from ticket touts",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c74g5pv140do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Hugging before stressful events may be an ancient way of building trust, say scientists studying apes.",
+      "summary": "Liverpool issue hundreds of lifetime bans after more than £1.2m of assets relating to the illegal selling of tickets was seized by police.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 23:48:38 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 11:38:22 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "I've got a motorway in my garden - it's my shelter in hot weather",
+      "title": "The borough where families are slowly disappearing",
+      "link": "https://www.bbc.co.uk/news/articles/cgjxqg08q82o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Islington is a snapshot of a trend playing out across inner London, Britain and much of the world.",
+      "author": "",
+      "published": "Wed, 22 Jul 2026 05:15:39 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "There's a motorway in my garden, it's my shelter in hot weather",
       "link": "https://www.bbc.co.uk/news/articles/c99l28kndr8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The road was built over people's homes 60 years ago, but what's it like to live in the shadow of the M4?",
       "author": "",
       "published": "Wed, 22 Jul 2026 05:13:07 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "title": "I travel four hours on a bus per day - the bus fare cap will save me £500 a year",
+      "link": "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
+      "summary": "The BBC speaks to people around the country about their view on the newly-announced bus fare cap.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 22:26:19 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 12:58:55 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Play music loud to remember Ozzy' says Sharon on first anniversary of his death",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lnl9jzgyo?at_medium=RSS&at_campaign=rss",
+      "title": "Five big names to look out for at Glasgow 2026",
+      "link": "https://www.bbc.co.uk/sport/articles/c9w0r0k1n5qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sharon Osbourne shares with the BBC her memories and hopes for the future.",
+      "summary": "These are the stars to look out for across the 10 sports at the 2026 Commonwealth Games in Glasgow.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 00:14:19 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 07:46:47 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+      "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
+      "author": "",
+      "published": "Wed, 22 Jul 2026 15:19:48 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
@@ -141,97 +171,87 @@
       "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
       "author": "",
       "published": "Wed, 22 Jul 2026 07:40:33 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why Iran is risking so much over the Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
+      "title": "'It makes me different': Meet the women breaking world records in lumberjack sports",
+      "link": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
+      "summary": "The BBC finds out what is driving the sports' increasing popularity with women and what it takes to be the best.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 14:36:47 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 05:06:35 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Burnham's power play' and Widdecombe 'hit 21 times with a hammer'",
-      "link": "https://www.bbc.co.uk/news/articles/cr7kv3xd8j1o?at_medium=RSS&at_campaign=rss",
+      "title": "No helicopters to fight wildfires as 'crisis management' plans activated",
+      "link": "https://www.bbc.co.uk/news/articles/cx25pgg440wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The papers are dominated by reports about the former MP's death and the prime minister's first full day in office.",
+      "summary": "One campsite owner in Trawsfynydd says she went to bed \"seeing the mountain literally ablaze\".",
       "author": "",
-      "published": "Wed, 22 Jul 2026 06:08:35 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 16:44:48 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Who's in Andy Burnham's cabinet?",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
-      "full_text": "He has pledged to shift power away from Whitehall, introduce \"greater public control\" of the water and energy sectors and to build more council houses - while keeping Labour’s election pledge not to raise the main rates of income tax or National Insurance.In one of his first major policy announcements as prime minister, Burnham announced he will remove VAT from electricity bills later this year.\nBorn in Aintree in 1970, Burnham was inspired by the miners’ strike to join the Labour Party in his teens and first became an MP in 2001.\nThe former health secretary had twice failed to become party leader - losing to Ed Miliband in 2010 and Jeremy Corbyn in 2015 - and after leaving Parliament, served as Greater Manchester mayor. He returned as Makerfield MP in June and succeeded Sir Keir Starmer a month later.\nA life-long Everton fan and talented sportsman, he was part of Labour's Demon Eyes FC football team when Tony Blair was PM, and regularly featured in the Labour MPs vs Lobby journalists match while in Parliament.\nA former Treasury minister, Healey recently attacked what he called a \"Treasury orthodoxy that's a dead hand on dynamic government\" that viewed defence as \"a drain rather than a driver of growth\".\nSenior figures in government say he shares Burnham's ambitions for reindustrialisation and devolution. He now faces the task of making the government's spending plans add up.\nIt is a surprise appointment for the MP for Rawmarsh and Conisbrough in South Yorkshire, with many speculating the role would go to Ed Miliband or Shabana Mahmood.\nHealey was parliamentary private secretary to Chancellor Gordon Brown from 1999 to 2001, before serving as adult skills, Treasury, local government and housing minister between 2001 and 2010.\nHaigh, one of Andy Burnham’s closest allies, will run the Cabinet Office, the department that supports the prime minister and co-ordinates the government’s policies to deliver its agenda.\nAfter entering parliament as MP for Sheffield Heeley in 2015, Haigh was named the hardest-working new MP in 2016 due to the number of her Commons speeches and questions, and praised by then-Speaker John Bercow for her \"terrier-like intensity\".\nIn 2025, the former special constable and Unite union shop steward became the first person to resign from Sir Keir Starmer’s cabinet as transport secretary after it emerged that she had admitted a fraud offence in 2013.\nOn the backbenches she emerged as a crucial power broker on Labour's \"soft left\", and was at the heart of the huge rebellion that scuppered the government's welfare cuts in 2025.\nHe had been touted as a possible chancellor, but opinion was divided between supporters who pointed to his experience in the Treasury, and opponents who distrusted his views, particularly on energy.\nSince the election he has spoken out against those urging the government to drop its net zero ambitions and insisted the party's green power transition will help secure social justice and national security.\nMiliband has been the MP for Doncaster North since 2005 but has been at the centre of Labour politics for even longer - working for Labour MPs before the 1997 election win and as a special adviser to Gordon Brown when he became chancellor.\nHe is best known as a former Labour leader - having beaten his brother David, a former foreign secretary, among others, in the leadership contest that followed the party’s 2010 general election defeat - but also co-hosted the Reasons to be Cheerful podcast for several years.\nMahmood, who has a reputation among Labour MPs as a hardliner on immigration, is responsible for that brief in the role, along with national security and for policing in England and Wales.\nWhen first appointed as home secretary, she announced sweeping changes to the UK’s asylum system, describing the previous system as \"out of control\".\nHer plans include making it harder for migrants already in the UK to settle permanently, which was criticised by more than 100 Labour MPs, peers and union leaders - and former deputy leader Angela Rayner, who is now back in the cabinet, described it as \"un-British\".\nThe Birmingham Ladywood MP claims to be the first female Muslim MP - although she was elected in 2010 alongside Yasmin Qureshi and Rushanara Ali - because, she says, her count was the first completed on the night.\nStreeting, who resigned as health secretary in May saying he had lost confidence in Sir Keir Starmer as prime minister, eventually decided to back Andy Burnham rather than launch his own leadership bid.\nThe former National Union of Students president and London councillor is widely seen as one of the party’s most skilled communicators.\nHe has written an autobiography about growing up in a council flat in London’s East End, visiting his bank robber grandfather in jail, growing up as a gay Christian and about being diagnosed and treated for kidney cancer at the age of 38.\nThe Ilford North MP has said his upbringing left him \"quite cynical\" of the role of the state compared with many Labour colleagues, aware of its failings as well as its potential to enable opportunity.\nShe will face numerous challenges in the role, including getting NHS waiting lists in England down, improving relations with senior doctors and making progress on social care - one of Andy Burnham's priorities.\nThe former journalist was first elected as an MP in 1997 and went to serve as the first female chief secretary to the Treasury, later becoming work and pensions secretary in the Labour government under Gordon Brown.\nAmong other firsts in her political career, the Pontefract, Castleford and Knottingley MP became the first minister to take maternity leave, and she was one half of the first married couple in the cabinet - alongside her husband, former education secretary and Strictly Come Dancing contestant, Ed Balls.\nPowell had been leader of the House of Commons - responsible for delivering the government's legislative programme - until she was sacked by Sir Keir Starmer in the reshuffle that followed Angela Rayner's resignation from the cabinet.\nShe went on to replace Rayner as deputy leader of the party, winning an election of Labour members.\nPowell, who joined the Labour Party at 15, has been an MP since winning a by-election in Manchester Central in 2012 and has held several shadow cabinet roles, including stints leading on education, housing and culture.",
-      "summary": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham",
-      "author": "",
-      "published": "Wed, 22 Jul 2026 08:23:51 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Beluga whales flown from closed Canadian marine park to new US home",
-      "link": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
+      "title": "Millie Bobby Brown leads tributes after Godzilla v Kong co-star Kaylee Hottle dies aged 18",
+      "link": "https://www.bbc.co.uk/news/articles/cm2glm5r185o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Six beluga whales have arrived in the US after being moved from a Canadian marine park that could no longer care for them.",
+      "summary": "The 18-year-old Godzilla vs Kong actress died in a car crash in the US.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 05:03:42 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 16:58:30 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "title": "'Momentum is still there': BBC at India's 'cockroach' protest",
+      "link": "https://www.bbc.co.uk/news/videos/c0jlnp8p6l0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "summary": "Thousands of Cockroach Janta Party (CJP) supporters are continuing to protest in the capital, Delhi, despite heavy rains overnight.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 05:37:43 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 14:59:56 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "More women in their 20s are getting type 2 diabetes, experts warn",
-      "link": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&at_campaign=rss",
+      "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+      "link": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England is seeing \"a worrying increase\" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for.",
+      "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 00:03:43 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 14:14:16 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Godzilla vs Kong actress Kaylee Hottle dies in crash at 18",
-      "link": "https://www.bbc.co.uk/news/articles/c62v7e2dw12o?at_medium=RSS&at_campaign=rss",
+      "title": "YouTube star MrBeast marries Thea Booysen",
+      "link": "https://www.bbc.co.uk/news/articles/clyq2dnq2zzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "She portrayed a young deaf orphan named Jia in the 2021 blockbuster and its 2024 sequel.",
+      "summary": "The world's biggest YouTuber said he had finally found his \"Mrs Beast\".",
       "author": "",
-      "published": "Tue, 21 Jul 2026 17:45:55 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 11:05:20 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "'We just need a bed': Baby with 'days to live' can't access lifesaving treatment",
-      "link": "https://www.bbc.co.uk/news/articles/c04k7g6epzwo?at_medium=RSS&at_campaign=rss",
+      "title": "Former Lloyd's of London boss's relationship breached rules, firm says",
+      "link": "https://www.bbc.co.uk/news/articles/cre48d34ewzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dylan and Catrin Green fear baby Macs has days to live and say he urgently needs a Berlin heart.",
+      "summary": "The insurance market's chairman said the CEO's conduct \"fell significantly below the standards expected of him\".",
       "author": "",
-      "published": "Wed, 22 Jul 2026 05:51:28 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 15:50:25 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Judge rules Trump must hand over records sought by BBC in defamation case",
-      "link": "https://www.bbc.co.uk/news/articles/c93487x97kyo?at_medium=RSS&at_campaign=rss",
+      "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+      "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The judge grants a motion to compel the release of files held by the Donald J Trump Revocable Trust.",
+      "summary": "Officials say the restaurant in South Korea used some 49,000 ants in various dishes over four years.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 23:45:16 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 03:32:56 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
@@ -241,17 +261,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Newscast",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nzs7bm?at_medium=RSS&at_campaign=rss",
+      "title": "The Global Story: Is the Iran war back on?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ml2?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Andy Burnham makes John Healey his chancellor as he assembles his cabinet.",
+      "summary": "The White House has asked Congress for billions more dollars in funding for the Iran war",
       "author": "",
-      "published": "Mon, 20 Jul 2026 22:58:00 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 09:00:00 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
@@ -261,77 +281,77 @@
       "summary": "From Manchester mayor to prime minister; who is he and what does stand for?",
       "author": "",
       "published": "Mon, 20 Jul 2026 14:00:00 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why Chelsea have signed so many Man City academy graduates",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpd7nqnq2w6o?at_medium=RSS&at_campaign=rss",
+      "title": "Christopher Nolan's epic biopic starring Cillian Murphy",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002p1fr?at_mid=8PiucSontB&at_campaign=Oppenheimer&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002p1fr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Oppenheimer&at_bbc_team=BBC&at_creation=Film",
       "full_text": "",
-      "summary": "Morgan Rogers is the latest ex-Man City academy player to join Chelsea and will be reunited with more former City team-mates.",
+      "summary": "The life of J Robert Oppenheimer, the physicist known as the 'father of the atomic bomb'",
       "author": "",
-      "published": "Wed, 22 Jul 2026 06:13:29 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Sun, 12 Jul 2026 23:50:47 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Five big names to look out for at Commonwealth Games",
-      "link": "https://www.bbc.co.uk/sport/articles/c9w0r0k1n5qo?at_medium=RSS&at_campaign=rss",
+      "title": "Garnacho, Rogers and two clubs trying to balance the books",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg0723e0jko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "These are the stars to look out for across the 10 sports at the 2026 Commonwealth Games in Glasgow.",
+      "summary": "How can Chelsea afford Morgan Rogers? And why are Aston Villa pursuing a loan for Alejandro Garnacho rather than buying him?",
       "author": "",
-      "published": "Wed, 22 Jul 2026 07:46:47 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 15:54:29 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Where are Newcastle in bid to be the best by 2030?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg30v0llpxo?at_medium=RSS&at_campaign=rss",
+      "title": "The Bezos factor - unpicking puzzle of Liverpool's potential investors",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c980l82wnd8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As the fifth anniversary of Newcastle's takeover approaches, BBC Sport assesses whether the project to be \"the best\" is still on track.",
+      "summary": "Could Amazon founder and American billionaire Jeff Bezos really become one of Liverpool's new investors? BBC Sport takes a look.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 08:41:21 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 15:18:57 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Chelsea sign £117m Rogers - what will he bring?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
+      "title": "Arokodare forces Wolves training to be cancelled",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr5934j1jmdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?",
+      "summary": "Wolves striker Tolu Arokodare forces the cancellation of a training session as he refuses to leave the pitch.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 20:57:20 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 15:53:34 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Littler throws nine-darter in superb Matchplay win",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/cn9nge10504o?at_medium=RSS&at_campaign=rss",
+      "title": "Argentina's Paredes should not be suspended for confrontation - Spain's Gavi",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c24m7prpq29o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "World number one Luke Littler throws a thrilling nine-darter as he books his place in the quarter-finals of the World Matchplay with a 11-8 win over Nathan Aspinall.",
+      "summary": "Spain midfielder Gavi does not think Argentina's Leandro Paredes should be suspended for his part in the fracas after the World Cup final.",
       "author": "",
-      "published": "Tue, 21 Jul 2026 22:33:42 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 13:32:09 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arsenal sign Spain goalkeeper Rodriguez on free",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz7dq8wrzwjo?at_medium=RSS&at_campaign=rss",
+      "title": "Financial exceptions could be made for Guardiola - Italian FA",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czxqdv4818yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Arsenal bring in Spain goalkeeper Misa Rodriguez on a free transfer - the Women's Super League side's sixth signing of the summer.",
+      "summary": "Pep Guardiola has held talks about becoming Italy head coach, Italian Football Federation president Giovanni Malago has confirmed.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 08:57:48 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 10:12:58 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     },
     {
       "source": "bbc",
-      "title": "Adversity to history - Agyarko's world title dream",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cyvly3l5l2zo?at_medium=RSS&at_campaign=rss",
+      "title": "'Would Beckham do it?' - Fury stands by Thailand fight",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c87n870x7vxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Belfast's Caoimhin Agyarko's dream is to become Ireland's first black professional boxing champion and he can reach his goal when he challenges Josh Kelly for the IBF light-middleweight title on Saturday.",
+      "summary": "Tyson Fury says modern-day sports stars think they are \"bigger than they actually are\" after choosing to fight in front of just 1,500 fans in Thailand.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 07:04:40 GMT",
-      "fetched_at": "2026-07-22T09:17:36.357189+00:00"
+      "published": "Wed, 22 Jul 2026 11:26:28 GMT",
+      "fetched_at": "2026-07-22T17:00:10.910107+00:00"
     }
   ]
 }
