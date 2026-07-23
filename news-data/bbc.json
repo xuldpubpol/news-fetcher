@@ -1,8 +1,28 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-23T17:04:05.111447+00:00",
-  "count": 35,
+  "fetched_at": "2026-07-23T21:38:45.608525+00:00",
+  "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Burnham pauses plan to release some prisoners early from September",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister says no prisoners will be released until a review has been conducted.",
+      "author": "",
+      "published": "Thu, 23 Jul 2026 18:17:54 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Mum and daughter who died at beach were trying to save boy, 7",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Shally Rahman and teenager Samiha Rahman were pulled from the water, emergency services say.",
+      "author": "",
+      "published": "Thu, 23 Jul 2026 17:23:21 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
+    },
     {
       "source": "bbc",
       "title": "Oil prices hit $100 for the first time since May",
@@ -11,7 +31,7 @@
       "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
       "author": "",
       "published": "Thu, 23 Jul 2026 15:31:00 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -20,18 +40,18 @@
       "full_text": "",
       "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 16:17:44 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 17:58:02 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Haigh, Rayner and Powell likely to regularly work from No 10 North",
-      "link": "https://www.bbc.co.uk/news/articles/czrjl0nev3no?at_medium=RSS&at_campaign=rss",
+      "title": "PM to spend first day working from northern branch of No 10",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A think tank blueprint for No 10 North recommends a workforce of up to 300 staff within 18 months.",
+      "summary": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 14:46:01 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 21:31:03 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -41,17 +61,17 @@
       "summary": "The returning housing secretary received £16,876 after leaving government in September 2025.",
       "author": "",
       "published": "Thu, 23 Jul 2026 13:59:23 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Wildfires and record dry conditions trigger drought in parts of Wales",
-      "link": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
+      "title": "UK 'ready to defend itself' after Iran says bases are 'legitimate targets'",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves.",
+      "summary": "An Iranian military group has issued a warning to the UK over allowing US forces to use British bases for strikes on Iran.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 14:00:51 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 20:00:27 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -61,7 +81,27 @@
       "summary": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
       "author": "",
       "published": "Thu, 23 Jul 2026 16:20:45 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A new bill would let the US government order the shutdown AI models that pose a major public threat.",
+      "author": "",
+      "published": "Thu, 23 Jul 2026 20:58:35 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Southport killer Axel Rudakubana moved to psychiatric hospital",
+      "link": "https://www.bbc.co.uk/news/articles/cx27md9e09po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Rudakubana was jailed for 52 years in 2025 for the murder of three young girls at a dance class.",
+      "author": "",
+      "published": "Thu, 23 Jul 2026 20:12:54 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -71,37 +111,7 @@
       "summary": "Pubs welcomed the support package, while other High Street firms asked why they were left out.",
       "author": "",
       "published": "Thu, 23 Jul 2026 14:27:37 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Police failed to check Manchester synagogue attacker's phones despite arresting him twice",
-      "link": "https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack.",
-      "author": "",
-      "published": "Thu, 23 Jul 2026 13:05:01 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
-      "author": "",
-      "published": "Thu, 23 Jul 2026 16:41:52 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Johnson-Thompson and Asher-Smith out of Commonwealths",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/crrv0nzq8wgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Olympic silver medallist Katarina Johnson-Thompson pulls out of the Commonwealth Games because of injury.",
-      "author": "",
-      "published": "Thu, 23 Jul 2026 12:19:03 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -111,37 +121,7 @@
       "summary": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
       "author": "",
       "published": "Thu, 23 Jul 2026 11:25:34 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why the UK is dithering over what to do about e-scooters",
-      "link": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
-      "author": "",
-      "published": "Wed, 22 Jul 2026 23:51:24 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Andy Burnham's plan to collaborate with social media creators",
-      "link": "https://www.bbc.co.uk/news/articles/cy4k74xj9lyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The new prime minister plans to work with influencers and social media creators to get his message out.",
-      "author": "",
-      "published": "Thu, 23 Jul 2026 08:28:57 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-      "link": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
-      "author": "",
-      "published": "Thu, 23 Jul 2026 12:58:40 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -151,57 +131,57 @@
       "summary": "The PM's decision comes after a police officer's widow said the possible early release of his killers was \"deplorable\".",
       "author": "",
       "published": "Thu, 23 Jul 2026 16:52:28 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fit checks and fear: Inside India's GenZ 'cockroach' protests",
-      "link": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss",
+      "title": "Frank Gardner: Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "For 'cockroach' protesters, reels and memes became a way of documenting fear, making sense of violence and refusing to let it have the last word.",
+      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 22:13:24 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 17:06:08 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ruiz & Gavi's reward for win... 150kg of tomatoes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg840jye74o?at_medium=RSS&at_campaign=rss",
+      "title": "Andy Burnham's plan to collaborate with social media creators",
+      "link": "https://www.bbc.co.uk/news/articles/cy4k74xj9lyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Spain's Fabian Ruiz and Gavi receive their body weight in tomatoes when they return to their hometown Los Palacios y Villafranca.",
+      "summary": "The new prime minister plans to work with influencers and social media creators to get his message out.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 07:54:03 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 08:28:57 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Shapps blocked from standing again for the Conservatives",
-      "link": "https://www.bbc.co.uk/news/articles/cwyrjnwe8xlo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "link": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kemi Badenoch tells the BBC she leads a \"new party full of new people\" as ex-MP is rejected as a candidate.",
+      "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 13:13:58 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 12:58:40 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Google fined €890m by EU for favouring its own apps over rivals",
-      "link": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
+      "title": "Wildfires and record dry conditions trigger drought in parts of Wales",
+      "link": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is the first major enforcement action against the tech giant under the EU's new digital rules.",
+      "summary": "Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 14:05:27 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 14:00:51 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "MI5 to pay damages for illegal surveillance of journalist's phone",
-      "link": "https://www.bbc.co.uk/news/articles/c0jln54z58vo?at_medium=RSS&at_campaign=rss",
+      "title": "Police failed to check Manchester synagogue attacker's phones despite arresting him twice",
+      "link": "https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is believed to be the first time that MI5 has been directed to pay compensation to a journalist.",
+      "summary": "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 16:07:25 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 13:05:01 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -211,27 +191,27 @@
       "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
       "author": "",
       "published": "Thu, 23 Jul 2026 16:50:59 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ex-Coronation Street actor to receive 'substantial' libel damages from the Sun publisher",
-      "link": "https://www.bbc.co.uk/news/articles/c5ye2xlznv7o?at_medium=RSS&at_campaign=rss",
+      "title": "BBC's Fake or Fortune uncovers 'enormously important' painting worth £100,000",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxejg9evjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Qasim Akhtar is to receive \"substantial\" damages to settle a High Court libel claim from a story last eyar.",
+      "summary": "The painting by the 18th Century Scottish artist Katherine Read is thought to be worth more than £100,000.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 12:37:41 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 20:03:50 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
+      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 11:39:11 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 19:17:42 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +221,17 @@
       "summary": "The couple won the first series of the spin-off edition of the hit dating show in 2024.",
       "author": "",
       "published": "Thu, 23 Jul 2026 12:06:11 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Google and Tesla shares plunge as AI spending rattles markets",
+      "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
+      "author": "",
+      "published": "Thu, 23 Jul 2026 20:42:33 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +251,7 @@
       "summary": "The Prime Minister orders an ‘urgent review’ into plan to release some prisoners early.",
       "author": "",
       "published": "Thu, 23 Jul 2026 15:49:00 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +261,7 @@
       "summary": "The White House has asked Congress for billions more dollars in funding for the Iran war",
       "author": "",
       "published": "Wed, 22 Jul 2026 09:00:00 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +271,7 @@
       "summary": "Unhappy to see you again. Gomez takes the family on a trip - what could go wrong?",
       "author": "",
       "published": "Sun, 19 Jul 2026 10:59:25 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
@@ -291,67 +281,57 @@
       "summary": "Arsenal are set to make a £70m offer for Newcastle captain Bruno Guimaraes.",
       "author": "",
       "published": "Thu, 23 Jul 2026 16:56:18 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anderson gets Man City move he craved as £116m deal done",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1j1gk23jj4o?at_medium=RSS&at_campaign=rss",
+      "title": "Defoe leaves Woking after 'eye-opening' first managerial role",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c304d47ql6jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City confirm the arrival of Elliot Anderson on a five-year deal, as the England player is tipped to become a \"complete midfielder\" at his new club.",
+      "summary": "Former England and Tottenham striker Jermain Defoe has described his first managerial job as an \"eye-opening experience\" following his departure from National League side Woking after just four months and nine matches in charge.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 16:01:00 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 21:02:11 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arsenal sign Greece forward Tzolis for £34m",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp8xk0x902do?at_medium=RSS&at_campaign=rss",
+      "title": "Italy confirm Ancelotti approach before Guardiola",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c36d0291z6no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Arsenal sign \"extremely versatile attacking player\" Christos Tzolis from Club Brugge for £34m.",
+      "summary": "Italy held discussions with Carlo Ancelotti to become their national team manager before opening talks with Pep Guardiola.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 14:32:50 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 18:57:04 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Norway consider complaint over Balogun ban decision",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1l1vz4n484o?at_medium=RSS&at_campaign=rss",
+      "title": "Anderson's journey to England star and  Man City record signing",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Norwegian Football Federation is considering filing a formal complaint to Fifa's ethics committee.",
+      "summary": "Elliot Anderson was a key part of England's World Cup side and is now Manchester City's record signing.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 12:43:30 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 17:16:34 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I'm Mr Slim now' - Fury lighter than opponent for only fourth time",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c20jg564ddeo?at_medium=RSS&at_campaign=rss",
+      "title": "Can Emery work his magic again at Villa?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czxevl7vgz6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tyson Fury weighs less than his opponent for the first time in 15 years before Friday's heavyweight bout with Mariusz Wach.",
+      "summary": "Aston Villa are back in the Champions League but must now cope with the loss of key players Morgan Rogers and Youri Tielemans.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 12:17:56 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 12:35:35 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     },
     {
       "source": "bbc",
-      "title": "Super Giants thrash dismal Spirit at Lord's",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cj6350pj5dpo?at_medium=RSS&at_campaign=rss",
+      "title": "'What's happened there?!' - Buttler and Dawson's moment to forget",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/c20ekyq6g62o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester Super Giants chase a target of 81 inside 59 balls as they thrash London Spirit by seven wickets in The Hundred.",
+      "summary": "Manchester Super Giants fielders Jos Buttler and Liam Dawson inadvertently teach a vital lesson in communication after a huge fielding mix-up, missing a simple catch that would have removed London Spirit's Kiran Carlson in the men's Hundred.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 16:25:08 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "JJ Gabriel, 15, gets senior Man Utd call-up",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce85j3mgl06o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester United teenager JJ Gabriel, 15, could make senior debut on Friday after receiving call-up for Rosenborg friendly.",
-      "author": "",
-      "published": "Thu, 23 Jul 2026 13:36:37 GMT",
-      "fetched_at": "2026-07-23T17:04:03.526831+00:00"
+      "published": "Thu, 23 Jul 2026 19:59:23 GMT",
+      "fetched_at": "2026-07-23T21:38:43.100638+00:00"
     }
   ]
 }
