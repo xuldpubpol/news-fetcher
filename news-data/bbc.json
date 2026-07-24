@@ -1,27 +1,37 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-24T09:11:45.063382+00:00",
-  "count": 37,
+  "fetched_at": "2026-07-24T17:14:25.340988+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
-      "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
-      "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+      "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+      "summary": "On Thursday, Axel Rudakubana was moved from prison to a secure psychiatric hospital in Berkshire.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 08:56:05 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 11:43:40 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
+      "link": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+      "summary": "A woman in her 20s has been charged by gardaí (Irish police) and is due in court on Friday evening.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 08:59:31 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 16:53:59 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Officers hurt as police boat hits Westminster Bridge",
+      "link": "https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police say a number of armed officers entered the water but were recovered following the crash.",
+      "author": "",
+      "published": "Fri, 24 Jul 2026 17:13:23 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
@@ -30,128 +40,138 @@
       "full_text": "",
       "summary": "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 08:46:40 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 14:21:24 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fifty women tell BBC they were pressured into having sex with strangers",
-      "link": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss",
+      "title": "Andy Burnham's first week pledges - how much do they add up to?",
+      "link": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Women said their partners had pushed or coerced them into taking part in swinging.",
+      "summary": "BBC Verify has looked at how much Burnham's new spending commitments cost and how they will be paid for",
       "author": "",
-      "published": "Fri, 24 Jul 2026 05:01:19 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 13:04:47 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "PM to spend first day working from northern branch of No 10",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
+      "title": "NBA superstar LeBron James to join Philadelphia 76ers",
+      "link": "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
+      "summary": "Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 07:15:22 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 16:07:33 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hero swimmer helped two children during West Mersea beach tragedy",
-      "link": "https://www.bbc.co.uk/news/articles/cly89wrmdxyo?at_medium=RSS&at_campaign=rss",
+      "title": "Four men dead after car crashes into lamp-post",
+      "link": "https://www.bbc.co.uk/news/articles/cwymj9jmnm0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Witnesses say the unnamed rescuer dived into the water three times to save the children.",
+      "summary": "The car left the road and crashed on Liverpool Road in Huyton just before 02:00 BST.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 04:49:28 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 14:35:41 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Heat health alerts in effect for parts of UK as rain returns for some this weekend",
-      "link": "https://www.bbc.co.uk/weather/articles/c75gze7427vo?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+      "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Highs of 30C are expected in the south on Friday before wet weather arrives for the weekend - although it is unlikely to be enough, as Ben Rich explains.",
+      "summary": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 03:29:52 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 14:02:26 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK mortgage rates rise to highest level for a month",
-      "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "A modern browser with JavaScript and a stable internet connection is required to view this interactive.",
-      "summary": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
-      "author": "",
-      "published": "Thu, 23 Jul 2026 23:02:10 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "King's Tardis entrance as Commonwealth Games begin",
-      "link": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&at_campaign=rss",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow.",
+      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 21:53:02 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 15:12:11 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Scientists find the secret of birdsong's 'spectacular diversity'",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&at_campaign=rss",
+      "title": "PlayStation Network down, leaving thousands of gamers unable to play",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple",
+      "summary": "Sony's status page read that it was \"working to resolve the issue as soon as possible\".",
       "author": "",
-      "published": "Thu, 23 Jul 2026 23:55:29 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 16:59:25 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "The new $4.5bn bridge which became a symbol of a strained US-Canada relationship",
-      "link": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Brown pleads guilty to affray over nightclub attack in London",
+      "link": "https://www.bbc.co.uk/news/articles/c3w01e37v9vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A bridge linking Michigan to Ontario is about to open but Canada has disinvited US dignitaries from the ceremony.",
+      "summary": "The US singer hit a man with a glass bottle in \"a vicious and unprovoked attack\", prosecutors say.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 05:56:55 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 13:58:09 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK 'ready to defend itself' after Iran says bases are 'legitimate targets'",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "An Iranian military group has issued a warning to the UK over allowing US forces to use British bases for strikes on Iran.",
-      "author": "",
-      "published": "Fri, 24 Jul 2026 04:11:11 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "They became best friends – then discovered they were brother and sister",
+      "title": "They became best friends - then discovered they were brother and sister",
       "link": "https://www.bbc.co.uk/news/articles/c4g397rl4nzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Andrea Urmston knew she had a brother who had been adopted by another family, only to discover he was already her closest friend.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 23:59:35 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 09:52:26 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Decoding Charli XCX's new album, Music, Fashion, Film",
-      "link": "https://www.bbc.co.uk/news/articles/c151zp1p4qyo?at_medium=RSS&at_campaign=rss",
+      "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
+      "link": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The star's new album strips away artifice to examine her life after the phenomenal success of Brat.",
+      "summary": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 00:09:40 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 16:12:34 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Heatwave anxiety can make you feel 'incredibly helpless' - here's how to manage it",
+      "title": "How Jimothy the raccoon became the internet's latest animal obsession",
+      "link": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram.",
+      "author": "",
+      "published": "Fri, 24 Jul 2026 14:27:46 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chris Mason: What Burnham's first week in power tells us about his agenda",
+      "link": "https://www.bbc.co.uk/news/articles/cz97ngjpg3lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC's political editor Chris Mason explains.",
+      "author": "",
+      "published": "Fri, 24 Jul 2026 12:58:58 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Using a bathroom 20 times a day - life in the middle of US cyclospora outbreak",
+      "link": "https://www.bbc.co.uk/news/articles/c8dn92m0mqjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A historic cyclospora outbreak spreading across the US is causing havoc in pockets of Michigan, the hardest hit state.",
+      "author": "",
+      "published": "Fri, 24 Jul 2026 10:58:10 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Heatwave anxiety made me feel helpless - here’s how to manage it",
       "link": "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Extreme heat can take a toll on mental health - and young people and women are among the groups most at risk, according to one study.",
       "author": "",
       "published": "Fri, 24 Jul 2026 00:05:55 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
@@ -161,107 +181,77 @@
       "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "author": "",
       "published": "Thu, 23 Jul 2026 18:46:40 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Burnham eager to get drilling' and 'Tardis fit for a King'",
-      "link": "https://www.bbc.co.uk/news/articles/c75gzgewv0vo?at_medium=RSS&at_campaign=rss",
+      "title": "Dancing with Shakira at World Cup was 'very, very, very, very, very good', say Ghetto Kids",
+      "link": "https://www.bbc.co.uk/news/articles/cly5j2gq587o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The papers are focusing on different aspects of Andy Burnham's first week in the top job.",
+      "summary": "The child stars tell the BBC of their excitement entertaining their biggest crowd yet at the World Cup final.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 06:00:52 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 14:45:22 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "We split bills equally even when one of us earned a lot more",
-      "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 23:01:08 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 16:37:17 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "India's youth movement Modi didn't see coming",
-      "link": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
+      "title": "EA's bestselling football video game gets 16+ age rating due to loot boxes",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0m8lzq1qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years  - why?",
+      "summary": "The football game's popular Ultimate Team earns it a 16+ rating from age ratings board PEGI.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 23:41:32 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 11:19:12 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mathematicians win top prize after solving century-old problems",
-      "link": "https://www.bbc.co.uk/news/articles/cvg84gp8xx4o?at_medium=RSS&at_campaign=rss",
+      "title": "Fifty women tell BBC they were pressured into having sex with strangers",
+      "link": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "This is the first time Chinese nationals have won the prestigious Fields Medal.",
+      "summary": "Women said their partners had pushed or coerced them into taking part in swinging.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 06:47:48 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 05:01:19 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Families still search for bodies a month after Venezuela earthquakes",
-      "link": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
+      "title": "Sarah Ferguson's charity formally closes down",
+      "link": "https://www.bbc.co.uk/news/articles/cvg0w7xxk72o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Officials say the death toll has surpassed 5,300, though estimates of the number still missing could be as high as 50,000.",
+      "summary": "Sarah’s Trust had previously said it was closing “for the foreseeable future”.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 05:47:11 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 12:07:46 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Secret Service agent in Vance's team under investigation over alleged leak",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dgp46923o?at_medium=RSS&at_campaign=rss",
+      "title": "First person gets new experimental vaccine for Ebola",
+      "link": "https://www.bbc.co.uk/news/articles/c8jn007gmpzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Secret Service has not disclosed the agent's identity or the nature of the information allegedly leaked.",
+      "summary": "Ed Hunt, 37 and from the UK, voluteered after seeing news reports of the deadly Ebola outbreak in DR Congo.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 23:43:08 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 14:43:51 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-      "link": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+      "title": "Black Panther star Chadwick Boseman's family in legal dispute with his widow",
+      "link": "https://www.bbc.co.uk/news/articles/c8xn4p7xqy9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
+      "summary": "The late actor's siblings claim she has mishandled distribution of the funds and \"cannot be trusted\".",
       "author": "",
-      "published": "Fri, 24 Jul 2026 08:30:58 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK complacent about war threat, warns BAE boss",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
-      "author": "",
-      "published": "Thu, 23 Jul 2026 23:04:19 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Influencer apologises for leaving bathtub on mountain",
-      "link": "https://www.bbc.co.uk/news/articles/cnvnq2g1jjeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tom Christopher carried the tub up the mountain in flip flops, before bathing in it at the summit.",
-      "author": "",
-      "published": "Fri, 24 Jul 2026 08:22:32 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Wales wildfire seen from space as helicopter tackles flames",
-      "link": "https://www.bbc.co.uk/news/articles/c5yd7jy8np3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Data gathered by BBC Verify suggests an estimated 951 hectares of the Rhinogydd mountains have been burned.",
-      "author": "",
-      "published": "Fri, 24 Jul 2026 05:33:08 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 11:10:26 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
@@ -271,17 +261,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Andy Burnham Pauses Prison Early Release Plan",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nzs7j9?at_medium=RSS&at_campaign=rss",
+      "title": "A Week Of Prime Minister Andy Burnham",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nzs7m6?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "The Prime Minister orders an ‘urgent review’ into plan to release some prisoners early.",
+      "summary": "Number 10 North opens its doors for the first time.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 15:49:00 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 15:28:00 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
@@ -291,87 +281,67 @@
       "summary": "The White House has asked Congress for billions more dollars in funding for the Iran war",
       "author": "",
       "published": "Wed, 22 Jul 2026 09:00:00 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Join the Addams Family on their epic haunted holiday",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m001tvgb?at_mid=uzCm6Yeenb&at_campaign=The_Addams_Family_2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001tvgb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Addams_Family_2&at_bbc_team=BBC&at_creation=Film",
+      "title": "With great power comes great responsibility",
+      "link": "https://www.bbc.co.uk/iplayer/group/m002pm3w?at_mid=e8Sm8RTslk&at_campaign=Spider_Man_Collection&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002pm3w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Spider_Man_Collection&at_bbc_team=BBC",
       "full_text": "",
-      "summary": "Unhappy to see you again. Gomez takes the family on a trip - what could go wrong?",
+      "summary": "Swing into action, your epic Spider-Man rewatch starts here",
       "author": "",
-      "published": "Sun, 19 Jul 2026 10:59:25 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Mon, 20 Jul 2026 20:05:00 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why Rogers and Palmer will thrive together in Alonso's Chelsea",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gwpzzgpyko?at_medium=RSS&at_campaign=rss",
+      "title": "Klopp starts Germany reign by threatening to quit",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqjxd0n4gd2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Why Morgan Rogers' skillset means he and fellow attacking midfielder Cole Palmer will prosper in Xabi Alonso's Chelsea.",
+      "summary": "Jurgen Klopp starts his reign as Germany's head coach by threatening to quit if the media invades his family's privacy.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 05:28:55 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 10:40:05 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arsenal set to make £70m bid for Newcastle's Guimaraes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss",
+      "title": "Rodri to have back surgery but Maresca brushes off transfer speculation",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c36dw0nwexxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Arsenal are set to make a £70m offer for Newcastle captain Bruno Guimaraes.",
+      "summary": "World Cup winner Rodri is to have back surgery, says new Manchester City boss Enzo Maresca.",
       "author": "",
-      "published": "Thu, 23 Jul 2026 16:56:18 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 14:24:53 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "Socceroos star allegedly tests positive for cocaine after speeding",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm2gdnz5x50o?at_medium=RSS&at_campaign=rss",
+      "title": "Hamilton leads Ferrari one-two in Hungary practice",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c3v0wp9yvdgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Socceroos World Cup star Cristian Volpato allegedly tests positive for cocaine after being twice caught for speeding in Sydney.",
+      "summary": "Lewis Hamilton leads team-mate Charles Leclerc to a Ferrari one-two in Friday practice at the Hungarian Grand Prix.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 08:59:12 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 16:44:55 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "The two days which could make or break Fury-AJ",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c2k758w1xdzo?at_medium=RSS&at_campaign=rss",
+      "title": "NBA superstar James, 41, to join Philadelphia 76ers",
+      "link": "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport looks at how a proposed bout between Tyson Fury and Anthony Joshua hinges on a 24-hour-period between Friday and Saturday.",
+      "summary": "Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 05:56:01 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 16:07:33 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     },
     {
       "source": "bbc",
-      "title": "What's working - and what's not - for WSL fans?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj0plpe7eq6o?at_medium=RSS&at_campaign=rss",
+      "title": "Guardiola turns down Italy manager job",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport spoke to fans of the Women's Super League and England Lionesses to learn about their experiences in the game and discuss what could be improved.",
+      "summary": "Former Manchester City manager Pep Guardiola turns down the chance to coach Italy.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 05:45:20 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Littler cruises into Matchplay semis with win over Rock",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/cg5lylz22gmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "World number one Luke Littler's World Matchplay title defence continues with a 16-7 quarter-final win over Josh Rock in Blackpool, as he averages 109.57.",
-      "author": "",
-      "published": "Thu, 23 Jul 2026 22:52:10 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Gymnast Amankwaah following in Fragapane's footsteps",
-      "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c36ylz1xwklo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Teenage gymnast Shantae Amankwaah on making her Commonwealth Games debut and following in Claudia Fragapane's footsteps.",
-      "author": "",
-      "published": "Fri, 24 Jul 2026 07:41:11 GMT",
-      "fetched_at": "2026-07-24T09:11:36.741832+00:00"
+      "published": "Fri, 24 Jul 2026 09:47:25 GMT",
+      "fetched_at": "2026-07-24T17:14:00.256398+00:00"
     }
   ]
 }
