@@ -1,8 +1,28 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-25T15:46:28.854687+00:00",
-  "count": 27,
+  "fetched_at": "2026-07-25T20:36:15.080112+00:00",
+  "count": 30,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Police investigate donations by Tice company to Reform UK",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 18:04:50 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "More than 250,000 flee wildfires in France and Spain",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 17:13:40 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+    },
     {
       "source": "bbc",
       "title": "Tourists tell BBC how their holiday turned into race to escape fires",
@@ -11,17 +31,27 @@
       "summary": "Families visiting France have told the BBC how their holidays have become evacuation missions.",
       "author": "",
       "published": "Sat, 25 Jul 2026 14:18:32 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
-      "title": "Police declare 'major incident' over Cairngorms wildfire",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
+      "title": "Cairngorm residents say wildfire response 'too slow'",
+      "link": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Some residents in the village of Nethy Bridge have left their homes over the threat the wildfire spreading.",
+      "summary": "Nethy Bridge residents were evacuated on Friday and a major incident was declared.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 13:04:30 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "published": "Sat, 25 Jul 2026 20:11:26 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 17:44:46 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -30,18 +60,8 @@
       "full_text": "",
       "summary": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 12:26:14 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sean McCann, Madeleine's brother, makes Commonwealths final",
-      "link": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sean McCann, the younger brother of Madeleine McCann, reaches the 400m freestyle final at Commonwealth Games.",
-      "author": "",
-      "published": "Sat, 25 Jul 2026 12:27:09 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "published": "Sat, 25 Jul 2026 18:20:20 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -51,7 +71,7 @@
       "summary": "The government wants to relax wedding laws so couples can get married almost anywhere.",
       "author": "",
       "published": "Fri, 24 Jul 2026 23:31:11 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -61,7 +81,7 @@
       "summary": "Farmers describe attacks and police receive nearly 9,000 reports of banned hare coursing.",
       "author": "",
       "published": "Sat, 25 Jul 2026 05:00:21 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -71,7 +91,7 @@
       "summary": "Muna discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
       "author": "",
       "published": "Fri, 24 Jul 2026 23:01:10 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +101,7 @@
       "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
       "author": "",
       "published": "Fri, 24 Jul 2026 23:23:53 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -91,17 +111,27 @@
       "summary": "The presenter said she was \"incredibly grateful\" for the opportunity but simply \"too nervous to enjoy it\".",
       "author": "",
       "published": "Fri, 24 Jul 2026 23:27:38 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
-      "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
-      "link": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham to address social care, youth unemployment and devolution",
+      "link": "https://www.bbc.co.uk/news/articles/cwylnl17w09o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
+      "summary": "A No 10 source says it is an attempt by the prime minister to show he is \"hitting the ground running\".",
       "author": "",
-      "published": "Sat, 25 Jul 2026 06:14:54 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "published": "Sat, 25 Jul 2026 20:00:26 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man charged over intercepted bomb in car",
+      "link": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The man in his 40s is due to appear at the Criminal Courts of Justice on Saturday.",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 18:33:04 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +141,17 @@
       "summary": "Essex's chief fire officer praises crews' courage after a blaze spreads to a fertiliser store.",
       "author": "",
       "published": "Sat, 25 Jul 2026 13:16:49 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
+      "link": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 06:14:54 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -121,17 +161,7 @@
       "summary": "The attack is believed to have taken place near Tremadoc Road in the early hours of Saturday.",
       "author": "",
       "published": "Sat, 25 Jul 2026 12:40:55 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "author": "",
-      "published": "Sat, 25 Jul 2026 13:51:07 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -141,27 +171,17 @@
       "summary": "Police say a 17-year-old taken to hospital with multiple stab wounds was pronounced dead shortly afterwards.",
       "author": "",
       "published": "Sat, 25 Jul 2026 14:53:58 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
-      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 23:01:06 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "OpenAI hack has turned into a whodunnit with serious questions to answer",
-      "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "author": "",
-      "published": "Sat, 25 Jul 2026 10:14:41 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "published": "Sat, 25 Jul 2026 13:51:07 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +191,7 @@
       "summary": "Ethan, 14, who appears in the latest season of CCBC show Jamie Johnson FC, was born with CMN.",
       "author": "",
       "published": "Sat, 18 Jul 2026 06:00:50 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +201,7 @@
       "summary": "The fluffy birds are estimated to be between 40 to 50 days old.",
       "author": "",
       "published": "Wed, 22 Jul 2026 04:53:52 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +211,7 @@
       "summary": "The newlyweds say they can now see the funny side after local venues stepped in on their big day.",
       "author": "",
       "published": "Thu, 23 Jul 2026 06:03:37 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +221,7 @@
       "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
       "author": "",
       "published": "Wed, 22 Jul 2026 07:40:33 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +241,7 @@
       "summary": "Number 10 North opens its doors for the first time.",
       "author": "",
       "published": "Fri, 24 Jul 2026 15:28:00 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +251,7 @@
       "summary": "The White House has asked Congress for billions more dollars in funding for the Iran war",
       "author": "",
       "published": "Wed, 22 Jul 2026 09:00:00 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
@@ -241,37 +261,47 @@
       "summary": "Swing into action, your epic Spider-Man rewatch starts here",
       "author": "",
       "published": "Mon, 20 Jul 2026 20:05:00 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
-      "title": "Unhappy Tottenham players should leave - De Zerbi",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss",
+      "title": "Norris cautious despite pole as it 'falls apart' for Hamilton",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tottenham Hotspur manager Roberto de Zerbi says players who are not \"proud and happy to stay\" at the club should leave.",
+      "summary": "Lando Norris has an opportunity to win his first grand prix of the year in Hungary, but Lewis Hamilton says his positivity is being tested after another penalty.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 10:26:41 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "published": "Sat, 25 Jul 2026 19:23:14 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
-      "title": "Howe unsure over Guimaraes amid Arsenal interest",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdrvxm682yko?at_medium=RSS&at_campaign=rss",
+      "title": "Pogacar poised to join Tour greats with fifth title in Paris finale",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes.",
+      "summary": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 14:54:03 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "published": "Sat, 25 Jul 2026 16:25:59 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     },
     {
       "source": "bbc",
-      "title": "Growing concerns before Defoe exit - Woking director",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9v4y3dr9w0o?at_medium=RSS&at_campaign=rss",
+      "title": "Vozinha to join Chilean club after World Cup heroics",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgdz5mrxd1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Woking director of football Jody Brown says there were \"growing concerns\" across the club before the National League side parted ways with former England striker Jermain Defoe as manager.",
+      "summary": "Cape Verde goalkeeper Vozinha, who earned plaudits for his feats during the World Cup, is set to join Chilean side Colo Colo.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 11:08:50 GMT",
-      "fetched_at": "2026-07-25T15:46:26.587979+00:00"
+      "published": "Sat, 25 Jul 2026 18:31:44 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Gymnast Langton cleared of serious injury after shocking fall",
+      "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c0jlgx7n40eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "English gymnast Gabriel Langton is cleared of serious injury after a sickening fall at the Commonwealth Games on Friday.",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 19:09:26 GMT",
+      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
     }
   ]
 }
