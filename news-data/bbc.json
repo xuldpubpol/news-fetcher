@@ -1,8 +1,48 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-25T20:36:15.080112+00:00",
-  "count": 30,
+  "fetched_at": "2026-07-26T07:59:43.658190+00:00",
+  "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+      "link": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
+      "author": "",
+      "published": "Sun, 26 Jul 2026 05:00:14 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Andy Burnham rules out early election in exclusive BBC interview",
+      "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election.",
+      "author": "",
+      "published": "Sun, 26 Jul 2026 05:00:56 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "author": "",
+      "published": "Sun, 26 Jul 2026 07:21:11 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What Love Island tells us about the changing face of dating",
+      "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 23:31:49 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+    },
     {
       "source": "bbc",
       "title": "Police investigate donations by Tice company to Reform UK",
@@ -11,217 +51,177 @@
       "summary": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
       "author": "",
       "published": "Sat, 25 Jul 2026 18:04:50 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "More than 250,000 flee wildfires in France and Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "title": "Ramsay-Peaty in tears after missing out on gold again",
+      "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "summary": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 17:13:40 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sat, 25 Jul 2026 22:37:49 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tourists tell BBC how their holiday turned into race to escape fires",
-      "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
+      "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Families visiting France have told the BBC how their holidays have become evacuation missions.",
+      "summary": "Almost four decades on I delved into this complex case with fresh eyes - who really was behind the bombing?",
       "author": "",
-      "published": "Sat, 25 Jul 2026 14:18:32 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sat, 25 Jul 2026 23:31:06 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Cairngorm residents say wildfire response 'too slow'",
-      "link": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o?at_medium=RSS&at_campaign=rss",
+      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+      "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nethy Bridge residents were evacuated on Friday and a major incident was declared.",
+      "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 20:11:26 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sat, 25 Jul 2026 23:30:07 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "summary": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 17:44:46 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sun, 26 Jul 2026 00:17:50 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
-      "link": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
+      "title": "How rapper Aitch's sister inspired him to climb one of the world's highest peaks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2dgl98lxko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
+      "summary": "The rapper has been taking on challenges to raise awareness and money for the Down's Syndrome Association.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 18:20:20 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sun, 26 Jul 2026 07:40:27 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Long overdue, life-changing or frivolous: What you had to say about wedding rule changes",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
+      "title": "Sunscreen doesn't cause cancer. Why do those claims keep spreading?",
+      "link": "https://www.bbc.co.uk/news/videos/cy4kv8ezpdyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The government wants to relax wedding laws so couples can get married almost anywhere.",
+      "summary": "Each summer, false claims about sunscreen causing cancer continue to spread online.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 23:31:11 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sat, 25 Jul 2026 23:37:45 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
-      "link": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss",
+      "title": "Joshua knocked down twice as dramatic win sets up Fury fight",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Farmers describe attacks and police receive nearly 9,000 reports of banned hare coursing.",
+      "summary": "Anthony Joshua suffers two knockdowns before recovering to dramatically stop Kristian Prenga in the second round.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 05:00:21 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sat, 25 Jul 2026 23:06:47 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "The pop band who went from playing for rescue dogs to selling out arenas",
-      "link": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
+      "title": "What a week's work experience taught these Year 10s about their futures",
+      "link": "https://www.bbc.co.uk/news/articles/cwylpw8rj79o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Muna discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
+      "summary": "Three 15-year-olds tell the BBC how their outlook changed after one week in the world of work.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 23:01:10 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sat, 25 Jul 2026 23:53:14 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-      "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+      "title": "The notorious Cameroonian prison with its own record label",
+      "link": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+      "summary": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 23:23:53 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sun, 26 Jul 2026 00:24:30 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Claudia Winkleman's chat show ended after one series - can anyone replace Graham Norton?",
-      "link": "https://www.bbc.co.uk/news/articles/c1m1rz7n0pzo?at_medium=RSS&at_campaign=rss",
+      "title": "UK papers: Mayors to get tax cash and Streeting 'bid to win back Trump'",
+      "link": "https://www.bbc.co.uk/news/articles/cx2592ynxgyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The presenter said she was \"incredibly grateful\" for the opportunity but simply \"too nervous to enjoy it\".",
+      "summary": "Prime Minister Andy Burnham's policy proposals are prominent across Sunday's papers.",
       "author": "",
-      "published": "Fri, 24 Jul 2026 23:27:38 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sun, 26 Jul 2026 03:54:01 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham to address social care, youth unemployment and devolution",
-      "link": "https://www.bbc.co.uk/news/articles/cwylnl17w09o?at_medium=RSS&at_campaign=rss",
+      "title": "Another UK heatwave looms after cooler end to weekend",
+      "link": "https://www.bbc.co.uk/weather/articles/c07rz2r121no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A No 10 source says it is an attempt by the prime minister to show he is \"hitting the ground running\".",
+      "summary": "Temperatures are forecast to surge next week as another UK heatwave begins.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 20:00:26 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sat, 25 Jul 2026 23:29:25 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man charged over intercepted bomb in car",
-      "link": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&at_campaign=rss",
+      "title": "People call me the sex MP but we need to be educating",
+      "link": "https://www.bbc.co.uk/news/articles/ce970rkk9r3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The man in his 40s is due to appear at the Criminal Courts of Justice on Saturday.",
+      "summary": "Samantha Niblett officially launches her \"summer of sex\" campaign, as her educational bid ramps up.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 18:33:04 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sat, 25 Jul 2026 23:58:45 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Twenty firefighters taken to hospital after explosion in Essex",
-      "link": "https://www.bbc.co.uk/news/articles/cg4dkwgker3o?at_medium=RSS&at_campaign=rss",
+      "title": "Rental searches for pet friendly properties drop after law change",
+      "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Essex's chief fire officer praises crews' courage after a blaze spreads to a fertiliser store.",
+      "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 13:16:49 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sun, 26 Jul 2026 00:00:49 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
-      "link": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
+      "title": "Mr Motivator delivers fitness class at care home",
+      "link": "https://www.bbc.co.uk/news/articles/c36de4jz4e5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
+      "summary": "The 90s TV legend brightens up the day for a group of residents at a facility in West Yorkshire.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 06:14:54 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Wed, 22 Jul 2026 07:13:07 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Six men arrested over fatal stabbing in south London",
-      "link": "https://www.bbc.co.uk/news/articles/cly5j8dwwpeo?at_medium=RSS&at_campaign=rss",
+      "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The attack is believed to have taken place near Tremadoc Road in the early hours of Saturday.",
+      "summary": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 12:40:55 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Tue, 21 Jul 2026 00:16:08 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Murder arrests after teen dies in Luton stabbing",
-      "link": "https://www.bbc.co.uk/news/articles/cjejvkk70z1o?at_medium=RSS&at_campaign=rss",
+      "title": "'Extraordinary sight' of rare bird from Asia spotted in UK",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnmv7356do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Police say a 17-year-old taken to hospital with multiple stab wounds was pronounced dead shortly afterwards.",
+      "summary": "A long-tailed shrike has been spotted in Eastleach in Gloucestershire after flying off course from Asia.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 14:53:58 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Mon, 20 Jul 2026 16:23:06 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "title": "Organ donation helped save seven lives after crash",
+      "link": "https://www.bbc.co.uk/news/articles/c77gjz0gkx5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "summary": "Tributes are paid to Edward Pearce after the 20-year-old died in a crash on the A27 near Pevensey.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 13:51:07 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Birthmark no barrier for young footballing TV star",
-      "link": "https://www.bbc.co.uk/news/articles/cn0v4e0jq8lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ethan, 14, who appears in the latest season of CCBC show Jamie Johnson FC, was born with CMN.",
-      "author": "",
-      "published": "Sat, 18 Jul 2026 06:00:50 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Farm's delight after six white owlets found nesting",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9nql8x83o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The fluffy birds are estimated to be between 40 to 50 days old.",
-      "author": "",
-      "published": "Wed, 22 Jul 2026 04:53:52 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Restaurants save the day after wedding caterer no-show",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgd5jmryro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The newlyweds say they can now see the funny side after local venues stepped in on their big day.",
-      "author": "",
-      "published": "Thu, 23 Jul 2026 06:03:37 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Will your job be replaced by AI? Here are the roles most affected",
-      "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
-      "author": "",
-      "published": "Wed, 22 Jul 2026 07:40:33 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Tue, 21 Jul 2026 16:21:13 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +241,7 @@
       "summary": "Number 10 North opens its doors for the first time.",
       "author": "",
       "published": "Fri, 24 Jul 2026 15:28:00 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +251,7 @@
       "summary": "The White House has asked Congress for billions more dollars in funding for the Iran war",
       "author": "",
       "published": "Wed, 22 Jul 2026 09:00:00 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +261,37 @@
       "summary": "Swing into action, your epic Spider-Man rewatch starts here",
       "author": "",
       "published": "Mon, 20 Jul 2026 20:05:00 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Joshua knocked down twice as dramatic win sets up Fury fight",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Anthony Joshua suffers two knockdowns before recovering to dramatically stop Kristian Prenga in the second round.",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 23:06:47 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ramsay-Peaty in tears after missing out on gold again",
+      "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 22:37:49 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Gomez injury overshadows winning start for Iraola",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
+      "author": "",
+      "published": "Sun, 26 Jul 2026 06:25:17 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
@@ -271,37 +301,37 @@
       "summary": "Lando Norris has an opportunity to win his first grand prix of the year in Hungary, but Lewis Hamilton says his positivity is being tested after another penalty.",
       "author": "",
       "published": "Sat, 25 Jul 2026 19:23:14 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pogacar poised to join Tour greats with fifth title in Paris finale",
+      "title": "Paris awaits as Pogacar poised to join Tour greats with fifth title",
       "link": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.",
       "author": "",
       "published": "Sat, 25 Jul 2026 16:25:59 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Vozinha to join Chilean club after World Cup heroics",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckgdz5mrxd1o?at_medium=RSS&at_campaign=rss",
+      "title": "Littler sets up Price final at World Matchplay",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/cx2dgz20n2ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Cape Verde goalkeeper Vozinha, who earned plaudits for his feats during the World Cup, is set to join Chilean side Colo Colo.",
+      "summary": "Luke Littler is on course to beat Phil Taylor's tournament average record after another impressive victory saw him reach the final.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 18:31:44 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sat, 25 Jul 2026 22:02:12 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     },
     {
       "source": "bbc",
-      "title": "Gymnast Langton cleared of serious injury after shocking fall",
-      "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c0jlgx7n40eo?at_medium=RSS&at_campaign=rss",
+      "title": "Arsenal explore Vinicius Jr move - Sunday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "English gymnast Gabriel Langton is cleared of serious injury after a sickening fall at the Commonwealth Games on Friday.",
+      "summary": "Arsenal explore move for Vinicius Jr, Inter Milan interested in Cristian Romero and Real Madrid bid for Yan Diomande rejected, plus more.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 19:09:26 GMT",
-      "fetched_at": "2026-07-25T20:36:09.277968+00:00"
+      "published": "Sat, 25 Jul 2026 21:21:03 GMT",
+      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
     }
   ]
 }
