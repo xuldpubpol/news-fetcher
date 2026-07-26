@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-26T07:59:43.658190+00:00",
+  "fetched_at": "2026-07-26T15:47:32.313497+00:00",
   "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "author": "",
+      "published": "Sun, 26 Jul 2026 13:40:29 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
+    },
     {
       "source": "bbc",
       "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
@@ -11,7 +21,7 @@
       "summary": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
       "author": "",
       "published": "Sun, 26 Jul 2026 05:00:14 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
@@ -21,67 +31,87 @@
       "summary": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election.",
       "author": "",
       "published": "Sun, 26 Jul 2026 05:00:56 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "title": "Gatwick Airport left without running water after major outage",
+      "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
+      "author": "",
+      "published": "Sun, 26 Jul 2026 15:29:29 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
       "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
       "author": "",
-      "published": "Sun, 26 Jul 2026 07:21:11 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 11:29:07 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "What Love Island tells us about the changing face of dating",
-      "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+      "title": "Meghan calls Harry 'a charmer' during MasterChef Australia appearance",
+      "link": "https://www.bbc.co.uk/news/articles/ckg41vn8x7ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+      "summary": "The duke surprises his wife with a video call during her guest judge appearance  on MasterChef Australia.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 23:31:49 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 13:26:34 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Police investigate donations by Tice company to Reform UK",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
+      "title": "Norris wins his first grand prix of year in Hungary",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
+      "summary": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 18:04:50 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 15:13:12 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ramsay-Peaty in tears after missing out on gold again",
-      "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.",
+      "title": "Teen charged over record crossing on 'mega dinghy'",
+      "link": "https://www.bbc.co.uk/news/articles/clyq5nqw13lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "Between 1 January and 13 July 2026, a total of 12,469 people crossed the English Channel by small boat from France. This was down by 45% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 42% of asylum applications between April 2025 to March 2026.\nBoats that arrived in the UK from 14 July 2025 to 13 July 2026 carried an average of 66 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from April 2025 to March 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,000 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,535 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from April 2025 to March 2026. This was down by 22% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
+      "summary": "Chan Mathok Atak, 19, is accused of endangering another during a journey by sea to the UK.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 22:37:49 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 13:42:07 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
+      "title": "Ryan Gosling to join Marvel Cinematic Universe as Ghost Rider",
+      "link": "https://www.bbc.co.uk/news/articles/cgq5v72jqglo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Almost four decades on I delved into this complex case with fresh eyes - who really was behind the bombing?",
+      "summary": "During a surprise announcement at San Diego Comic-Con, the actor says the character is one he has \"wanted to play for a very long time\".",
       "author": "",
-      "published": "Sat, 25 Jul 2026 23:31:06 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 13:30:38 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-      "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+      "title": "How rapper Aitch's sister inspired him to climb one of the world's toughest peaks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2dgl98lxko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+      "summary": "The rapper has been taking on challenges to raise awareness and money for the Down's Syndrome Association.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 23:30:07 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 07:40:27 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man in critical condition after sea rescue",
+      "link": "https://www.bbc.co.uk/news/articles/c7vgnnyye90o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A man in his 50s is in critical condition, and a man in his 20s and a teenage girl remain in hospital.",
+      "author": "",
+      "published": "Sun, 26 Jul 2026 10:21:47 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
@@ -91,17 +121,37 @@
       "summary": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
       "author": "",
       "published": "Sun, 26 Jul 2026 00:17:50 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "How rapper Aitch's sister inspired him to climb one of the world's highest peaks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2dgl98lxko?at_medium=RSS&at_campaign=rss",
+      "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The rapper has been taking on challenges to raise awareness and money for the Down's Syndrome Association.",
+      "summary": "Almost four decades on I delved into this complex case with fresh eyes - who really was behind the bombing?",
       "author": "",
-      "published": "Sun, 26 Jul 2026 07:40:27 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 08:48:18 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+      "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 23:30:07 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What Love Island tells us about the changing face of dating",
+      "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+      "author": "",
+      "published": "Sat, 25 Jul 2026 23:31:49 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
@@ -111,27 +161,17 @@
       "summary": "Each summer, false claims about sunscreen causing cancer continue to spread online.",
       "author": "",
       "published": "Sat, 25 Jul 2026 23:37:45 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Joshua knocked down twice as dramatic win sets up Fury fight",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss",
+      "title": "How to see July's full Buck Moon as it rises in the night sky",
+      "link": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Anthony Joshua suffers two knockdowns before recovering to dramatically stop Kristian Prenga in the second round.",
+      "summary": "July's full Moon, know as the Buck Moon, is set to light up the night sky next week.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 23:06:47 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What a week's work experience taught these Year 10s about their futures",
-      "link": "https://www.bbc.co.uk/news/articles/cwylpw8rj79o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Three 15-year-olds tell the BBC how their outlook changed after one week in the world of work.",
-      "author": "",
-      "published": "Sat, 25 Jul 2026 23:53:14 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 00:03:08 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
@@ -141,17 +181,17 @@
       "summary": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
       "author": "",
       "published": "Sun, 26 Jul 2026 00:24:30 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK papers: Mayors to get tax cash and Streeting 'bid to win back Trump'",
-      "link": "https://www.bbc.co.uk/news/articles/cx2592ynxgyo?at_medium=RSS&at_campaign=rss",
+      "title": "My entire family went on a boat trip that they never returned from",
+      "link": "https://www.bbc.co.uk/news/articles/cn8n99xe7pvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Prime Minister Andy Burnham's policy proposals are prominent across Sunday's papers.",
+      "summary": "Peter Watts was just 14 when a pleasure boat disaster killed 15 people, including his entire family.",
       "author": "",
-      "published": "Sun, 26 Jul 2026 03:54:01 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 14:14:52 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
@@ -161,67 +201,37 @@
       "summary": "Temperatures are forecast to surge next week as another UK heatwave begins.",
       "author": "",
       "published": "Sat, 25 Jul 2026 23:29:25 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "People call me the sex MP but we need to be educating",
-      "link": "https://www.bbc.co.uk/news/articles/ce970rkk9r3o?at_medium=RSS&at_campaign=rss",
+      "title": "'It was like a movie - I looked up and an exploded barn rained on me'",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlezl076no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Samantha Niblett officially launches her \"summer of sex\" campaign, as her educational bid ramps up.",
+      "summary": "Photographer Scott Johnson's studio is close to where a fire triggered a massive explosion.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 23:58:45 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 06:57:06 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rental searches for pet friendly properties drop after law change",
-      "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+      "title": "Left-wing Democrats are on a winning run in the US - but can they defeat Republicans?",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+      "summary": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
       "author": "",
-      "published": "Sun, 26 Jul 2026 00:00:49 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 03:58:51 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mr Motivator delivers fitness class at care home",
-      "link": "https://www.bbc.co.uk/news/articles/c36de4jz4e5o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 90s TV legend brightens up the day for a group of residents at a facility in West Yorkshire.",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
       "author": "",
-      "published": "Wed, 22 Jul 2026 07:13:07 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
-      "author": "",
-      "published": "Tue, 21 Jul 2026 00:16:08 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Extraordinary sight' of rare bird from Asia spotted in UK",
-      "link": "https://www.bbc.co.uk/news/videos/c8dnmv7356do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A long-tailed shrike has been spotted in Eastleach in Gloucestershire after flying off course from Asia.",
-      "author": "",
-      "published": "Mon, 20 Jul 2026 16:23:06 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Organ donation helped save seven lives after crash",
-      "link": "https://www.bbc.co.uk/news/articles/c77gjz0gkx5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tributes are paid to Edward Pearce after the 20-year-old died in a crash on the A27 near Pevensey.",
-      "author": "",
-      "published": "Tue, 21 Jul 2026 16:21:13 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 10:26:05 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +251,7 @@
       "summary": "Number 10 North opens its doors for the first time.",
       "author": "",
       "published": "Fri, 24 Jul 2026 15:28:00 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +261,7 @@
       "summary": "The White House has asked Congress for billions more dollars in funding for the Iran war",
       "author": "",
       "published": "Wed, 22 Jul 2026 09:00:00 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
@@ -261,77 +271,67 @@
       "summary": "Swing into action, your epic Spider-Man rewatch starts here",
       "author": "",
       "published": "Mon, 20 Jul 2026 20:05:00 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Joshua knocked down twice as dramatic win sets up Fury fight",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss",
+      "title": "After chaotic return, where does Joshua win leave Fury fight?",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cgr7gyv8zq0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Anthony Joshua suffers two knockdowns before recovering to dramatically stop Kristian Prenga in the second round.",
+      "summary": "Where does Anthony Joshua's chaotic comeback win over Kristian Prenga leave the super-fight with Tyson Fury?",
       "author": "",
-      "published": "Sat, 25 Jul 2026 23:06:47 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 07:33:35 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ramsay-Peaty in tears after missing out on gold again",
-      "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
+      "title": "Gymnast Ward goes from Glasgow dreamer to gold medallist",
+      "link": "https://www.bbc.co.uk/sport/gymnastics/articles/cx2r808lmreo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.",
+      "summary": "Twelve years ago, a young Reuben Ward watched wide-eyed as Dan Keatings won gymnastics gold for Scotland in Glasgow. Now he celebrates achieving the same feat in the 2026 Commonwealth Games.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 22:37:49 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 15:13:53 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Gomez injury overshadows winning start for Iraola",
+      "title": "England suffer heavy netball defeat by Australia",
+      "link": "https://www.bbc.co.uk/sport/netball/articles/cdrvg3ypx5yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England captain Fran Williams says her team were \"far from our best\" in a 66-47 defeat by defending Commonwealth champions Australia.",
+      "author": "",
+      "published": "Sun, 26 Jul 2026 13:02:04 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Gomez injury overshadows winning Liverpool start for Iraola",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
       "author": "",
       "published": "Sun, 26 Jul 2026 06:25:17 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Norris cautious despite pole as it 'falls apart' for Hamilton",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss",
+      "title": "Norris wins his first grand prix of year in Hungary",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lando Norris has an opportunity to win his first grand prix of the year in Hungary, but Lewis Hamilton says his positivity is being tested after another penalty.",
+      "summary": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 19:23:14 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 15:13:12 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     },
     {
       "source": "bbc",
-      "title": "Paris awaits as Pogacar poised to join Tour greats with fifth title",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
+      "title": "Raining sixes - Buttler goes big against Birmingham Phoenix",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyl6expd6wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.",
+      "summary": "Jos Buttler scores 90 off 50 balls, in an innings that included five sixes, as he helps his Manchester Super Giants side reach 187-5 against Birmingham Phoenix in the men's Hundred.",
       "author": "",
-      "published": "Sat, 25 Jul 2026 16:25:59 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Littler sets up Price final at World Matchplay",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/cx2dgz20n2ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Luke Littler is on course to beat Phil Taylor's tournament average record after another impressive victory saw him reach the final.",
-      "author": "",
-      "published": "Sat, 25 Jul 2026 22:02:12 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Arsenal explore Vinicius Jr move - Sunday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Arsenal explore move for Vinicius Jr, Inter Milan interested in Cristian Romero and Real Madrid bid for Yan Diomande rejected, plus more.",
-      "author": "",
-      "published": "Sat, 25 Jul 2026 21:21:03 GMT",
-      "fetched_at": "2026-07-26T07:59:24.774340+00:00"
+      "published": "Sun, 26 Jul 2026 15:37:12 GMT",
+      "fetched_at": "2026-07-26T15:47:20.543762+00:00"
     }
   ]
 }
