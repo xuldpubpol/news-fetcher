@@ -1,27 +1,97 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-27T12:39:42.931902+00:00",
-  "count": 34,
+  "fetched_at": "2026-07-27T21:48:33.016101+00:00",
+  "count": 41,
   "articles": [
     {
       "source": "bbc",
-      "title": "How wildfires in France and Spain may affect your travel plans",
-      "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+      "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
       "author": "",
-      "published": "Mon, 27 Jul 2026 12:09:48 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 20:34:55 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "NHS 'will collapse' without social care reform, PM tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
+      "title": "Devastating European wildfires in maps - and how they're being tackled",
+      "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
+      "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 08:19:08 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 15:59:27 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Funeral director who left people unburied breached families' trust 'on industrial scale', court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cp8ek0682jdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The sentencing hearing of Robert Bush hears how the funeral parlour was likened to a \"horror scene\".",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 16:46:19 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Reform UK reports Zack Polanski to police over guillotine t-shirt post",
+      "link": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 20:00:21 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
+      "link": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 16:38:33 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
+      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Ukrainian president became the new prime minister's first international visitor since taking office.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 15:58:27 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Carly Simon reveals Parkinson's diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 14:04:01 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 16:33:05 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "TV presenter and comedian Bill Oddie dies at 85",
+      "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 12:47:47 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
@@ -31,87 +101,47 @@
       "summary": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
       "author": "",
       "published": "Mon, 27 Jul 2026 11:50:13 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "TV presenter and comedian Bill Oddie dies at 85",
-      "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
+      "title": "US singer D4vd to go on trial for murder in death of teen",
+      "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
+      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 12:13:38 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 21:37:59 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "Girlguiding unveils first major redesign of uniform range since 1990",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&at_campaign=rss",
+      "title": "Teen denies endangering lives of 165 people on migrant boat crossing",
+      "link": "https://www.bbc.co.uk/news/articles/c8enp0y1r68o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Under the new rules, members will be able to wear a top from the new range with their own trousers.",
+      "summary": "Chan Mathok Atak, 19, from Sudan, is accused of endangering life during a sea journey to the UK.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 08:27:40 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 15:03:24 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man and woman die after being pulled from sea off Cornish beach",
-      "link": "https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&at_campaign=rss",
+      "title": "Wildfires 'stark reminder' of extreme climate challenge, says William",
+      "link": "https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A man and a woman both died at the scene after being recovered from the sea off Cornwall.",
+      "summary": "The prince's warning comes as wildfires rage in parts of Europe and the UK during a spell of extreme heat.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 12:34:59 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 19:59:01 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "Amber heat health alerts for parts of UK ahead of next heatwave",
-      "link": "https://www.bbc.co.uk/weather/articles/c9w08gkvvjdo?at_medium=RSS&at_campaign=rss",
+      "title": "France and Spain wildfire witnesses describe 'wall of flames', fear and stress",
+      "link": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Much of eastern England is under amber alerts from Wednesday as temperatures rise to the mid-30s Celsius again.",
+      "summary": "Local and visitors tell the BBC of disbelief and anxiety as wildfires force more than 300,000 people to evacuate.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 11:29:15 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Millions see leaked copy of The Odyssey movie on X",
-      "link": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X.",
-      "author": "",
-      "published": "Mon, 27 Jul 2026 09:21:10 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Oil price dives as US and Iran pause attacks",
-      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
-      "author": "",
-      "published": "Mon, 27 Jul 2026 11:50:23 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
-      "author": "",
-      "published": "Mon, 27 Jul 2026 07:37:11 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Would you choose £50,000 over the chance of £1m?",
-      "link": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
-      "author": "",
-      "published": "Sun, 26 Jul 2026 23:11:36 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 19:50:35 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
@@ -121,17 +151,67 @@
       "summary": "Certain types of severe wildfire can create pyrocumulonimbus - something that Nasa calls the \"fire-breathing dragon of clouds\".",
       "author": "",
       "published": "Mon, 27 Jul 2026 11:11:07 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What you need to know if you're travelling to France or Spain",
+      "link": "https://www.bbc.co.uk/news/videos/c89npw4q3g4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC’s cost of living correspondent explains how to handle holiday cancellations as a result of European wildfires.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 17:20:27 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham says he wants to fix social care - here are four ways he could do it",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "With Andy Burnham saying he wants to bring \"substantial change\" to social care in England, BBC Verify looks at what could be done.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 14:45:01 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
       "title": "Bill Oddie: Comedian who found nature a welcome refuge from mental illness",
       "link": "https://www.bbc.co.uk/news/articles/c4nnkylr0llo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Comedian and former Goodie who became a noted ornithologist and TV presenter.",
+      "summary": "One of Britain's best known comedians and naturalists, his life was plagued by bouts of acute depression which saw many visits to psychiatric hospitals.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 09:51:51 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 16:11:20 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How wildfires in France and Spain might affect your travel plans",
+      "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 13:21:49 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Would you choose £50,000 over the chance of £1m?",
+      "link": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
+      "author": "",
+      "published": "Sun, 26 Jul 2026 23:11:36 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why are thousands of mosquitoes being released in Washington DC?",
+      "link": "https://www.bbc.co.uk/news/videos/cglj0nl5d1wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Although counter intuitive, the male insects are being released as a form of pest control in the capital city.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 12:32:00 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +221,7 @@
       "summary": "Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power.",
       "author": "",
       "published": "Mon, 27 Jul 2026 05:00:13 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
@@ -151,27 +231,57 @@
       "summary": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
       "author": "",
       "published": "Mon, 27 Jul 2026 07:53:30 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "Losing my leg has elevated my life, says world champion surfer",
-      "link": "https://www.bbc.co.uk/news/articles/cp9lgj5mv1po?at_medium=RSS&at_campaign=rss",
+      "title": "Amber heat health alerts for parts of UK ahead of next heatwave",
+      "link": "https://www.bbc.co.uk/weather/articles/c9w08gkvvjdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Llywelyn Williams says anything is possible with any kind of disability.",
+      "summary": "Much of eastern England is under amber alerts from Wednesday as temperatures rise to the mid-30s Celsius again.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 05:04:45 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 11:29:15 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "From dragons to aliens: The hot air balloons that make everyone look up",
-      "link": "https://www.bbc.co.uk/news/articles/c204g48lzyjo?at_medium=RSS&at_campaign=rss",
+      "title": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "With Bristol Balloon Fiesta around the corner, we look at the wildest shapes to ever grace the skies.",
+      "summary": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 05:19:13 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 19:54:24 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Millions see leaked copy of The Odyssey movie on X",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 09:21:10 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ex political advisor admits fraud over expense claims",
+      "link": "https://www.bbc.co.uk/news/articles/cq895xvd04xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Matthew Torbitt was working for Bury South MP Christian Wakeford at th etime of the offences.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 17:38:53 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 12:33:31 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
@@ -181,67 +291,17 @@
       "summary": "The gallery describes the pop star as \"one of the defining cultural figures of her generation\".",
       "author": "",
       "published": "Mon, 27 Jul 2026 11:30:37 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "Luke Littler to take on everyday darts players in Netflix live event",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkew9kjd5o?at_medium=RSS&at_campaign=rss",
+      "title": "Nans who befriended pro wrestler on flight to Vegas in talks to make a film",
+      "link": "https://www.bbc.co.uk/news/articles/czxq4zl5jp2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 19-year-old darts champion will be challenged by 20 amateur players in a live event in October.",
+      "summary": "Four grandmothers who befriended a pro wrestler are in talks about bringing their story to the big screen.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 10:55:29 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zelensky arrives in UK ahead of meeting Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Ukrainian president will be the new prime minister's first international visitor since taking office.",
-      "author": "",
-      "published": "Mon, 27 Jul 2026 12:33:40 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Berlin Pride attack suspect shot and killed during police operation",
-      "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-      "author": "",
-      "published": "Sun, 26 Jul 2026 19:21:26 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "D4vd's Apple Music page reportedly hacked while singer faces murder charge",
-      "link": "https://www.bbc.co.uk/news/articles/cwyenzw2l4lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A song titled I Did It briefly appears on the musician's profile, as a pre-trial hearing continues.",
-      "author": "",
-      "published": "Mon, 27 Jul 2026 10:42:58 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Musk takes 'crusade' to Europe with Armie Hammer film",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4w5nwk00o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Musk has backed a film called Citizen Vigilante featuring an American vigilante tearing across an unnamed European country.",
-      "author": "",
-      "published": "Mon, 27 Jul 2026 09:52:21 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Scottish businessman and philanthropist Sir Ian Wood dies aged 84",
-      "link": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant.",
-      "author": "",
-      "published": "Mon, 27 Jul 2026 10:33:08 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 12:04:15 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +311,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +321,7 @@
       "summary": "Number 10 North opens its doors for the first time.",
       "author": "",
       "published": "Fri, 24 Jul 2026 15:28:00 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +331,7 @@
       "summary": "The White House has asked Congress for billions more dollars in funding for the Iran war",
       "author": "",
       "published": "Wed, 22 Jul 2026 09:00:00 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
@@ -281,67 +341,77 @@
       "summary": "Romesh asks the big question on an epic journey with a host of famous faces.",
       "author": "",
       "published": "Sun, 19 Jul 2026 09:00:00 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
+      "title": "Chelsea open talks to sign Henderson and Welbeck",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future.",
+      "summary": "Chelsea are in talks to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbeck.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 10:26:36 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 18:54:31 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "Meditate, pray or watch football instead of spreading hate - Infantino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
+      "title": "Inter in advanced talks with England defender Stones",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup.",
+      "summary": "England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 08:07:28 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 20:02:14 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "Record Spurs spend shows new ambition - Van de Ven",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss",
+      "title": "English football agrees trial to end goalkeeper tactical timeouts",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Micky van de Ven says Tottenham's record spending highlights a \"new ambition\" after an \"unacceptable\" season.",
+      "summary": "English football will implement a trial to try to eradicate the goalkeeper tactical timeout this season.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 07:00:41 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 17:32:56 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ferrari must 'do better' after errors in Hungary",
-      "link": "https://www.bbc.co.uk/sport/formula1/videos/c4gkrd4e8kno?at_medium=RSS&at_campaign=rss",
+      "title": "'Nothing makes sense' - Ramsay-Peaty beaten again",
+      "link": "https://www.bbc.co.uk/sport/swimming/articles/cqlx2r3l6z3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC F1 team discuss Ferrari's performance at the Hungarian Grand Prix as, despite appearing to be the car to beat in practice, Charles Leclerc and Lewis Hamilton finish the race in fourth and fifth respectively.",
+      "summary": "Adam Ramsay-Peaty says \"nothing makes sense\" as he again has to settle for bronze at the Commonwealth Games in Glasgow.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 09:00:38 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 20:29:33 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "England's Langton feared for gymnastics future after fall",
-      "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c20exv1q74vo?at_medium=RSS&at_campaign=rss",
+      "title": "Liverpool's centre-back situation and why Iraola must act",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpw9zw972l2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England's Gabriel Langton says he feared for his future in gymnastics after his horror fall at the Commonwealth Games.",
+      "summary": "BBC Sport looks at Liverpool's issues at centre-back, and what Andoni Iraola might do to fix them.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 11:28:32 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 16:58:59 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fury v Joshua closer but hurdles still to clear",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/ckg3xj2j27mo?at_medium=RSS&at_campaign=rss",
+      "title": "'Give him his passport' - Hearn backs British champion's citizenship fight",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c75gwq7l0rno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The long-awaited heavyweight fight between Britons Tyson Fury and Anthony Joshua moves a step closer after they won their respective warm-up fights.",
+      "summary": "British champion Bilal Fawaz has lived in the UK for more than 20 years but is fighting for British citizenship - his story features in a new BBC documentary.",
       "author": "",
-      "published": "Mon, 27 Jul 2026 11:49:49 GMT",
-      "fetched_at": "2026-07-27T12:39:33.510016+00:00"
+      "published": "Mon, 27 Jul 2026 14:07:32 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Injured Draper withdraws on eve of another tournament",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cx25jndr1zyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Former British number one Jack Draper withdraws from another event because of issues around his recurring long-term arm injury.",
+      "author": "",
+      "published": "Mon, 27 Jul 2026 20:30:35 GMT",
+      "fetched_at": "2026-07-27T21:48:21.182065+00:00"
     }
   ]
 }
