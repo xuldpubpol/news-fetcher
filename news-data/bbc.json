@@ -1,6 +1,6 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-28T17:11:37.385188+00:00",
+  "fetched_at": "2026-07-28T21:46:36.760244+00:00",
   "count": 35,
   "articles": [
     {
@@ -11,7 +11,27 @@
       "summary": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
       "author": "",
       "published": "Tue, 28 Jul 2026 15:32:37 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+      "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 17:32:56 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Uefa and PM criticise Infantino World Cup plan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -21,17 +41,17 @@
       "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
       "author": "",
       "published": "Tue, 28 Jul 2026 16:14:03 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
-      "title": "Uefa reacts with fury to Infantino World Cup plan",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+      "summary": "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine.",
       "author": "",
-      "published": "Tue, 28 Jul 2026 15:36:29 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "published": "Tue, 28 Jul 2026 20:57:29 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -41,27 +61,17 @@
       "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
       "author": "",
       "published": "Tue, 28 Jul 2026 16:12:35 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
-      "title": "Powell says student loan system at top of in-tray",
-      "link": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss",
+      "title": "Grieving mum was told baby's ashes were animal remains",
+      "link": "https://www.bbc.co.uk/news/articles/cly5jvegxeqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\".",
+      "summary": "Lucy Ness says \"I hope my baby's remains are with someone who loves them like I loved these\".",
       "author": "",
-      "published": "Tue, 28 Jul 2026 14:50:02 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Funeral director 'left baby's remains on floor for two years'",
-      "link": "https://www.bbc.co.uk/news/articles/cg5lv0jp5veo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Victims who lost babies tearfully recall how they were given wrong ashes by Robert Bush.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 16:48:13 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "published": "Tue, 28 Jul 2026 18:48:45 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -71,157 +81,17 @@
       "summary": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
       "author": "",
       "published": "Tue, 28 Jul 2026 11:38:26 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
-      "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+      "title": "Powell says student loan system at top of in-tray",
+      "link": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
+      "summary": "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\".",
       "author": "",
-      "published": "Tue, 28 Jul 2026 16:55:32 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 15:11:28 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "House of the Dragon star Bethany Antonia joins Strictly line-up",
-      "link": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "She plays Lady Baela Targaryen in HBO's Game of Thrones prequel, and  is the ninth celebrity to be confirmed.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 12:02:45 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Can Burnham's vision for Manchester's schools really work for the rest of England?",
-      "link": "https://www.bbc.co.uk/news/articles/c79gevrvgddo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister's plans for technical education have their roots in the Manchester Baccalaureate.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 14:03:55 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Is it safe to travel to Spain and France right now?",
-      "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 13:54:20 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-      "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 05:01:19 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why is Ukraine rolling out the red carpet for a US far-right influencer?",
-      "link": "https://www.bbc.co.uk/news/videos/cn8n41ywwj1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Laura Loomer, Trump ally, MAGA influencer, and former Ukraine critic was granted extensive access to the country.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 13:13:26 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Booker Prize longlist: See the 13 'dynamite' novels up for this year's prestigious award",
-      "link": "https://www.bbc.co.uk/news/articles/czekl599087o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Elizabeth Strout, Douglas Stuart and Marlon James are among the 13 authors recognised this year.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 13:00:16 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "‘I’d found the missing piece to a puzzle’: How attachment theory is shaping modern dating",
-      "link": "https://www.bbc.co.uk/news/articles/cnv95790mgpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Attachment theory is everywhere right now, but what is it and how can you use it to improve your relationships?",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 00:21:34 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How afraid should we be of jellyfish off UK shores?",
-      "link": "https://www.bbc.co.uk/news/articles/c8xnjx1erqdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Many people are scared of the jellyfish due to the fear of painful stings and the creature's unpredictable nature in the water.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 05:11:31 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Laughter and tears at Dame Penelope Keith funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cg5lvm91nzmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Broadcaster Gyles Brandreth says the service at Guildford Cathedral was \"deeply moving\".",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 15:59:50 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
-      "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 16:35:05 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Local match goes viral over cheating claim",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A viral video appears to show a fielder in a local match clicking his fingers as the ball passes the bat, before the batter is given out caught behind.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 09:11:45 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mother and boyfriend guilty of murder of girl, two",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9lv27v69o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Prosecutors say Isabelle Welsh was subjected to a \"wicked\" campaign of abuse before her death.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 12:49:20 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US walks out of UN Security Council meeting during France's remarks",
-      "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 09:32:25 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "published": "Tue, 28 Jul 2026 14:50:02 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +101,147 @@
       "summary": "The TV host is caught speeding twice in Herefordshire in the space of three weeks, magistrates hear.",
       "author": "",
       "published": "Tue, 28 Jul 2026 12:43:07 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
+      "link": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 16-year-old lifeguard rescued a 10-year-old boy from a beach in Santa Cruz, California after the boy had been swept offshore.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 21:09:21 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Can Burnham's vision for Manchester's schools really work for the rest of England?",
+      "link": "https://www.bbc.co.uk/news/articles/c79gevrvgddo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister's plans for technical education have their roots in the Manchester Baccalaureate.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 14:03:55 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Is it safe to travel to Spain and France right now?",
+      "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 13:54:20 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 05:01:19 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why is Ukraine rolling out the red carpet for a US far-right influencer?",
+      "link": "https://www.bbc.co.uk/news/videos/cn8n41ywwj1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Laura Loomer, Trump ally, MAGA influencer, and former Ukraine critic was granted extensive access to the country.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 13:13:26 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Booker Prize longlist: See the 13 'dynamite' novels up for this year's prestigious award",
+      "link": "https://www.bbc.co.uk/news/articles/czekl599087o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Elizabeth Strout, Douglas Stuart and Marlon James are among the 13 authors recognised this year.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 13:00:16 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "‘I’d found the missing piece to a puzzle’: How attachment theory is shaping modern dating",
+      "link": "https://www.bbc.co.uk/news/articles/cnv95790mgpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Attachment theory is everywhere right now, but what is it and how can you use it to improve your relationships?",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 00:21:34 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How afraid should we be of jellyfish off UK shores?",
+      "link": "https://www.bbc.co.uk/news/articles/c8xnjx1erqdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Many people are scared of the jellyfish due to the fear of painful stings and the creature's unpredictable nature in the water.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 05:11:31 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Local match goes viral over cheating claim",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A viral video appears to show a fielder in a local match clicking his fingers as the ball passes the bat, before the batter is given out caught behind.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 09:11:45 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
+      "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 18:19:57 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 16:37:02 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 16:35:05 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Mother and boyfriend guilty of murder of girl, two",
+      "link": "https://www.bbc.co.uk/news/articles/cvg9lv27v69o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Prosecutors say Isabelle Welsh was subjected to a \"wicked\" campaign of abuse before her death.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 12:49:20 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "House of the Dragon star Bethany Antonia joins Strictly line-up",
+      "link": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "She plays Lady Baela Targaryen in HBO's Game of Thrones prequel, and  is the ninth celebrity to be confirmed.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 12:02:45 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +251,7 @@
       "summary": "Gymnast Ruby Evans wins Wales' first gold at the Glasgow Commonwealth Games with victory in the floor final.",
       "author": "",
       "published": "Tue, 28 Jul 2026 15:31:47 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +271,7 @@
       "summary": "Burnham outlines education reforms with technical subjects available from age 14.",
       "author": "",
       "published": "Tue, 28 Jul 2026 16:11:00 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +281,7 @@
       "summary": "And, why is the US-Saudi nuclear deal splitting the Republican Party?",
       "author": "",
       "published": "Mon, 27 Jul 2026 19:29:00 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -281,17 +291,17 @@
       "summary": "Shabaz Ali turns author to see if the internet's favourite villains deserve the hate.",
       "author": "",
       "published": "Tue, 28 Jul 2026 05:00:00 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
-      "title": "Uefa says Fifa plan for private investment in World Cup 'crosses line'",
+      "title": "Uefa and PM criticise Infantino World Cup plan",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+      "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
       "author": "",
       "published": "Tue, 28 Jul 2026 15:36:29 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +311,7 @@
       "summary": "Xabi Alonso's first game as Chelsea manager is defined by four strikers - from one who scored a hat-trick to one who could leave.",
       "author": "",
       "published": "Tue, 28 Jul 2026 13:28:28 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +321,17 @@
       "summary": "Zinedine Zidane says he waited for the France job, but what will he bring to the role after after five years out of management?",
       "author": "",
       "published": "Tue, 28 Jul 2026 17:04:09 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Despair to delight for Wales' golden girl Evans",
+      "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c3r088n0wlwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Gymnast Ruby Evans goes from despair to gold in Glasgow after glory in the floor final at the Commonwealth Games.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 20:00:36 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
@@ -321,37 +341,17 @@
       "summary": "Celtic break their transfer record to sign Denmark striker Kasper Hogh from Bodo/Glimt on a four-year contract.",
       "author": "",
       "published": "Tue, 28 Jul 2026 14:43:18 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mancini reappointed Italy boss after Pirlo controversy",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+      "title": "Savinho open to leaving Man City amid Spurs interest",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2kqvkwz17o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
+      "summary": "Manchester City winger Savinho is open to leaving the club and is keen to join Premier League rivals Tottenham.",
       "author": "",
-      "published": "Tue, 28 Jul 2026 13:54:00 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Would Leeds move help Trafford oust Pickford from England team?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyer1yze4jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Sport examines James Trafford's England chances after a big-money move to Leeds",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 16:28:44 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Classy Mandhana helps Super Giants beat Sunrisers",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cy8edypvdxpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Smriti Mandhana's masterful unbeaten 88 off 50 balls guides Manchester Super Giants to a four-wicket win over Sunrisers Leeds in The Hundred.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 17:01:12 GMT",
-      "fetched_at": "2026-07-28T17:11:33.659824+00:00"
+      "published": "Tue, 28 Jul 2026 19:37:04 GMT",
+      "fetched_at": "2026-07-28T21:46:28.506345+00:00"
     }
   ]
 }
