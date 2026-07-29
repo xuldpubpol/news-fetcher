@@ -1,8 +1,38 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-29T10:12:39.319348+00:00",
-  "count": 33,
+  "fetched_at": "2026-07-29T16:51:43.147001+00:00",
+  "count": 36,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "More than half of England in drought, Environment Agency declares",
+      "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 14:37:30 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham doesn't rule out tax rises to fix social care",
+      "link": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 16:32:53 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 16:10:40 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
     {
       "source": "bbc",
       "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
@@ -11,7 +41,37 @@
       "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
       "author": "",
       "published": "Wed, 29 Jul 2026 05:00:07 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Is World Cup sell-off plan a step too far by Infantino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport explores why Fifa president Gianni Infantino feels powerful enough to sell off stakes in the World Cup - and what the consequences could be.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 13:48:10 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 16:23:41 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Some tech shares are plunging - what does that mean for the AI revolution?",
+      "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 15:32:28 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
@@ -20,138 +80,78 @@
       "full_text": "",
       "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 09:39:56 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "published": "Wed, 29 Jul 2026 13:48:41 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "OpenAI says its rogue AI tried to hack other companies",
-      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "title": "Funeral boss 'abandoned' bodies to 'let nature take its course'",
+      "link": "https://www.bbc.co.uk/news/articles/crrvql770nyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+      "summary": "Hull Crown Court hears details of the disturbing scenes inside Legacy Independent Funeral Directors.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 08:49:27 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "published": "Wed, 29 Jul 2026 13:08:05 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "Today's 20-somethings really do have it worse than their parents - here's why",
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
+      "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 16:49:06 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "BBC cancels Blankety Blank, Celebrity Mastermind and Live at the Apollo due to budget cuts",
+      "link": "https://www.bbc.co.uk/news/articles/clyx8j33k7zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The corporation said it was \"incredibly proud\" of all three shows, but that it must make savings.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 13:02:12 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Prince Harry media battle legal bill expected to cost millions",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj8l477vpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Earlier this month, a judge ruled against a group - which includes the Duke of Sussex and Sir Elton John - after they sued the Daily Mail's publisher.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 15:04:34 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The athlete who has never held her Olympic medal",
+      "link": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The story of Cameroon Olympic medallist Madias Ngake's remarkable journey from sleeping rough and seeking asylum to competing for England at Glasgow 2026.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 05:23:46 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Every day I'm just winging it': The families hoping for social care reform",
+      "link": "https://www.bbc.co.uk/news/articles/ce8lzdgzee9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As Andy Burnham outlines his aim to overhaul social care, BBC News speaks to the families caring for loved ones.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 16:43:42 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Three ways that today's 20-somethings really do have it worse than their parents",
       "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
       "author": "",
       "published": "Tue, 28 Jul 2026 23:52:23 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
-      "link": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 00:49:40 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Amber heat health alerts to come into force as heatwave reaches 35C peak",
-      "link": "https://www.bbc.co.uk/weather/articles/cgq534n0w85o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Wednesday is set to be the hottest day of the week for many as a widespread fourth heatwave grips the UK.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 23:50:34 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-      "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 05:01:12 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-      "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 23:00:15 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
-      "link": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 08:22:53 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "More young couples are now signing prenups to set out who gets what in the event of divorce.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 23:00:07 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I turned down Love Island and won silver at the Commonwealth Games",
-      "link": "https://www.bbc.co.uk/news/articles/cg4dve90w90o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Katie Shanahan was offered the chance to appear on the dating show last year - but decided she wanted to inspire a new generation of young swimmers.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 22:10:02 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 23:25:53 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake",
-      "link": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Rescue operations are ongoing following the 6.8-magnitude quake, as survivors wrestle with the shock.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 06:07:26 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Thousands in Sudan forced to flee city over fears of new paramilitary attack",
-      "link": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 05:01:46 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Night terrors, flashbacks and panic attacks - former police reveal trauma",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjqy7lrx5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Home Office says it will expand support for officers exposed to trauma from policing.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 05:01:04 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
@@ -161,77 +161,107 @@
       "summary": "The YouTube star on helping young creatives, and who she wants (and doesn’t want) on her show.",
       "author": "",
       "published": "Wed, 29 Jul 2026 05:02:05 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump administration bans new Chinese humanoid robots",
-      "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+      "summary": "More young couples are now signing prenups to set out who gets what in the event of divorce.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 02:30:50 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "published": "Tue, 28 Jul 2026 23:00:07 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "FA 'deeply concerned' by Fifa plan as Uefa to meet",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
+      "title": "'I'm fortunate I survived a stage 4 diagnosis when so many didn't make it'",
+      "link": "https://www.bbc.co.uk/news/articles/cg5lv1l87njo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Football Association says it is concerned by Fifa's proposals to sell stakes in its major competitions as Uefa's 55 member associations hold an emergency meeting to discuss the issue.",
+      "summary": "Diagnosed with an aggressive form of breast cancer 10 years ago, aged 37, Lynette McHendry has defied the odds to face down the disease.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 09:46:28 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "published": "Tue, 28 Jul 2026 23:00:07 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+      "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+      "summary": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 04:43:36 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "published": "Wed, 29 Jul 2026 05:01:12 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
-      "link": "https://www.bbc.co.uk/news/articles/clyjgyd0225o?at_medium=RSS&at_campaign=rss",
+      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "All seven members of the band post a statement online, saying they will boycott the 2027 ceremony.",
+      "summary": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 08:16:15 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "published": "Wed, 29 Jul 2026 15:33:14 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+      "title": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
+      "link": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+      "summary": "The blaze has destroyed about 25 sq km of moorland and forestry near Aviemore since Wednesday 15 July.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 09:51:49 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "published": "Wed, 29 Jul 2026 16:10:59 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
-      "link": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
+      "title": "Teenage Norwegian 'hitman' guilty of UK murder plot",
+      "link": "https://www.bbc.co.uk/news/articles/cwyqggvyp1do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
+      "summary": "Johannes Natland travelled to Huddersfield to carry out a 'hit' in March last year.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 09:07:40 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "published": "Wed, 29 Jul 2026 12:57:49 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "Report on Jewish diaspora finds biggest rise in antisemitism in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd240eelmo?at_medium=RSS&at_campaign=rss",
+      "title": "Russell T Davies says death of late husband has been his 'greatest loss'",
+      "link": "https://www.bbc.co.uk/news/articles/c36d56x3ln6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The report also says 2025 was the deadliest year for Jews living outside Israel in more than 30 years.",
+      "summary": "The Doctor Who writer spoke about the death of Andrew Smith, who died in 2018 from a brain tumour.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 08:11:01 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "published": "Wed, 29 Jul 2026 11:16:21 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Boy, 7, dies in hospital after beach tragedy",
+      "link": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 15:47:18 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man accused of Andrew Mountbatten-Windsor threat faces December trial",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekn8qkeeko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Alex Jenkinson, 39, is accused of causing the former Duke of York to \"fear unlawful violence\" as he walked his dogs.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 15:29:22 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+      "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 11:47:05 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +281,7 @@
       "summary": "Burnham outlines education reforms with technical subjects available from age 14.",
       "author": "",
       "published": "Tue, 28 Jul 2026 16:11:00 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
@@ -261,77 +291,77 @@
       "summary": "And, why is the US-Saudi nuclear deal splitting the Republican Party?",
       "author": "",
       "published": "Mon, 27 Jul 2026 19:29:00 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "Shabaz Ali takes the 'billionaire debate' into the real world",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002ydrr?at_mid=kpNfCZ035k&at_campaign=Shabaz_Asks_Are_Billionaires_Bad&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002ydrr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Shabaz_Asks_Are_Billionaires_Bad&at_bbc_team=BBC",
+      "title": "A powerful Australian drama set in a remote 1940s orphanage",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002zkzx?at_mid=cTISPj7XMo&at_campaign=The_New_Boy&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zkzx&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_New_Boy&at_bbc_team=BBC&at_creation=FILM",
       "full_text": "",
-      "summary": "Shabaz Ali turns author to see if the internet's favourite villains deserve the hate.",
+      "summary": "The miracle is in the mystery. A nun's faith is challenged by an orphan at her monastery",
       "author": "",
       "published": "Tue, 28 Jul 2026 05:00:00 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     },
     {
       "source": "bbc",
-      "title": "FA concerns over Fifa plan that could lead to Uefa World Cup boycott",
+      "title": "Is World Cup sell-off plan a step too far by Infantino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport explores why Fifa president Gianni Infantino feels powerful enough to sell off stakes in the World Cup - and what the consequences could be.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 13:48:10 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Liverpool preparing opening bid for PSG's Barcola",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Liverpool step up their interest for Paris St-Germain's Bradley Barcola and are preparing an opening bid.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 15:42:20 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Season to end in Europe if war continues - F1 boss",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cx2r0ne2ky1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Formula 1 president Stefano Domenicali says the 2026 championship will end in Europe if the conflict in the Middle East makes it impossible to hold the season-closing races in Qatar and Abu Dhabi.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 11:04:52 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Saltburn concede cup match amid 'finger-clicking' claim",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cg7m5grrp7ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Saltburn Cricket Club were placed under investigation by the North Yorkshire and South Durham Cricket League earlier this week.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 13:36:52 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Welsh Rugby Union confirms Scarlets or Ospreys to be cut",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c171w048jdgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Welsh Rugby Union gives details of how it intends to cut a team - with Ospreys and Scarlets set to fight to be the side in south west Wales.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 14:22:39 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fifa offers $40m if nations back controversial plan",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Football Association says it is concerned by Fifa's proposals to sell stakes in its major competitions as Uefa's 55 member associations hold an emergency meeting to discuss the issue.",
+      "summary": "Fifa has set a deadline of 19 September for member associations to access cash as FA voice disapproval of world governing body's funding plan before emergency Uefa meeting.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 09:46:28 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Diomande's rapid and remarkable rise to Real Madrid",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm2g3dd2jxko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Yan Diomande has quickly gone from being a relatively unknown winger to the brink of becoming Real Madrid's record signing.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 06:28:17 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Soggy socks & a slathering of deep heat - rain causes chaos in Glasgow",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c80nk2v5gmmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Torrential rain causes chaos at the athletics in the Commonwealth Games, but England's Amy Hunt produces one of a number of impressive performances.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 23:08:14 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Five things we've learned from first half of F1 season",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/clyj898j2p0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC F1 correspondent Andrew Benson analyses the five key things we've learned from the 2026 season so far.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 07:29:19 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Villa offer glimpse into future despite friendly loss",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg4dv0qyvzvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Youngsters Brian Madjo and George Hemmings scored in Aston Villa's defeat to Real Sociedad.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 20:47:11 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Grealish misses Man City tour despite training return",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdx8kx5941no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jack Grealish will not make his return in a Manchester City shirt after being left out of the club's pre-season tour of Asia as he continues to recover from a foot injury.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 07:26:32 GMT",
-      "fetched_at": "2026-07-29T10:12:31.025744+00:00"
+      "published": "Wed, 29 Jul 2026 14:56:22 GMT",
+      "fetched_at": "2026-07-29T16:51:41.424571+00:00"
     }
   ]
 }
