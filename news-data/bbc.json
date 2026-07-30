@@ -1,17 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-30T17:09:20.658199+00:00",
-  "count": 32,
+  "fetched_at": "2026-07-30T21:49:02.745913+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
       "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions.",
+      "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
       "author": "",
       "published": "Thu, 30 Jul 2026 16:47:40 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Suffolk wildfire still growing and unpredictable, says fire service",
+      "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 18:50:57 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -21,7 +31,17 @@
       "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
       "author": "",
       "published": "Thu, 30 Jul 2026 16:04:53 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Andy Burnham to give regional mayors share of income tax",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 21:32:09 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -31,27 +51,67 @@
       "summary": "Wales is on course for its driest July on record in almost 190 years.",
       "author": "",
       "published": "Thu, 30 Jul 2026 14:15:09 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Greens review social media operation as Polanski row rumbles on",
-      "link": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo?at_medium=RSS&at_campaign=rss",
+      "title": "MP Diane Abbott readmitted into Labour Party after suspension",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Green Party is grappling with how to manage its social media following a controversial post by its leader.",
+      "summary": "The long-serving MP apologises for past comments and says she has been issued with a \"formal warning\".",
       "author": "",
-      "published": "Thu, 30 Jul 2026 16:42:21 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "published": "Thu, 30 Jul 2026 20:54:11 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Palestine Action ban to be reviewed by Supreme Court",
-      "link": "https://www.bbc.co.uk/news/articles/c87n321w9qlo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The UK's highest court gives Palestine Action permission to appeal the government's proscription of the group under anti-terrorism legislation.",
+      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
       "author": "",
-      "published": "Thu, 30 Jul 2026 16:43:35 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "published": "Thu, 30 Jul 2026 21:24:31 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "British Airways flight called mayday on approach to Heathrow",
+      "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 17:34:26 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why limited war with the US may suit Iran better than peace",
+      "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 17:26:01 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Archbishop of Canterbury committed to £100m slavery fund",
+      "link": "https://www.bbc.co.uk/news/articles/cp9e03ymreyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Dame Sarah Mullally has renewed her commitment to the fund on a visit to Cape Coast Castle in Ghana.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 19:44:00 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 17:55:24 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -61,47 +121,17 @@
       "summary": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
       "author": "",
       "published": "Thu, 30 Jul 2026 16:19:08 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man impaled by a hiking pole treks 10 miles down mountain",
-      "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
+      "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
+      "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
       "author": "",
-      "published": "Thu, 30 Jul 2026 15:47:09 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Four people die after busiest day for small-boat crossings this year",
-      "link": "https://www.bbc.co.uk/news/articles/c5yd2j93r7ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "Between 1 January and 29 July 2026, a total of 14,128 people crossed the English Channel by small boat from France. This was down by 42% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 42% of asylum applications between April 2025 to March 2026.\nBoats that arrived in the UK from 30 July 2025 to 29 July 2026 carried an average of 67 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from April 2025 to March 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,000 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,535 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from April 2025 to March 2026. This was down by 22% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
-      "summary": "Two deadly incidents occurred as 752 people crossed the Channel into the UK on Wednesday, new figures show.",
-      "author": "",
-      "published": "Thu, 30 Jul 2026 14:56:47 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Missile that left crater deep inside Poland was probably Russian, Polish PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-      "author": "",
-      "published": "Thu, 30 Jul 2026 15:35:50 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-      "author": "",
-      "published": "Thu, 30 Jul 2026 10:49:14 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "published": "Thu, 30 Jul 2026 21:40:21 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -111,17 +141,7 @@
       "summary": "There has been a large rise in the number of offenders being recalled to prisons in England and Wales.",
       "author": "",
       "published": "Thu, 30 Jul 2026 12:13:51 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zendaya and Tom Holland's decade-long Spider-Man romance in pictures",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kel0yv11o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A look back at 10 years of Spider-Man movie premieres for the newlyweds.",
-      "author": "",
-      "published": "Thu, 30 Jul 2026 10:57:53 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -131,17 +151,7 @@
       "summary": "More than half of England and the whole of Wales has been declared to be in drought this week - the third such event over the past five years.",
       "author": "",
       "published": "Thu, 30 Jul 2026 14:54:42 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Chinese robot army transforming the UK's retail industry",
-      "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 22:08:29 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -151,17 +161,7 @@
       "summary": "Neon is on trend, but some make-up products pose a serious risk to your health. Here's what to check for, and how to dazzle.",
       "author": "",
       "published": "Thu, 30 Jul 2026 00:22:27 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How the UK's extreme heat is shifting the conversation about air-con",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Should we embrace air conditioning despite its costs and consequences?",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 23:33:01 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -171,17 +171,27 @@
       "summary": "Glen Hansard, who died in a motorbike crash on Wednesday, travelled an unusual journey to stardom.",
       "author": "",
       "published": "Thu, 30 Jul 2026 14:41:50 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Giant iceberg turns over near  Greenland's coast",
-      "link": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss",
+      "title": "Palestine Action ban to be reviewed by Supreme Court",
+      "link": "https://www.bbc.co.uk/news/articles/c87n321w9qlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Video captured by a passerby showed the moment the iceberg collapsed, creating a big wave.",
+      "summary": "The UK's highest court gives Palestine Action's co-founder permission to appeal the government's proscription of the group under anti-terrorism legislation.",
       "author": "",
-      "published": "Thu, 30 Jul 2026 10:54:36 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "published": "Thu, 30 Jul 2026 19:45:56 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man impaled by a hiking pole treks 10 miles down mountain",
+      "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 15:47:09 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +201,37 @@
       "summary": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
       "author": "",
       "published": "Thu, 30 Jul 2026 16:33:40 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 10:49:14 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Greens review social media operation as Polanski row rumbles on",
+      "link": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Green Party is grappling with how to manage its social media following a controversial post by its leader.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 16:42:21 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Four people die after busiest day for small-boat crossings this year",
+      "link": "https://www.bbc.co.uk/news/articles/c5yd2j93r7ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "Between 1 January and 29 July 2026, a total of 14,128 people crossed the English Channel by small boat from France. This was down by 42% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 42% of asylum applications between April 2025 to March 2026.\nBoats that arrived in the UK from 30 July 2025 to 29 July 2026 carried an average of 67 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from April 2025 to March 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,000 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,535 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from April 2025 to March 2026. This was down by 22% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
+      "summary": "Two deadly incidents occurred as 752 people crossed the Channel into the UK on Wednesday, new figures show.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 17:23:52 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -201,47 +241,7 @@
       "summary": "Elisabeth-Jane Ross's body was found in an abandoned building in the Kypseli district in Athens on 18 July.",
       "author": "",
       "published": "Thu, 30 Jul 2026 13:47:19 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Olivia Dean nominated and  Lily Allen missing from Mercury Prize list",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "This year's best album shortlist includes several returning nominees - but Lily Allen misses out.",
-      "author": "",
-      "published": "Thu, 30 Jul 2026 09:45:12 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Dad pays tribute to son who died after sea rescue",
-      "link": "https://www.bbc.co.uk/news/articles/c5yd2xx923yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Seven-year-old Musa Ahmed is remembered as a boy who \"never failed to bring happiness\" to others.",
-      "author": "",
-      "published": "Thu, 30 Jul 2026 14:28:03 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Former England football star Shaun Wright-Phillips joins Strictly line-up",
-      "link": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The sportsman - who is also the son of Arsenal legend Ian Wright - played for clubs including Manchester City.",
-      "author": "",
-      "published": "Thu, 30 Jul 2026 11:54:21 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Holidaymakers warned about 'explosive diarrhoea' cyclospora parasite infection",
-      "link": "https://www.bbc.co.uk/news/articles/ckgv614qn2do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The UK is seeing a sharp rise in cases - 67 since April - with many of them among travellers returning from Mexico.",
-      "author": "",
-      "published": "Thu, 30 Jul 2026 11:10:02 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +251,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +261,7 @@
       "summary": "Fast moving Suffolk wildfire \"is not yet under control\" as major incident declared.",
       "author": "",
       "published": "Thu, 30 Jul 2026 16:13:00 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "Laura Loomer, one of Trump's favourite influencers, has interviewed Zelensky.",
       "author": "",
       "published": "Wed, 29 Jul 2026 16:23:00 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -281,17 +281,27 @@
       "summary": "Multiple women accuse Oscar-winning Hollywood actor Jared Leto of sexual misconduct.",
       "author": "",
       "published": "Wed, 29 Jul 2026 05:00:00 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 21:40:21 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
       "title": "Uefa to boycott World Cups if Fifa plans approved",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions.",
+      "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
       "author": "",
       "published": "Thu, 30 Jul 2026 16:47:40 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +311,7 @@
       "summary": "MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe.",
       "author": "",
       "published": "Thu, 30 Jul 2026 15:10:54 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +321,7 @@
       "summary": "Former skipper Michael Vaughan says the England Test captaincy could be \"exactly what Joe Root needs\" after the 35-year-old is appointed to the role for a second time.",
       "author": "",
       "published": "Thu, 30 Jul 2026 16:20:36 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     },
     {
       "source": "bbc",
@@ -321,7 +331,17 @@
       "summary": "Newcastle United wanted to become one of the world's top clubs under their Saudi owners - but Eddie Howe's decision to leave is a sign of the troubles they are facing.",
       "author": "",
       "published": "Thu, 30 Jul 2026 12:31:22 GMT",
-      "fetched_at": "2026-07-30T17:09:17.574494+00:00"
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Vomit in the morning, gold in the afternoon for England's gamblers",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/c1w1px5989xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sickness struck England's team pursuit squad on Thursday morning, but a late gamble and fine ride secured Commonwealth Games gold in the velodrome.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 20:26:30 GMT",
+      "fetched_at": "2026-07-30T21:48:57.875239+00:00"
     }
   ]
 }
