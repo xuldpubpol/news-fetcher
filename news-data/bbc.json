@@ -1,37 +1,87 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-29T20:40:21.916060+00:00",
-  "count": 32,
+  "fetched_at": "2026-07-30T08:00:41.631688+00:00",
+  "count": 35,
   "articles": [
     {
       "source": "bbc",
-      "title": "More than half of England in drought, Environment Agency declares",
-      "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 14:37:30 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 05:36:27 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Moment police officers set foot in 'horror scene' funeral home",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
+      "title": "Cooler conditions on the way for parts of UK - but still no rain for drought-hit areas",
+      "link": "https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.",
+      "summary": "After another day of record-breaking temperatures for some parts of England, a cold front is moving in.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 17:00:41 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 01:40:07 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "title": "How the UK's extreme heat is shifting the conversation about air-con",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "summary": "Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?",
       "author": "",
-      "published": "Wed, 29 Jul 2026 17:04:42 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Wed, 29 Jul 2026 23:33:01 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 07:27:19 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Israel building new land barriers in Gaza and displacing families",
+      "link": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 05:05:24 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Zendaya says working with husband Tom Holland 'easy when you're best friends'",
+      "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 20:21:46 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 02:54:54 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How serial killer James Desborough preyed on vulnerable homeless men",
+      "link": "https://www.bbc.co.uk/news/articles/c3307d54ep7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Killer James Desborough cut up and burned his victims before dumping them in woodland near his home.",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 05:19:36 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
@@ -41,17 +91,17 @@
       "summary": "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers.",
       "author": "",
       "published": "Wed, 29 Jul 2026 19:53:48 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "title": "Uefa to hold emergency meeting over controversial Fifa World Cup plans",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 18:41:31 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 05:20:36 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
@@ -61,167 +111,147 @@
       "summary": "Study suggests less sugar in early life is good for long-term brain health, but the evidence is not conclusive.",
       "author": "",
       "published": "Wed, 29 Jul 2026 20:02:45 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Zendaya says working with husband Tom Holland 'easy when it's your best friend' at Spider-Man premiere",
-      "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "title": "Beauty Pie founder on how she dropped out of university and built five businesses",
+      "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+      "summary": "Marcia Kilgore, who also founded Soap & Glory and Fitflop, shares her top tips on how to create a successful business.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 20:21:46 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Wed, 29 Jul 2026 23:02:18 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fifa opens disciplinary proceedings against Argentina",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "title": "The Chinese robot army transforming the UK's retail industry",
+      "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+      "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 17:21:57 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Wed, 29 Jul 2026 22:08:29 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "France fire crews battle heat as locals tell BBC of fight to save homes",
-      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Future looking droughtful' and 'Dinghy flotilla'",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1zg9j5plo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
+      "summary": "Drought leaves UK parched and a \"dinghy flotilla\" crossing the English Channel lead Thursday's papers.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 16:49:41 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 05:00:01 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham doesn't rule out tax rises to fix social care",
-      "link": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
+      "title": "How to do neon festival make-up without harming your skin",
+      "link": "https://www.bbc.co.uk/news/articles/c0m71plpj0mo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
+      "summary": "Neon is on trend, but some make-up products pose a serious risk to your health. Here's what to check for, and how to dazzle.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 16:32:53 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 00:22:27 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Peppa Pig owners win copyright battle against 'impostor' Wolfoo",
-      "link": "https://www.bbc.co.uk/news/articles/clyx8lreydno?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A judge orders all videos featuring the popular animated wolf to be removed from YouTube.",
+      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 17:19:54 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Wed, 29 Jul 2026 18:41:31 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "title": "He watched the 1966 World Cup final at Wembley aged 16 - no day since has matched it",
+      "link": "https://www.bbc.co.uk/news/articles/c9d377g4nxyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "summary": "Kenneth Farrington shares his memories of the 1966 World Cup Final, 60 years on.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 17:58:42 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Wed, 29 Jul 2026 23:35:49 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "The athlete who has never held her Olympic medal",
-      "link": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
+      "title": "Your burger costs more this summer, but farmers say they're not cashing in",
+      "link": "https://www.bbc.co.uk/news/articles/c1519n0d01jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The story of Cameroon Olympic medallist Madias Ngake's remarkable journey from sleeping rough and seeking asylum to winning silver for England at Glasgow 2026.",
+      "summary": "The prices of beef, bread buns and bagged salad have risen sharply over the past year, figures show.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 19:38:24 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 00:04:19 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pictures show scale of drought across England as rivers dry up",
-      "link": "https://www.bbc.co.uk/news/articles/cgljz92j0j0o?at_medium=RSS&at_campaign=rss",
+      "title": "Shell profits double as oil prices rise due to Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Parks are parched and reservoirs diminished as drought is declared in more than half of England.",
+      "summary": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 16:56:17 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 07:11:44 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Every day I'm just winging it': The families hoping for social care reform",
-      "link": "https://www.bbc.co.uk/news/articles/ce8lzdgzee9o?at_medium=RSS&at_campaign=rss",
+      "title": "Interest rates expected to be held again by Bank of England",
+      "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "A modern browser with JavaScript and a stable internet connection is required to view this interactive.",
+      "summary": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
+      "author": "",
+      "published": "Wed, 29 Jul 2026 23:01:56 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Polling stations open for Greater Manchester mayoral election",
+      "link": "https://www.bbc.co.uk/news/articles/cr59dyl1lg8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As Andy Burnham outlines his aim to overhaul social care, BBC News speaks to the families caring for loved ones.",
+      "summary": "Polling stations are open across Greater Manchester as voters elect the region's next mayor.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 16:43:42 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 06:06:01 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Three ways that today's 20-somethings really do have it worse than their parents",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
+      "title": "Japan earthquake death toll rises to 30 as evacuees battle sweltering heat",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv36kv7pzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
+      "summary": "Thousands of people are staying in evacuation centres, struggling to keep cool as temperatures soar.",
       "author": "",
-      "published": "Tue, 28 Jul 2026 23:52:23 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 05:07:57 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Amelia Dimoldenberg: I wouldn't invite Andy Burnham on Chicken Shop Date - but I'd love a chat",
-      "link": "https://www.bbc.co.uk/news/articles/c8rng7pm212o?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+      "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The YouTube star on helping young creatives, and who she wants (and doesn’t want) on her show.",
+      "summary": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 05:02:05 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 06:04:21 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC cancels Blankety Blank, Celebrity Mastermind and Live at the Apollo due to budget cuts",
-      "link": "https://www.bbc.co.uk/news/articles/clyx8j33k7zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The corporation said it was \"incredibly proud\" of all three shows, but that it must make savings.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 13:02:12 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Some tech shares are plunging - what does that mean for the AI revolution?",
-      "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 15:32:28 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+      "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
       "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+      "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 16:23:41 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 01:53:25 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Prince Harry media battle legal bill expected to cost millions",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj8l477vpo?at_medium=RSS&at_campaign=rss",
+      "title": "Inquiry finds MoD Afghan data breach was foreseeable failure",
+      "link": "https://www.bbc.co.uk/news/articles/c77gvr4172vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Earlier this month, a judge ruled against a group - which includes the Duke of Sussex and Sir Elton John - after they sued the Daily Mail's publisher.",
+      "summary": "The Commons' Defence Committee says in a report that the MoD used secrecy as a \"shield\" against proper expertise.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 15:04:34 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 16:10:40 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Wed, 29 Jul 2026 23:13:43 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +271,7 @@
       "summary": "And how will the Prime Minister fund social care reform?",
       "author": "",
       "published": "Wed, 29 Jul 2026 15:49:00 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +281,7 @@
       "summary": "Laura Loomer, one of Trump's favourite influencers, has interviewed Zelensky.",
       "author": "",
       "published": "Wed, 29 Jul 2026 16:23:00 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
@@ -261,47 +291,57 @@
       "summary": "The miracle is in the mystery. A nun's faith is challenged by an orphan at her monastery",
       "author": "",
       "published": "Tue, 28 Jul 2026 05:00:00 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fleming expected to be named England Test coach",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&at_campaign=rss",
+      "title": "Four pointers to most open Premier League title race in years",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1e163xpzz2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Former New Zealand captain Stephen Fleming is expected to be appointed as England Test coach after the sacking of Brendon McCullum.",
+      "summary": "Three of the Premier League's \"big six\" have new managers, the champions have a key injury issue and Tottenham and Chelsea are breaking transfer records - and that might mean a very open title race.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 20:32:47 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 07:01:01 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Heptathlete O'Connor wins Northern Ireland's first gold of Games",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c78g7lwwxq8o?at_medium=RSS&at_campaign=rss",
+      "title": "Boxer Abdul - grandson of dictator - disqualified for headbutt",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/czxewy7zl46o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kate O'Connor wins Northern Ireland's first gold medal at the Commonwealth Games in the heptathlon at Scotstoun Stadium.",
+      "summary": "Ugandan boxer Aziz Abdul - the grandson of dictator Idi Amin - was disqualified from his fight at the Commonwealth Games after appearing to headbutt his English opponent.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 20:00:15 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Wed, 29 Jul 2026 22:49:37 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fifa opens disciplinary proceedings against Argentina",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "title": "Uefa to hold emergency meeting on Thursday over Fifa World Cup plans",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+      "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 17:21:57 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 05:20:36 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
-      "title": "Saltburn suspend Devine after 'finger-clicking' claim",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cg7m5grrp7ko?at_medium=RSS&at_campaign=rss",
+      "title": "The phone call that made Briton an NFL trailblazer",
+      "link": "https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Saltburn player at the centre of an alleged cheating scandal is suspended by the club for the \"foreseeable future\".",
+      "summary": "Seydou Traore is the first graduate of the London-based NFL Academy to be drafted in the NFL. This is how he beat the odds.",
       "author": "",
-      "published": "Wed, 29 Jul 2026 13:36:52 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "published": "Thu, 30 Jul 2026 05:42:12 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Phillips' struggles are a cautionary tale for Anderson",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyl1354z3yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As Kalvin Phillips nears a fourth loan move away from Manchester City, what can record signing Elliot Anderson learn from his struggles at the Etihad?",
+      "author": "",
+      "published": "Thu, 30 Jul 2026 06:36:56 GMT",
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     },
     {
       "source": "bbc",
@@ -311,17 +351,7 @@
       "summary": "Why the wicketkeeper in the Saltburn Cricket Club 'finger-clicking' scandal is the key voice in any investigation.",
       "author": "",
       "published": "Wed, 29 Jul 2026 17:52:16 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Change is inevitable' - Liverpool CEO on FSG, Iraola and consortium talks",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8xnvqrxv8ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Liverpool Billy Hogan talks to BBC Sport in New York about investment, transition and why FSG aren't done yet.",
-      "author": "",
-      "published": "Wed, 29 Jul 2026 18:54:07 GMT",
-      "fetched_at": "2026-07-29T20:40:20.346839+00:00"
+      "fetched_at": "2026-07-30T08:00:00.349099+00:00"
     }
   ]
 }
