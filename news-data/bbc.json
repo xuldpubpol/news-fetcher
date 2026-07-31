@@ -1,17 +1,17 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-07-31T17:12:09.495223+00:00",
-  "count": 32,
+  "fetched_at": "2026-07-31T21:46:24.899862+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+      "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
       "author": "",
       "published": "Fri, 31 Jul 2026 17:03:47 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -21,27 +21,37 @@
       "summary": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
       "author": "",
       "published": "Fri, 31 Jul 2026 15:48:34 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
-      "title": "'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan",
+      "title": "Fifa executive says staff 'deceived' by Infantino plans",
       "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
       "author": "",
-      "published": "Fri, 31 Jul 2026 16:30:42 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "published": "Fri, 31 Jul 2026 17:45:11 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
-      "title": "Disgraced funeral boss who failed to bury bodies jailed for 20 years",
-      "link": "https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss",
+      "title": "No sentence long enough for jailed funeral director Robert Bush, say families",
+      "link": "https://www.bbc.co.uk/news/articles/cre4nlez9nyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Robert Bush also failed to cremate people and gave bereaved relatives the ashes of strangers.",
+      "summary": "Families give their reaction to the 20-year sentence handed to Robert Bush.",
       "author": "",
-      "published": "Fri, 31 Jul 2026 16:28:34 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "published": "Fri, 31 Jul 2026 16:40:45 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+      "link": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdrawal.",
+      "author": "",
+      "published": "Fri, 31 Jul 2026 20:58:27 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -51,27 +61,17 @@
       "summary": "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record.",
       "author": "",
       "published": "Fri, 31 Jul 2026 16:52:16 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
-      "title": "England and Wales on course for driest July on record",
-      "link": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
+      "title": "Two more small boat pilots jailed for Channel crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cq6d8m1y3y9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago.",
+      "summary": "Both men admitted steering overcrowded vessels carrying more than 80 people each to the UK.",
       "author": "",
-      "published": "Fri, 31 Jul 2026 15:37:17 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
-      "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
-      "author": "",
-      "published": "Fri, 31 Jul 2026 12:19:20 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "published": "Fri, 31 Jul 2026 18:14:49 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +81,17 @@
       "summary": "Ten families are claiming their children were amongst those harmed by their treatment in the rooms.",
       "author": "",
       "published": "Fri, 31 Jul 2026 16:29:00 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Massive Attack banned from Singapore after pro-Palestine display at show",
+      "link": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The UK band is told not to return to the city-state after shouting \"free Palestine\" at a gig on Wednesday.",
+      "author": "",
+      "published": "Fri, 31 Jul 2026 17:55:04 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -91,7 +101,7 @@
       "summary": "Tory mayor Lord Houchen wants to offer a rebate, but the prime minister says it should be reinvested in communities.",
       "author": "",
       "published": "Fri, 31 Jul 2026 16:13:26 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +111,17 @@
       "summary": "Campaigners brought the legal action to try and stop the trial going ahead.",
       "author": "",
       "published": "Fri, 31 Jul 2026 15:09:57 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Fifa president Gianni Infantino is in the eye of a storm after his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+      "author": "",
+      "published": "Fri, 31 Jul 2026 19:22:15 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -111,27 +131,27 @@
       "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
       "author": "",
       "published": "Fri, 31 Jul 2026 15:18:31 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
-      "title": "New Google Earth AI tool could fuel misinformation, experts say",
+      "title": "What triggered the mass migrant crossings into Ceuta?",
+      "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+      "author": "",
+      "published": "Fri, 31 Jul 2026 18:29:04 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
       "link": "https://www.bbc.co.uk/news/articles/c9349yx2ydvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Experts tell BBC Verify Google's new feature which lets people generate fake satellite images could be misused.",
+      "summary": "Experts told BBC Verify Google's new feature which let people generate fake satellite images could be misused.",
       "author": "",
-      "published": "Fri, 31 Jul 2026 16:09:15 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
-      "author": "",
-      "published": "Fri, 31 Jul 2026 05:14:17 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "published": "Fri, 31 Jul 2026 19:39:22 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +161,7 @@
       "summary": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
       "author": "",
       "published": "Thu, 30 Jul 2026 23:05:41 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +171,7 @@
       "summary": "Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show.",
       "author": "",
       "published": "Fri, 31 Jul 2026 00:26:02 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -161,17 +181,17 @@
       "summary": "The British-Nepali climber is one of the most recognised figures in mountaineering.",
       "author": "",
       "published": "Fri, 31 Jul 2026 07:43:02 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
-      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-      "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "title": "AI firms must answer for rogue bots, says boss of hacked company",
+      "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+      "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
       "author": "",
-      "published": "Fri, 31 Jul 2026 01:31:50 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "published": "Fri, 31 Jul 2026 18:10:28 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +201,7 @@
       "summary": "Players at the fifth edition of the Girls' Super Cup NI say playing top teams is only making them better.",
       "author": "",
       "published": "Fri, 31 Jul 2026 05:35:11 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -191,37 +211,37 @@
       "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
       "author": "",
       "published": "Fri, 31 Jul 2026 14:26:07 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
-      "title": "AC Milan and Italy great Baresi dies aged 66",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "title": "England and Wales on course for driest July on record",
+      "link": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+      "summary": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago.",
       "author": "",
-      "published": "Fri, 31 Jul 2026 09:44:48 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "published": "Fri, 31 Jul 2026 15:37:17 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
+      "link": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "At least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states, the BBC understands.",
+      "author": "",
+      "published": "Fri, 31 Jul 2026 21:09:39 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Body of US climber the latest recovered after Pakistan avalanche",
       "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
+      "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
       "author": "",
-      "published": "Fri, 31 Jul 2026 16:41:59 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Southport killer charged with prison attacks and possessing weapon",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025.",
-      "author": "",
-      "published": "Fri, 31 Jul 2026 11:03:17 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "published": "Fri, 31 Jul 2026 20:22:46 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +251,7 @@
       "summary": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
       "author": "",
       "published": "Fri, 31 Jul 2026 15:58:42 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +271,7 @@
       "summary": "Fast moving Suffolk wildfire \"is not yet under control\" as major incident declared.",
       "author": "",
       "published": "Thu, 30 Jul 2026 16:13:00 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -261,17 +281,17 @@
       "summary": "Laura Loomer, one of Trump's favourite influencers, has interviewed Zelensky.",
       "author": "",
       "published": "Wed, 29 Jul 2026 16:23:00 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
-      "title": "'At least I'll sleep well tonight' - Fifa executive joins Burnham in questioning Infantino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
+      "summary": "Fifa president Gianni Infantino is in the eye of a storm after his attempt to sell stakes in the World Cup. If he goes, who comes in?",
       "author": "",
-      "published": "Fri, 31 Jul 2026 16:30:42 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "published": "Fri, 31 Jul 2026 19:22:15 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +301,17 @@
       "summary": "Chelsea and Ukraine winger Mykhailo Mudryk has not played since November 2024, and has been unable to access the club's training ground.",
       "author": "",
       "published": "Fri, 31 Jul 2026 15:59:06 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hunter Bell eyes ambitious sweep after 800m gold in Glasgow",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cj36lz1d2lno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England's Georgia Hunter Bell eyes an ambitious sweep of gold medals in 2026 after winning the 800m Commonwealth Games title in Glasgow.",
+      "author": "",
+      "published": "Fri, 31 Jul 2026 21:41:25 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
@@ -291,37 +321,27 @@
       "summary": "Eddie Howe steps down as head coach of Newcastle United after nearly five years in charge.",
       "author": "",
       "published": "Fri, 31 Jul 2026 16:09:53 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
-      "title": "Chelsea fined £10m but avoid suspended points deduction",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss",
+      "title": "Fifa executive says staff 'deceived' by Infantino plans",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chelsea are fined £10m by the Football Association for breaching rules relating to payments to agents between 2009 and 2022.",
+      "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
       "author": "",
-      "published": "Fri, 31 Jul 2026 14:29:20 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "published": "Fri, 31 Jul 2026 17:45:11 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     },
     {
       "source": "bbc",
-      "title": "AC Milan and Italy great Baresi dies aged 66",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "title": "Ryu leads Open in pursuit of third straight major",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/c0qvlle2348o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+      "summary": "South Korea's Haeran Ryu bounces back from a poor start to end the second round as leader of the AIG Women's Open at Royal Lytham & St Annes.",
       "author": "",
-      "published": "Fri, 31 Jul 2026 09:44:48 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Celtic reject West Ham Engels bid and confirm Johnston interest",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Celtic reject a West Ham approach for Arne Engels while there is Everton interest in Alistair Johnston, manager Martin O'Neill confirms.",
-      "author": "",
-      "published": "Fri, 31 Jul 2026 14:15:10 GMT",
-      "fetched_at": "2026-07-31T17:12:06.798338+00:00"
+      "published": "Fri, 31 Jul 2026 18:42:52 GMT",
+      "fetched_at": "2026-07-31T21:46:22.914609+00:00"
     }
   ]
 }
