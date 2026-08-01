@@ -1,18 +1,8 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-01T15:41:37.860552+00:00",
-  "count": 30,
+  "fetched_at": "2026-08-01T20:36:15.676944+00:00",
+  "count": 31,
   "articles": [
-    {
-      "source": "bbc",
-      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 09:51:05 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
-    },
     {
       "source": "bbc",
       "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
@@ -20,8 +10,18 @@
       "full_text": "",
       "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
       "author": "",
-      "published": "Sat, 01 Aug 2026 12:43:21 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "published": "Sat, 01 Aug 2026 15:46:08 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Call for 'full review' as pressure grows on Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+      "author": "",
+      "published": "Sat, 01 Aug 2026 17:07:46 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -31,17 +31,27 @@
       "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
       "author": "",
       "published": "Sat, 01 Aug 2026 15:25:30 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "William and Kate bring children to Commonwealth Games",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Spectators at Glasgow's OVO Hydro were treated to exhilarating performances during New Zealand's 61-54 win over England.",
+      "author": "",
+      "published": "Sat, 01 Aug 2026 17:23:55 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
       "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
       "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform",
+      "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform.",
       "author": "",
       "published": "Sat, 01 Aug 2026 09:13:00 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -51,17 +61,17 @@
       "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
       "author": "",
       "published": "Sat, 01 Aug 2026 13:35:39 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
-      "title": "William and Kate bring children to Commonwealth Games netball and cycling events",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss",
+      "title": "Cambridge professor at centre of plagiarism row defends his work",
+      "link": "https://www.bbc.co.uk/news/articles/c78gmp7zylvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Spectators at Glasgow's OVO Hydro were treated to exhilarating performances during New Zealand's 61-54 win over England.",
+      "summary": "Prof Jason Arday admitted errors in his work but said he was not a liar after attracting criticism online.",
       "author": "",
-      "published": "Sat, 01 Aug 2026 15:28:33 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "published": "Sat, 01 Aug 2026 20:32:25 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -71,7 +81,7 @@
       "summary": "BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions.",
       "author": "",
       "published": "Sat, 01 Aug 2026 12:42:23 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +91,7 @@
       "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
       "author": "",
       "published": "Sat, 01 Aug 2026 12:41:17 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -91,17 +101,7 @@
       "summary": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
       "author": "",
       "published": "Sat, 01 Aug 2026 10:02:43 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "He thought a fitness supplement was safe, but it sent him into psychosis",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Daniel Murphy's mental health spiralled after he took missold drugs which had been mixed with steroids.",
-      "author": "",
-      "published": "Fri, 31 Jul 2026 23:42:03 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +111,7 @@
       "summary": "BBC Verify has spoken to experts and analysed satellite imagery to piece together what we know about the site, and the potential impact of a US strike.",
       "author": "",
       "published": "Sat, 01 Aug 2026 05:01:19 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +121,7 @@
       "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum.",
       "author": "",
       "published": "Fri, 31 Jul 2026 23:43:10 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -131,17 +131,27 @@
       "summary": "Sonia Garcia Monuz is among ex-catering firm employees who claim they are owed unpaid wages.",
       "author": "",
       "published": "Sat, 01 Aug 2026 01:04:30 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
-      "title": "Who is Greater Manchester's new Mayor Bev Craig?",
-      "link": "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo?at_medium=RSS&at_campaign=rss",
+      "title": "He thought a fitness supplement was safe, but it sent him into psychosis",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bev Craig succeeds Andy Burnham as Greater Manchester's mayor, but what do we know about her?",
+      "summary": "Daniel Murphy's mental health spiralled after he took missold drugs which had been mixed with steroids.",
       "author": "",
-      "published": "Fri, 31 Jul 2026 23:02:20 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "published": "Fri, 31 Jul 2026 23:42:03 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
+      "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
+      "author": "",
+      "published": "Sat, 01 Aug 2026 15:38:38 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +161,37 @@
       "summary": "Bev Craig succeeds Andy Burnham as Greater Manchester's mayor after winning Thursday's by-election.",
       "author": "",
       "published": "Sat, 01 Aug 2026 13:15:42 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+      "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "author": "",
+      "published": "Sat, 01 Aug 2026 16:16:16 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "author": "",
+      "published": "Sat, 01 Aug 2026 20:22:29 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
+      "author": "",
+      "published": "Fri, 31 Jul 2026 23:42:32 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -161,17 +201,7 @@
       "summary": "The 62-year-old was arrested at a petrol station and is due in court in September, police say.",
       "author": "",
       "published": "Sat, 01 Aug 2026 10:15:08 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Greek police fast-tracking tests to find out how British woman found in suitcase died",
-      "link": "https://www.bbc.co.uk/news/articles/cz05yzzr93jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Authorities are yet unable to say whether the death of Elisabeth-Jane Ross is considered murder, but toxicology tests are being fast-tracked.",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 13:02:47 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -181,17 +211,7 @@
       "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
       "author": "",
       "published": "Sat, 01 Aug 2026 05:01:56 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
-      "author": "",
-      "published": "Fri, 31 Jul 2026 23:41:10 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +221,7 @@
       "summary": "Emma Roberts is is \"leaning into\" the comparisons and has changed her name to \"Mandy Burnham\" on TikTok.",
       "author": "",
       "published": "Tue, 28 Jul 2026 11:52:52 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +231,7 @@
       "summary": "The remains have been discovered beneath a paddock close to the Humber estuary in Brough.",
       "author": "",
       "published": "Tue, 28 Jul 2026 11:33:49 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +241,7 @@
       "summary": "Conservationists believe there are at least two kits in Glen Affric following a release of 11 beavers.",
       "author": "",
       "published": "Wed, 29 Jul 2026 05:16:22 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +251,7 @@
       "summary": "More young couples are now signing prenups to set out who gets what in the event of divorce.",
       "author": "",
       "published": "Tue, 28 Jul 2026 23:00:07 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +271,7 @@
       "summary": "Infantino 'wrong man' to lead Fifa says Burnham as criticism grows.",
       "author": "",
       "published": "Fri, 31 Jul 2026 15:30:00 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +281,7 @@
       "summary": "A centrist and a left wing candidate go head to head in Michigan.",
       "author": "",
       "published": "Fri, 31 Jul 2026 14:00:00 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
@@ -271,37 +291,27 @@
       "summary": "BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions.",
       "author": "",
       "published": "Sat, 01 Aug 2026 12:42:23 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
-      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "title": "Root in 'very different place' over Test captaincy",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+      "summary": "England's Joe Root is ready to embrace his second stint as Test captain, saying he is in a \"very different place\" to when he stepped down from the role four years ago.",
       "author": "",
-      "published": "Sat, 01 Aug 2026 09:51:05 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "published": "Sat, 01 Aug 2026 18:36:03 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Sometimes he wants to leave' - De Zerbi on Richarlison's Spurs future",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c36djl924y4o?at_medium=RSS&at_campaign=rss",
+      "title": "Gold family agrees to sell West Ham stake to Staveley",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyle0nl810o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Roberto de Zerbi says Tottenham \"don't know\" whether Richarlison will stay or leave, as he \"sometimes\" wants to leave.",
+      "summary": "Former West Ham co-owner David Gold's daughter Vanessa confirms plans to sell shares to a consortium headed by ex-Newcastle co-owner Amanda Staveley.",
       "author": "",
-      "published": "Sat, 01 Aug 2026 13:12:56 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "McAidoo 'the kind of winger I love' -  Maresca",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c75g4gg02dko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Despite Manchester City's penalty-shootout defeat by Inter Milan, teenager Ryan McAidoo grabs the opportunity to show manager Enzo Maresca what he can do.",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 15:27:44 GMT",
-      "fetched_at": "2026-08-01T15:41:35.317146+00:00"
+      "published": "Sat, 01 Aug 2026 16:53:12 GMT",
+      "fetched_at": "2026-08-01T20:36:09.347427+00:00"
     }
   ]
 }
