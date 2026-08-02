@@ -1,77 +1,57 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-02T07:54:23.498463+00:00",
-  "count": 32,
+  "fetched_at": "2026-08-02T15:46:59.290665+00:00",
+  "count": 28,
   "articles": [
     {
       "source": "bbc",
-      "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+      "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+      "author": "",
+      "published": "Sun, 02 Aug 2026 14:15:07 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+      "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
+      "author": "",
+      "published": "Sun, 02 Aug 2026 14:28:15 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
       "author": "",
-      "published": "Sun, 02 Aug 2026 06:24:01 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+      "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
       "author": "",
-      "published": "Sun, 02 Aug 2026 05:40:42 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "published": "Sun, 02 Aug 2026 11:49:40 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "title": "Fastest runner to cross the Alps says it was an incredible experience",
+      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+      "summary": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
       "author": "",
-      "published": "Sat, 01 Aug 2026 23:03:35 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 22:23:20 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "author": "",
-      "published": "Sun, 02 Aug 2026 00:55:16 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight.",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 22:41:38 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Love Island has a problem, say fans - 'there hasn't been much love'",
-      "link": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again.",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 23:46:48 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "published": "Sun, 02 Aug 2026 10:59:55 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
@@ -81,17 +61,87 @@
       "summary": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip.",
       "author": "",
       "published": "Sat, 01 Aug 2026 23:35:28 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+      "author": "",
+      "published": "Sat, 01 Aug 2026 23:03:35 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
       "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
       "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
+      "summary": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
       "author": "",
       "published": "Sat, 01 Aug 2026 23:56:19 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Peak District's rebrand deal brings in cash but also criticism",
+      "link": "https://www.bbc.co.uk/news/articles/c235gykvjkjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After the Peak District signed a brand deal with Skoda, could other national parks follow suit?",
+      "author": "",
+      "published": "Sat, 01 Aug 2026 23:52:58 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
+      "author": "",
+      "published": "Sun, 02 Aug 2026 07:58:51 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why Love Island fans are choosing the US edition: 'They actually fancy each other'",
+      "link": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again.",
+      "author": "",
+      "published": "Sat, 01 Aug 2026 23:46:48 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Teenager dies after 'medical episode' at music festival in Cumbria",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dz3xvz1wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 17-year-old was pronounced dead at the scene, Cumbria Police said.",
+      "author": "",
+      "published": "Sun, 02 Aug 2026 12:36:12 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "author": "",
+      "published": "Sun, 02 Aug 2026 10:11:26 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "author": "",
+      "published": "Sun, 02 Aug 2026 10:32:28 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
@@ -101,107 +151,47 @@
       "summary": "Spider-Man fans are full of praise for Tom Holland's latest web-slinging performance.",
       "author": "",
       "published": "Sat, 01 Aug 2026 23:40:17 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "title": "Three in hospital after fire and crush at festival in London",
+      "link": "https://www.bbc.co.uk/news/articles/c05q964n4llo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
+      "summary": "Ghana Party in the Park organisers called the day \"difficult\" and \"deeply upsetting\".",
       "author": "",
-      "published": "Sat, 01 Aug 2026 22:06:18 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "published": "Sun, 02 Aug 2026 13:36:15 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
-      "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
-      "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+      "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
+      "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+      "summary": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
       "author": "",
-      "published": "Sat, 01 Aug 2026 21:03:42 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "published": "Sun, 02 Aug 2026 10:20:10 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
-      "title": "Son of Wicker Man maker dies just weeks before his sequel to film premieres",
-      "link": "https://www.bbc.co.uk/news/articles/cvgwj0wnyydo?at_medium=RSS&at_campaign=rss",
+      "title": "Four arrested over hate crime attack on ship crew",
+      "link": "https://www.bbc.co.uk/news/articles/cx2mppyzgedo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The British filmmaker died on Friday after suffering a heart attack, his family said in a statement.",
+      "summary": "Three of the four are arrested on suspicion of attempted murder, with one man seriously hurt.",
       "author": "",
-      "published": "Sun, 02 Aug 2026 01:14:22 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "published": "Sun, 02 Aug 2026 15:16:54 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: Chancellor 'warns' supermarkets and 'own goal'",
-      "link": "https://www.bbc.co.uk/news/articles/crk5jd6r1rmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "John Healey's vow to crackdown on grocery \"price gouging\" and the Fifa World Cup scandal dominate Sunday's front pages.",
-      "author": "",
-      "published": "Sun, 02 Aug 2026 04:36:03 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 20:09:27 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "author": "",
-      "published": "Sun, 02 Aug 2026 00:29:55 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 22:57:55 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Peak District's rebrand deal brings in cash - but also criticism",
-      "link": "https://www.bbc.co.uk/news/articles/c235gykvjkjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "After the Peak District signed a brand deal with Skoda, could other national parks follow suit?",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 23:52:58 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russian ship defies sanctions to send military vehicles to Mali",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 23:03:23 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Woman, 86, orphaned as child opens prized garden to public to fulfill lifelong promise",
+      "title": "Woman, 86, orphaned as child opens prized garden to public to fulfil lifelong promise",
       "link": "https://www.bbc.co.uk/news/articles/c2elzdyee3jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Ann Lush made a promise to herself when she was nine to “help any child I could”.",
       "author": "",
       "published": "Wed, 29 Jul 2026 14:02:38 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +201,7 @@
       "summary": "Hundreds of by-the-wind-sailors creatures wash up at St Bees in Cumbria due to strong onshore winds.",
       "author": "",
       "published": "Thu, 30 Jul 2026 12:17:32 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +211,7 @@
       "summary": "Overall, overcrowding in England and Wales fell slightly last year due to increased capacity, the government says.",
       "author": "",
       "published": "Tue, 28 Jul 2026 14:17:57 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +221,7 @@
       "summary": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
       "author": "",
       "published": "Sun, 26 Jul 2026 23:11:36 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +241,7 @@
       "summary": "Infantino 'wrong man' to lead Fifa says Burnham as criticism grows.",
       "author": "",
       "published": "Fri, 31 Jul 2026 15:30:00 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +251,7 @@
       "summary": "A centrist and a left wing candidate go head to head in Michigan.",
       "author": "",
       "published": "Fri, 31 Jul 2026 14:00:00 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
@@ -271,57 +261,27 @@
       "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
       "author": "",
       "published": "Sat, 01 Aug 2026 22:23:20 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
-      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
+      "title": "2,000km, eight countries, 29 days - the fastest runner to cross the Alps",
+      "link": "https://www.bbc.co.uk/sport/articles/cg7mdjkrr22o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight.",
+      "summary": "Ultra-runner Sophie Woods runs 2,000km across eight countries in only 29 days to break the record for completing the Via Alpina - one of the world's toughest endurance challenges.",
       "author": "",
-      "published": "Sat, 01 Aug 2026 22:41:38 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "published": "Sun, 02 Aug 2026 12:37:23 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     },
     {
       "source": "bbc",
-      "title": "Root in 'very different place' over Test captaincy",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss",
+      "title": "Selfies, signatures & social media - how Kerr embraced Glasgow Games",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cly976620j6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England's Joe Root is ready to embrace his second stint as Test captain, saying he is in a \"very different place\" to when he stepped down from the role four years ago.",
+      "summary": "Gold medallist Josh Kerr has revelled in the Commonwealth Games and in competing for Scotland in Glasgow this week.",
       "author": "",
-      "published": "Sat, 01 Aug 2026 18:36:03 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Shittu 'robbed' - are AI boxing judges the answer?",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c4g42xk1l7vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "After commentators claim England's Dimeji Shittu was \"robbed\" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?",
-      "author": "",
-      "published": "Sat, 01 Aug 2026 21:05:12 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What happened to star signings your club never made?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Sport takes a look at some star players who were close to moving to the Premier League, only for the deals to fall through.",
-      "author": "",
-      "published": "Sun, 02 Aug 2026 05:42:58 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "New boss Maresca is perfect for Man City - Gvardiol",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8rny130kzpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "New manager Enzo Maresca is a \"perfect one\" for Manchester City, says defender Josko Gvardiol.",
-      "author": "",
-      "published": "Sun, 02 Aug 2026 06:01:41 GMT",
-      "fetched_at": "2026-08-02T07:54:18.256688+00:00"
+      "published": "Sun, 02 Aug 2026 13:06:25 GMT",
+      "fetched_at": "2026-08-02T15:46:57.883643+00:00"
     }
   ]
 }
