@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-05T17:12:25.724627+00:00",
-  "count": 31,
+  "fetched_at": "2026-08-05T22:18:38.883758+00:00",
+  "count": 35,
   "articles": [
     {
       "source": "bbc",
@@ -10,48 +10,48 @@
       "full_text": "",
       "summary": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 17:03:45 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 20:12:17 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
-      "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+      "title": "Fifa admits mistakes but Infantino remains president",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
+      "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 14:50:09 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 21:37:08 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+      "title": "Woman arrested after four stabbed in central London",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+      "summary": "A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 09:24:18 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 16:34:52 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Police chief considers joining legal action over PC Harper killers' early release",
-      "link": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+      "title": "University of Cambridge professor at centre of plagiarism row resigns",
+      "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
+      "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
       "author": "",
-      "published": "Wed, 05 Aug 2026 15:36:37 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 21:18:04 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Drone carrying explosives found at German airport, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "title": "Walk-in mental health centres to open in banks and libraries across England",
+      "link": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "summary": "Government plans network of nearly 200 specialist services to help those facing mental health crises.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 16:06:30 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 21:30:46 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -61,57 +61,67 @@
       "summary": "New images and footage of the Sun show \"whirlpools\" of activity that it has not been possible to see before.",
       "author": "",
       "published": "Wed, 05 Aug 2026 15:01:33 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Traitors star Joe Marler to become BBC's first celebrity Gladiator",
-      "link": "https://www.bbc.co.uk/news/articles/c39ep0eyk21o?at_medium=RSS&at_campaign=rss",
+      "title": "Drone carrying explosives found at German airport, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The former rugby star will be known as Mauler when the fourth series airs in 2027, the BBC confirmed.",
+      "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 12:14:41 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 20:01:51 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "El-Sayed's victory sends tremors through Democratic Party",
+      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+      "author": "",
+      "published": "Wed, 05 Aug 2026 21:21:51 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
+      "link": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "More than 120 MPs and peers have asked John Healey to carry out an \"urgent review\" of repayments.",
+      "author": "",
+      "published": "Wed, 05 Aug 2026 18:38:45 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+      "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
+      "author": "",
+      "published": "Wed, 05 Aug 2026 14:50:09 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+      "author": "",
+      "published": "Wed, 05 Aug 2026 18:19:51 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "El-Sayed's victory in Michigan sends tremors through Democratic Party",
       "link": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
       "author": "",
       "published": "Wed, 05 Aug 2026 16:04:16 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Misconduct proceedings dropped against officer who shot Chris Kaba",
-      "link": "https://www.bbc.co.uk/news/articles/cvg0rmpydrmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sir Mark Rowley welcomes the IOPC's decision but calls the accountability process \"disgraceful\".",
-      "author": "",
-      "published": "Wed, 05 Aug 2026 13:47:20 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
-      "author": "",
-      "published": "Wed, 05 Aug 2026 12:26:26 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Pakistan restricts international media reporting",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Anyone working for foreign media, including Pakistanis, will now need permission to report from anywhere outside three major cities.",
-      "author": "",
-      "published": "Wed, 05 Aug 2026 11:19:42 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +131,27 @@
       "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
       "author": "",
       "published": "Wed, 05 Aug 2026 11:19:24 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Charli XCX on lying, Love Island and life post-Brat",
+      "link": "https://www.bbc.co.uk/news/articles/cwylxg2jekdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Charli XCX sits down with Radio 1's Jack Saunders to discuss the release of her new album.",
+      "author": "",
+      "published": "Wed, 05 Aug 2026 15:46:34 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
+      "author": "",
+      "published": "Wed, 05 Aug 2026 18:38:46 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +161,7 @@
       "summary": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
       "author": "",
       "published": "Tue, 04 Aug 2026 23:21:08 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +171,7 @@
       "summary": "They may keep your feet cool but some styles could be doing more harm than good.",
       "author": "",
       "published": "Wed, 05 Aug 2026 11:39:16 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +181,7 @@
       "summary": "BBC Verify takes a look at the serial candidates standing in Clacton, how they fared in previous elections, and whether they have ever won enough votes to get their deposits back.",
       "author": "",
       "published": "Wed, 05 Aug 2026 13:44:39 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -161,57 +191,47 @@
       "summary": "Fifa president Gianni Infantino will face senior leaders of football's world governing body on Wednesday. This is what is expected to happen.",
       "author": "",
       "published": "Wed, 05 Aug 2026 10:08:49 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Afghan boxer appears in court in connection with death of Scottish woman",
-      "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Ross from Edinburgh.",
-      "author": "",
-      "published": "Wed, 05 Aug 2026 09:22:52 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Celtic boss O'Neill in hospital after 'small procedure'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz05n32n9vlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce.",
-      "author": "",
-      "published": "Wed, 05 Aug 2026 14:58:25 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Uganda team manager has 'no idea' why boxers have disappeared",
+      "title": "Uganda team manager has 'no idea' why boxers disappeared after Games",
       "link": "https://www.bbc.co.uk/news/articles/c5yv2w14nk3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Commonwealth Games chef de mission Godwin Kayangwe says he hopes the athletes will return home before their visas expire in October.",
       "author": "",
       "published": "Wed, 05 Aug 2026 12:23:38 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Gary Glitter appears in court over historical sex offence charges",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8dlykejlo?at_medium=RSS&at_campaign=rss",
+      "title": "Apology after carer fed dog food to elderly woman by mistake",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjn9yw97eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The former singer, whose real name is Paul Gadd, appeared at Westminster Magistrates' Court via video.",
+      "summary": "The incident was among \"abysmal failures\" of care by a council contractor, an investigation finds.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 14:17:33 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 05:07:43 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-      "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+      "title": "Misconduct proceedings dropped against officer who shot Chris Kaba",
+      "link": "https://www.bbc.co.uk/news/articles/cvg0rmpydrmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
+      "summary": "Sir Mark Rowley welcomes the IOPC's decision but calls the accountability process \"disgraceful\".",
       "author": "",
-      "published": "Wed, 05 Aug 2026 12:33:43 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 18:13:52 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+      "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
+      "author": "",
+      "published": "Wed, 05 Aug 2026 19:02:06 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -221,17 +241,27 @@
       "summary": "A deal between will allow some creators to use clips from Disney films and TV shows in their videos.",
       "author": "",
       "published": "Wed, 05 Aug 2026 13:06:43 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Riders' clothing checked at women's Tour over bra padding concerns",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/cvg0krdek3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Afghan boxer appears in court in connection with death of Scottish woman",
+      "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Officials at the Tour de France Femmes Avec Zwift will check the clothing worn by riders to prevent attempts to make \"aerodynamic gains\".",
+      "summary": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Ross from Edinburgh.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 08:11:11 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 09:22:52 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
+      "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
+      "author": "",
+      "published": "Wed, 05 Aug 2026 12:33:43 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +281,7 @@
       "summary": "Spain faces a backlash from Europe, while Trump warns of an ‘invasion’",
       "author": "",
       "published": "Tue, 04 Aug 2026 09:00:00 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -261,37 +291,57 @@
       "summary": "Plus… what did Andy Burnham's wife say about his leadership bid?",
       "author": "",
       "published": "Wed, 05 Aug 2026 15:47:00 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Celtic boss O'Neill in hospital after 'small procedure'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz05n32n9vlo?at_medium=RSS&at_campaign=rss",
+      "title": "Fifa admits mistakes but Infantino remains president",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce.",
+      "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 14:58:25 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 21:37:08 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Buttler breaks T20 runs record in Super Giants win",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cn4n1j7ejp1o?at_medium=RSS&at_campaign=rss",
+      "title": "Newcastle appoint Jaissle - what should fans expect?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn4n0ypyx31o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jos Buttler stars as Manchester Super Giants beat Welsh Fire by nine wickets in The Hundred",
+      "summary": "Newcastle United appoint Matthias Jaissle, 38, as head coach to succeed Eddie Howe - but what will the German bring to the club?",
       "author": "",
-      "published": "Wed, 05 Aug 2026 16:42:19 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 18:32:43 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rejecting Arsenal & emulating Hazard - Monga makes debut in Man City win",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg69n123jwo?at_medium=RSS&at_campaign=rss",
+      "title": "How Buttler became T20 cricket's run-scoring GOAT",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5ywjjnn0j5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jeremy Monga's £10m move from Leicester to Manchester City may have gone under the radar this summer, but the teenager's own career is not expected to go in quite the same manner as he aims to emulate his idol Eden Hazard.",
+      "summary": "BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 15:22:36 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "published": "Wed, 05 Aug 2026 19:25:02 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Everton sign midfielder Norgaard from Arsenal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2gvlnjndpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Everton sign Denmark midfielder Christian Norgaard from Arsenal on a two-year contract for a reported fee of £7m.",
+      "author": "",
+      "published": "Wed, 05 Aug 2026 21:18:29 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Real Madrid make Vinicius Jr improved contract offer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2dpejpv70o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Real Madrid make Vinicius Jr an improved contract offer as they look to keep the Brazil winger at the Bernabeu.",
+      "author": "",
+      "published": "Wed, 05 Aug 2026 17:59:01 GMT",
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     },
     {
       "source": "bbc",
@@ -301,17 +351,7 @@
       "summary": "A powerlifter who was disqualified following an alleged racially motivated act has said she \"does not feel safe\" when competing, and says black athletes are frequently booed in competitions.",
       "author": "",
       "published": "Wed, 05 Aug 2026 14:32:33 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Key questions as Infantino faces Fifa executives",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62vd95ljp0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fifa president Gianni Infantino will face senior leaders of football's world governing body on Wednesday. This is what is expected to happen.",
-      "author": "",
-      "published": "Wed, 05 Aug 2026 10:08:49 GMT",
-      "fetched_at": "2026-08-05T17:12:19.719296+00:00"
+      "fetched_at": "2026-08-05T22:18:22.786522+00:00"
     }
   ]
 }
