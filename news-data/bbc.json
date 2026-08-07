@@ -1,247 +1,237 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-06T10:13:31.245827+00:00",
-  "count": 33,
+  "fetched_at": "2026-08-07T05:52:58.019640+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
-      "link": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
+      "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+      "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
+      "summary": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 05:00:09 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 05:00:23 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Cambridge professor at centre of plagiarism row resigns",
-      "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+      "title": "Arrests in Norfolk town as disorder continues for third night",
+      "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+      "summary": "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 06:28:03 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 00:15:52 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show",
-      "link": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh.",
+      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 10:01:05 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 00:54:03 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
-      "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.",
+      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 05:00:13 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 18:53:51 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Families' anger at jailed funeral boss's apology letter",
-      "link": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss",
+      "title": "Artificial Intelligence used to design brand new viruses",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal.",
+      "summary": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 23:02:10 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 18:01:52 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Meta becomes latest firm to say its AI hacked another company",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "title": "Village sees 50 days without rain during summer heatwave",
+      "link": "https://www.bbc.co.uk/weather/articles/c99872dyym1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+      "summary": "Wisley in Surrey has recorded no rain for 50 consecutive days - with little rain on the horizon as Matt Taylor from BBC Weather explains.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 05:53:58 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 23:06:41 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why playing your phone out loud in public might become the new normal",
-      "link": "https://www.bbc.co.uk/news/articles/c3d3nlmeee0o?at_medium=RSS&at_campaign=rss",
+      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Playing music or videos out loud on your phone is bemoaned by many - but in the future, it might not seem so outlandish",
+      "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 23:43:03 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 01:57:02 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "title": "Serious questions for Cambridge after professor at centre of plagiarism row resigns",
+      "link": "https://www.bbc.co.uk/news/articles/cpvwd30we17o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "summary": "Jason Arday’s resignation poses questions about standards and a push for diversity, writes education editor Branwen Jeffreys.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 01:19:59 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 15:08:05 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Majority of England's rivers and lakes fail new environmental review",
-      "link": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+      "title": "Conservatives pledge to ban foreign nationals from social housing",
+      "link": "https://www.bbc.co.uk/news/articles/cd69x9j46xjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
+      "summary": "They claim around 230,000 homes would become available under their plan to limit social housing entitlements.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 10:00:06 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 21:00:05 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Reform UK pledges to jail bosses employing illegal workers",
-      "link": "https://www.bbc.co.uk/news/articles/cvgv864z0rvo?at_medium=RSS&at_campaign=rss",
+      "title": "Argos is getting a makeover - but can it attract new shoppers?",
+      "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The party says its aim is to stop companies profiting from illegal workers \"without consequences\".",
+      "summary": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
       "author": "",
-      "published": "Wed, 05 Aug 2026 23:37:29 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 23:03:48 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Shorts, strappy tops and sandals: What is acceptable to wear in the office?",
-      "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
+      "title": "How a diary entry solved the murder of a missing man",
+      "link": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.",
+      "summary": "A detective shares how a six-year long investigation brought answers to a family in turmoil.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 23:22:17 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 23:13:11 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "title": "Lauryn Hill and Wyclef ‘in an amazing place’ as fans hope for new Fugees album after 30 years",
+      "link": "https://www.bbc.co.uk/news/articles/cdew6jxjw3do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+      "summary": "Hill says the band have gone through \"an incredible healing process\", raising the prospect of new music.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 05:00:54 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 23:16:05 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
-      "link": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
+      "title": "Sudan's invisible children - born in war with no legal identity",
+      "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Scientists have kept vaccines stable at room temperature for a year, which could transform global vaccination.",
+      "summary": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 23:14:22 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 00:26:52 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "The 'education gap' hiding behind picture-perfect Cornwall and Devon",
-      "link": "https://www.bbc.co.uk/news/articles/c39e7n8rvd2o?at_medium=RSS&at_campaign=rss",
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+      "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Behind the South West's postcard image, poverty and isolation are limiting opportunities for many young people.",
+      "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 05:00:03 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 15:59:34 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sunshine to meal times: How to beat jet lag",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj846q2veo?at_medium=RSS&at_campaign=rss",
+      "title": "UK papers: 'Tories to end social housing for foreigners' and 'Bottoms down'",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgv8m382o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "With bags packed and boarding passes at the ready, what can you do to keep your body clock on track?",
+      "summary": "The Conservatives' social housing plans and Westminster City Council's pub proposals lead Friday's papers.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 23:49:46 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 04:42:48 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Are AI recruitment tools affecting women's careers?",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl8y141e4o?at_medium=RSS&at_campaign=rss",
+      "title": "Weekly quiz: Ed Sheeran got in trouble with the DVLA over which make of classic car?",
+      "link": "https://www.bbc.co.uk/news/articles/c4gx6yj56y6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Are AI recruitment tools disadvantaging women who are seeking to return to the workplace?",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "author": "",
-      "published": "Thu, 06 Aug 2026 09:42:17 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 18:35:54 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+      "summary": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 09:40:18 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 17:38:51 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-      "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+      "title": "Amanda Knox defends Fringe comedy show after claims it will 'trivialise violence'",
+      "link": "https://www.bbc.co.uk/news/articles/c0m7pyv3y7no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+      "summary": "Knox, who was convicted and later acquitted of the murder of a British student, said she does not downplay the seriousness of Meredith Kercher's death.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 04:44:22 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 19:39:43 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Walk-in mental health centres to open in banks and libraries across England",
-      "link": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
+      "title": "Why was Taiwan’s president evacuated in the middle of the night?",
+      "link": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Government plans network of nearly 200 specialist services to help those facing mental health crises.",
+      "summary": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 07:28:08 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 04:52:19 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Afghan boxer accused of killing Scottish aid worker back in court",
-      "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+      "title": "Four men arrested after violent disorder near Pontypool, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cj63we48313o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
+      "summary": "Police say three men have been taken to hospital following the incident, two of whom are in critical condition.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 09:12:39 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 02:18:47 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-      "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
+      "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 23:28:06 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 05:44:29 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Raleigh owner starts insolvency proceedings",
-      "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+      "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+      "summary": "Towle was known for chronicling her hopes and struggles as a young person living with cancer.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 08:38:58 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 19:17:39 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "PC Harper widow 'won't give up' early release fight",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j7lee3y8o?at_medium=RSS&at_campaign=rss",
+      "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+      "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Two men convicted of PC Andrew Harper's manslaughter could still be released from prison next year.",
+      "summary": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 05:06:44 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Michelin-star restaurant regains top hygiene score after previous one-star inspection",
-      "link": "https://www.bbc.co.uk/news/articles/c934wqk1w1vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ynyshir got a one-star food hygiene rating from inspectors but has since been restored to five stars.",
-      "author": "",
-      "published": "Thu, 06 Aug 2026 05:11:29 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 23:55:35 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +251,7 @@
       "summary": "Spain faces a backlash from Europe, while Trump warns of an ‘invasion’",
       "author": "",
       "published": "Tue, 04 Aug 2026 09:00:00 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
@@ -271,67 +261,67 @@
       "summary": "Plus… what did Andy Burnham's wife say about his leadership bid?",
       "author": "",
       "published": "Wed, 05 Aug 2026 15:47:00 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "England recall Pope & Lawrence for Pakistan Tests but Bethell out",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crl7911zk40o?at_medium=RSS&at_campaign=rss",
+      "title": "Who will leave Chelsea? How Blues could cut 41-man squad",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Surrey duo Ollie Pope and Dan Lawrence are recalled to the England squad for the first two Tests against Pakistan.",
+      "summary": "With 25 days until the transfer window closes, Chelsea will be working hard to cut their 41-man senior squad. But who could be heading out?",
       "author": "",
-      "published": "Thu, 06 Aug 2026 09:37:10 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 05:34:16 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Olympic champion curler Muirhead comes out of retirement",
-      "link": "https://www.bbc.co.uk/sport/articles/cwymv01lrn4o?at_medium=RSS&at_campaign=rss",
+      "title": "Old habits haunt Rangers in early McInnes tenure",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0kmd62el06o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Winter Olympic gold medallist Eve Muirhead revokes her retirement, saying being Team GB's chef de mission at this year's Games has inspired her to return to curling after four years away.",
+      "summary": "Derek McInnes says Rangers were \"guilty of beating ourselves\" as his side conceded cheap goals in the Europa League first-leg defeat to Jagiellonia Bialystok.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 07:27:33 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 22:30:52 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Friendship with Mourinho & search for new club - what next for Smalling?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c935ng33l36o?at_medium=RSS&at_campaign=rss",
+      "title": "Guimaraes future decided before I arrived - Jaissle",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62el1507p1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Snubbing university, genetics testing for supplements, Sir Alex Ferguson and Jose Mourinho - Chris Smalling is not your ordinary footballer.",
+      "summary": "Newcastle United manager Matthias Jaissle says a decision about Bruno Guimaraes' future was \"already made\" by the time he first met the club's departing captain.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 07:06:54 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 16:00:15 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
+      "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 21:37:08 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Fri, 07 Aug 2026 01:57:02 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "A wanted man - but would Liverpool's Gakpo be a good fit at Spurs?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c98vnel56q6o?at_medium=RSS&at_campaign=rss",
+      "title": "Vinicius Jr and Real Madrid agree new six-year deal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1517j1q129o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The data behind Tottenham's interest in Liverpool forward Cody Gakpo and how he could fit into Roberto de Zerbi’s side.",
+      "summary": "Brazil winger Vinicius Jr will stay at Real Madrid after agreeing improved terms with the Spanish side despite interest from Arsenal.",
       "author": "",
-      "published": "Thu, 06 Aug 2026 05:36:11 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 17:58:41 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     },
     {
       "source": "bbc",
-      "title": "I'd like Hundred to be longer - Salt",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c20eg91xvd4o?at_medium=RSS&at_campaign=rss",
+      "title": "Le Court wins stage six of Tour after mechanical failure",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/cp87zgl332qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Welsh Fire captain Phil Salt says ideally he would like The Hundred to be a week longer after his side played three matches in five days.",
+      "summary": "Kimberley Le Court wins a sprint finish to seal victory in stage six of the Tour de France Femmes on Thursday, as Swiss rider Marlen Reusser holds on to the overall lead.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 21:57:16 GMT",
-      "fetched_at": "2026-08-06T10:13:28.752955+00:00"
+      "published": "Thu, 06 Aug 2026 17:52:56 GMT",
+      "fetched_at": "2026-08-07T05:52:55.735028+00:00"
     }
   ]
 }
