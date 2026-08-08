@@ -1,177 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-08T03:59:38.096463+00:00",
-  "count": 36,
+  "fetched_at": "2026-08-08T08:06:18.310538+00:00",
+  "count": 37,
   "articles": [
     {
       "source": "bbc",
-      "title": "Police officers investigated over handling of sex offender who murdered two women",
-      "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Simon Levy was a serial sex offender who was being monitored by police when he killed two women.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 23:56:11 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+      "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
       "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "No arrests were made at the time and the investigation was closed.",
+      "summary": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
       "author": "",
-      "published": "Fri, 07 Aug 2026 22:42:43 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
-      "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+      "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
       "author": "",
       "published": "Fri, 07 Aug 2026 22:50:58 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 22:13:55 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-      "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 21:24:17 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 22:07:00 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Obesity rates have doubled in England since 1993 - what's going on?",
-      "link": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 18:38:46 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
-      "link": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "As temperatures start to rise again over the weekend, many parts of England and Wales will enter into the fifth heatwave of the year, as Simon King explains",
-      "author": "",
-      "published": "Sat, 08 Aug 2026 00:37:42 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-      "author": "",
-      "published": "Sat, 08 Aug 2026 00:02:49 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Streeting 'sickened' by sex abuse claims at Army college",
-      "link": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The defence secretary promises to look into what went wrong at the college in North Yorkshire.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 16:53:25 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 21:19:27 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
-      "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 18:06:58 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Police failings revealed as sex offender left free to murder and attack women",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 21:10:48 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The papers: 'Sex predator let out to kill' and 'net zero plans rolled back'",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3ddgjjzeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Several papers are leading on a serial sex offender who has been found guilty of murdering two women and raping a third in London.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 23:46:20 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I went for a full body MOT and the results came as a shock",
-      "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The private body scan industry is booming, but is it doing more harm than good?",
-      "author": "",
-      "published": "Sat, 08 Aug 2026 00:49:48 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How a former GB Olympian curbed his porn problem - and the signs and steps to recovery",
-      "link": "https://www.bbc.co.uk/news/articles/c89n8j5e32do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Experts share the signs to look out for if you are worried about your porn use, and how to seek help.",
-      "author": "",
-      "published": "Sat, 08 Aug 2026 01:34:07 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Digital cameras and wired earphones are back - and 'a bit more real'",
-      "link": "https://www.bbc.co.uk/news/articles/cly599xlllyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "We're surrounded by more advanced tech in 2026, so why are young people going back to basics?",
-      "author": "",
-      "published": "Sat, 08 Aug 2026 01:40:21 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +31,47 @@
       "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
       "author": "",
       "published": "Fri, 07 Aug 2026 23:23:12 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+      "author": "",
+      "published": "Fri, 07 Aug 2026 22:13:55 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
+      "author": "",
+      "published": "Fri, 07 Aug 2026 22:07:00 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I went for a full body MOT and the results came as a shock",
+      "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The private body scan industry is booming, but is it doing more harm than good?",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 00:49:48 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
+      "link": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As temperatures start to rise again over the weekend, many parts of England and Wales will enter into the fifth heatwave of the year, as Simon King explains",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 00:37:42 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +81,117 @@
       "summary": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
       "author": "",
       "published": "Sat, 08 Aug 2026 00:29:27 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Digital cameras and wired earphones are back and 'a bit more real'",
+      "link": "https://www.bbc.co.uk/news/articles/cly599xlllyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "We're surrounded by more advanced tech in 2026, so why are young people going back to basics?",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 01:40:21 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How a former GB Olympian curbed his porn problem - and the signs and steps to recovery",
+      "link": "https://www.bbc.co.uk/news/articles/c89n8j5e32do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Experts share the signs to look out for if you are worried about your porn use, and how to seek help.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 01:34:07 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hundreds stranded on second day of disruption at Bristol Airport",
+      "link": "https://www.bbc.co.uk/news/articles/c1k1lyg94w9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Flights are restarting with delays and diversions after 14 hours of cancellations.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 07:30:16 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The papers: 'Sex predator let out to kill' and 'net zero plans rolled back'",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3ddgjjzeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Several papers are leading on a serial sex offender who has been found guilty of murdering two women and raping a third in London.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 04:17:43 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Farage and Tice sue NCA over alleged leaks of financial information",
+      "link": "https://www.bbc.co.uk/news/articles/cpvw7xyjz8eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Reform leaders claim the National Crime Agency supplied details about party donations to the media.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 06:48:42 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Police failings revealed as sex offender left free to murder and attack women",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
+      "author": "",
+      "published": "Fri, 07 Aug 2026 21:10:48 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 06:12:56 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Obesity rates have doubled in England since 1993 - what's going on?",
+      "link": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993.",
+      "author": "",
+      "published": "Fri, 07 Aug 2026 18:38:46 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+      "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
+      "author": "",
+      "published": "Fri, 07 Aug 2026 21:24:17 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+      "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
+      "author": "",
+      "published": "Fri, 07 Aug 2026 18:06:58 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 00:02:49 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -201,37 +201,7 @@
       "summary": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
       "author": "",
       "published": "Fri, 07 Aug 2026 21:05:45 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Madonna and Blur producer William Orbit dies aged 69",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ej0el7veo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tributes are paid to the musical \"genius and pioneer\", who also worked with All Saints, Pink and U2.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 16:45:04 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 17:09:32 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Six-hour train services between London and Stirling running with no toilets after fault",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lzy85ywdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Services have been stopping for longer at stations to allow passengers to get off and use toilets on platforms.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 16:42:43 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -241,27 +211,57 @@
       "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
       "author": "",
       "published": "Fri, 07 Aug 2026 17:41:30 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
-      "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+      "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 30-year-old former Brentford striker is due to appear in court next month.",
+      "summary": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
       "author": "",
-      "published": "Fri, 07 Aug 2026 09:30:30 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "published": "Fri, 07 Aug 2026 17:09:32 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
-      "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
-      "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+      "title": "Betty, 97, breaks record for oldest wingwalker",
+      "link": "https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+      "summary": "She has carried out six charity wing walks over the past decade.",
       "author": "",
-      "published": "Fri, 07 Aug 2026 15:29:23 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "published": "Tue, 04 Aug 2026 17:02:00 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Poo, parking and poor pitching - the Lake District's summer battles",
+      "link": "https://www.bbc.co.uk/news/articles/c0m7l70283go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Protection orders are being used to try and control the issue, but funding is limited, councils say.",
+      "author": "",
+      "published": "Sun, 02 Aug 2026 11:01:10 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chernobyl disaster evacuee 'forever grateful' to Welsh family who took him in",
+      "link": "https://www.bbc.co.uk/news/articles/c36dxp822k4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Anton Honchanka was one of thousands of people affected by the 1986 nuclear disaster who came to the UK.",
+      "author": "",
+      "published": "Sun, 02 Aug 2026 06:04:55 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What are the 'luteal uglies'? And how they're affecting women",
+      "link": "https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "More women than ever are talking about the luteal phase on social media, but how does it actually affect you?",
+      "author": "",
+      "published": "Mon, 03 Aug 2026 00:57:22 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +281,7 @@
       "summary": "Factories and warehouses targeted in weeks of aggression in Ukraine War.",
       "author": "",
       "published": "Fri, 07 Aug 2026 14:34:00 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +291,7 @@
       "summary": "Plus… what did Andy Burnham's wife say about his leadership bid?",
       "author": "",
       "published": "Wed, 05 Aug 2026 15:47:00 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +301,7 @@
       "summary": "Before you go to the cinema, refresh your memory of Peter Parker's greatest challenge yet",
       "author": "",
       "published": "Sun, 19 Jul 2026 16:34:00 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -311,17 +311,37 @@
       "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
       "author": "",
       "published": "Fri, 07 Aug 2026 22:50:58 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
-      "title": "Politicians, private jets and power - the life of a Fifa president",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss",
+      "title": "Life as a Wag in the transfer window",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.",
+      "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
       "author": "",
-      "published": "Fri, 07 Aug 2026 17:45:06 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "published": "Sat, 08 Aug 2026 05:15:34 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Inside Newcastle 2.0 - how the project is changing",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 05:50:20 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Goals galore - the wildest scores in EFL Cup history",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y02m99evro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport looks at some of the wildest games - and scorelines - the EFL Cup has produced as the competition returns for a new season.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 06:37:37 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -331,17 +351,7 @@
       "summary": "Liverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to purchase.",
       "author": "",
       "published": "Fri, 07 Aug 2026 22:54:13 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man City reject Barcelona's Rodri bid & in talks for Bouaddi",
-      "link": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester City reject £38m offer from Barcelona for Rodri and remain in talks for Lille midfielder Ayyoub Bouaddi.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 12:20:52 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
@@ -351,17 +361,17 @@
       "summary": "Former England all-rounder Andrew Flintoff steps down as head coach of England Lions.",
       "author": "",
       "published": "Fri, 07 Aug 2026 18:06:59 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     },
     {
       "source": "bbc",
-      "title": "France set to take part in U20 Women's World Cup despite Uefa boycott threat",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo?at_medium=RSS&at_campaign=rss",
+      "title": "England's Hull closes in on Huang after historic 62",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cn9nz8n7yrno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
+      "summary": "Charley Hull's 62 equals the lowest round in Ladies European Tour history and also breaks the course record at the Centurion Club to move within one stroke of the lead at the PIF London Championship.",
       "author": "",
-      "published": "Fri, 07 Aug 2026 15:35:22 GMT",
-      "fetched_at": "2026-08-08T03:59:35.204331+00:00"
+      "published": "Fri, 07 Aug 2026 22:03:31 GMT",
+      "fetched_at": "2026-08-08T08:06:09.679350+00:00"
     }
   ]
 }
