@@ -1,18 +1,8 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-08T14:05:19.585312+00:00",
-  "count": 30,
+  "fetched_at": "2026-08-08T19:18:36.943153+00:00",
+  "count": 28,
   "articles": [
-    {
-      "source": "bbc",
-      "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
-      "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
-      "author": "",
-      "published": "Sat, 08 Aug 2026 06:16:44 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
-    },
     {
       "source": "bbc",
       "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
@@ -21,27 +11,27 @@
       "summary": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.",
       "author": "",
       "published": "Sat, 08 Aug 2026 11:55:30 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
-      "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
+      "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+      "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chasing a ghost: How BBC tracked a fugitive spy chief after months-long hunt",
       "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
       "author": "",
       "published": "Fri, 07 Aug 2026 23:23:12 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
-      "author": "",
-      "published": "Fri, 07 Aug 2026 22:50:58 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -50,28 +40,38 @@
       "full_text": "",
       "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
       "author": "",
-      "published": "Sat, 08 Aug 2026 13:23:16 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "published": "Sat, 08 Aug 2026 15:56:39 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
-      "link": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&at_campaign=rss",
+      "title": "Sturgeon hasn't spoken to Murrell since he was jailed for embezzling SNP funds",
+      "link": "https://www.bbc.co.uk/news/articles/cdx8jxqxyw0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As temperatures start to rise again over the weekend, many parts of England and Wales will enter into the fifth heatwave of the year, as Simon King explains",
+      "summary": "The former first minister also told a podcast she would not visit her estranged husband in prison.",
       "author": "",
-      "published": "Sat, 08 Aug 2026 00:37:42 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "published": "Sat, 08 Aug 2026 16:46:23 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread.",
+      "summary": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
       "author": "",
-      "published": "Fri, 07 Aug 2026 22:07:00 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "published": "Sat, 08 Aug 2026 15:59:37 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 17:23:31 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +81,7 @@
       "summary": "The private body scan industry is booming, but is it doing more harm than good?",
       "author": "",
       "published": "Sat, 08 Aug 2026 00:49:48 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -91,7 +91,7 @@
       "summary": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
       "author": "",
       "published": "Sat, 08 Aug 2026 00:29:27 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +101,7 @@
       "summary": "We're surrounded by more advanced tech in 2026, so why are young people going back to basics?",
       "author": "",
       "published": "Sat, 08 Aug 2026 01:40:21 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +111,7 @@
       "summary": "Experts share the signs to look out for if you are worried about your porn use, and how to seek help.",
       "author": "",
       "published": "Sat, 08 Aug 2026 01:34:07 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -120,18 +120,28 @@
       "full_text": "",
       "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
       "author": "",
-      "published": "Fri, 07 Aug 2026 22:13:55 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "published": "Sat, 08 Aug 2026 14:25:19 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
-      "title": "Woman attacked by bed bugs during Travelodge stay",
-      "link": "https://www.bbc.co.uk/news/articles/cgewxl759r5o?at_medium=RSS&at_campaign=rss",
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Hannah Stephenson says the red bites have left her feeling self-conscious and embarrassed.",
+      "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
       "author": "",
-      "published": "Sat, 08 Aug 2026 05:58:22 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "published": "Sat, 08 Aug 2026 15:51:11 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "author": "",
+      "published": "Sat, 08 Aug 2026 18:06:25 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -141,47 +151,37 @@
       "summary": "The professional dancers, who married in 2003, both spent several series on the BBC programme.",
       "author": "",
       "published": "Sat, 08 Aug 2026 09:39:32 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "title": "Irish government jet travels to UAE for Kinahan extradition",
+      "link": "https://www.bbc.co.uk/news/articles/cly5zvv2kreo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "summary": "Daniel Kinahan was arrested in Dubai under a warrant issued by the Irish courts in April but has fought attempts to extradite him.",
       "author": "",
-      "published": "Sat, 08 Aug 2026 13:29:38 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "published": "Sat, 08 Aug 2026 18:40:14 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bristol Airport disruption a 'shambles' as flights restart",
-      "link": "https://www.bbc.co.uk/news/articles/c1k1lyg94w9o?at_medium=RSS&at_campaign=rss",
+      "title": "Former West Ham co-chair Sullivan attends home game despite advice not to",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c07rx4r40ngo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The airport says flights are restarting with delays and diversions after 14 hours of cancellations.",
+      "summary": "Former West Ham co-chairman David Sullivan attends their Carabao Cup match against Portsmouth despite being advised he should stay away.",
       "author": "",
-      "published": "Sat, 08 Aug 2026 12:12:14 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "published": "Sat, 08 Aug 2026 14:23:56 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
-      "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds flying out of Birmingham Airport left without luggage after baggage issues",
+      "link": "https://www.bbc.co.uk/news/articles/cvg0101z0lyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "summary": "Passengers flying from Birmingham Airport start their holidays without their luggage.",
       "author": "",
-      "published": "Sat, 08 Aug 2026 13:49:09 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Passengers 'stranded' at locked train station",
-      "link": "https://www.bbc.co.uk/news/articles/cd69w82p592o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The late-night train was one of several extra services running during Fleadh Cheoil na hÉireann.",
-      "author": "",
-      "published": "Sat, 08 Aug 2026 12:00:08 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "published": "Sat, 08 Aug 2026 16:28:54 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +191,7 @@
       "summary": "She has carried out six charity wing walks over the past decade.",
       "author": "",
       "published": "Tue, 04 Aug 2026 17:02:00 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +201,7 @@
       "summary": "Protection orders are being used to try and control the issue, but funding is limited, councils say.",
       "author": "",
       "published": "Sun, 02 Aug 2026 11:01:10 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +211,7 @@
       "summary": "Anton Honchanka was one of thousands of people affected by the 1986 nuclear disaster who came to the UK.",
       "author": "",
       "published": "Sun, 02 Aug 2026 06:04:55 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +221,7 @@
       "summary": "More women than ever are talking about the luteal phase on social media, but how does it actually affect you?",
       "author": "",
       "published": "Mon, 03 Aug 2026 00:57:22 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +241,7 @@
       "summary": "Factories and warehouses targeted in weeks of aggression in Ukraine War.",
       "author": "",
       "published": "Fri, 07 Aug 2026 14:34:00 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +251,7 @@
       "summary": "Plus… what did Andy Burnham's wife say about his leadership bid?",
       "author": "",
       "published": "Wed, 05 Aug 2026 15:47:00 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +261,7 @@
       "summary": "Before you go to the cinema, refresh your memory of Peter Parker's greatest challenge yet",
       "author": "",
       "published": "Sun, 19 Jul 2026 16:34:00 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
@@ -271,37 +271,17 @@
       "summary": "Four-time Olympic champion Michael Johnson speaks publicly for the first time since Grand Slam Track went bankrupt, and clarifies details of payments to himself and athletes.",
       "author": "",
       "published": "Sat, 08 Aug 2026 12:48:20 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arsenal sign Guimaraes from Newcastle in £75m deal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1719r079rjo?at_medium=RSS&at_campaign=rss",
+      "title": "Garcia hopes long-term friend Alonso's Chelsea finish second to Liverpool",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gj9j7yv9do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Premier League champions Arsenal sign Brazil midfielder Bruno Guimaraes from Newcastle United for £75m.",
+      "summary": "As two Liverpool legends meet in pre-season, Luis Garcia says he hopes Xabi Alonso's Chelsea finish behind their former club in the Premier League.",
       "author": "",
-      "published": "Sat, 08 Aug 2026 11:00:08 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Scotland closing in on head coach to replace Clarke",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c07rx4npmpxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Scottish FA is closing in on the appointment of a new head coach to succeed Steve Clarke.",
-      "author": "",
-      "published": "Sat, 08 Aug 2026 11:48:24 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Wolves legend Parkes dies aged 79",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y3d1l0236o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Former Wolverhampton Wanderers goalkeeper Phil Parkes dies at the age of 79.",
-      "author": "",
-      "published": "Sat, 08 Aug 2026 12:28:38 GMT",
-      "fetched_at": "2026-08-08T14:05:10.928705+00:00"
+      "published": "Sat, 08 Aug 2026 16:45:47 GMT",
+      "fetched_at": "2026-08-08T19:18:32.457705+00:00"
     }
   ]
 }
