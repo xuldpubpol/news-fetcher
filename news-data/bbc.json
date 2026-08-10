@@ -1,17 +1,17 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-10T10:39:59.025709+00:00",
-  "count": 31,
+  "fetched_at": "2026-08-10T15:31:58.879629+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
       "title": "Record 230 people cross Channel in one small boat",
       "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
       "full_text": "Between 1 January and 8 August 2026, a total of 14,819 people crossed the English Channel by small boat from France. This was down by 43% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 42% of asylum applications between April 2025 to March 2026.\nBoats that arrived in the UK from 9 August 2025 to 8 August 2026 carried an average of 67 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from April 2025 to March 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,000 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,535 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from April 2025 to March 2026. This was down by 22% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
-      "summary": "The 230 people on one boat breaks the previous record from July, which was 165 on a vessel.",
+      "summary": "The Home Office says it shows the \"reckless and dangerous tactics\" used by gangs \"cramming ever greater numbers on to unseaworthy vessels\".",
       "author": "",
-      "published": "Mon, 10 Aug 2026 10:37:28 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 14:51:06 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
@@ -21,27 +21,47 @@
       "summary": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
       "author": "",
       "published": "Mon, 10 Aug 2026 05:00:07 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Thames Water gave finance boss a £1m signing-on fee",
-      "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+      "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+      "summary": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 10:35:47 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 13:16:51 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ban on 'subscription traps' brought forward by three months",
-      "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+      "summary": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 09:57:54 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 14:58:24 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+      "author": "",
+      "published": "Mon, 10 Aug 2026 14:34:25 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Nigel Farage says incident at his home 'directly linked' to Ann Widdecombe murder",
+      "link": "https://www.bbc.co.uk/news/articles/c3v06k2qk1qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Counter-terrorism police have reopened an inquiry into an incident at the Reform UK's leader's house.",
+      "author": "",
+      "published": "Mon, 10 Aug 2026 12:39:48 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
@@ -51,57 +71,47 @@
       "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
       "author": "",
       "published": "Sun, 09 Aug 2026 23:05:29 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Schools in England have new rules on branded uniforms - will the changes save you money?",
-      "link": "https://www.bbc.co.uk/news/articles/crrvq1y442vo?at_medium=RSS&at_campaign=rss",
+      "title": "Asylum seeker who groomed and raped girl, 13, jailed",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g97nv36go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Parents should not have to buy more than three branded items, plus a tie for secondary schools.",
+      "summary": "Abdul Khan attacked the girl at a nature reserve after pretending to be 14 on Snapchat.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 00:44:11 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 12:56:41 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ocean heat records broken as hottest July temperature recorded",
-      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+      "title": "We should smile at our dogs - a new scientific study reveals why",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kr3yrl6eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+      "summary": "Scientists have worked out what is going on inside a dog's brain when it sees a human smiling or scowling.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 10:24:46 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 14:02:57 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fifa and Infantino accused of 'deception' in open letter from football confederations",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa has been accused of breaking trust \"through deception\" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation.",
+      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 08:46:54 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 14:34:49 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Senior detective under investigation over use of AI",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgq5mgz2mo?at_medium=RSS&at_campaign=rss",
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Police say a voluntary referral about an officer was made to the Independent Office for Police Conduct on 23 June.",
+      "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 10:13:20 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
-      "author": "",
-      "published": "Mon, 10 Aug 2026 10:03:58 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 14:43:08 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +121,7 @@
       "summary": "A quarter of the UK population – including the new prime minister – have at least one tattoo, but they still divide opinion in the workplace.",
       "author": "",
       "published": "Mon, 10 Aug 2026 00:40:48 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
@@ -121,107 +131,97 @@
       "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
       "author": "",
       "published": "Mon, 10 Aug 2026 05:00:32 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "The team behind Hodgkinson's golden rise and the hunt for a world record",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss",
+      "title": "Rising singer Kamal on 'scary' moment he hit up Dave for debut album",
+      "link": "https://www.bbc.co.uk/news/articles/c78gv32mpd9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport looks at the team behind Great Britain 800m star Keely Hodgkinson's golden rise and pursuit of a world record.",
+      "summary": "The London-based musician reflects on aiming for \"honesty\" within his debut album and TikTok content.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 07:00:24 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 11:06:44 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Buried abuse memory brought sisters' abuser to justice",
-      "link": "https://www.bbc.co.uk/news/articles/c4gw0746pl5o?at_medium=RSS&at_campaign=rss",
+      "title": "Schools in England have new rules on branded uniforms - will the changes save you money?",
+      "link": "https://www.bbc.co.uk/news/articles/crrvq1y442vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mellissa Arkwright could not remember the abuse she suffered as a child until she had taking therapy.",
+      "summary": "Parents should not have to buy more than three branded items, plus a tie for secondary schools.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 05:03:51 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 00:44:11 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "You could be missing out on £150 off your energy bill - here's how to check",
-      "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+      "title": "World's oceans hit record-high July temperatures",
+      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
+      "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
       "author": "",
-      "published": "Sun, 09 Aug 2026 23:47:30 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 10:24:46 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "title": "'Dust devil' spins through London park",
+      "link": "https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "summary": "Footage captured in London's Greenwich Park on Sunday showed the moment a small whirlwind swirled around people.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 09:51:07 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 11:14:50 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "title": "Thames Water gave finance boss a £1m signing-on fee",
+      "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 09:33:25 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 14:49:46 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Alexandria Ocasio-Cortez says she's freezing her eggs",
-      "link": "https://www.bbc.co.uk/news/articles/cewrzrekwv5o?at_medium=RSS&at_campaign=rss",
+      "title": "British couple held in Iran end hunger strike",
+      "link": "https://www.bbc.co.uk/news/articles/cp8x4n9gd3ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Democratic congresswoman says she wants to \"normalise\" conversations about the process.",
+      "summary": "Craig and Lindsay Foreman's family say they were on hunger strike for 93 and 84 days, respectively.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 09:27:13 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 12:40:15 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Bungalow destroyed in explosion captured on camera",
-      "link": "https://www.bbc.co.uk/news/videos/c78gx85e05go?at_medium=RSS&at_campaign=rss",
+      "title": "Ban on 'subscription traps' brought forward by three months",
+      "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Footage also shows the home burning after the explosion, thought to have been caused by a gas leak.",
+      "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 06:24:52 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 09:57:54 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rare £3.7m Ferrari seized in police crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/c629g2w56rpo?at_medium=RSS&at_campaign=rss",
+      "title": "Radio Caroline breached Ofcom rules after mistakenly announcing King's death",
+      "link": "https://www.bbc.co.uk/news/articles/ckge094k2k1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ninety vehicles worth more than £8m were seized in a weekend operation in central London.",
+      "summary": "A correction and apology wasn't aired until 30 minutes after the incident occurred.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 09:30:39 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 11:57:40 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "China evacuates one million from homes as massive storm makes landfall",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "title": "Mars Bar from 1991 found - and it's 20g bigger than one from today",
+      "link": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "summary": "The woman who found the chocolate bar during a house clearance compares it with today's Mars Bars.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 07:23:54 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-      "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Forensics revealed that the 'realistic' looking body was in fact not human.",
-      "author": "",
-      "published": "Mon, 10 Aug 2026 05:16:40 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 12:38:55 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
@@ -241,67 +241,47 @@
       "summary": "Factories and warehouses targeted in weeks of aggression in Ukraine War.",
       "author": "",
       "published": "Fri, 07 Aug 2026 14:34:00 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Which PM punched John Simpson?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p2tdv2?at_medium=RSS&at_campaign=rss",
+      "title": "Why the Democrats may never be the same again",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzg?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Plus… what did Andy Burnham's wife say about his leadership bid?",
+      "summary": "Abdul El-Sayed’s left-wing victory in Michigan has sent shock waves through the party.",
       "author": "",
-      "published": "Wed, 05 Aug 2026 15:47:00 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Fri, 07 Aug 2026 09:29:00 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "With great power comes great responsibility",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m001zpyp/spiderman-no-way-home?at_mid=mAky0efvnp&at_campaign=SpiderMan_No_Way_Home&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m001zpyp&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=SpiderMan_No_Way_Home&at_bbc_team=BBC",
+      "title": "Cult drama directed by Martin Scorsese starring Robert De Niro",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002zkzb?at_mid=kFLXa7Q6zy&at_campaign=Taxi_Driver&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zkzb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Taxi_Driver&at_bbc_team=BBC",
       "full_text": "",
-      "summary": "Before you go to the cinema, refresh your memory of Peter Parker's greatest challenge yet",
+      "summary": "Martin Scorsese's timeless masterpiece, with Robert De Niro’s most iconic performance",
       "author": "",
-      "published": "Sun, 19 Jul 2026 16:34:00 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Sun, 26 Jul 2026 22:50:33 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Infantino broke trust 'through deception' - confederation presidents",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
+      "title": "Bezos consortium advances talks for stake in Liverpool",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa has been accused of breaking trust \"through deception\" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation.",
+      "summary": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 08:46:54 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 13:16:51 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
-      "title": "Swap agreed for Everton's McNeil and Palace's Johnson",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss",
+      "title": "Championship all-stars to global gamble - will Ipswich's approach work?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2lexp9qjxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Everton and Crystal Palace agree a swap deal that will involve Toffees' winger Dwight McNeil joining the Eagles and Wales international Brennan Johnson moving in the opposite direction.",
+      "summary": "As Ipswich prepare for their return to the Premier League, BBC Sport look at how they are approaching the transfer market differently.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 08:09:16 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I've cried non-stop' - Ditcheva breaks both hands again",
-      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgde2jxvkeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Dakota Ditcheva says she broke both of her hands during the win over Denise Kielholtz - months after recovering from similar injuries.",
-      "author": "",
-      "published": "Mon, 10 Aug 2026 10:29:42 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mourinho says he agreed to replace Ferguson at Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "David Moyes succeeded Sir Alex Ferguson at Old Trafford in 2013 but things could have been so different, Jose Mourinho reveals in a new documentary.",
-      "author": "",
-      "published": "Sun, 09 Aug 2026 23:01:26 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "published": "Mon, 10 Aug 2026 11:11:55 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +291,47 @@
       "summary": "BBC Sport looks at the team behind Great Britain 800m star Keely Hodgkinson's golden rise and pursuit of a world record.",
       "author": "",
       "published": "Mon, 10 Aug 2026 07:00:24 GMT",
-      "fetched_at": "2026-08-10T10:39:56.720638+00:00"
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Should Liverpool fans be worried about Iraola's fitness comments?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Should Liverpool fans be worried about Andoni Iraola's comments concerning the squad's fitness?",
+      "author": "",
+      "published": "Mon, 10 Aug 2026 14:54:09 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I've cried non-stop' - Ditcheva breaks both hands again",
+      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgde2jxvkeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Dakota Ditcheva says she broke both of her hands during the win over Denise Kielholtz - months after recovering from similar injuries.",
+      "author": "",
+      "published": "Mon, 10 Aug 2026 10:29:42 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Infantino broke trust 'through deception' - confederation presidents",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Fifa has been accused of breaking trust \"through deception\" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation.",
+      "author": "",
+      "published": "Mon, 10 Aug 2026 08:46:54 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Swap agreed for Everton's McNeil and Palace's Johnson",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Everton and Crystal Palace agree a swap deal that will involve Toffees' winger Dwight McNeil joining the Eagles and Wales international Brennan Johnson moving in the opposite direction.",
+      "author": "",
+      "published": "Mon, 10 Aug 2026 08:09:16 GMT",
+      "fetched_at": "2026-08-10T15:31:55.053690+00:00"
     }
   ]
 }
