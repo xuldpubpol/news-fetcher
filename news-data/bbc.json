@@ -1,47 +1,107 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-11T08:40:03.766405+00:00",
-  "count": 34,
+  "fetched_at": "2026-08-11T15:30:09.881676+00:00",
+  "count": 37,
   "articles": [
     {
       "source": "bbc",
-      "title": "Amber heat health alerts in place for almost all of England as next heatwave hits",
-      "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+      "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+      "link": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The amber alerts are in place until Friday evening to cover high and even extreme temperatures expected through this week.",
+      "summary": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 08:00:06 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 14:23:52 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+      "author": "",
+      "published": "Tue, 11 Aug 2026 14:47:28 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Eclipse chasers scramble for glasses as stocks run low",
+      "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+      "author": "",
+      "published": "Tue, 11 Aug 2026 14:10:49 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+      "author": "",
+      "published": "Tue, 11 Aug 2026 09:39:58 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Family narrowly escapes home during Colombia earthquake",
+      "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
+      "author": "",
+      "published": "Tue, 11 Aug 2026 10:12:21 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Anne Hathaway pokes fun at 'fake baby bump' theories",
+      "link": "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The actress responds to social media critics who suggested her bump didn't look real at a premiere.",
+      "author": "",
+      "published": "Tue, 11 Aug 2026 10:43:08 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
       "title": "Councils to get more powers to stop vape and betting shops, PM announces",
       "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+      "summary": "Prime Minister Andy Burnham says town centres have been \"hollowed out\" by decades of decline.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 21:33:51 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 12:06:55 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "At least 132 killed in Colombia's largest  earthquake in years",
-      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "title": "Call with No 10 gives us hope, PC Harper's mother says",
+      "link": "https://www.bbc.co.uk/news/articles/cy8m1pjg4k3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "summary": "Debbie Adlam says she does not want a \"special case\" for her son, but for killers of emergency workers to be exempt.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 04:06:07 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 09:33:52 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump says it would be 'terrible mistake' to remove Infantino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "US President Donald Trump says it would be a \"terrible mistake\" if under-pressure Fifa president Gianni Infantino was ousted.",
+      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 05:30:03 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 14:50:10 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "link": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.",
+      "author": "",
+      "published": "Tue, 11 Aug 2026 08:54:57 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
@@ -51,97 +111,47 @@
       "summary": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'.",
       "author": "",
       "published": "Tue, 11 Aug 2026 01:59:24 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Jewish school heads spend more time on security than education, review finds",
-      "link": "https://www.bbc.co.uk/news/articles/c98vm1n64ljo?at_medium=RSS&at_campaign=rss",
+      "title": "The map showing world's division over Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It's one of the findings from an independent review into antisemitism in schools and colleges.",
+      "summary": "BBC Sport uses visuals to explore the support and opposition to Gianni Infantino's leadership of Fifa from its members.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 05:01:28 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 11:02:42 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
-      "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+      "title": "Amanda Knox comedy show 'sincere' but 'just not very funny'",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nwz5v1lzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
+      "summary": "The Edinburgh Fringe show received a mixed response, with many reviewers saying typical stand-up fare.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 23:32:10 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 13:35:00 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "England set to eliminate hepatitis C",
-      "link": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.",
-      "author": "",
-      "published": "Mon, 10 Aug 2026 23:40:58 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Swimming lessons 'vital' as schools gap revealed",
+      "title": "Gap between children's swimming skills revealed. Search for your school",
       "link": "https://www.bbc.co.uk/news/articles/cwyq5831981o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "How is your school doing on teaching pupils life-saving swimming skills in the English curriculum?",
       "author": "",
       "published": "Tue, 11 Aug 2026 05:32:33 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "The lonely Chinese men being conned by fake brides",
-      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
+      "title": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
+      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
+      "summary": "Mangione's lawyers have yet to signal their defence, while prosecutors are in a battle over evidence.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 22:02:21 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Disabled in a heatwave: 'We're talking about survival'",
-      "link": "https://www.bbc.co.uk/news/articles/cd6923j2wnpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Disabled campaigners say the official advice for staying safe in a heatwave can put them in more danger.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 00:18:49 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "My brother was found dead – but police didn't realise for days that he had been shot",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dprklpgzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Brian Low was murdered while walking his dog by a former colleague whose hatred had festered for years.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 05:03:29 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I felt Tourette's would ruin my life, now I teach at Cambridge'",
-      "link": "https://www.bbc.co.uk/news/articles/c7944gv359jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Amanda Cole previously hid her condition but now wants others to \"tic freely\" without embarrassment.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 00:24:09 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: '45m Brits in drought' and a 'Not-so-small boats crisis'",
-      "link": "https://www.bbc.co.uk/news/articles/c07r01rlpjxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "More of the UK is declared to be in drought an a \"mega-dinghy\" crossing the Channel leads Tuesday's papers.",
-      "author": "",
-      "published": "Mon, 10 Aug 2026 23:57:11 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 11:35:20 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
@@ -151,17 +161,37 @@
       "summary": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales.",
       "author": "",
       "published": "Tue, 11 Aug 2026 05:21:53 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Five tips to keep your kids cool in a heatwave",
-      "link": "https://www.bbc.co.uk/news/articles/c862j9vy746o?at_medium=RSS&at_campaign=rss",
+      "title": "The lonely Chinese men being conned by fake brides",
+      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Temperatures are set to rise over the next few days, and children can be especially vulnerable - so read on for tips to protect them.",
+      "summary": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
       "author": "",
-      "published": "Fri, 19 Jun 2026 00:07:22 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Mon, 10 Aug 2026 22:02:21 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How to get a good night's sleep during hot weather",
+      "link": "https://www.bbc.co.uk/news/articles/cpw7gp2ky70o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Simple tips to help you get a good night's sleep when temperatures rise.",
+      "author": "",
+      "published": "Thu, 25 Jun 2026 14:48:15 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "BBC Weather's monthly outlook",
+      "link": "https://www.bbc.co.uk/weather/articles/c1ee0klzvneo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Our latest long-term UK forecast focusing on likely trends for the next four weeks.",
+      "author": "",
+      "published": "Tue, 11 Aug 2026 14:49:47 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
@@ -171,77 +201,77 @@
       "summary": "Point it at your face? Use a bowl of ice? Open a window? Our experts separate fact from fiction.",
       "author": "",
       "published": "Wed, 08 Jul 2026 17:07:05 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "What does hot weather do to the body?",
-      "link": "https://www.bbc.co.uk/news/articles/cy7n6m7y6yvo?at_medium=RSS&at_campaign=rss",
+      "title": "Why heatwaves hit women harder",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Hot weather during the summer can affect anyone, but some people run a greater risk of serious harm.",
+      "summary": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.",
       "author": "",
-      "published": "Mon, 22 Jun 2026 13:48:18 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Wed, 08 Jul 2026 23:49:12 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC Weather's monthly outlook",
-      "link": "https://www.bbc.co.uk/weather/articles/c1ee0klzvneo?at_medium=RSS&at_campaign=rss",
+      "title": "AI agent hacks gym to get its owner spot in pilates class",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Our latest long-term UK forecast focusing on likely trends for the next four weeks.",
+      "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
       "author": "",
-      "published": "Fri, 07 Aug 2026 15:39:43 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 12:09:26 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Canada flight cancelled after child refuses to wear seat belt",
-      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "title": "Charlotte Church's forest school set up without permission on pig farm faces closure",
+      "link": "https://www.bbc.co.uk/news/articles/ceqewnx5v45o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "summary": "The Traitors star founded the school with her husband Jonathan Powell in 2019.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 21:06:27 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 12:49:35 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
-      "link": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
+      "title": "Houthis kill three in first deadly attack since start of Iran war - reports",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
+      "summary": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 07:55:22 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 13:35:57 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "title": "Seaside visitors going home earlier, Skegness traders say",
+      "link": "https://www.bbc.co.uk/news/articles/c78ge4x1x7yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+      "summary": "Business owners believe people are spending fewer evenings and less cash in Skegness this summer.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 02:43:01 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 04:58:51 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "GB's Amy Hunt wins European 100m gold",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
+      "title": "Antisemitism towards Jewish children 'shocking', government expert tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c98vm1n64ljo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Britain's Amy Hunt has her \"coming of age\" moment as she storms to 100m glory at the European Athletics Championships in Birmingham.",
+      "summary": "It's one of the findings from an independent review into antisemitism in schools and colleges.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 22:51:36 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 05:01:28 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Moment Chinese rocket explodes after lift-off",
-      "link": "https://www.bbc.co.uk/news/videos/c78grn8vnvvo?at_medium=RSS&at_campaign=rss",
+      "title": "Thailand suspends new gun permits after mass shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The rocket failed after an in-flight anomaly while carrying a satellite, Chinese state media reported.",
+      "summary": "Authorities promise tough new laws in the country, which has high levels of firearms ownership.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 04:08:06 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 15:11:54 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
@@ -251,97 +281,97 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
       "title": "Subscriptions, ‘Intergalactic Affairs’ and Alleged Cartel Boss Daniel Kinahan",
       "link": "https://www.bbc.co.uk/sounds/play/p0p38l9p?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Adam, Caitríona Perry and Joe Pike join us at the Edinburgh Fringe",
+      "summary": "Adam, Caitríona Perry and Joe Pike at the Edinburgh Fringe.",
       "author": "",
       "published": "Mon, 10 Aug 2026 16:45:00 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Americanswers...on 5 Live! Will Trump's new challenge to birthright citizenship work?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p3s7g3?at_medium=RSS&at_campaign=rss",
+      "title": "How a murder case fuelled a culture war",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p2y699?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "And Hunter Biden speaks to the BBC about his pardon and Joe Biden’s health",
+      "summary": "How Luigi Mangione's case became a battleground in America's culture wars",
       "author": "",
-      "published": "Mon, 10 Aug 2026 19:02:00 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 00:30:00 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Cult drama directed by Martin Scorsese starring Robert De Niro",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002zkzb?at_mid=kFLXa7Q6zy&at_campaign=Taxi_Driver&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zkzb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Taxi_Driver&at_bbc_team=BBC",
+      "title": "Uncovering sexual misconduct claims against the Oscar-winning actor",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002zl1y?at_mid=2PvRUD6ZAG&at_campaign=Jared_Leto_Hollywoods_Dark_Secret&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl1y&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Jared_Leto_Hollywoods_Dark_Secret&at_bbc_team=BBC",
       "full_text": "",
-      "summary": "Martin Scorsese's timeless masterpiece, with Robert De Niro’s most iconic performance",
+      "summary": "Multiple women accuse Oscar-winning Hollywood actor Jared Leto of sexual misconduct.",
       "author": "",
-      "published": "Sun, 26 Jul 2026 22:50:33 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Wed, 29 Jul 2026 05:00:00 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump says it would be 'terrible mistake' to remove Infantino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss",
+      "title": "The map showing world's division over Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "US President Donald Trump says it would be a \"terrible mistake\" if under-pressure Fifa president Gianni Infantino was ousted.",
+      "summary": "BBC Sport uses visuals to explore the support and opposition to Gianni Infantino's leadership of Fifa from its members.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 05:30:03 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 11:02:42 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "GB's Hunt comes of age with European 100m gold",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
+      "title": "Hodgkinson and gold medal rivals progress at Europeans",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cwy4ww1k49eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Britain's Amy Hunt has her \"coming of age\" moment as she storms to 100m glory at the European Athletics Championships in Birmingham.",
+      "summary": "Keely Hodgkinson and gold medal rivals Audrey Werro and Femke Broeders-Bol progress to remain on course for a tantalising European 800m showdown.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 22:51:36 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 12:32:56 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Maresca on Guardiola, captaincy dilemma & AI masterclasses",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz970w31k75o?at_medium=RSS&at_campaign=rss",
+      "title": "Palace co-owner spoke to McNeil's partner before move",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyjxxg5ze5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "New Manchester City manager Enzo Maresca talks about replacing Pep Guardiola, his interest in AI and his captaincy dilemma.",
+      "summary": "Crystal Palace co-owner and chairman Steve Parish contacts Dwight McNeil's partner before the midfielder's move to the club.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 06:00:41 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 12:07:28 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Meet Liverpool's rising star who can only play friendlies",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq569dvxg2yo?at_medium=RSS&at_campaign=rss",
+      "title": "Unhappy PSG given extra Super Cup dressing room",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The emergence of teenage defender Ifeanyi Ndukwe has been one of the main storylines of Liverpool's pre-season - but why can the 18-year-old only play friendly matches?",
+      "summary": "Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 07:16:45 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 14:06:50 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Can Lawson keep seat for 2027 season? - F1 Q&A",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c07rv30xx91o?at_medium=RSS&at_campaign=rss",
+      "title": "Rocky Flintoff hits first professional century for Lancs",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8rn483e415o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions.",
+      "summary": "Rocky Flintoff, the 18-year-old son of legendary former England all-rounder Andrew, hits his first professional century for Lancashire.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 06:46:34 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 14:06:30 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     },
     {
       "source": "bbc",
-      "title": "Britain's Hunt sprints to European 100m gold",
-      "link": "https://www.bbc.co.uk/sport/athletics/videos/cn8nd4w0wl7o?at_medium=RSS&at_campaign=rss",
+      "title": "How £30m Charles became Northern Ireland's most expensive footballer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn5n3rl0p0ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Great Britain's Amy Hunt wins her first major gold medal with victory in the 100m at the European Athletics Championships in Birmingham.",
+      "summary": "After he became Northern Ireland's most expensive player, BBC Sport NI looks at the rise of Shea Charles, from Manchester City's academy to Fulham's £30m man.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 22:30:30 GMT",
-      "fetched_at": "2026-08-11T08:40:00.612773+00:00"
+      "published": "Tue, 11 Aug 2026 11:36:09 GMT",
+      "fetched_at": "2026-08-11T15:30:01.366834+00:00"
     }
   ]
 }
