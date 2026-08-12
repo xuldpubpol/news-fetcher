@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-12T15:30:06.518797+00:00",
+  "fetched_at": "2026-08-12T20:10:18.288922+00:00",
   "count": 42,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
     {
       "source": "bbc",
       "title": "Double killer and rapist given whole life sentence",
@@ -11,27 +21,47 @@
       "summary": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
       "author": "",
       "published": "Wed, 12 Aug 2026 14:25:00 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "Three ways to watch the solar eclipse safely without glasses",
-      "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 16:29:28 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham considers disposable BBQ ban over wildfire risks",
+      "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
       "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 13:31:51 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 19:05:38 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Students wait for A-level, T-level and BTec results",
+      "link": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Another record number of students are expected to secure a place at their first choice of university.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 19:26:55 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+      "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 19:21:22 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 20:09:37 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -41,17 +71,17 @@
       "summary": "The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.",
       "author": "",
       "published": "Wed, 12 Aug 2026 12:32:24 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "Messi unsure he will play 'much longer' after father's death",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&at_campaign=rss",
+      "title": "Ministers push ahead with housing asylum seekers on ex-military sites",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdpzg0eyno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.",
+      "summary": "The government says former MoD sites are the best option despite protests from people living nearby.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 13:48:23 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 16:23:53 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -61,27 +91,17 @@
       "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
       "author": "",
       "published": "Wed, 12 Aug 2026 11:28:05 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham warned Iran war could hit UK growth next year",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+      "title": "Ann Widdecombe's loved ones gather for her funeral",
+      "link": "https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+      "summary": "A requiem mass is held for the former MP at Buckfast Abbey in Devon, near her Dartmoor home.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 14:17:26 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Members of cabinet remained on decoy plane, after Trump's quiet exit",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat.",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 14:44:48 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 16:31:07 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -90,48 +110,18 @@
       "full_text": "",
       "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 14:03:48 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 16:14:08 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "X-Men star Nicholas Hoult joins cast of Harry Potter TV show",
-      "link": "https://www.bbc.co.uk/news/articles/cy742kl562ko?at_medium=RSS&at_campaign=rss",
+      "title": "Eurovision Song Contest changes rules for countries at war",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7pv300vwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Hoult, known for his roles in X-Men, Superman and Mad Max: Fury Road, will play Gilderoy Lockhart.",
+      "summary": "Organisers say countries engaged in armed conflict will be automatically disqualified from hosting.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 10:03:56 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How the weather will affect your viewing",
-      "link": "https://www.bbc.co.uk/weather/articles/c23592z7gppo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Look to the skies on Wednesday because one of the most spectacular solar eclipses for decades is coming the UK's way with likely optimum viewing conditions for many.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 15:02:33 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "After the eclipse, a meteor shower - how to catch a glimpse",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 01:59:24 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Warning from man whose eyes were damaged by eclipse",
-      "link": "https://www.bbc.co.uk/news/articles/cy5d19q9kngo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Peter Smith damaged his eyes by watching the 1999 eclipse without suitable glasses.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 10:42:42 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 15:49:37 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +131,7 @@
       "summary": "The actress from The Office TV series says her breast lump was tiny and not a 'lump' as such; rather a kind of hard spot.",
       "author": "",
       "published": "Wed, 12 Aug 2026 13:16:37 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -151,47 +141,7 @@
       "summary": "Simon Levy is jailed for life after murdering two women and raping another.",
       "author": "",
       "published": "Wed, 12 Aug 2026 14:46:38 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Baby Shark boy set to make K-pop debut",
-      "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 03:26:32 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How affordable are Edinburgh's festivals?",
-      "link": "https://www.bbc.co.uk/news/articles/czdmn1re7zgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The city is no stranger to complaints about soaring prices during August - but are costs on the rise?",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 05:04:59 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-      "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 23:00:26 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why is the women's 800m record so tough to break?",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cgr7lk1kndro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The world record for the women's 800m is the longest standing in athletics. No-one has managed to break it for 43 years. Why is it such a tough task?",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 06:13:39 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +151,57 @@
       "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
       "author": "",
       "published": "Tue, 11 Aug 2026 23:31:18 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How affordable are Edinburgh's festivals?",
+      "link": "https://www.bbc.co.uk/news/articles/czdmn1re7zgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The city is no stranger to complaints about soaring prices during August - but are costs on the rise?",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 05:04:59 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why is the women's 800m record so tough to break?",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cgr7lk1kndro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The world record for the women's 800m is the longest standing in athletics. No-one has managed to break it for 43 years. Why is it such a tough task?",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 06:13:39 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Baby Shark boy set to make K-pop debut",
+      "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 03:26:32 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+      "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
+      "author": "",
+      "published": "Tue, 11 Aug 2026 23:00:26 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Your heatwave tips on how to cope in extreme temperatures",
+      "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 15:30:28 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -211,17 +211,7 @@
       "summary": "Simple tips to help you get a good night's sleep when temperatures rise.",
       "author": "",
       "published": "Thu, 25 Jun 2026 14:48:15 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "BBC Weather's monthly outlook",
-      "link": "https://www.bbc.co.uk/weather/articles/c1ee0klzvneo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Our latest long-term UK forecast focusing on likely trends for the next four weeks.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 14:49:47 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +221,7 @@
       "summary": "Point it at your face? Use a bowl of ice? Open a window? Our experts separate fact from fiction.",
       "author": "",
       "published": "Wed, 08 Jul 2026 17:07:05 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -241,17 +231,37 @@
       "summary": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.",
       "author": "",
       "published": "Wed, 08 Jul 2026 23:49:12 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "title": "New Forest wildfire continues as temperatures rise",
+      "link": "https://www.bbc.co.uk/news/articles/c9356l5v07go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+      "summary": "A crew of around 100 firefighters have been battling the wildfire since it began on Sunday 9 August.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 11:28:02 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 17:53:31 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "LA Lakers to be sold in record $12.5bn deal",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 16:11:04 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 16:34:01 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -261,97 +271,27 @@
       "summary": "Vice-chancellor Deborah Prentice acknowledged the \"anger and anxiety around this damaging and difficult case\".",
       "author": "",
       "published": "Wed, 12 Aug 2026 14:50:40 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "Estonia rejects proposals to take prisoners from UK jails",
-      "link": "https://www.bbc.co.uk/news/articles/cly5pj0qyd4o?at_medium=RSS&at_campaign=rss",
+      "title": "PM warned of Iran war impact on UK growth next year",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Estonia's justice minister rules out a deal with the UK after Reform and the Conservatives suggested renting prison space abroad.",
+      "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 13:47:12 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 14:17:26 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
-      "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump sued over Truth Social's $100,000 early access service",
+      "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The new feature, starting from mid-September, will tell listeners if an artist is AI-generated.",
+      "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 15:07:21 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Early release scheme risks more serious crimes, probation chief inspector warns",
-      "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\".",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 08:57:44 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
-      "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 07:30:16 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rod Stewart calls off US tour after 'routine' heart procedure",
-      "link": "https://www.bbc.co.uk/news/articles/c20j2ngk2z8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 81-year-old singer has been advised by doctors to recuperate for the next four weeks.",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 07:29:45 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "BBC News app",
-      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-      "author": "",
-      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Did President Trump Escape Air Force One In A Catering Truck?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p38lcp?at_medium=RSS&at_campaign=rss",
-      "full_text": "Find out how to listen to other BBC stations",
-      "summary": "The Washington Post has reported on a secret presidential plane swap.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 16:13:00 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How a murder case fuelled a culture war",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p2y699?at_medium=RSS&at_campaign=rss",
-      "full_text": "Find out how to listen to other BBC stations",
-      "summary": "How Luigi Mangione's case became a battleground in America's culture wars",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 00:30:00 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Shabaz Ali takes the 'billionaire debate' into the real world",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002ydrr?at_mid=kpNfCZ035k&at_campaign=Shabaz_Asks_Are_Billionaires_Bad&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002ydrr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Shabaz_Asks_Are_Billionaires_Bad&at_bbc_team=BBC",
-      "full_text": "",
-      "summary": "Shabaz Ali turns author to see if the internet's favourite villains deserve the hate.",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 05:00:00 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 17:48:56 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
@@ -361,67 +301,127 @@
       "summary": "Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.",
       "author": "",
       "published": "Wed, 12 Aug 2026 13:48:23 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "I owe Villa the world but Man Utd are above them - Tielemans",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg0z79l89go?at_medium=RSS&at_campaign=rss",
+      "title": "Results, appeals and resits - what to do if your A-levels don't go to plan",
+      "link": "https://www.bbc.co.uk/news/articles/c07dz891gy5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United new boy Youri Tielemans gives his first extended interview on his £35m dream move, making it third time lucky for the ex-Aston Villa man.",
+      "summary": "Your full guide to A-level results day, including what to do if you are not happy with your grades.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 11:00:23 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 15:40:41 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "Inter in advanced talks for Spurs full-back Spence",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgxz9xd95zo?at_medium=RSS&at_campaign=rss",
+      "title": "How to get the most out of university clearing on results day",
+      "link": "https://www.bbc.co.uk/news/articles/c20dpj3peglo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence, in a deal worth a minimum of £25.6m (30m euros).",
+      "summary": "From listing potential outcomes to picking up the phone, these are some top tips for getting through clearing.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 13:43:30 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 15:42:28 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "Five players get first England deals in Borthwick shake-up",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwy427n1dnvo?at_medium=RSS&at_campaign=rss",
+      "title": "Everything you need to know about university costs",
+      "link": "https://www.bbc.co.uk/news/articles/cwyegp0dnq9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Asher Opoku-Fordjour, Alex Coles, Guy Pepper, Jack van Poortvliet and Seb Atkinson are handed England central contracts for the first time as Steve Borthwick shakes up his squad.",
+      "summary": "With rising tuition fees and living costs, do higher graduate earnings cover the cost of a degree?",
       "author": "",
-      "published": "Wed, 12 Aug 2026 13:30:06 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 15:42:11 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "England scrap midnight curfew after seven months",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c30428ljm06o?at_medium=RSS&at_campaign=rss",
+      "title": "How do I apply for an apprenticeship and what will I get paid?",
+      "link": "https://www.bbc.co.uk/news/articles/c51xenx7pvqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "New Test captain Joe Root abolishes the midnight curfew imposed on the England team under predecessor Ben Stokes.",
+      "summary": "Apprentices split their time between training and working - and are paid by their employer.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 15:28:32 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 15:42:49 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arsenal reignite interest in Aston Villa's Konsa",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss",
+      "title": "BBC News app",
+      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
+      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
-      "published": "Wed, 12 Aug 2026 15:21:59 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     },
     {
       "source": "bbc",
-      "title": "South Korea crisis deepens over sexual favours scandal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpw9px9z5wgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The South Korean FA apologises amid a series of controversies and a police raid on its headquarters.",
+      "title": "Andy Burnham's Emergency Cobra Meeting On Extreme Heat",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p38lh7?at_medium=RSS&at_campaign=rss",
+      "full_text": "Find out how to listen to other BBC stations",
+      "summary": "Prime Minister Andy Burnham chairs an emergency Cobra committee meeting.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 13:11:07 GMT",
-      "fetched_at": "2026-08-12T15:29:53.207888+00:00"
+      "published": "Wed, 12 Aug 2026 16:44:00 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Is Trump trying to influence foreign elections?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ml5?at_medium=RSS&at_campaign=rss",
+      "full_text": "Find out how to listen to other BBC stations",
+      "summary": "In Brazil and elsewhere, leaders raise concerns over alleged election meddling by the US.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 09:00:00 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Shabaz Ali takes the 'billionaire debate' into the real world",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002ydrr?at_mid=kpNfCZ035k&at_campaign=Shabaz_Asks_Are_Billionaires_Bad&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002ydrr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Shabaz_Asks_Are_Billionaires_Bad&at_bbc_team=BBC",
+      "full_text": "",
+      "summary": "Shabaz Ali turns author to see if the internet's favourite villains deserve the hate.",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 05:00:00 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "GB's Hudson-Smith wins historic 400m gold on home track",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 20:04:08 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Messi unsure he will play 'much longer' after father's death",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 13:48:23 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What's happening with Lewis-Skelly's Arsenal future?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyxpgjx4mjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Myles Lewis-Skelly's long-term future at Arsenal has been debated since he slipped down the pecking order last season - will he stay with the Gunners with interest reportedly shown elsewhere?",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 16:49:46 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Can Mourinho restore Real Madrid to former glory?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cddjpz6q3d6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jose Mourinho is back at Real Madrid 13 years after leaving the club. But can the 63-year-old recapture the success of his first spell and deliver trophies at the Bernabeu? BBC Sport speaks to those who know Mourinho and Real Madrid best to assess whether his second stint can be a success.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 17:44:45 GMT",
+      "fetched_at": "2026-08-12T20:10:07.152946+00:00"
     }
   ]
 }
