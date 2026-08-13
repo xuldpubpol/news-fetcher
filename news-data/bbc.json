@@ -1,27 +1,47 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-13T15:31:41.575829+00:00",
-  "count": 42,
+  "fetched_at": "2026-08-13T20:02:55.885389+00:00",
+  "count": 37,
   "articles": [
     {
       "source": "bbc",
-      "title": "Water bills set to rise for many after firms permitted extra funding",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+      "title": "Aerial footage shows derailed train",
+      "link": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+      "summary": "A train has derailed near Lewes in East Sussex, British Transport Police say.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 13:38:30 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 17:09:23 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
+      "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+      "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "An amber extreme heat warning is in place for parts of England until midnight.",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 18:54:25 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Five key takeaways from results day 2026",
+      "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 16:49:28 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Son of 102-year-old says father died after being 'pushed off stage'",
       "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 14:58:14 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 18:28:17 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
@@ -31,7 +51,7 @@
       "summary": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
       "author": "",
       "published": "Thu, 13 Aug 2026 11:57:28 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
@@ -40,8 +60,8 @@
       "full_text": "",
       "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 14:58:09 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 16:20:41 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
@@ -50,38 +70,18 @@
       "full_text": "",
       "summary": "Adina Mihai and Madalin Dumitru gave their victims the drug GBL to render them unconscious.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 15:21:22 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 16:47:42 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Busiest ever period for England's A&Es as extreme heat hits",
-      "link": "https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&at_campaign=rss",
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 2.4 million visits in each of last three months, as unions warn of inhumane conditions.",
+      "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 11:56:32 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Harvey Nichols bought by owner of Sports Direct",
-      "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 14:27:43 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 15:05:12 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 18:45:51 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
@@ -91,107 +91,27 @@
       "summary": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election.",
       "author": "",
       "published": "Thu, 13 Aug 2026 12:07:20 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dating app Bumble divides users by ditching its signature 'women-first' chat rule",
-      "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+      "title": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
+      "link": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
+      "summary": "Bonnie Tyler's friend Mal Pope heard Total Eclipse of the Heart playing throughout Mumbles in Swansea.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 14:09:05 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 17:07:42 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Five key takeaways from results day 2026",
-      "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
+      "title": "How to get a good night's sleep during hot weather",
+      "link": "https://www.bbc.co.uk/news/articles/cpw7gp2ky70o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
+      "summary": "Simple tips to help you get a good night's sleep when temperatures rise.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 15:03:34 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Results, appeals and resits - what to do if things don't go to plan",
-      "link": "https://www.bbc.co.uk/news/articles/c07dz891gy5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Your full guide to A-level results day, including what to do if you are not happy with your grades.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 09:21:43 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How to get the most out of clearing",
-      "link": "https://www.bbc.co.uk/news/articles/c20dpj3peglo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "From listing potential outcomes to picking up the phone, these are some top tips for getting through clearing.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 08:40:45 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How do I apply for an apprenticeship and what will I get paid?",
-      "link": "https://www.bbc.co.uk/news/articles/c51xenx7pvqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Apprentices split their time between training and working - and are paid by their employer.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 08:41:04 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Everything you need to know about university costs",
-      "link": "https://www.bbc.co.uk/news/articles/cwyegp0dnq9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "With rising tuition fees and living costs, do higher graduate earnings cover the cost of a degree?",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 08:40:22 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 14:56:19 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Premier League shirts will change with gambling sponsor ban",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4g3vrr1vdro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Premier League kits are going to have a very different look this season after clubs voted to ban gambling on the front of shirts. BBC Sport looks at the history of sponsorship, and who is replacing the betting companies.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 14:57:15 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 04:55:58 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I was blown away' - the fans who heard Phoebe Bridgers' unreleased album in a planetarium",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k1y0rzeko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Armagh Planetarium hosts an early album listening party for American singer-songwriter Phoebe Bridgers.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 05:23:45 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 25 Jun 2026 14:48:15 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
@@ -201,17 +121,7 @@
       "summary": "Six simple things you can do to help keep your house cool when temperatures rise.",
       "author": "",
       "published": "Mon, 22 Jun 2026 11:13:44 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Your heatwave tips on how to cope in extreme temperatures",
-      "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat.",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 15:30:28 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
@@ -221,157 +131,47 @@
       "summary": "Point it at your face? Use a bowl of ice? Open a window? Our experts separate fact from fiction.",
       "author": "",
       "published": "Wed, 08 Jul 2026 17:07:05 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why heatwaves hit women harder",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&at_campaign=rss",
+      "title": "Your heatwave tips on how to cope in extreme temperatures",
+      "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.",
+      "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat.",
       "author": "",
-      "published": "Wed, 08 Jul 2026 23:49:12 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Wed, 12 Aug 2026 15:30:28 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man bitten by shark off Irish coast says he 'didn't think he was going to make it'",
-      "link": "https://www.bbc.co.uk/news/articles/c8xnwk78xe8o?at_medium=RSS&at_campaign=rss",
+      "title": "Are the UK's top universities really 'hoovering up' students?",
+      "link": "https://www.bbc.co.uk/news/articles/cddjp8gq0njo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "'The fish is in the right' says experienced fishermen bitten after catching blue shark.",
+      "summary": "The most selective universities have seen the biggest rise in students accepted onto their courses for 2026.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 13:46:34 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 16:43:34 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
-      "link": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss",
+      "title": "'I worked really hard and it paid off': Elation, nerves and proud parents as students get results",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd47j24wyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.",
+      "summary": "A Ukrainian refugee, a firefighter and triplets are among the students reacting to their results.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 12:23:12 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 17:35:53 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Scientists invent 'world's greenest party balloon'",
-      "link": "https://www.bbc.co.uk/news/articles/c78gqw3w6v5o?at_medium=RSS&at_campaign=rss",
+      "title": "Who could replace White House Press Secretary Karoline Leavitt?",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Imperial College London experts say standard party balloons can take years to break down.",
+      "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 05:05:56 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Leading doctor rebukes NHS chiefs over transplant failings",
-      "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "NHS Blood and Transplant's medical director says waiting lists for organ operations are unfair but leaders are not solving the issue.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 01:03:15 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 09:54:03 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK economy grows but experts warn of challenging months ahead",
-      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 10:17:56 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 11:10:31 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "BBC News app",
-      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-      "author": "",
-      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Andy Burnham's Emergency Cobra Meeting On Extreme Heat",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p38lh7?at_medium=RSS&at_campaign=rss",
-      "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Prime Minister Andy Burnham chairs an emergency Cobra committee meeting.",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 16:44:00 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Is Trump trying to influence foreign elections?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ml5?at_medium=RSS&at_campaign=rss",
-      "full_text": "Find out how to listen to other BBC stations",
-      "summary": "In Brazil and elsewhere, leaders raise concerns over alleged election meddling by the US.",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 09:00:00 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Philomena Cunk examines life and existence",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0026dxz/cunk-on-life?at_mid=bjrbsFngoR&at_campaign=Cunk_on_Life&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0026dxz&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Cunk_on_Life&at_bbc_team=BBC",
-      "full_text": "",
-      "summary": "Mockumentary from Charlie Brooker starring Diane Morgan",
-      "author": "",
-      "published": "Tue, 30 Dec 2025 21:30:00 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "In 1940s Australia, a young orphan is brought to a remote orphanage",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002zkzx/the-new-boy?at_mid=0jovURIupI&at_campaign=The_New_Boy&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zkzx&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_New_Boy&at_bbc_team=BBC",
-      "full_text": "",
-      "summary": "The miracle is in the mystery. A nun's faith is challenged by an orphan at her monastery",
-      "author": "",
-      "published": "Tue, 28 Jul 2026 05:00:00 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hodgkinson into 800m final and Werro through despite nasty fall",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cgq5pd4n0y5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Keely Hodgkinson reaches the women's 800m final at the European Championships - moments after rival Audrey Werro suffers a dramatic fall that put her place in doubt.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 13:43:15 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tielemans apologises to Villa fans for Man Utd remarks",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm2gpr52drzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Youri Tielemans apologises to Aston Villa fans after suggesting he had moved to a bigger club in Premier League rivals Manchester United.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 13:47:14 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 14:56:19 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
@@ -381,27 +181,167 @@
       "summary": "Premier League kits are going to have a very different look this season after clubs voted to ban gambling on the front of shirts. BBC Sport looks at the history of sponsorship, and who is replacing the betting companies.",
       "author": "",
       "published": "Thu, 13 Aug 2026 14:57:15 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Critical former referees add to culture of fear, says retiring Taylor",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czxq25zejj4o?at_medium=RSS&at_campaign=rss",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials.",
+      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 11:35:28 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bangladesh dominate Australia despite Smith reprieve",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c86ndx87e8eo?at_medium=RSS&at_campaign=rss",
+      "title": "'I was blown away' - the fans who heard Phoebe Bridgers' unreleased album in a planetarium",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k1y0rzeko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Australia batter Steve Smith benefits from an odd technology reprieve, but Bangladesh otherwise dominate the hosts on day one of the first Test.",
+      "summary": "Armagh Planetarium hosts an early album listening party for American singer-songwriter Phoebe Bridgers.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 13:39:57 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 05:23:45 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 19:46:27 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Living in temporary accommodation has taken a huge toll on my family'",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw7nxdwlpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The number of children living in temporary accommodation has hit its 18th quarterly high in a row.",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 15:25:02 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Family of Irish plane crash victim awarded $29m in damages",
+      "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his  widow Naoise Connolly Ryan brought a civil suit against Boeing.",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 19:08:49 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Person fined after using foghorn to wake sleeping polar bear",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 15:30:57 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Water bills set to rise for many after firms permitted extra funding",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 13:38:30 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK economy grows but experts warn of challenging months ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 10:17:56 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ski Sunday host Chemmy Alcott suffers collapsed lung after jumping into lake",
+      "link": "https://www.bbc.co.uk/news/articles/cp8xpg1380xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The former GB Olympian posted images of her in hospital while on holiday in France.",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 15:23:11 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "BBC News app",
+      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "author": "",
+      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Andy Burnham's Emergency Cobra Meeting On Extreme Heat",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p38lh7?at_medium=RSS&at_campaign=rss",
+      "full_text": "Find out how to listen to other BBC stations",
+      "summary": "Prime Minister Andy Burnham chairs an emergency Cobra committee meeting.",
+      "author": "",
+      "published": "Wed, 12 Aug 2026 16:44:00 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Is Iran really trying to kill Trump?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8mfn?at_medium=RSS&at_campaign=rss",
+      "full_text": "Find out how to listen to other BBC stations",
+      "summary": "How developed is the Tehran regime’s assassination operation abroad?",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Philomena Cunk examines life and existence",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0026dxz/cunk-on-life?at_mid=bjrbsFngoR&at_campaign=Cunk_on_Life&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0026dxz&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Cunk_on_Life&at_bbc_team=BBC",
+      "full_text": "",
+      "summary": "Mockumentary from Charlie Brooker starring Diane Morgan",
+      "author": "",
+      "published": "Tue, 30 Dec 2025 21:30:00 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "In 1940s Australia, a young orphan is brought to a remote orphanage",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002zkzx/the-new-boy?at_mid=0jovURIupI&at_campaign=The_New_Boy&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zkzx&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_New_Boy&at_bbc_team=BBC",
+      "full_text": "",
+      "summary": "The miracle is in the mystery. A nun's faith is challenged by an orphan at her monastery",
+      "author": "",
+      "published": "Tue, 28 Jul 2026 05:00:00 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie Mainoo.",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 16:21:51 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "LIV set to cancel season-ending Team Championship",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/c1512e13n40o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "LIV Golf players have been warned that the season-ending Team Championship later this month is set to be cancelled.",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 16:36:15 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
@@ -411,17 +351,27 @@
       "summary": "Leicester City's Thai owners King Power are hoping to sell the club after 16 years, for more than £200m.",
       "author": "",
       "published": "Thu, 13 Aug 2026 14:08:18 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hodgkinson leads home Broeders-Bol to qualify for 800m final",
-      "link": "https://www.bbc.co.uk/sport/athletics/videos/c07r2lz4ne0o?at_medium=RSS&at_campaign=rss",
+      "title": "Can Werro recover from heavy fall to challenge for 800m gold?",
+      "link": "https://www.bbc.co.uk/sport/athletics/videos/c5y3z5r4lpyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Great Britain's Keely Hodgkinson wins her 800m semi-final leading home Femke Broeders-Bol of the Netherlands.",
+      "summary": "Having suffered a fall in the 800m semi-finals, Audrey Werro may have to contend with physical and mental consequences in the finals as she faces stiff competition in Keely Hodgkinson and Femke Broeders-Bol.",
       "author": "",
-      "published": "Thu, 13 Aug 2026 11:48:07 GMT",
-      "fetched_at": "2026-08-13T15:31:25.793062+00:00"
+      "published": "Thu, 13 Aug 2026 19:04:45 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "GB teenager Nowacki wins dramatic European gold",
+      "link": "https://www.bbc.co.uk/sport/swimming/articles/cre4peze9yyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "British teenager Filip Nowacki claims a dramatic gold in the men's 200m breaststroke final at the European Aquatics Championships in Paris.",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 18:32:07 GMT",
+      "fetched_at": "2026-08-13T20:02:47.685303+00:00"
     }
   ]
 }
