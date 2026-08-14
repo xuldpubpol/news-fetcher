@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-14T15:06:42.927438+00:00",
-  "count": 33,
+  "fetched_at": "2026-08-14T20:00:24.408784+00:00",
+  "count": 32,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Ex-Cambridge professor at centre of plagiarism row found dead",
+      "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jason Arday was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon, officials said.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 19:54:13 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
     {
       "source": "bbc",
       "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -10,38 +20,88 @@
       "full_text": "",
       "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 14:30:46 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
-      "link": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
+      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.",
+      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 13:58:55 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 19:20:43 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Prisoners charged over attack on Sara Sharif's father",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss",
+      "title": "Derailed Essex to London train leads to travel chaos",
+      "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.",
+      "summary": "More than 60 patients were checked over by ambulance crews but all were discharged at the scene.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 13:21:56 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 19:57:50 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Eurovision proposes new rules to reduce political voting",
-      "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
+      "summary": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 10:23:08 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 14:50:02 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 18:25:38 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 19:43:03 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 17:03:17 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Bezos-backed consortium buys a third of Liverpool FC",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 16:00:16 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Stephen Bear jailed over sex offender breaches",
+      "link": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 17:22:36 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
@@ -51,7 +111,27 @@
       "summary": "Sprinter Amy Hunt has been showing off her nails at the European Athletics Championships in Birmingham.",
       "author": "",
       "published": "Fri, 14 Aug 2026 11:49:09 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 18:54:58 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What we know so far about the West Midlands fires",
+      "link": "https://www.bbc.co.uk/news/articles/cp8xr2n9560o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Several fires swept across the West Midlands on Thursday destroying homes and forcing residents to flee.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 15:46:56 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
@@ -61,77 +141,7 @@
       "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
       "author": "",
       "published": "Fri, 14 Aug 2026 12:19:21 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 13:18:08 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdprd3mv9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Solar specs are tricky to recycle because of their lenses, so here are three things to do instead.",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 23:15:44 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What we know so far about the West Midlands fires",
-      "link": "https://www.bbc.co.uk/news/articles/cp8xr2n9560o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Several fires swept across the West Midlands on Thursday destroying homes and forcing residents to flee.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 14:54:37 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
-      "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 07:45:51 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What do people in Clacton think of Farage's by-election win?",
-      "link": "https://www.bbc.co.uk/news/articles/cvg947z1we1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Reform leader wins the by-election he triggered, and gains more votes than last time.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 11:55:16 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "VAR, timewasting and subs - new rules for the new Premier League season",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce85pje4gyqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 11:00:52 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
-      "link": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 08:02:35 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +151,7 @@
       "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "author": "",
       "published": "Thu, 13 Aug 2026 16:40:52 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +161,7 @@
       "summary": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.",
       "author": "",
       "published": "Wed, 08 Jul 2026 23:49:12 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
@@ -161,7 +171,7 @@
       "summary": "Six simple things you can do to help keep your house cool when temperatures rise.",
       "author": "",
       "published": "Mon, 22 Jun 2026 11:13:44 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +181,7 @@
       "summary": "Point it at your face? Use a bowl of ice? Open a window? Our experts separate fact from fiction.",
       "author": "",
       "published": "Wed, 08 Jul 2026 17:07:05 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
@@ -181,67 +191,77 @@
       "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat.",
       "author": "",
       "published": "Wed, 12 Aug 2026 15:30:28 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+      "title": "Eurovision proposes new rules to reduce political voting",
+      "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+      "summary": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
       "author": "",
-      "published": "Fri, 14 Aug 2026 14:08:21 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 10:23:08 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Count Binface to perform at Fringe after by-election defeat",
-      "link": "https://www.bbc.co.uk/news/articles/cqx71zwyyd9o?at_medium=RSS&at_campaign=rss",
+      "title": "France's top court blocks social media ban for under-15s",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The alter ego of comedian Jon Harvey finished second to Nigel Farage in the Clacton by-election.",
+      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 13:56:16 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 16:35:06 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Woman cleared of owning XL bully which fatally bit man",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8qd970kzo?at_medium=RSS&at_campaign=rss",
+      "title": "Two dead after light aircraft crash",
+      "link": "https://www.bbc.co.uk/news/articles/cgjexn9qd54o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chanel Fong has been found not guilty of being the owner of a dog that was dangerously out of control.",
+      "summary": "A plane travelling from England on Friday did not arrive at Caernarfon Airport as scheduled.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 15:04:21 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 17:56:29 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "One million sign petition to keep PC Harper's killers in jail",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4z0perlno?at_medium=RSS&at_campaign=rss",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The milestone was acknowledged \"without fanfare\" ahead of the anniversary of the officer's death.",
+      "summary": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 11:44:59 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 13:18:08 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Selena Gomez sued for alleged fraud over mental health company",
-      "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+      "title": "Prisoners charged over attack on Sara Sharif's father",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
+      "summary": "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 11:32:05 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 13:21:56 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Killer who will not say where wife's body is to stay in prison",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6xde5e4wo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Judges at the High Court overrule the Parole Board's decision to release Glyn Razzell.",
+      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 12:17:27 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 19:05:22 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+      "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 17:00:46 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
@@ -251,17 +271,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Andy Burnham's Emergency Cobra Meeting On Extreme Heat",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p38lh7?at_medium=RSS&at_campaign=rss",
+      "title": "What Next For Nigel Farage After The Clacton By-Election?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p38lpy?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Prime Minister Andy Burnham chairs an emergency Cobra committee meeting.",
+      "summary": "The parliamentary standards investigation into Farage's £5m gift has reopened.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 16:44:00 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 16:07:00 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
@@ -271,67 +291,37 @@
       "summary": "How developed is the Tehran regime’s assassination operation abroad?",
       "author": "",
       "published": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     },
     {
       "source": "bbc",
-      "title": "A pivotal day for Chelsea, Man City and Fernandez - what's going on?",
+      "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 19:43:03 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Bezos-backed consortium buys a third of Liverpool",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.",
+      "author": "",
+      "published": "Fri, 14 Aug 2026 16:00:16 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chelsea say no Fernandez move as deadline passes - but is it really over?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chelsea's deadline to Manchester City for an Enzo Fernandez bid is 17:00 BST on Friday - will the deal happen?",
+      "summary": "Chelsea's deadline for clubs to bid £120m for midfielder Enzo Fernandez has passed - and they now expect the Argentine to stay at the club this season.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 12:40:33 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "VAR, timewasting and subs - new rules for the new season",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce85pje4gyqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 11:00:52 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Johnson-Thompson boosts heptathlon medal hopes",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cq561jgg721o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Great Britain's Katarina Johnson-Thompson boosts her medal chances at the European Athletics Championships with a strong high jump performance.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 13:40:37 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Celtic's Engels poised for West Ham transfer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgjexdypjqyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Belgium midfielder Arne Engels is having a medical pending a transfer to West Ham United, Celtic manager Martin O'Neill has confirmed.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 14:51:01 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rising golf star, 18, dies after brain haemorrhage",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Promising Australian golfer Jessica Bang dies at the age of 18 after suffering a brain haemorrhage as she prepared for a tournament in Thailand.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 06:43:17 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Free agent Sancho favours move abroad",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd7lw2lv7npo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Free agent Jadon Sancho is believed to prefer a move abroad despite receiving offers from Premier League clubs.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 14:03:24 GMT",
-      "fetched_at": "2026-08-14T15:06:38.824440+00:00"
+      "published": "Fri, 14 Aug 2026 16:04:54 GMT",
+      "fetched_at": "2026-08-14T20:00:07.643196+00:00"
     }
   ]
 }
