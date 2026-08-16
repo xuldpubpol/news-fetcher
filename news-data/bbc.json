@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-16T13:41:46.892477+00:00",
+  "fetched_at": "2026-08-16T18:59:51.312645+00:00",
   "count": 28,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 18:04:25 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
     {
       "source": "bbc",
       "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
@@ -11,27 +21,17 @@
       "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
       "author": "",
       "published": "Sun, 16 Aug 2026 12:18:09 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
-      "title": "People who fled Stourbridge fires start to return home",
-      "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+      "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
+      "link": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Many families are only just discovering the extent of damage to their homes for the first time.",
+      "summary": "The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk.",
       "author": "",
-      "published": "Sun, 16 Aug 2026 13:30:11 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
-      "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
-      "author": "",
-      "published": "Sun, 16 Aug 2026 00:39:22 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "published": "Sun, 16 Aug 2026 15:53:21 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -41,17 +41,67 @@
       "summary": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
       "author": "",
       "published": "Sun, 16 Aug 2026 12:36:11 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ariana Grande leaves problems at home as her tour hits the UK",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
+      "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
+      "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
+      "summary": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly.",
       "author": "",
-      "published": "Sun, 16 Aug 2026 02:01:42 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "published": "Sun, 16 Aug 2026 15:33:02 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Changing pubs into homes to be made harder under new rules",
+      "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The rules will come into force on Monday along with other changes to planning policy.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 15:04:13 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch moment police arrest wanted man while he slept on roof",
+      "link": "https://www.bbc.co.uk/news/articles/cwyll2p1r68o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Two police officers suffered minor injuries during the incident, Greater Manchester Police say.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 17:17:10 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 17:44:23 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "People who fled Stourbridge fires start to return home",
+      "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Many families are only just discovering the extent of damage to their homes for the first time.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 18:44:06 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 13:34:38 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -61,7 +111,17 @@
       "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
       "author": "",
       "published": "Sun, 16 Aug 2026 12:37:21 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I can't be the best mum': US women in politics spark conversation on motherhood",
+      "link": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The White House press secretary quit this week to be with her children, while Democrat Alexandra Ocasio-Cortez said she was freezing her eggs.",
+      "author": "",
+      "published": "Sat, 15 Aug 2026 23:01:50 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -71,7 +131,7 @@
       "summary": "Men who have had the procedure can expect 10-20% more girth for the next six to nine months - but it can go wrong.",
       "author": "",
       "published": "Sat, 15 Aug 2026 23:42:33 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +141,7 @@
       "summary": "BC News asked current students about the worries they had before arriving at university how they overcame them.",
       "author": "",
       "published": "Sat, 15 Aug 2026 23:45:15 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -91,17 +151,7 @@
       "summary": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked.",
       "author": "",
       "published": "Sat, 15 Aug 2026 23:04:29 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-      "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-      "author": "",
-      "published": "Sat, 15 Aug 2026 23:45:44 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -111,27 +161,7 @@
       "summary": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
       "author": "",
       "published": "Sat, 15 Aug 2026 18:02:30 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
-      "author": "",
-      "published": "Sun, 16 Aug 2026 12:53:43 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK-made drones strike targets inside Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywwv2pp44o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The drones have been used for the first time in mainland Russia to hit military and industrial targets.",
-      "author": "",
-      "published": "Sun, 16 Aug 2026 12:22:25 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +171,57 @@
       "summary": "About 200 members of the Queen's Own Gurkha Logistic Regiment have been involved in the operation.",
       "author": "",
       "published": "Sun, 16 Aug 2026 10:03:48 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 18:46:12 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Number of fatalities' and four injured after car drives on wrong side of motorway",
+      "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 16:21:47 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK-made drones strike targets inside Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywwv2pp44o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The drones have been used for the first time in mainland Russia to hit military and industrial targets.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 12:22:25 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Belgian Pocognoli confirmed as Scotland boss",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a two-year deal.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 17:56:58 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Probably my last year' - Ronaldo hints at retirement",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 16:33:16 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -151,77 +231,7 @@
       "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
       "author": "",
       "published": "Sun, 16 Aug 2026 11:35:25 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US women in politics spark conversation about balancing family and career",
-      "link": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC spoke to working mothers about the challenges of a high-pressure career and making time for family.",
-      "author": "",
-      "published": "Sat, 15 Aug 2026 23:01:50 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Unauthorised sites are growing but travellers say they are forced to break the law",
-      "link": "https://www.bbc.co.uk/news/articles/cpq3w8q0j9go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The government says such developments are unacceptable – so why do they keep springing up?",
-      "author": "",
-      "published": "Sat, 15 Aug 2026 23:46:03 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Britain's youngest Formula E driver says talent isn't enough anymore",
-      "link": "https://www.bbc.co.uk/news/articles/ckg40e24wnpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Taylor Barnard, 22, says talented young drivers often get shut out because of financial issues.",
-      "author": "",
-      "published": "Sat, 15 Aug 2026 23:46:52 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
-      "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
-      "author": "",
-      "published": "Fri, 14 Aug 2026 07:45:51 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "200-year-old sword found sticking out of castle lake after water levels drop",
-      "link": "https://www.bbc.co.uk/news/articles/clyedvqjerno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The sword was poking from it after being exposed by fallen water levels.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 05:00:23 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Young girl finds whale stranded on Australian beach",
-      "link": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The humpback whale later successfully freed itself after the tide rose in Queensland, Australia.",
-      "author": "",
-      "published": "Tue, 11 Aug 2026 01:31:10 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Indian labourers dream of striking it rich after finding diamond",
-      "link": "https://www.bbc.co.uk/news/articles/cwyr2595dr0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The seven men found a 17.96-carat gem-quality diamond in central India's Panna.",
-      "author": "",
-      "published": "Wed, 12 Aug 2026 08:47:32 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +251,7 @@
       "summary": "The parliamentary standards investigation into Farage's £5m gift has reopened.",
       "author": "",
       "published": "Fri, 14 Aug 2026 16:07:00 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
@@ -251,37 +261,27 @@
       "summary": "How developed is the Tehran regime’s assassination operation abroad?",
       "author": "",
       "published": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
-      "title": "Donnelly wins GB's first women's marathon medal at Europeans",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo?at_medium=RSS&at_campaign=rss",
+      "title": "Belgian Pocognoli confirmed as Scotland boss",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Abbie Donnelly became the first British woman to win a marathon medal at the European Championships as she claimed bronze in Birmingham on Sunday.",
+      "summary": "The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a two-year deal.",
       "author": "",
-      "published": "Sun, 16 Aug 2026 11:40:30 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "published": "Sun, 16 Aug 2026 17:56:58 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     },
     {
       "source": "bbc",
-      "title": "Elvedi set for Leeds move as £8.5m fee agreed",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2lqqr15p2yo?at_medium=RSS&at_campaign=rss",
+      "title": "'Probably my last year' - Ronaldo hints at retirement",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Leeds agree an £8.5m deal to sign defender Nico Elvedi, who is set to have a medical on Monday.",
+      "summary": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
       "author": "",
-      "published": "Sun, 16 Aug 2026 12:52:42 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Coventry agree deal for Forest striker Awoniyi",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgjjr90l0lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Coventry City agree a deal worth about £17m for Nottingham Forest striker Taiwo Awoniyi.",
-      "author": "",
-      "published": "Sun, 16 Aug 2026 12:03:40 GMT",
-      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+      "published": "Sun, 16 Aug 2026 16:33:16 GMT",
+      "fetched_at": "2026-08-16T18:59:34.463345+00:00"
     }
   ]
 }
