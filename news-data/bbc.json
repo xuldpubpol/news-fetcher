@@ -1,37 +1,47 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-16T07:20:46.886361+00:00",
-  "count": 32,
+  "fetched_at": "2026-08-16T13:41:46.892477+00:00",
+  "count": 28,
   "articles": [
     {
       "source": "bbc",
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
       "author": "",
-      "published": "Sun, 16 Aug 2026 04:13:32 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Sun, 16 Aug 2026 12:18:09 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Reform UK plans to overhaul welfare system to save £50bn",
+      "title": "People who fled Stourbridge fires start to return home",
+      "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Many families are only just discovering the extent of damage to their homes for the first time.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 13:30:11 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
       "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
       "author": "",
       "published": "Sun, 16 Aug 2026 00:39:22 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+      "title": "Murder inquiry after man bitten by dog dies",
+      "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+      "summary": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
       "author": "",
-      "published": "Sat, 15 Aug 2026 21:28:54 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Sun, 16 Aug 2026 12:36:11 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
@@ -41,37 +51,17 @@
       "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
       "author": "",
       "published": "Sun, 16 Aug 2026 02:01:42 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
       "author": "",
-      "published": "Sun, 16 Aug 2026 06:53:22 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "author": "",
-      "published": "Sat, 15 Aug 2026 20:58:31 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hunt wins third gold as Asher-Smith makes history",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
-      "author": "",
-      "published": "Sat, 15 Aug 2026 21:13:17 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Sun, 16 Aug 2026 12:37:21 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
@@ -81,17 +71,17 @@
       "summary": "Men who have had the procedure can expect 10-20% more girth for the next six to nine months - but it can go wrong.",
       "author": "",
       "published": "Sat, 15 Aug 2026 23:42:33 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "From making friends to managing money: Students' advice for this year's freshers",
+      "title": "Friends, finances and finding your feet - advice for this year's freshers",
       "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "BC News asked current students about the worries they had before arriving at university how they overcame them.",
       "author": "",
       "published": "Sat, 15 Aug 2026 23:45:15 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +91,7 @@
       "summary": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked.",
       "author": "",
       "published": "Sat, 15 Aug 2026 23:04:29 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +101,7 @@
       "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
       "author": "",
       "published": "Sat, 15 Aug 2026 23:45:44 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
@@ -121,17 +111,47 @@
       "summary": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
       "author": "",
       "published": "Sat, 15 Aug 2026 18:02:30 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bangladesh thrash Australia for historic win",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cn8nn37v22lo?at_medium=RSS&at_campaign=rss",
+      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.",
+      "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
       "author": "",
-      "published": "Sun, 16 Aug 2026 06:57:29 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Sun, 16 Aug 2026 12:53:43 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK-made drones strike targets inside Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywwv2pp44o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The drones have been used for the first time in mainland Russia to hit military and industrial targets.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 12:22:25 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Soldiers praised for 'phenomenal job' helping crews tackle wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/cgq55zv4ek8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "About 200 members of the Queen's Own Gurkha Logistic Regiment have been involved in the operation.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 10:03:48 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+      "author": "",
+      "published": "Sun, 16 Aug 2026 11:35:25 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
@@ -141,37 +161,7 @@
       "summary": "The BBC spoke to working mothers about the challenges of a high-pressure career and making time for family.",
       "author": "",
       "published": "Sat, 15 Aug 2026 23:01:50 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-      "author": "",
-      "published": "Sun, 16 Aug 2026 07:04:17 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Britain's youngest Formula E driver says talent isn't enough anymore",
-      "link": "https://www.bbc.co.uk/news/articles/ckg40e24wnpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Taylor Barnard, 22, says talented young drivers often get shut out because of financial issues.",
-      "author": "",
-      "published": "Sat, 15 Aug 2026 23:46:52 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: UK-made drones 'strike Russia' and 'phone theft Britain'",
-      "link": "https://www.bbc.co.uk/news/articles/c4gvv07ww42o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ukraine uses UK British-made drones to strike Russia and 230 phones a day stolen in the UK lead the Sunday papers.",
-      "author": "",
-      "published": "Sun, 16 Aug 2026 05:10:55 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
@@ -181,57 +171,57 @@
       "summary": "The government says such developments are unacceptable – so why do they keep springing up?",
       "author": "",
       "published": "Sat, 15 Aug 2026 23:46:03 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Fury' at Tarling death as cycling union calls for better helmets",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss",
+      "title": "Britain's youngest Formula E driver says talent isn't enough anymore",
+      "link": "https://www.bbc.co.uk/news/articles/ckg40e24wnpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The cyclists' union expresses \"fury\" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal.",
+      "summary": "Taylor Barnard, 22, says talented young drivers often get shut out because of financial issues.",
       "author": "",
-      "published": "Sat, 15 Aug 2026 19:05:32 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Sat, 15 Aug 2026 23:46:52 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
-      "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+      "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+      "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
+      "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
       "author": "",
-      "published": "Mon, 10 Aug 2026 23:32:10 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Fri, 14 Aug 2026 07:45:51 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "The 101-year-old who created a dolls' house museum with her childhood toys",
-      "link": "https://www.bbc.co.uk/news/articles/cgr741jwk25o?at_medium=RSS&at_campaign=rss",
+      "title": "200-year-old sword found sticking out of castle lake after water levels drop",
+      "link": "https://www.bbc.co.uk/news/articles/clyedvqjerno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Val discovers her childhood toys in an attic and decides to put them on display.",
+      "summary": "The sword was poking from it after being exposed by fallen water levels.",
       "author": "",
-      "published": "Sat, 08 Aug 2026 06:41:11 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Tue, 11 Aug 2026 05:00:23 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Peter James returns to Sussex with his 57 animals",
-      "link": "https://www.bbc.co.uk/news/articles/c204de2jjxzo?at_medium=RSS&at_campaign=rss",
+      "title": "Young girl finds whale stranded on Australian beach",
+      "link": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Brighton-born Roy Grace author moves to a new home in Pulborough in West Sussex.",
+      "summary": "The humpback whale later successfully freed itself after the tide rose in Queensland, Australia.",
       "author": "",
-      "published": "Tue, 11 Aug 2026 05:00:32 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Tue, 11 Aug 2026 01:31:10 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why are 'human fridges' being sold in Japan?",
-      "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+      "title": "Indian labourers dream of striking it rich after finding diamond",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr2595dr0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
+      "summary": "The seven men found a 17.96-carat gem-quality diamond in central India's Panna.",
       "author": "",
-      "published": "Wed, 12 Aug 2026 22:07:47 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Wed, 12 Aug 2026 08:47:32 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +241,7 @@
       "summary": "The parliamentary standards investigation into Farage's £5m gift has reopened.",
       "author": "",
       "published": "Fri, 14 Aug 2026 16:07:00 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
@@ -261,67 +251,37 @@
       "summary": "How developed is the Tehran regime’s assassination operation abroad?",
       "author": "",
       "published": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hunt wins third gold as Asher-Smith makes history",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+      "title": "Donnelly wins GB's first women's marathon medal at Europeans",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
+      "summary": "Abbie Donnelly became the first British woman to win a marathon medal at the European Championships as she claimed bronze in Birmingham on Sunday.",
       "author": "",
-      "published": "Sat, 15 Aug 2026 21:13:17 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Sun, 16 Aug 2026 11:40:30 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bangladesh thrash Australia in one of Test cricket's greatest upsets",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cn8nn37v22lo?at_medium=RSS&at_campaign=rss",
+      "title": "Elvedi set for Leeds move as £8.5m fee agreed",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2lqqr15p2yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.",
+      "summary": "Leeds agree an £8.5m deal to sign defender Nico Elvedi, who is set to have a medical on Monday.",
       "author": "",
-      "published": "Sun, 16 Aug 2026 06:57:29 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Sun, 16 Aug 2026 12:52:42 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     },
     {
       "source": "bbc",
-      "title": "How important is Community Shield to a team's season?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss",
+      "title": "Coventry agree deal for Forest striker Awoniyi",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgjjr90l0lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?",
+      "summary": "Coventry City agree a deal worth about £17m for Nottingham Forest striker Taiwo Awoniyi.",
       "author": "",
-      "published": "Sun, 16 Aug 2026 05:29:55 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Strong favourites or tougher task - will Arsenal defend their title?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped as they for the challenge?",
-      "author": "",
-      "published": "Sun, 16 Aug 2026 05:20:47 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rashford returns as AC Milan highlight issues facing Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action.",
-      "author": "",
-      "published": "Sat, 15 Aug 2026 19:25:09 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Fery wins on return as Djokovic struggles in heat",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Britain's Arthur Fery beats Australia's Jack Duckworth at the Cincinnati Open but Novak Djokovic falls to a shock defeat by Argentina's Thiago Tirante.",
-      "author": "",
-      "published": "Sat, 15 Aug 2026 22:07:10 GMT",
-      "fetched_at": "2026-08-16T07:20:38.428471+00:00"
+      "published": "Sun, 16 Aug 2026 12:03:40 GMT",
+      "fetched_at": "2026-08-16T13:41:39.691511+00:00"
     }
   ]
 }
