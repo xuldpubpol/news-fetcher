@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T07:57:55.831858+00:00",
+  "fetched_at": "2026-08-18T14:05:28.186676+00:00",
   "sources": {
     "foreign-affairs": {
       "name": "Foreign Affairs",
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "name": "BBC News",
-      "count": 34
+      "count": 36
     },
     "the-diplomat": {
       "name": "The Diplomat",
