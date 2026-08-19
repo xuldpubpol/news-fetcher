@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-19T12:24:19.035741+00:00",
-  "count": 32,
+  "fetched_at": "2026-08-19T18:19:17.665370+00:00",
+  "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+      "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
+    },
     {
       "source": "bbc",
       "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
@@ -11,7 +21,77 @@
       "summary": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
       "author": "",
       "published": "Wed, 19 Aug 2026 12:09:47 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 15:33:32 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Salmonella outbreak: What we know so far",
+      "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Hundreds have fallen ill with salmonella infections in an outbreak linked to imported eggs.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 16:43:56 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tenders open for highly-sensitive West Bank settlement project, Israel announces",
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 17:16:28 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
+      "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their coast.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 15:01:57 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 17:47:52 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Students wait for GCSE and BTec  grades as app launches for 750 schools in England",
+      "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Some pupils in England will be able to see their grades on their phones from 11:00 BST on Thursday.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 17:09:34 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "BBC presenter Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
+      "link": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC Radio 4 Today programme presenter explained her recent absence on her return on Wednesday.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 13:00:57 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
@@ -20,98 +100,68 @@
       "full_text": "",
       "summary": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 09:02:03 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 16:12:27 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The six-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+      "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 12:18:49 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 16:31:48 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "PM unveils plan to get rough sleepers off streets for Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+      "title": "Lindsay Clancy's trial puts postpartum psychosis in the spotlight",
+      "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+      "summary": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 11:45:33 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 16:30:55 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
+      "title": "'I'm not sure who I am' - Bake Off winner in shock after bipolar diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/c04k6x4nywlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.",
+      "summary": "Georgina Grasso said she is taking some time to understand bipolar disorder after receiving her diagnosis.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 08:38:37 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 05:01:37 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "title": "Why positive cocaine test could mean end of Kyrgios' career",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c87nzeepv70o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "summary": "Nick Kyrgios once said he did not want to play tennis into his 30s. A positive cocaine test could have brought an end to his career aged 31.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 05:00:39 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 15:21:21 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "OpenAI slows down training after its AI carried out hack",
-      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+      "title": "'Words cannot describe losing our home in Stourbridge wildfire'",
+      "link": "https://www.bbc.co.uk/news/articles/cy45xkdqxdlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
+      "summary": "Loxie and Robin Williams returned home on Thursday to find firefighters trying to save their home.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 11:19:12 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 15:01:37 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "Scientists 'stunned' by children's lung recovery in ultra low emission zone",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
+      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.",
+      "summary": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
       "author": "",
-      "published": "Tue, 18 Aug 2026 23:53:24 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Double murder investigation launched over two deaths in Glasgow",
-      "link": "https://www.bbc.co.uk/news/articles/cz645358021o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The bodies of Paul Lafferty and Gary Beaton were found in a flat in Patrick's Chancellor Street on Sunday.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 12:00:33 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 11:00:21 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 23:14:49 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 15:38:38 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
@@ -121,17 +171,7 @@
       "summary": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
       "author": "",
       "published": "Wed, 19 Aug 2026 11:27:39 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How will your club fare? Phil McNulty's Premier League predictions",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 05:21:19 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
@@ -141,47 +181,67 @@
       "summary": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
       "author": "",
       "published": "Wed, 19 Aug 2026 11:22:09 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "Families' agonising search for answers as thousands still missing in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+      "title": "Jellyfish mesmerise in their own museum in Florida",
+      "link": "https://www.bbc.co.uk/news/videos/c0m7eld12l1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+      "summary": "The Jellyfish Museum in Pompano Beach is believed to be the first in the US dedicated entirely to the floating predators.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 05:04:00 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 15:39:08 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ovarian cancer and menopause at 19 mean I can't have kids, but it's changed me for the better",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wn7w4982o?at_medium=RSS&at_campaign=rss",
+      "title": "PM unveils plan to get rough sleepers off streets for Christmas",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Enlli Thompson's symptoms were dismissed until a scan revealed a cyst in her pelvis.",
+      "summary": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 05:00:06 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 15:57:40 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "title": "Athletics coach believed missing is in jail for sexual assault",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
+      "summary": "English athletics coach Leon Baptiste was given a 10-month prison sentence in Morocco for sexually assaulting a minor.",
       "author": "",
-      "published": "Tue, 18 Aug 2026 20:48:09 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 15:47:20 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "Competition for degree apprenticeships quadruples as university costs rise",
-      "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI slows down training after its AI carried out hack",
+      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny.",
+      "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 09:37:16 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 11:19:12 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Behaviour guidelines for life in UK published for asylum seekers",
+      "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The nine-page booklet covers issues including respect in public, sex and consent, and gender equality.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 18:00:41 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Snooker champion Dott told boy to stay out while in room with girl, jury told",
+      "link": "https://www.bbc.co.uk/news/articles/ckge7j9veljo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A witness claimed that the former world champion became \"quite angry\" when the they walked in.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 14:32:56 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
@@ -191,57 +251,7 @@
       "summary": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
       "author": "",
       "published": "Wed, 19 Aug 2026 11:30:40 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-      "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 08:25:03 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 03:00:35 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 11:08:42 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Deaf patient given wrong jab due to sign language error, report says",
-      "link": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "An ombudsman report says disabled people are being let down by a lack of accessible communication methods.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 00:28:56 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
-      "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks about her husband's own diagnosis.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 23:37:18 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +271,7 @@
       "summary": "Threat comes after British-made drones were used in recent Ukrainian strikes in Russia.",
       "author": "",
       "published": "Tue, 18 Aug 2026 15:50:00 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
@@ -271,57 +281,57 @@
       "summary": "How developed is the Tehran regime’s assassination operation abroad?",
       "author": "",
       "published": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "How will your club fare? Phil McNulty's Premier League predictions",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
+      "title": "Athletics coach believed missing is in jail for sexual assault",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
+      "summary": "English athletics coach Leon Baptiste was given a 10-month prison sentence in Morocco for sexually assaulting a minor.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 05:21:19 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 15:47:20 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "Kyrgios suspended after positive cocaine test",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
+      "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.",
+      "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 08:38:37 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 13:55:18 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "Antonelli - the boy 'born in a garage' who started driving on dad's lap",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
+      "title": "'Parents shouldn’t fear their children not coming home from a race'",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/c5y3n8e1e6eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he went on to lead the F1 drivers' championship at the age of 19.",
+      "summary": "Parents should not be scared their children might not come back from a cycling race following the death of Finlay Tarling, Lorena Wiebes says after winning the opening stage of the Tour of Britain Women.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 06:06:58 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 18:13:30 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "New Zealand great Tui joins Trailfinders",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cd69dj304wxo?at_medium=RSS&at_campaign=rss",
+      "title": "Kane plays down returning to Premier League in future",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "World Cup-winning New Zealand international Ruby Tui, 34, signs a one-year deal with Trailfinders Women.",
+      "summary": "Harry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and try and break the all-time scoring record in the Premier League.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 09:36:15 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 17:14:38 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC to show 38 live matches from Serie A",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr7kyz1gykzo?at_medium=RSS&at_campaign=rss",
+      "title": "Cricket: Today at the Test",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC ALBA and BBC Sport are to provide a package of 38 live matches from Italy's Serie A this season, starting with Atalanta v Sassuolo on Sunday.",
+      "summary": "New captain, new coach and some old faces. England start the series at Headingley",
       "author": "",
-      "published": "Wed, 19 Aug 2026 11:40:35 GMT",
-      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+      "published": "Wed, 19 Aug 2026 19:00:05 GMT",
+      "fetched_at": "2026-08-19T18:19:14.521936+00:00"
     }
   ]
 }
