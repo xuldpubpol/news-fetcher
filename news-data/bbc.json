@@ -1,57 +1,57 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-19T06:27:02.987623+00:00",
-  "count": 31,
+  "fetched_at": "2026-08-19T12:24:19.035741+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+      "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+      "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 12:09:47 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 09:02:03 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The six-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 12:18:49 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "PM unveils plan to get rough sleepers off streets for Christmas",
       "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 03:42:16 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "published": "Wed, 19 Aug 2026 11:45:33 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "summary": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 04:44:41 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Demand for degree apprenticeships in England quadruples in three years",
-      "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 05:00:12 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
-      "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks about her husband's own diagnosis.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 23:37:18 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 23:53:24 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "published": "Wed, 19 Aug 2026 08:38:37 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
@@ -61,47 +61,47 @@
       "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
       "author": "",
       "published": "Wed, 19 Aug 2026 05:00:39 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
-      "title": "Is another UK heatwave on the way in September?",
-      "link": "https://www.bbc.co.uk/weather/articles/c79g04899wno?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI slows down training after its AI carried out hack",
+      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Some long range forecasts are suggesting autumn could be hotter and drier than average. Simon King explores whether a warm spell might be on the cards.",
+      "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 00:21:04 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "published": "Wed, 19 Aug 2026 11:19:12 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
-      "title": "Suspended Reform UK member vows to fight to remain in party",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd1mez8zvo?at_medium=RSS&at_campaign=rss",
+      "title": "Scientists 'stunned' by children's lung recovery in ultra low emission zone",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tim Montgomerie says his appeal will be a test of whether the party can tolerate free speech.",
+      "summary": "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 03:34:11 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "published": "Tue, 18 Aug 2026 23:53:24 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
-      "title": "Deaf patient given wrong jab due to sign language error, report says",
-      "link": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o?at_medium=RSS&at_campaign=rss",
+      "title": "Double murder investigation launched over two deaths in Glasgow",
+      "link": "https://www.bbc.co.uk/news/articles/cz645358021o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An ombudsman report says disabled people are being let down by a lack of accessible communication methods.",
+      "summary": "The bodies of Paul Lafferty and Gary Beaton were found in a flat in Patrick's Chancellor Street on Sunday.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 00:28:56 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "published": "Wed, 19 Aug 2026 12:00:33 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
-      "title": "Families' agonising search for answers as thousands still missing in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 05:04:00 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "published": "Wed, 19 Aug 2026 11:00:21 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
@@ -111,137 +111,17 @@
       "summary": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
       "author": "",
       "published": "Tue, 18 Aug 2026 23:14:49 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
-      "title": "How one man gets new laws passed - again and again",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4kn44l8lo?at_medium=RSS&at_campaign=rss",
+      "title": "Inflation is heating up but don't expect another crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ron Bailey has been quietly changing the law for the past 40 years - how does he do it?",
+      "summary": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 00:37:05 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 20:48:09 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'Look at my husband' and 'Vlad plots revenge'",
-      "link": "https://www.bbc.co.uk/news/articles/c2lq8lgv9gko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Queen Camilla's first remarks about the King's cancer journey are prominent across Wednesday's papers.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 22:44:00 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 03:00:35 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 00:48:16 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 03:56:35 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mobile payments on the rise but cash decline slows",
-      "link": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Nine in 10 mobile wallet users have their debit card loaded as their default payment method, new data shows.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 23:04:53 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 22:11:07 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham received £345,000 of donations ahead of becoming PM",
-      "link": "https://www.bbc.co.uk/news/articles/c141d4l0mgko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister lists his financial interests for the first time since returning to Parliament.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 21:46:15 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "South Korea shortens war games with US, citing Washington request",
-      "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 05:53:53 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "BBC News app",
-      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-      "author": "",
-      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia Threatens The UK (Again)",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p4z12v?at_medium=RSS&at_campaign=rss",
-      "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Threat comes after British-made drones were used in recent Ukrainian strikes in Russia.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 15:50:00 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Is Iran really trying to kill Trump?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8mfn?at_medium=RSS&at_campaign=rss",
-      "full_text": "Find out how to listen to other BBC stations",
-      "summary": "How developed is the Tehran regime’s assassination operation abroad?",
-      "author": "",
-      "published": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "published": "Wed, 19 Aug 2026 11:27:39 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
@@ -251,17 +131,167 @@
       "summary": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
       "author": "",
       "published": "Wed, 19 Aug 2026 05:21:19 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
-      "title": "Musiala collapses in match for second time in four days",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
+      "title": "The US inmate convicted in 1950 who was spared execution eight times",
+      "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bayern Munich midfielder Jamal Musiala says he is being treated for a \"neurological dysfunction\" after collapsing during a match for the second time in a four-day period.",
+      "summary": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
       "author": "",
-      "published": "Tue, 18 Aug 2026 19:57:08 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "published": "Wed, 19 Aug 2026 11:22:09 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Families' agonising search for answers as thousands still missing in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 05:04:00 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ovarian cancer and menopause at 19 mean I can't have kids, but it's changed me for the better",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wn7w4982o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Enlli Thompson's symptoms were dismissed until a scan revealed a cyst in her pelvis.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 05:00:06 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
+      "author": "",
+      "published": "Tue, 18 Aug 2026 20:48:09 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Competition for degree apprenticeships quadruples as university costs rise",
+      "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 09:37:16 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+      "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 11:30:40 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+      "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 08:25:03 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 03:00:35 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 11:08:42 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Deaf patient given wrong jab due to sign language error, report says",
+      "link": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "An ombudsman report says disabled people are being let down by a lack of accessible communication methods.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 00:28:56 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
+      "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks about her husband's own diagnosis.",
+      "author": "",
+      "published": "Tue, 18 Aug 2026 23:37:18 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "BBC News app",
+      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "author": "",
+      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russia Threatens The UK (Again)",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p4z12v?at_medium=RSS&at_campaign=rss",
+      "full_text": "Find out how to listen to other BBC stations",
+      "summary": "Threat comes after British-made drones were used in recent Ukrainian strikes in Russia.",
+      "author": "",
+      "published": "Tue, 18 Aug 2026 15:50:00 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Is Iran really trying to kill Trump?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8mfn?at_medium=RSS&at_campaign=rss",
+      "full_text": "Find out how to listen to other BBC stations",
+      "summary": "How developed is the Tehran regime’s assassination operation abroad?",
+      "author": "",
+      "published": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How will your club fare? Phil McNulty's Premier League predictions",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 05:21:19 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Kyrgios suspended after positive cocaine test",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 08:38:37 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
@@ -271,47 +301,27 @@
       "summary": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he went on to lead the F1 drivers' championship at the age of 19.",
       "author": "",
       "published": "Wed, 19 Aug 2026 06:06:58 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
-      "title": "Root's great challenge to finish captaincy story",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cd69881454vo?at_medium=RSS&at_campaign=rss",
+      "title": "New Zealand great Tui joins Trailfinders",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cd69dj304wxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Joe Root has an unexpected chance to address some unfinished business as England captain, but it is one of the biggest challenges of his stellar career.",
+      "summary": "World Cup-winning New Zealand international Ruby Tui, 34, signs a one-year deal with Trailfinders Women.",
       "author": "",
-      "published": "Tue, 18 Aug 2026 16:41:31 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "published": "Wed, 19 Aug 2026 09:36:15 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     },
     {
       "source": "bbc",
-      "title": "Even the Queen could not watch - 10 years since Olympic hockey gold",
-      "link": "https://www.bbc.co.uk/sport/hockey/articles/czek237r51po?at_medium=RSS&at_campaign=rss",
+      "title": "BBC to show 38 live matches from Serie A",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr7kyz1gykzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ten years since Team GB clinched women's hockey gold at the Rio Olympics, BBC Sport looks back at the legacy of that historic win.",
+      "summary": "BBC ALBA and BBC Sport are to provide a package of 38 live matches from Italy's Serie A this season, starting with Atalanta v Sassuolo on Sunday.",
       "author": "",
-      "published": "Tue, 18 Aug 2026 17:43:16 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Five in Five: Football quiz No 3",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c74gde30nryo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 05:37:16 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Buss trying to block her siblings' sale of family stake in Lakers",
-      "link": "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Los Angeles Lakers governor Jeanie Buss is trying to stop her siblings' sale of the family's remaining stake in the NBA franchise.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 13:39:42 GMT",
-      "fetched_at": "2026-08-19T06:26:31.733680+00:00"
+      "published": "Wed, 19 Aug 2026 11:40:35 GMT",
+      "fetched_at": "2026-08-19T12:24:17.442602+00:00"
     }
   ]
 }
