@@ -1,37 +1,57 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-20T06:28:07.443605+00:00",
-  "count": 37,
+  "fetched_at": "2026-08-20T12:27:06.925488+00:00",
+  "count": 36,
   "articles": [
     {
       "source": "bbc",
-      "title": "Prince Harry and Meghan moving back to UK later this month",
-      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+      "title": "Harry and Meghan's security arrangements a private matter, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+      "summary": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 06:08:34 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 12:26:35 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+      "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
       "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
       "author": "",
       "published": "Thu, 20 Aug 2026 02:00:51 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
+      "summary": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 05:25:23 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 10:05:24 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
+      "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ellen Wilkinson School for Girls in Ealing pays tribute to Sara El-Khawas, 14, and her family who died.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 09:53:52 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Train derailment carriages moved amid track probe",
+      "link": "https://www.bbc.co.uk/news/articles/c79gpp4dvwxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Work begins on removing carriages from a train that derailed near Lewes, as investigations continue.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 12:09:40 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
@@ -41,127 +61,87 @@
       "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
       "author": "",
       "published": "Thu, 20 Aug 2026 02:05:20 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "Vaccine breakthrough stops cancer returning in trial",
+      "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
+      "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The nine-page booklet covers issues including respect in public, sex and consent, and gender equality.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 11:55:14 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 11:06:54 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pensioner had 'largest hoard' of child abuse images to be seized in Scotland",
+      "link": "https://www.bbc.co.uk/news/articles/cp9eggpjl3lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Alan MacPherson, 83, from Stenhousemuir, amassed two million indecent images, believed to be the biggest such collection ever seized by Scottish Police.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 11:24:05 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US national debt passes $40tn after doubling in a decade",
+      "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 06:23:23 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "New personalised vaccine breakthrough stops cancer returning in trial",
       "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "A new jab extended the length of time patients were cancer free, but it is unclear for how long.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 19:00:48 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 08:10:33 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "Downpours to continue for UK with risk of flash flooding",
-      "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
+      "title": "What are BTecs and how are they graded?",
+      "link": "https://www.bbc.co.uk/news/articles/ce832ze3y1vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains.",
+      "summary": "Hundreds of thousands of students do the vocational qualifications known as BTecs every year.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 23:56:33 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 09:26:42 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "People smuggler exposed by BBC investigation arrested and charged",
-      "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
+      "title": "What are T-levels and what are the grades worth?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgnd8z535jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Twana Jamal Khdir has been arrested and charged with immigration offences.",
+      "summary": "T-levels are equivalent to three A-levels, and focus on practical rather than academic subjects.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 20:54:51 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 09:26:19 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "Vapes could lead to health harms in children, doctors warn",
-      "link": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo?at_medium=RSS&at_campaign=rss",
+      "title": "Anger and fear over 'dangerous' illegal e-motorbike riders",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkzm3318go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A Royal College of Paediatrics and Child Health has published a report with concerns vaping is a gateway to smoking",
+      "summary": "West Sussex residents describe regularly seeing riders performing wheelies and riding on pavements at high speed.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 00:35:22 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Couple and teenage daughter who died in water off Shoreham named by police",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police say the family travelled from their home in London and went into the sea for a swim.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 18:45:51 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Weekly type 2 diabetes jab could replace daily injections",
-      "link": "https://www.bbc.co.uk/news/articles/cn8nd1n54zxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hundreds of thousands of people with type 2 diabetes could get access to a new weekly insulin jab to replace daily injections.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 00:39:40 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "From managing your nerves to collecting your results - everything you need to know",
-      "link": "https://www.bbc.co.uk/bitesize/articles/zjbn47h?at_medium=RSS&at_campaign=rss",
-      "full_text": "Once your GCSE exams are all done and results day approaches, you might be feeling all kind of things: excited, nervous, overwhelmed… Don&#x27;t worry, this is completely normal and, as always, Bitesize Study Support has you covered!\nWe&#x27;ve made this useful guide with all the advance information you may need about GCSE results day 2026 to make sure you are as prepared as you can be. Read on if you want to be in the know.\nThis year, results for your GCSE exams are released on Thursday 20 August 2026. You can collect your results from your school, your teachers will let you know what time the school opens and which classroom you collect your results from. Times vary from school to school, so don&#x27;t assume that your school will open at the same time as a friend&#x27;s.\nThis summer, students in England can access their results via the Education Record app, which trialled last summer with 95,000 pupils in Manchester and the West Midlands. The app will initially download the results, to have a digital record for future use when applying for jobs and further education.\nFirst, take some time after your exams to have a well deserved rest – you&#x27;ve earned it! You&#x27;ll have done all the hard work in the exam hall, so now is the time to let your hair down before preparing for results day and the next steps of education or employment.\nThe Bitesize Study Support website has lots of guides and advice from experts and students who have experienced results day themselves. It&#x27;s worth checking some of them out. Hearing stories from others who have been through similar things to you may help with your feelings, here are some more tips to help calm your nerves ahead of results day.\nIf expert guides are more your thing, then check out our tips from mental health campaigner Natasha Devon about how to prepare for results day. Natasha says that after your exams you should turn your attention to things you can control like looking after yourself and planning for the future. She suggests planning something fun for the afternoon after you get your results such as going to a park with friends. You can find more ways to get yourself results-day-ready from Natasha here.\nYou should consider bringing a few things with you when you pick up your results:\nIf you are unable to collect your results in person because you are on holiday, or for any other reason, such as illness or being unable to travel to school, you can usually arrange in advance for your school to send your results to you via e-mail or post. This year you can also access your results via the Education Records app, which digitally stores your results for future use.\nE-mails will usually arrive on results day, post may take a little longer – but this can vary from school to school so please check with your teachers. Speak to your school if you will be away and would like to receive your results remotely. They will explain the process and give you information on what you need to do.\nIf you have a change of plan on results day, and haven&#x27;t arranged to receive your results in advance, don&#x27;t worry – the envelope containing your results will be posted to your home address. Give your school a phone call on the day and explain and they should be able to help you out.\nYou can also nominate someone else to collect your results on your behalf, but you will usually need them to sign a letter and bring photo ID. It&#x27;s best to check the rules with your school if you want to collect your results this way.\nGCSE results slips and your GCSE certificates aren&#x27;t the same thing. The results slips that you&#x27;ll receive in August show you what provisional grades you&#x27;ve achieved, whilst your GCSE certificates will show your final grade and are needed as proof for universities and employers.\nThe reason the grades on your results slips are provisional is that you can make an appeal against your grades if you think that there has been a mistake. You could ask for your papers to be remarked or to have a clerical check carried out. For more information on the appeals process you can read this guide about what to do if you&#x27;re unhappy with your GCSE results.\nYour exam board will send your GCSE certificates to your school about 3 months after results day. Your school will let you know when they are ready to collect – you can visit the school to pick up your certificates or arrange for your school to post them to you. Schools have to keep your certificates for 12 months after they receive them, so don&#x27;t worry if you can&#x27;t collect them straight away.\nAs you may need to show your certificates to universities or employers it&#x27;s important to keep them safe, but if you do lose one, you can order a replacement &#x27;certified statement of results&#x27; from your exam board – there may be a cost to order this.\nWhat you need to do next will depend on the results you&#x27;ve achieved and what your plans for the future are. We&#x27;ve got lots of information on your next steps on the results day section on our exams and revision page. Here you will find a stack of videos, guides and information pages to help you understand what your next steps may be.\nIf you&#x27;re taking a vocational qualification such as V Certs, BTEC Tech Awards or KS4 City &amp; Guilds Technical Awards instead of, or alongside, GCSEs the first point of contact if you have any questions or concerns about your results is your tutor or course leader. They&#x27;ll be able to advise you on your next steps. You can find more information and guidance on individual vocational qualifications directly on their exam board sites.\nYou should always tell someone about the things you’re worried about. You can tell a friend, parent, guardian, teacher or another trusted adult. If you&#x27;re struggling with your mental health, going to your GP can be a good place to start to find help. Your GP can let you know what support is available to you, suggest different types of treatment and offer regular check-ups to see how you’re doing.\nIf you’re in need of in-the-moment support you can contact Childline, where you can speak to a counsellor. Their lines are open 24 hours a day, 7 days a week.\nThere are more links to helpful organisations on BBC Action Line.\nThis article was last updated 16 March 2026.",
-      "summary": "If you've taken your GCSE exams in the summer here is a guide to what you need to know about GCSE results day in 2026 and tips for your next steps after school.",
-      "author": "",
-      "published": "Thu, 22 Aug 2024 06:00:00 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What to do if you're unhappy with your grades",
-      "link": "https://www.bbc.co.uk/news/articles/c1jxjk6g1l2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Your full guide to this year's GCSE exams in England, Wales and Northern Ireland.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 05:32:33 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How do the 9-1 GCSE grade boundaries work in England?",
-      "link": "https://www.bbc.co.uk/news/articles/czrynxzvjneo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The previous alphabetical system has been replaced in England, but is still used in Wales and Northern Ireland.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 05:33:02 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 05:01:24 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I'd love a normal life, but being a 17-year-old carer means sacrifices'",
-      "link": "https://www.bbc.co.uk/news/articles/c4g355k8lg4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Young carers face huge disadvantages growing up - one teenager explains what life is like.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 00:49:25 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Key moments from Harry and Meghan's years since leaving UK",
-      "link": "https://www.bbc.co.uk/news/videos/cn8ndp8m9ddo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Duke and Duchess of Sussex are planning to move back to the UK, BBC News understands.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 04:07:28 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 05:12:27 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
@@ -171,137 +151,47 @@
       "summary": "In an era when reputations can be made or broken with a single post, getting the balance right is tricky.",
       "author": "",
       "published": "Thu, 20 Aug 2026 00:57:09 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Harry's coming home' and 'Day trip tragedy'",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgp03rr15o?at_medium=RSS&at_campaign=rss",
+      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "News of the Duke and Duchess of Sussex's plan to move back to the UK is prominent across Thursday's papers.",
+      "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 04:26:45 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 05:01:24 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "I quit my £80,000 job to make ice cream - here's how",
-      "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 23:08:03 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
       "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
       "author": "",
       "published": "Wed, 19 Aug 2026 23:11:14 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "title": "Coolcations: 'They used to joke about our weather - now they can't wait for the rain'",
+      "link": "https://www.bbc.co.uk/news/articles/c74gp1024lpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "summary": "The Scottish weather is no longer a joke as visitors head north from the rest of the UK to cool down.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 03:22:57 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 11:50:33 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "Four workers dead after being hit by train in Japan",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "title": "'I can't do the things my friends do': Life as a teenage carer",
+      "link": "https://www.bbc.co.uk/news/articles/c4g355k8lg4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "summary": "Young carers face huge disadvantages growing up - one teenager explains what life is like.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 06:02:10 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tenders open for highly-sensitive West Bank settlement project, Israel announces",
-      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 00:53:20 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Male prisons in England and Wales have fewer than 1,800 spaces",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1v9elzvdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Male prisons have less than 1,800 spaces available in England and Wales, the lowest level since March",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 20:45:55 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Behaviour guidelines for life in UK published for asylum seekers",
-      "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The nine-page booklet covers issues including respect in public, sex and consent, and gender equality.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 19:45:15 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 04:17:53 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "ADHD charity complains about Channel 4 documentary",
-      "link": "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "One newspaper calls Channel 4’s The Great ADHD Myth? \"the most controversial show of the year\".",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 18:23:05 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "BBC News app",
-      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-      "author": "",
-      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia Threatens The UK (Again)",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p4z12v?at_medium=RSS&at_campaign=rss",
-      "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Threat comes after British-made drones were used in recent Ukrainian strikes in Russia.",
-      "author": "",
-      "published": "Tue, 18 Aug 2026 15:50:00 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Who is Trump aide Natalie Harp… and why are Democrats targeting her?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzj?at_medium=RSS&at_campaign=rss",
-      "full_text": "Find out how to listen to other BBC stations",
-      "summary": "And, will Trump be forever dogged by his war with Iran?",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 16:42:00 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 00:49:25 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
@@ -311,17 +201,137 @@
       "summary": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
       "author": "",
       "published": "Thu, 20 Aug 2026 05:24:16 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "How Root brought welcome calm on return as England captain",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c36d944wlweo?at_medium=RSS&at_campaign=rss",
+      "title": "John Swinney defends £45,000 business-class flights to World Cup",
+      "link": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Joe Root took advice from Harry Brook and adopted a hands-off approach with his bowlers on his return as England Test skipper.",
+      "summary": "The Scottish government spent almost £100,000 on official visits to the United States in June.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 19:49:23 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 09:53:16 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "People smuggler exposed by BBC investigation arrested and charged",
+      "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Twana Jamal Khdir has been arrested and charged with immigration offences.",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 20:54:51 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 10:14:47 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rare Suffragette Christmas card from 1910 found at roadshow",
+      "link": "https://www.bbc.co.uk/news/articles/clyj372kkgyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A rare Suffragette Christmas card dating back to 1910 has been discovered in Mold, Flintshire, at a vintage roadshow.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 09:45:12 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham announces plans to clean up worst three illegal waste dumps",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4vn0k3r5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The government says the sites in Kent, Surrey and West Yorkshire contain 22,000 tonnes of waste.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 12:25:11 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tenders open for highly-sensitive West Bank settlement project, Israel announces",
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 10:30:52 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Four workers dead after being hit by train in Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 10:32:31 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "BBC News app",
+      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "author": "",
+      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russia Threatens The UK (Again)",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p4z12v?at_medium=RSS&at_campaign=rss",
+      "full_text": "Find out how to listen to other BBC stations",
+      "summary": "Threat comes after British-made drones were used in recent Ukrainian strikes in Russia.",
+      "author": "",
+      "published": "Tue, 18 Aug 2026 15:50:00 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Who is Trump aide Natalie Harp… and why are Democrats targeting her?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzj?at_medium=RSS&at_campaign=rss",
+      "full_text": "Find out how to listen to other BBC stations",
+      "summary": "And, will Trump be forever dogged by his war with Iran?",
+      "author": "",
+      "published": "Wed, 19 Aug 2026 16:42:00 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 05:24:16 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Verstappen extends Red Bull deal to 2030",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 07:09:34 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tottenham in talks to sign Man City's Savinho and Marmoush",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Spurs open talks with Manchester City to sign attacking duo Omar Marmoush and Savinho.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 09:01:26 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
@@ -331,47 +341,27 @@
       "summary": "There is a long list of supplements taken by elite athletes in the pursuit of marginal gains - what do they take and why?",
       "author": "",
       "published": "Thu, 20 Aug 2026 05:52:21 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "Celtic find value in 'special' Duran - but does ambition reach further still?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn0n6k42803o?at_medium=RSS&at_campaign=rss",
+      "title": "'I feel I am imprisoning myself' - Djokovic on drive & doubts",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy4k33x1yw4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Now that the Champions League money may be nigh, we will get to see the scale of Celtic's ambition, asks Tom English?",
+      "summary": "Novak Djokovic discusses being his own biggest doubter and the Belgrade childhood that shaped him in a new documentary.",
       "author": "",
-      "published": "Wed, 19 Aug 2026 23:34:09 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 11:57:57 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     },
     {
       "source": "bbc",
-      "title": "Aguero and Shearer star in best opening-round debuts",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwyl718g865o?at_medium=RSS&at_campaign=rss",
+      "title": "Briton Hennessy in talks for undisputed world title fight",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c0km0054037o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport takes a look at some of the Premier League's greatest opening-day debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers.",
+      "summary": "Francesca Hennessy is in talks to fight undisputed bantamweight world champion Dina Thorslund in the United Kingdom later this year, BBC Sport understands.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 05:22:10 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Athletics coach believed missing is in jail for sexual assault",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "English athletics coach Leon Baptiste was given a 10-month prison sentence in Morocco for sexually assaulting a minor.",
-      "author": "",
-      "published": "Wed, 19 Aug 2026 15:47:20 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Five in Five: Football quiz No 4",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yr3w58qnlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 06:19:41 GMT",
-      "fetched_at": "2026-08-20T06:27:57.003218+00:00"
+      "published": "Thu, 20 Aug 2026 09:59:40 GMT",
+      "fetched_at": "2026-08-20T12:27:04.191281+00:00"
     }
   ]
 }
