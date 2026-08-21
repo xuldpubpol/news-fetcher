@@ -1,17 +1,17 @@
 {
   "source": "foreign-affairs",
-  "fetched_at": "2026-08-20T18:23:49.387696+00:00",
+  "fetched_at": "2026-08-21T00:42:58.129176+00:00",
   "count": 20,
   "articles": [
     {
       "source": "foreign-affairs",
       "title": "How AI Could Hollow Out the U.S. Military",
       "link": "https://www.foreignaffairs.com/united-states/how-ai-could-hollow-out-us-military",
-      "full_text": "Since its founding in 1922, Foreign Affairs has been the leading forum for serious discussion of American foreign policy and global affairs. The magazine has featured contributions from many leading international affairs experts.\nEMELIA S. PROBASCO is a Senior Fellow at Georgetown University’s Center for Security and Emerging Technology.\nWhen people think about the risks of mixing AI and armed forces, their thoughts often drift to one famous film franchise: The Terminator. Its premise is simple. American scientists invent a superintelligent computer system, called Skynet. The Department of Defense then integrates it into the military and embodies its intelligence into lethal robots. Skynet soon becomes self-aware, and American military leaders attempt to unplug it. In response, the AI starts a nuclear war and deploys its robots—the terminators—to eliminate the human race.\nThere is no doubt that people need to maintain control over AI systems, and so it is essential for analysts and engineers to think about how to avert a Skynet-style outcome—particularly after models from OpenAI, Anthropic, and Meta escaped their testing environments and hacked into outside companies, including an escape that took place during an exam run by the United Kingdom’s premier AI safety institute. But focusing on escaped models and imagining killer robots can drive discussions about how the military should use AI exclusively toward questions of engineering and thus miss a more pernicious threat to human control of the armed forces. According to a growing body of research, AI use is affecting people’s cognitive capacity to evaluate evidence, make independent judgments, and even do their basic jobs. In other words, policymakers should be as worried about how troops and commanders use AI as they should be about AI’s independent capabilities.\nThat does not mean the U.S. military should forgo the use of AI, which could do wonders to improve its efficiency and reduce errors in conflicts. But it does mean that the Pentagon will need to more carefully train soldiers how to use AI and monitor how such systems affect people’s thinking. To be sure humans are always capable of overseeing AI, it may even require adopting certain models more slowly.\nFor years, scientists have embarked on systematic research to illuminate how human-machine interactions affect cognition. The findings are complicated, but often worrying. For example, people can suffer from what is called automation bias: the tendency to defer to machine judgments over their own. This was true before the advent of AI; simply search for videos of people who blindly followed their navigation systems and drove their cars into lakes. But AI could make automation bias worse. Analysts have found that relying on AI can impair skill development for new learners while degrading knowledge among experts. When researchers gave computer scientists and oncologists AI assistance and later took it away, both groups performed worse at their jobs than they did before using it.\nThese findings should be particularly concerning to the U.S. military as it seeks to foster what Secretary of Defense Pete Hegseth calls an “AI-first warfighting force.” Some commanders hope to use AI to support war game analysis and to help develop military courses of action. Such integration could lead to tactical and strategic breakthroughs, given how powerful AI models have become. But it also risks diminishing the ability of commanders and soldiers to independently evaluate or develop creative military options.\nIt is easy to imagine how this might happen. Sailors, for example, are often tired and overworked when reviewing images of potential threats. If they are evaluating an image of a nearby object, they might already be ready to accept the verdict of a computer that deems it an enemy warship—even when their own eyes suggest it is more likely a cargo tanker or a fishing boat. Likewise, battlefield commanders often need urgent response plans to enemy attacks, something AI can help with. But if commanders overrely on what computers suggest, they might lose their own tactical edge and blindly adopt the algorithm’s plan. This possibility is particularly concerning given that, in someexperiments, AI models have been prone to make unnecessarily aggressive and escalatory recommendations.\nTo some, these fears may seem outlandish. The U.S. military, after all, invests tremendous amounts of resources on making sure its members exercise good judgment. The process by which it selects senior combat leaders, for example, is designed to weed out all but the most experienced and discerning candidates. And, once selected, these leaders adhere to a strict code of conduct and undergo intensive training and certification requirements, all of which prize discipline and self-regulation. Finally, the American military bureaucracy has been focused on safely operating automated (if not autonomous) weapons since at least the 1940s.\nBut AI is more capable than earlier technologies, and it is already overwhelming workers in other similarly disciplined fields. In medicine, for instance, evidence is accumulating that even experienced doctors struggle to reliably catch incorrect AI recommendations. Sycophantic AI chatbots have driven well-educated people to embrace delusions. Particularly with reductions in military staff sizes, often because of imagined AI efficiencies, these problems could become more acute. And AI is improving and diffusing at such a rapid pace that these challenges are quickly outstripping the Pentagon’s ability to respond and update its policies. The Defense Department’s guidance on autonomous weapons, for example, was last updated in 2023, before Anthropic had even launched its first commercial model, Claude. Since then, Claude has gone through more than 20 new versions and developed superhuman hacking capabilities.\nEven if policies were updated as fast as commercial AI models, the Pentagon would struggle to keep soldiers up to date with the new AI systems. Service members are already busy with a myriad of requirements, including the conflict in Iran and the Red Sea, patrols in the Pacific, and maintenance requirements and physical readiness tests. When they may have time for training, many are in remote locations without ready access to the Internet. Flying officers back for training courses on new AI tools is technically possible. But it is not practical for a technology that is changing on a biweekly basis.\nIf the military wants to retain “appropriate levels of human judgment” over autonomous and AI-enabled weapons systems, according to its official policy, then it will have to find specific ways to invest in buttressing that judgment against AI’s potentially unique effects. It could start by rethinking how the military trains both younger and older soldiers. Junior officers need a broad education on AI, one that helps them develop a general understanding of and intuition for the capabilities and limitations of new tools as they are brought online in rapid succession. More senior officers and enlisted operators will have to shift from a luxurious, schoolhouse-centric mentality—where they have a week or more of uninterrupted time to study a new technology along with a dedicated, in-person instructor—to a distributed, field-centric approach where learning never ends. This may mean that information on the capabilities and limitations of updates are delivered to all users via YouTube–like tutorials and new, highly effective AI prompts are shared and stored via GitHub-like knowledge repositories. The latest insights on what works and what does not may have to be exchanged through developer communities similar to Discord, Reddit, or Slack. These platforms could simultaneously help the AI pioneers and power users in the operating forces learn and evolve more quickly. Finally, they could help engineers, testers, and policymakers stay abreast of developments in the field and make engineering or bureaucratic changes as needed.\nCritics may worry that having the military learn through informal, user-generated messages will expose troops to untested, half-baked ideas or even outright junk that could distract them from vital tasks. It is true that this system will inevitably surface some bad content. But the military can control such a social network in a way that the civilian world cannot. Washington, for example, can require posters to identify themselves and install trained experts as content moderators to quickly correct misleading or harmful posts. And at a time when there is still much to discover about the best ways to deploy AI, these networks will surface important lessons. The costs, then, are worth the benefits.\nIn addition to training operators, the Pentagon will need to embed knowledgeable engineers, data scientists, and legal advisers to help senior military leaders navigate thorny issues relating to human-AI interaction on the battlefield. Fires officers (people who run plans for and coordinate the use of lethal weapons systems) may have a long history with the army targeting process, but they may not yet appreciate how a simple change in the way targets are displayed could alter the way human operators understand it. Generals eager to create military plans using new data and AI tools will need the counsel of data, AI, and legal experts to both judge the advantages of their AI-enabled proposals and draft guidance to make sure their subordinates avoid risks and maintain independent judgment when following commands.\nDeploying such experts could also address the reverse problem: that soldiers and commanders avoid AI because they do not understand it or unnecessarily fear it. The United States, after all, has good reasons for wanting troops to use AI. Many time-consuming military tasks involve little or no real judgment, such as filling out standardized forms, retrieving information from different data sources, and sharing data with cleared personnel. There are also plenty of cognitively overwhelming tasks military leaders must tackle in which AI could be of help by identifying patterns or challenging assumptions. A study I conducted in 2024 showed that even with relatively simple computer vision and workflow software, a unit using the Maven Smart System, which helps manage information on potential targets and move that information through the chain of command for final decisions, could perform its standard targeting process with over 1,000 fewer soldiers than the unit needed previously.\nSome embedded experts should specifically focus on evaluating how military users and entire units are affected by AI, starting now. The United States still has much to learn about the interplay of human judgment and AI in warfare and getting a baseline understanding of judgment without the help of AI is essential to tracking AI’s positive and negative effects as time goes on. This will, in turn, help the Pentagon better learn how to prevent AI from eroding human judgment. Defense officials might, for example, figure out how commanders can recognize when AI is being overly solicitous, just as commanders have learned to recognize when junior officers are being overly solicitous in hopes of securing a promotion. (The difference being that chatbots, unlike most junior officers, can be more convincing than professional debaters.) Such efforts could also help commanders make sure soldiers have enough time to make decisions and establish the right mix of AI tools and human operators.\nAvoiding Terminator-like dystopias requires maintaining control not just of AI, but of human behavior. That need will chafe against Washington’s current impulses to buy and deploy AI tools rapidly, because it takes time to prepare individuals and a large bureaucracy to exercise good judgment over these massively capable algorithms. But if it wants to get AI right, the Pentagon must mitigate the risks of AI undermining human control. Pentagon officials, in other words, need to focus on reworking how the military trains, deploys, and enables AI systems—and not just on engineering or buying them.",
+      "full_text": "Since its founding in 1922, Foreign Affairs has been the leading forum for serious discussion of American foreign policy and global affairs. The magazine has featured contributions from many leading international affairs experts.\nEMELIA S. PROBASCO is a Senior Fellow at Georgetown University’s Center for Security and Emerging Technology.\nWhen people think about the risks of mixing AI and armed forces, their thoughts often drift to one famous film franchise: The Terminator. Its premise is simple. American scientists invent a superintelligent computer system, called Skynet. The Department of Defense then integrates it into the military and embodies its intelligence into lethal robots. Skynet soon becomes self-aware, and American military leaders attempt to unplug it. In response, the AI starts a nuclear war and deploys its robots—the terminators—to eliminate the human race.\nThere is no doubt that people need to maintain control over AI systems, and so it is essential for analysts and engineers to think about how to avert a Skynet-style outcome—particularly after models from OpenAI, Anthropic, and Meta escaped their testing environments and hacked into outside companies, including an escape that took place during an exam run by the United Kingdom’s premier AI safety institute. But focusing on escaped models and imagining killer robots can drive discussions about how the military should use AI exclusively toward questions of engineering and thus miss a more pernicious threat to human control of the armed forces. According to a growing body of research, AI use is affecting people’s cognitive capacity to evaluate evidence, make independent judgments, and even do their basic jobs. In other words, policymakers should be as worried about how troops and commanders use AI as they should be about AI’s independent capabilities.\nThat does not mean the U.S. military should forgo the use of AI, which could do wonders to improve its efficiency and reduce errors in conflicts. But it does mean that the Pentagon will need to more carefully train soldiers how to use AI and monitor how such systems affect people’s thinking. To be sure humans are always capable of overseeing AI, it may even require adopting certain models more slowly.\nFor years, scientists have embarked on systematic research to illuminate how human-machine interactions affect cognition. The findings are complicated, but often worrying. For example, people can suffer from what is called automation bias: the tendency to defer to machine judgments over their own. This was true before the advent of AI; simply search for videos of people who blindly followed their navigation systems and drove their cars into lakes. But AI could make automation bias worse. Analysts have found that relying on AI can impair skill development for new learners while degrading knowledge among experts. When researchers gave computer scientists and oncologists AI assistance and later took it away, both groups performed worse at their jobs than they did before using it.\nThese findings should be particularly concerning to the U.S. military as it seeks to foster what Secretary of Defense Pete Hegseth calls an “AI-first warfighting force.” Some commanders hope to use AI to support war game analysis and to help develop military courses of action. Such integration could lead to tactical and strategic breakthroughs, given how powerful AI models have become. But it also risks diminishing the ability of commanders and soldiers to independently evaluate or develop creative military options.\nIt is easy to imagine how this might happen. Sailors, for example, are often tired and overworked when reviewing images of potential threats. If they are evaluating an image of a nearby object, they might already be ready to accept the verdict of a computer that deems it an enemy warship—even when their own eyes suggest it is more likely a cargo tanker or a fishing boat. Likewise, battlefield commanders often need urgent response plans to enemy attacks, something AI can help with. But if commanders overrely on what computers suggest, they might lose their own tactical edge and blindly adopt the algorithm’s plan. This possibility is particularly concerning given that, in some experiments, AI models have been prone to make unnecessarily aggressive and escalatory recommendations.\nTo some, these fears may seem outlandish. The U.S. military, after all, invests tremendous amounts of resources on making sure its members exercise good judgment. The process by which it selects senior combat leaders, for example, is designed to weed out all but the most experienced and discerning candidates. And once selected, these leaders adhere to a strict code of conduct and undergo intensive training and certification requirements, all of which prize discipline and self-regulation. Finally, the American military bureaucracy has been focused on safely operating automated (if not autonomous) weapons since at least the 1940s.\nBut AI is more capable than earlier technologies, and it is already overwhelming workers in other similarly disciplined fields. In medicine, for instance, evidence is accumulating that even experienced doctors struggle to reliably catch incorrect AI recommendations. Sycophantic AI chatbots have driven well-educated people to embrace delusions. Particularly with reductions in military staff sizes, often because of imagined AI efficiencies, these problems could become more acute. And AI is improving and diffusing at such a rapid pace that these challenges are quickly outstripping the Pentagon’s ability to respond and update its policies. The Defense Department’s guidance on autonomous weapons, for example, was last updated in 2023, before Anthropic had even launched its first commercial model, Claude. Since then, Claude has gone through more than 20 new versions and developed superhuman hacking capabilities.\nEven if policies were updated as fast as commercial AI models, the Pentagon would struggle to keep soldiers up to date with the new AI systems. Service members are already busy with a myriad of requirements, including the conflict in Iran and the Red Sea, patrols in the Pacific, and maintenance requirements and physical readiness tests. When they may have time for training, many are in remote locations without ready access to the Internet. Flying officers back for training courses on new AI tools is technically possible. But it is not practical for a technology that is changing on a biweekly basis.\nIf the military wants to retain “appropriate levels of human judgment” over autonomous and AI-enabled weapons systems, according to its official policy, then it will have to find specific ways to invest in buttressing that judgment against AI’s potentially unique effects. It could start by rethinking how the military trains both younger and older soldiers. Junior officers need a broad education on AI, one that helps them develop a general understanding of and intuition for the capabilities and limitations of new tools as they are brought online in rapid succession. More senior officers and enlisted operators will have to shift from a luxurious, schoolhouse-centric mentality—where they have a week or more of uninterrupted time to study a new technology along with a dedicated, in-person instructor—to a distributed, field-centric approach where learning never ends. This may mean that information on the capabilities and limitations of updates are delivered to all users via YouTube–like tutorials and new, highly effective AI prompts are shared and stored via GitHub-like knowledge repositories. The latest insights on what works and what does not may have to be exchanged through developer communities similar to Discord, Reddit, or Slack. These platforms could simultaneously help the AI pioneers and power users in the operating forces learn and evolve more quickly. Finally, they could help engineers, testers, and policymakers stay abreast of developments in the field and make engineering or bureaucratic changes as needed.\nCritics may worry that having the military learn through informal, user-generated messages will expose troops to untested, half-baked ideas or even outright junk that could distract them from vital tasks. It is true that this system will inevitably surface some bad content. But the military can control such a social network in a way that the civilian world cannot. Washington, for example, can require posters to identify themselves and install trained experts as content moderators to quickly correct misleading or harmful posts. And at a time when there is still much to discover about the best ways to deploy AI, these networks will surface important lessons. The costs, then, are worth the benefits.\nIn addition to training operators, the Pentagon will need to embed knowledgeable engineers, data scientists, and legal advisers to help senior military leaders navigate thorny issues relating to human-AI interaction on the battlefield. Fires officers (people who run plans for and coordinate the use of lethal weapons systems) may have a long history with the army targeting process, but they may not yet appreciate how a simple change in the way targets are displayed could alter the way human operators understand it. Generals eager to create military plans using new data and AI tools will need the counsel of data, AI, and legal experts to both judge the advantages of their AI-enabled proposals and draft guidance to make sure their subordinates avoid risks and maintain independent judgment when following commands.\nDeploying such experts could also address the reverse problem: that soldiers and commanders avoid AI because they do not understand it or unnecessarily fear it. The United States, after all, has good reasons for wanting troops to use AI. Many time-consuming military tasks involve little or no real judgment, such as filling out standardized forms, retrieving information from different data sources, and sharing data with cleared personnel. There are also plenty of cognitively overwhelming tasks military leaders must tackle in which AI could be of help by identifying patterns or challenging assumptions. A study I conducted in 2024 showed that even with relatively simple computer vision and workflow software, a unit using the Maven Smart System, which helps manage information on potential targets and move that information through the chain of command for final decisions, could perform its standard targeting process with over 1,000 fewer soldiers than the unit needed previously.\nSome embedded experts should specifically focus on evaluating how military users and entire units are affected by AI, starting now. The United States still has much to learn about the interplay of human judgment and AI in warfare and getting a baseline understanding of judgment without the help of AI is essential to tracking AI’s positive and negative effects as time goes on. This will, in turn, help the Pentagon better learn how to prevent AI from eroding human judgment. Defense officials might, for example, figure out how commanders can recognize when AI is being overly solicitous, just as commanders have learned to recognize when junior officers are being overly solicitous in hopes of securing a promotion. (The difference being that chatbots, unlike most junior officers, can be more convincing than professional debaters.) Such efforts could also help commanders make sure soldiers have enough time to make decisions and establish the right mix of AI tools and human operators.\nAvoiding Terminator-like dystopias requires maintaining control not just of AI, but of human behavior. That need will chafe against Washington’s current impulses to buy and deploy AI tools rapidly, because it takes time to prepare individuals and a large bureaucracy to exercise good judgment over these massively capable algorithms. But if it wants to get AI right, the Pentagon must mitigate the risks of AI undermining human control. Pentagon officials, in other words, need to focus on reworking how the military trains, deploys, and enables AI systems—and not just on engineering or buying them.",
       "summary": "The best soldiers know how to think for themselves.",
       "author": "",
       "published": "Thu, 20 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -21,7 +21,7 @@
       "summary": "Congress must lead to compete with Beijing.",
       "author": "",
       "published": "Wed, 19 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -31,7 +31,7 @@
       "summary": "How to make government work again.",
       "author": "",
       "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -41,7 +41,7 @@
       "summary": "Preparing for a world of synthetic pathogens.",
       "author": "",
       "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -51,7 +51,7 @@
       "summary": "Learning to live in a post-American world.",
       "author": "",
       "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -61,7 +61,7 @@
       "summary": "The case against pessimism and the path to a new allied order.",
       "author": "",
       "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -71,7 +71,7 @@
       "summary": "Iran and the last gasp of a failed order.",
       "author": "",
       "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -81,7 +81,7 @@
       "summary": "Why Washington still risks losing the tech race.",
       "author": "",
       "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -91,7 +91,7 @@
       "summary": "The real history of Beijing’s rare-earth dominance.",
       "author": "",
       "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -101,7 +101,7 @@
       "summary": "A quarter century before 9/11, an upsurge in global terrorism prompted the historian David Fromkin to examine its purpose and method. Terrorism was a strategy of the weak, Fromkin wrote in these pages, but modern technology had enabled it “to enter the political arena on a new scale.” And its surprising success seemed to be due, in large part, “to a miscomprehension of the strategy by its opponents.”",
       "author": "",
       "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -111,7 +111,7 @@
       "summary": "How Washington’s fear of Chinese investment hurts American competitiveness.",
       "author": "",
       "published": "Mon, 17 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -121,7 +121,7 @@
       "summary": "What the youngest continent stands to gain from growing old.",
       "author": "",
       "published": "Mon, 17 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -131,7 +131,7 @@
       "summary": "Hormuz and the new geography of energy power.",
       "author": "",
       "published": "Fri, 14 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -141,7 +141,7 @@
       "summary": "How to support the movement resisting the Taliban’s extremism.",
       "author": "",
       "published": "Fri, 14 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -151,7 +151,7 @@
       "summary": "How overcapacity ends.",
       "author": "",
       "published": "Thu, 13 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -161,7 +161,7 @@
       "summary": "Decades of hard-won mediation experience point the way.",
       "author": "",
       "published": "Thu, 13 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -171,7 +171,7 @@
       "summary": "Why high productivity could still lead to a crash.",
       "author": "",
       "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -181,7 +181,7 @@
       "summary": "The perverse incentives for presidents to use military force.",
       "author": "",
       "published": "Wed, 12 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -191,7 +191,7 @@
       "summary": "How fragile states can fortify themselves.",
       "author": "",
       "published": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -201,7 +201,7 @@
       "summary": "How Beijing turned its food insecurity into geopolitical leverage.",
       "author": "",
       "published": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "fetched_at": "2026-08-20T18:23:45.299696+00:00"
+      "fetched_at": "2026-08-21T00:42:55.499928+00:00"
     }
   ]
 }
