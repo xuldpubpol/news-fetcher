@@ -1,37 +1,47 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-21T00:43:19.646956+00:00",
+  "fetched_at": "2026-08-21T06:28:34.886725+00:00",
   "count": 36,
   "articles": [
     {
       "source": "bbc",
-      "title": "Harry and Meghan's return to UK reignites questions over security",
-      "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 18:12:59 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
-      "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The brothers have had a fractured relationship for a number of years.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 16:54:51 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
       "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
       "author": "",
       "published": "Fri, 21 Aug 2026 00:33:21 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Will Harry's return heal deep-rooted rift with William?",
+      "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 04:07:22 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Meghan could return to acting once back in UK",
+      "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 02:52:29 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Israeli settlers return to Kadim in West Bank two decades after it was evacuated",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 05:00:57 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -41,7 +51,7 @@
       "summary": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics.",
       "author": "",
       "published": "Thu, 20 Aug 2026 22:23:24 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -51,27 +61,37 @@
       "summary": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
       "author": "",
       "published": "Fri, 21 Aug 2026 00:11:18 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
-      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "title": "The town whose council wants migrants to move in",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "US Treasury Secretary Scott Bessent  says allies will need to decide whether they \"are with us or against us\".",
+      "summary": "Greenock wants to attract immigrants to settle in the town and reverse its declining population.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 19:52:48 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "published": "Fri, 21 Aug 2026 05:00:02 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
-      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
-      "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor.",
+      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 17:48:07 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "published": "Thu, 20 Aug 2026 23:16:45 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 05:30:18 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -81,17 +101,7 @@
       "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner.",
       "author": "",
       "published": "Thu, 20 Aug 2026 23:10:58 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rain to stop in time for weekend as sun returns",
-      "link": "https://www.bbc.co.uk/weather/articles/c2el98pkd3po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The heavy downpours that have caused flash flooding will ease during Friday with sunshine returning for the weekend. But there are some chilly nights in store, as Ben Rich explains.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 00:14:00 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -101,27 +111,17 @@
       "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
       "author": "",
       "published": "Thu, 20 Aug 2026 22:59:35 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 18:55:14 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
       "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
+      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 22:43:42 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "published": "Fri, 21 Aug 2026 04:27:13 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +131,27 @@
       "summary": "Living a healthy life doesn't have to just be about pricey studio classes and luxury retreats.",
       "author": "",
       "published": "Fri, 21 Aug 2026 00:23:55 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "A split in the spectrum? The ongoing battle to define autism",
+      "link": "https://www.bbc.co.uk/news/articles/cdew81wd2y8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "There is a continuing row over whether it matters if such a broad spectrum of people are defined as having autism",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 05:01:38 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What happened to Harry and Meghan's American dream?",
+      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 02:57:34 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +161,17 @@
       "summary": "The Killers frontman asks big questions on his third solo album, which takes a detour into country.",
       "author": "",
       "published": "Fri, 21 Aug 2026 00:26:57 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Newspaper review: 'King puts William first' and Harry security could cost public '£5m a year'",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kjmmmxmlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The return of the Duke and Duchess of Sussex to the UK continues to dominate Friday's front pages.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 04:44:20 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +181,7 @@
       "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "author": "",
       "published": "Thu, 20 Aug 2026 17:44:31 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -161,37 +191,47 @@
       "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
       "author": "",
       "published": "Thu, 20 Aug 2026 22:01:26 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
-      "title": "Newspaper review: 'King puts William first' and Harry security could cost public '£5m a year'",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kjmmmxmlo?at_medium=RSS&at_campaign=rss",
+      "title": "Rain to stop in time for weekend as sun returns",
+      "link": "https://www.bbc.co.uk/weather/articles/c2el98pkd3po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The return of the Duke and Duchess of Sussex to the UK continues to dominate Friday's front pages.",
+      "summary": "The heavy downpours that have caused flash flooding will ease during Friday with sunshine returning for the weekend. But there are some chilly nights in store, as Ben Rich explains.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 00:08:19 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "published": "Fri, 21 Aug 2026 00:14:00 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
-      "title": "My family have fished this river for 300 years - now pollution has killed all the fish",
-      "link": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
+      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+      "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A tradition on a river once fished by US President Jimmy Carter could be coming to an end.",
+      "summary": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 20:47:39 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "published": "Fri, 21 Aug 2026 06:22:36 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
-      "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
-      "link": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The app lets users create six-second looping videos and hosts more than two million classic videos.",
+      "summary": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 16:58:37 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "published": "Fri, 21 Aug 2026 02:33:27 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "author": "",
+      "published": "Thu, 20 Aug 2026 18:55:14 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -201,67 +241,27 @@
       "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
       "author": "",
       "published": "Thu, 20 Aug 2026 10:14:47 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
-      "title": "John Swinney defends £45,000 business-class flights to World Cup",
-      "link": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&at_campaign=rss",
+      "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+      "link": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Scottish government spent almost £100,000 on official visits to the United States in June.",
+      "summary": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 12:33:09 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "published": "Thu, 20 Aug 2026 21:03:30 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC DJ Trevor Nelson reveals brain tumour surgery 'went well'",
-      "link": "https://www.bbc.co.uk/news/articles/cjd47klln75o?at_medium=RSS&at_campaign=rss",
+      "title": "Hong Kong's Tiananmen activists convicted in national security trial",
+      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 62-year-old said that his \"world was turned upside down\" when a brain tumour was discovered.",
+      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 16:01:37 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man charged over Manchester synagogue attack",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police say the man is accused of failing to disclose information regarding terrorist activity.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 16:17:27 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 17:14:55 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 10:05:24 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Alcaraz to play US Open after four months out",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Defending champion Carlos Alcaraz is set to make his return at the US Open after missing four months with a wrist injury.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 17:39:09 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "published": "Fri, 21 Aug 2026 05:47:32 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +281,7 @@
       "summary": "The PM says every rough sleeper in England will be offered accommodation this winter.",
       "author": "",
       "published": "Wed, 19 Aug 2026 15:06:00 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +291,17 @@
       "summary": "And, will Trump be forever dogged by his war with Iran?",
       "author": "",
       "published": "Wed, 19 Aug 2026 16:42:00 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Spurs agree £75m deal to sign Man City's Savinho",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tottenham agree a deal to sign Manchester City winger Savinho for £75m, with a further £10m in potential add-ons.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 06:17:39 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +311,17 @@
       "summary": "England batsman Harry Brook was not ready to be Test captain but his knock at Headingley should be his batting blueprint for the future, writes Jonathan Agnew.",
       "author": "",
       "published": "Thu, 20 Aug 2026 20:38:45 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Break-up of Villa's Europa heroes leaves cracks for Emery to fill",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Aston Villa have already sold three key players this summer, a figure that could potentially double by the end of the transfer window.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 05:28:59 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -311,47 +331,27 @@
       "summary": "Rangers beat Jablonec in the first leg of their Conference League play-off, but it wasn't a pretty watch, writes Tom English.",
       "author": "",
       "published": "Thu, 20 Aug 2026 22:09:11 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
-      "title": "Liverpool have £50m bid rejected for Brighton's Minteh",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss",
+      "title": "'Borderline Personality Disorder is my superpower'",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3w0vw7530no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Liverpool have a £50m bid rejected by Brighton for their winger Yankuba Minteh.",
+      "summary": "Wales' Donna Rose tells BBC Sport how rugby union has helped her manage Borderline Personality Disorder.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 17:06:34 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "published": "Fri, 21 Aug 2026 05:18:06 GMT",
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
-      "title": "Seven defenders on the books - why Arsenal still want Konsa",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 17:48:12 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "McIlroy back in form with lead at BMW Championship",
+      "title": "McIlroy and Scheffler suffer reversal of fortunes",
       "link": "https://www.bbc.co.uk/sport/golf/articles/cy4598pnx7po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Rory McIlroy says a bit of \"good work\" with his team helped him rediscover his form and take a clubhouse lead in the first round of the BMW Championship.",
+      "summary": "Rory McIlroy says a bit of \"good work\" with his team helped him rediscover his form and take the lead in the first round of the BMW Championship.",
       "author": "",
       "published": "Thu, 20 Aug 2026 22:30:10 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US Open offers biggest prize fund in Grand Slam history",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c70g2zx0rp5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US Open will offer the biggest prize fund in Grand Slam history with a total of $108 million (£79.2m) on offer - marking a 20% increase on last year.",
-      "author": "",
-      "published": "Thu, 20 Aug 2026 17:58:28 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     },
     {
       "source": "bbc",
@@ -361,7 +361,7 @@
       "summary": "WWatch highlights as Harry Brook shines in the Headingley gloom as England build a commanding 195-run lead over Pakistan on a shortened second day of the first Test.",
       "author": "",
       "published": "Thu, 20 Aug 2026 19:27:51 GMT",
-      "fetched_at": "2026-08-21T00:42:59.454507+00:00"
+      "fetched_at": "2026-08-21T06:28:33.299710+00:00"
     }
   ]
 }
