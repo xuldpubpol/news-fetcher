@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-22T06:22:28.966798+00:00",
-  "count": 37,
+  "fetched_at": "2026-08-22T12:18:54.438884+00:00",
+  "count": 30,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Multiple deaths after police vehicle and car crash during pursuit",
+      "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "\"A number of patients died at the scene\" after the collision near Middlesbrough, ambulance officials say, as the police watchdog opens an investigation.",
+      "author": "",
+      "published": "Sat, 22 Aug 2026 12:16:49 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+    },
     {
       "source": "bbc",
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -10,128 +20,18 @@
       "full_text": "",
       "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 04:46:33 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Sat, 22 Aug 2026 11:21:05 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 22:36:12 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 22:28:37 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "More students planning to live at home for university over 'insane' living costs",
-      "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 23:01:58 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham economic adviser O'Neill rules out government job",
-      "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 02:53:22 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
+      "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 05:15:58 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
-      "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 18:29:31 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
-      "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 23:13:00 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-      "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 02:39:10 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
-      "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 19:13:43 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
-      "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 17:18:41 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Swaggering Arsenal open season with Coventry win",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 22:55:40 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "They will not be working royals when they come back. So what could they be doing instead?",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 00:03:10 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Sat, 22 Aug 2026 10:01:22 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
@@ -141,17 +41,47 @@
       "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
       "author": "",
       "published": "Fri, 21 Aug 2026 23:56:48 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "These bookshops let Chinese readers question their country - now the doors are closing",
-      "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+      "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+      "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
+      "summary": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?",
       "author": "",
-      "published": "Fri, 21 Aug 2026 22:26:25 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Fri, 21 Aug 2026 23:13:00 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "author": "",
+      "published": "Sat, 22 Aug 2026 08:40:49 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "More students planning to live at home for university over 'insane' living costs",
+      "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 23:01:58 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "They will not be working royals when they come back. So what could they be doing instead?",
+      "author": "",
+      "published": "Sat, 22 Aug 2026 00:03:10 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
@@ -161,47 +91,67 @@
       "summary": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
       "author": "",
       "published": "Fri, 21 Aug 2026 23:41:33 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Fiscal worries mount' and 'Meghan in Guy Ritchie talks'",
-      "link": "https://www.bbc.co.uk/news/articles/c935r6vr135o?at_medium=RSS&at_campaign=rss",
+      "title": "These bookshops let Chinese readers question their country, now the doors are closing",
+      "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Financial concerns and the Duchess of Sussex's possible return to television acting lead Saturday's papers.",
+      "summary": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 04:40:02 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Fri, 21 Aug 2026 22:26:25 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "Modi spent years building his strong image - why is he making Gen Z reels now?",
-      "link": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
+      "title": "Laptop catches fire on US flight, with passenger treated at airport",
+      "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism.",
+      "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 22:15:32 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Sat, 22 Aug 2026 10:27:25 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "How Israel is expanding settlements in drive to reshape West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "title": "Two-time world boxing champion Tete shot dead outside home",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c98v78n72v5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+      "summary": "Zolani Tete, a former WBO bantamweight and IBF super-flyweight world champion, has been shot dead outside his home in South Africa.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 19:31:47 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Sat, 22 Aug 2026 09:09:39 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "Brief break from rain as sunshine returns for weekend",
-      "link": "https://www.bbc.co.uk/weather/articles/clyx4ve0x0jo?at_medium=RSS&at_campaign=rss",
+      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "There will be a break in the rain this weekend as high pressure returns, but more wet weather is in store next week.",
+      "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 01:11:29 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Sat, 22 Aug 2026 09:09:41 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Quiet, quiet, quiet!' - what triggers Trump to shut down reporters?",
+      "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
+      "author": "",
+      "published": "Sat, 22 Aug 2026 02:39:10 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Advisor O'Neill rules out government job but backs PM's devolution plans",
+      "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
+      "author": "",
+      "published": "Sat, 22 Aug 2026 08:37:16 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
@@ -211,57 +161,57 @@
       "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
       "author": "",
       "published": "Sat, 22 Aug 2026 03:43:26 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+      "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 22:59:35 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Sat, 22 Aug 2026 07:53:57 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ofcom investigating Sky News over Farage harassment claims",
-      "link": "https://www.bbc.co.uk/news/articles/ce8k52186mmo?at_medium=RSS&at_campaign=rss",
+      "title": "'Mum still believes she was right to fake my illness'",
+      "link": "https://www.bbc.co.uk/news/articles/ce8lrz02rjyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Reform UK leader has accused Sky News of sending reporters to a house where his adult daughter lives.",
+      "summary": "Ahead of a Channel 4 documentary, Lisa Hayden-Johnson's son Matthew reflects on her actions.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 18:44:19 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Wed, 19 Aug 2026 15:33:09 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "One killed in sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "title": "'I can't do the things my friends do': Life as a teenage carer",
+      "link": "https://www.bbc.co.uk/news/articles/c4g355k8lg4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+      "summary": "Young carers face huge disadvantages growing up - one teenager explains what life is like.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 21:03:24 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Thu, 20 Aug 2026 00:49:25 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Fishermen rescued after five days adrift in cool box",
+      "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
+      "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 18:09:38 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Thu, 20 Aug 2026 20:41:31 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "Argentina's Paredes banned for 10 games after World Cup final clashes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
+      "title": "Missing cat found 100 miles away in feral colony",
+      "link": "https://www.bbc.co.uk/news/articles/cddjlmm28l9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
+      "summary": "Ginge the cat was found in Leeds almost a year after going missing from his home in Sunderland.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 15:26:05 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Fri, 14 Aug 2026 13:26:39 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +221,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +231,7 @@
       "summary": "And, Sue Gray gives her first interview since leaving Downing Street.",
       "author": "",
       "published": "Fri, 21 Aug 2026 14:35:00 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +241,7 @@
       "summary": "The Sussexes love a surprise – but why have they decided to make a return to the UK?",
       "author": "",
       "published": "Thu, 20 Aug 2026 16:00:00 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
@@ -301,37 +251,37 @@
       "summary": "Having fun? Nothing as as it seems on a private party island, and leaving's not an option",
       "author": "",
       "published": "Wed, 01 Jul 2026 23:20:41 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "Swaggering Arsenal want title attack, not defence",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
+      "title": "Russell wins Dutch GP sprint from pole position",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
+      "summary": "Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 22:55:40 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Sat, 22 Aug 2026 10:45:13 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "Second set of twins a good distraction from injury - Maddison",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o?at_medium=RSS&at_campaign=rss",
+      "title": "Martinelli deserves better from Arsenal - Wright",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj636ewwz46o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tottenham midfielder James Maddison says having five children aged four and under - including a second set of twins - helpfully distracted him from his ACL injury last season.",
+      "summary": "Ian Wright says Gabriel Martinelli deserves \"more respect\" from Arsenal and questions the way the club have handled the winger's potential exit.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 05:28:50 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Sat, 22 Aug 2026 11:49:08 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "Lessons learned, but Coventry's top-flight return about more than result",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss",
+      "title": "How new-look Spurs are shaping up under De Zerbi",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx25xy7p9zpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
+      "summary": "Roberto de Zerbi has had time and money over the summer to start creating a new-look Tottenham. So how are they shaping up?",
       "author": "",
-      "published": "Fri, 21 Aug 2026 23:13:13 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Sat, 22 Aug 2026 08:41:57 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
@@ -341,37 +291,17 @@
       "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
       "author": "",
       "published": "Fri, 21 Aug 2026 21:35:28 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fab Four and Fleming on the phone - England's first-Test takeaways",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o?at_medium=RSS&at_campaign=rss",
+      "title": "'We're not Brendon and Ben' - Root's calmness praised",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cly9yzrgp21o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.",
+      "summary": "Joe Root is praised for his calmness on his return as captain by interim coach Marcus Trescothick, who says the pair \"are not\" Ben Stokes and Brendon McCullum.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 05:47:00 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man Utd agree £70m fee for Brighton's Baleba",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwy452d662ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 19:58:11 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hunt second in Diamond League 200m as White wins",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Amy Hunt follows up her extraordinary week at the European Championships with a second-placed finish in the women's 200m at the Diamond League in Lausanne behind Kayla White.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 19:00:43 GMT",
-      "fetched_at": "2026-08-22T06:22:23.124232+00:00"
+      "published": "Sat, 22 Aug 2026 11:00:02 GMT",
+      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
     }
   ]
 }
