@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-21T18:22:42.794124+00:00",
-  "count": 35,
+  "fetched_at": "2026-08-22T00:39:57.379602+00:00",
+  "count": 36,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 22:28:37 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
     {
       "source": "bbc",
       "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
@@ -11,7 +21,27 @@
       "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
       "author": "",
       "published": "Fri, 21 Aug 2026 17:18:41 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "More students planning to live at home for university over 'insane' living costs",
+      "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 23:01:58 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 19:49:56 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -20,8 +50,8 @@
       "full_text": "",
       "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 18:08:14 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Fri, 21 Aug 2026 18:29:31 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -31,7 +61,17 @@
       "summary": "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.",
       "author": "",
       "published": "Fri, 21 Aug 2026 15:33:28 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
+      "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The temporary order will allow the $400m (£297m) project to continue while the high court mulls a final decision on the case.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 22:02:10 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -40,38 +80,8 @@
       "full_text": "",
       "summary": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 12:01:52 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 13:07:00 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: UK marks first national day for victims and survivors of terrorism",
-      "link": "https://www.bbc.co.uk/news/videos/ckgdrl1zj8no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Survivors of terror attacks gathered today at the first annual National day for Victims and Survivors of terrorism.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 16:33:04 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Argentina's Paredes banned for 10 games after World Cup final clashes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 15:26:05 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Fri, 21 Aug 2026 19:13:43 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -81,67 +91,67 @@
       "summary": "A post-mortem examination revealed the remains belonged to a woman aged between 25 and 45.",
       "author": "",
       "published": "Fri, 21 Aug 2026 17:46:04 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
+      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 18:09:38 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Fri, 21 Aug 2026 22:36:12 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+      "title": "Ofcom investigating Sky News over Farage harassment claims",
+      "link": "https://www.bbc.co.uk/news/articles/ce8k52186mmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+      "summary": "The Reform UK leader has accused Sky News of sending reporters to a house where his adult daughter lives.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 22:59:35 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Fri, 21 Aug 2026 18:44:19 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
-      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+      "summary": "They will not be working royals when they come back. So what could they be doing instead?",
       "author": "",
-      "published": "Fri, 21 Aug 2026 16:26:53 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Sat, 22 Aug 2026 00:03:10 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
-      "title": "Body recovered in search for man fallen overboard on cruise ship",
-      "link": "https://www.bbc.co.uk/news/articles/cp8x6yl4j99o?at_medium=RSS&at_campaign=rss",
+      "title": "How this 1960s ex-council house is managing to stay cool without air con",
+      "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The man was reported missing at 08:35 on Ambassador Cruise Lines vessel MS Ambition, about 36 nautical miles from Arbroath.",
+      "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 16:04:18 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Fri, 21 Aug 2026 23:56:48 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
-      "title": "Stormy autumn, cold winter - El Niño could bring a tough few months for the UK",
-      "link": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
+      "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 14:17:03 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Fri, 21 Aug 2026 19:31:47 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
-      "title": "The town whose council wants migrants to move in",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o?at_medium=RSS&at_campaign=rss",
+      "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Greenock wants to attract immigrants to settle in the town and reverse its declining population.",
+      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 05:00:02 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Fri, 21 Aug 2026 13:07:00 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +161,7 @@
       "summary": "Living a healthy life doesn't have to just be about pricey studio classes and luxury retreats.",
       "author": "",
       "published": "Fri, 21 Aug 2026 00:23:55 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -160,8 +170,8 @@
       "full_text": "",
       "summary": "There is a continuing row over whether it matters if such a broad spectrum of people are defined as having autism",
       "author": "",
-      "published": "Fri, 21 Aug 2026 05:01:38 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Fri, 21 Aug 2026 23:22:11 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -171,87 +181,67 @@
       "summary": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife.",
       "author": "",
       "published": "Fri, 21 Aug 2026 13:32:28 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
-      "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
-      "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+      "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be improving.",
+      "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 10:02:03 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Thu, 20 Aug 2026 22:59:35 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
-      "title": "Will Harry's return heal deep-rooted rift with William?",
-      "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 09:48:08 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 05:00:57 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 09:45:11 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "World number one Sinner and Britain's Jack Draper withdraw from US Open",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "World number one Jannik Sinner and Britain's Jack Draper pull out of the upcoming US Open through injury.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 16:31:26 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Men admit trying to tunnel into jewellery shop",
-      "link": "https://www.bbc.co.uk/news/articles/cn4nk1v74yzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Three men who tried to break into a Tooting jewellers plead guilty to conspiring to commit burglary.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 16:19:29 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Two teenagers seriously injured after sword attack at Swedish school",
+      "title": "One killed in sword attack at Swedish school",
       "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Police say one man has been arrested, while several other local schools were locked down.",
+      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 16:32:37 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Fri, 21 Aug 2026 21:03:24 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
-      "title": "French becoming more effective in stopping small boat crossings, UK says",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "Between 1 January and 19 August 2026, a total of 15,897 people crossed the English Channel by small boat from France. This was down by 43% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 42% of asylum applications between April 2025 to March 2026.\nBoats that arrived in the UK from 20 August 2025 to 19 August 2026 carried an average of 68 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from April 2025 to March 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,000 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,535 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from April 2025 to March 2026. This was down by 22% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
-      "summary": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics.",
+      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 08:26:01 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "published": "Fri, 21 Aug 2026 18:09:38 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Argentina's Paredes banned for 10 games after World Cup final clashes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 15:26:05 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Stormy autumn, cold winter - El Niño could bring a tough few months for the UK",
+      "link": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 14:17:03 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Arran ferry evacuated over 'bomb threat' by passenger rescued from sea",
+      "link": "https://www.bbc.co.uk/news/articles/c4g6nd3x0ppo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police Scotland said a 23-year-old man was arrested and it was established that the threats \"were not credible\".",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 21:11:56 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +251,7 @@
       "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
       "author": "",
       "published": "Fri, 21 Aug 2026 11:20:57 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +271,7 @@
       "summary": "And, Sue Gray gives her first interview since leaving Downing Street.",
       "author": "",
       "published": "Fri, 21 Aug 2026 14:35:00 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +281,7 @@
       "summary": "The Sussexes love a surprise – but why have they decided to make a return to the UK?",
       "author": "",
       "published": "Thu, 20 Aug 2026 16:00:00 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +291,47 @@
       "summary": "Having fun? Nothing as as it seems on a private party island, and leaving's not an option",
       "author": "",
       "published": "Wed, 01 Jul 2026 23:20:41 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Swaggering Arsenal want title attack, not defence",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 22:55:40 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Lessons learned, but Coventry's top-flight return about more than result",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 23:13:13 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Arsenal start title defence with comfortable win over Coventry",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 21:35:28 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man Utd agree £70m fee for Brighton's Baleba",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwy452d662ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 19:58:11 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +341,17 @@
       "summary": "Joe Root said \"it would be nice to have a choice\" over the venues where his England team play as they leave Headingley until 2029.",
       "author": "",
       "published": "Fri, 21 Aug 2026 17:51:16 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hunt second in Diamond League 200m as White wins",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Amy Hunt follows up her extraordinary week at the European Championships with a second-placed finish in the women's 200m at the Diamond League in Lausanne behind Kayla White.",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 19:00:43 GMT",
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     },
     {
       "source": "bbc",
@@ -321,37 +361,7 @@
       "summary": "Former England captain Michael Vaughan says he \"really fears\" for Pakistan after their heavy defeat in the first Test at Headingley.",
       "author": "",
       "published": "Fri, 21 Aug 2026 17:09:43 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 15:20:45 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Argentina's Paredes banned for 10 games after World Cup clashes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 15:26:05 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Brighton reject Liverpool's new £60m Minteh bid",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce97ky3vkx4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Liverpool have an improved bid of £60m for winger Yankuba Minteh rejected by Brighton but talks between the clubs continue.",
-      "author": "",
-      "published": "Fri, 21 Aug 2026 17:26:49 GMT",
-      "fetched_at": "2026-08-21T18:22:38.583876+00:00"
+      "fetched_at": "2026-08-22T00:39:40.181176+00:00"
     }
   ]
 }
