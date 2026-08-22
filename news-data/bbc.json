@@ -1,37 +1,37 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-22T12:18:54.438884+00:00",
-  "count": 30,
+  "fetched_at": "2026-08-22T18:15:30.083712+00:00",
+  "count": 29,
   "articles": [
     {
       "source": "bbc",
-      "title": "Multiple deaths after police vehicle and car crash during pursuit",
-      "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+      "title": "Video appears to show police chase minutes before fatal crash",
+      "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "\"A number of patients died at the scene\" after the collision near Middlesbrough, ambulance officials say, as the police watchdog opens an investigation.",
+      "summary": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 12:16:49 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 17:36:57 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 11:21:05 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 16:45:02 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 10:01:22 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 13:13:16 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -41,27 +41,17 @@
       "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
       "author": "",
       "published": "Fri, 21 Aug 2026 23:56:48 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
-      "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+      "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?",
+      "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 23:13:00 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 08:40:49 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 17:02:06 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -71,7 +61,7 @@
       "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
       "author": "",
       "published": "Fri, 21 Aug 2026 23:01:58 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +71,27 @@
       "summary": "They will not be working royals when they come back. So what could they be doing instead?",
       "author": "",
       "published": "Sat, 22 Aug 2026 00:03:10 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+      "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?",
+      "author": "",
+      "published": "Fri, 21 Aug 2026 23:13:00 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "author": "",
+      "published": "Sat, 22 Aug 2026 16:20:51 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -91,47 +101,47 @@
       "summary": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
       "author": "",
       "published": "Fri, 21 Aug 2026 23:41:33 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "These bookshops let Chinese readers question their country, now the doors are closing",
-      "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
+      "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 22:26:25 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 13:48:06 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "Laptop catches fire on US flight, with passenger treated at airport",
-      "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
+      "title": "Vigil held for family who died in sea off Shoreham",
+      "link": "https://www.bbc.co.uk/news/articles/c87n7xd2ye9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
+      "summary": "Town pays its respects to a family who died after getting into difficulty in the water off West Sussex.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 10:27:25 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 14:54:20 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two-time world boxing champion Tete shot dead outside home",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c98v78n72v5o?at_medium=RSS&at_campaign=rss",
+      "title": "Fifa president Infantino asked to stay away from youth tournament",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Zolani Tete, a former WBO bantamweight and IBF super-flyweight world champion, has been shot dead outside his home in South Africa.",
+      "summary": "Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 09:09:39 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 14:29:55 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 09:09:41 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 14:35:11 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -141,37 +151,17 @@
       "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
       "author": "",
       "published": "Sat, 22 Aug 2026 02:39:10 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "Advisor O'Neill rules out government job but backs PM's devolution plans",
+      "title": "Economic adviser O'Neill rules out government job but backs PM's devolution plans",
       "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
       "author": "",
       "published": "Sat, 22 Aug 2026 08:37:16 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 03:43:26 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 07:53:57 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +171,7 @@
       "summary": "Ahead of a Channel 4 documentary, Lisa Hayden-Johnson's son Matthew reflects on her actions.",
       "author": "",
       "published": "Wed, 19 Aug 2026 15:33:09 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +181,7 @@
       "summary": "Young carers face huge disadvantages growing up - one teenager explains what life is like.",
       "author": "",
       "published": "Thu, 20 Aug 2026 00:49:25 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +191,7 @@
       "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
       "author": "",
       "published": "Thu, 20 Aug 2026 20:41:31 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +201,7 @@
       "summary": "Ginge the cat was found in Leeds almost a year after going missing from his home in Sunderland.",
       "author": "",
       "published": "Fri, 14 Aug 2026 13:26:39 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +211,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +221,7 @@
       "summary": "And, Sue Gray gives her first interview since leaving Downing Street.",
       "author": "",
       "published": "Fri, 21 Aug 2026 14:35:00 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +231,7 @@
       "summary": "The Sussexes love a surprise – but why have they decided to make a return to the UK?",
       "author": "",
       "published": "Thu, 20 Aug 2026 16:00:00 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
@@ -251,57 +241,57 @@
       "summary": "Having fun? Nothing as as it seems on a private party island, and leaving's not an option",
       "author": "",
       "published": "Wed, 01 Jul 2026 23:20:41 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russell wins Dutch GP sprint from pole position",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss",
+      "title": "Man Utd 'didn't look ready' - but hurting Carrick remains calm",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c87n78p070do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix.",
+      "summary": "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 10:45:13 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 15:44:28 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "Martinelli deserves better from Arsenal - Wright",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj636ewwz46o?at_medium=RSS&at_campaign=rss",
+      "title": "Norris expects challenge after back-to-back poles",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cy4548x20y5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ian Wright says Gabriel Martinelli deserves \"more respect\" from Arsenal and questions the way the club have handled the winger's potential exit.",
+      "summary": "World champion Lando Norris says he expects other teams to challenge for victory after securing pole position for Sunday's final Dutch Grand Prix.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 11:49:08 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 17:43:01 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "How new-look Spurs are shaping up under De Zerbi",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx25xy7p9zpo?at_medium=RSS&at_campaign=rss",
+      "title": "Tarling third in Vuelta opener after brother's death",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/cq6d6y0e500o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Roberto de Zerbi has had time and money over the summer to start creating a new-look Tottenham. So how are they shaping up?",
+      "summary": "Britain's Josh Tarling finishes third in the opening stage of the Vuelta a Espana just eight days after his brother Fin lost his life in a crash.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 08:41:57 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 18:03:45 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arsenal start title defence with comfortable win over Coventry",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
+      "title": "Mateta claims final year of Palace deal is invalid",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
+      "summary": "Jean-Philippe Mateta is challenging the validity of the final 10 months on his Crystal Palace contract.",
       "author": "",
-      "published": "Fri, 21 Aug 2026 21:35:28 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 17:49:41 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     },
     {
       "source": "bbc",
-      "title": "'We're not Brendon and Ben' - Root's calmness praised",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cly9yzrgp21o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-West Brom midfielder Castro, 25, dies during friendly",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8dnd416pzyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Joe Root is praised for his calmness on his return as captain by interim coach Marcus Trescothick, who says the pair \"are not\" Ben Stokes and Brendon McCullum.",
+      "summary": "Former West Brom midfielder Quevin Castro dies at the age of 25 after collapsing during a match in Portugal.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 11:00:02 GMT",
-      "fetched_at": "2026-08-22T12:18:49.417833+00:00"
+      "published": "Sat, 22 Aug 2026 18:06:43 GMT",
+      "fetched_at": "2026-08-22T18:15:26.076410+00:00"
     }
   ]
 }
