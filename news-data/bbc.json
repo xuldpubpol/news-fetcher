@@ -1,47 +1,17 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-23T12:19:20.245407+00:00",
-  "count": 28,
+  "fetched_at": "2026-08-23T18:15:04.843823+00:00",
+  "count": 30,
   "articles": [
     {
       "source": "bbc",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
+      "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "summary": "Officers had been pursing a car before it went the wrong way down a dual carriageway.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 05:46:43 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mayors to get powers to overrule local councils on planning decisions",
-      "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
-      "author": "",
-      "published": "Sun, 23 Aug 2026 10:02:23 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-      "author": "",
-      "published": "Sun, 23 Aug 2026 09:37:05 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How a new era of heatwaves could shake up the school calendar",
-      "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 23:16:43 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 14:58:40 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
@@ -50,88 +20,68 @@
       "full_text": "",
       "summary": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
       "author": "",
-      "published": "Sun, 23 Aug 2026 12:05:37 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 14:05:16 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
-      "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 09:42:05 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "The hotel booking mix-up that could free mushroom murderer",
-      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
+      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 19:03:03 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 12:56:43 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why we can't look away from hoarder home clean-ups",
-      "link": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo?at_medium=RSS&at_campaign=rss",
+      "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Videos of extreme cleaning posted on social media often go viral and are watched millions of times.",
+      "summary": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 23:22:10 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 15:07:04 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+      "title": "France links sharp rise in drownings to heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 23:45:01 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 17:39:33 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 23:22:02 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 17:54:34 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Plan to restrict serious offenders to certain areas to start in October",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
+      "title": "Newcastle and Liverpool united in tribute to legend Keegan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.",
+      "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 02:37:03 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
-      "author": "",
-      "published": "Sun, 23 Aug 2026 02:48:41 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lucy Davis 'grateful' for support over cancer diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Office star was appearing at convention in London, less than two weeks after announcing her condition.",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 21:50:29 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 15:53:38 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
@@ -141,77 +91,127 @@
       "summary": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app.",
       "author": "",
       "published": "Sun, 23 Aug 2026 06:23:54 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "title": "Man arrested travelling to France after one dead and eight injured in London house fire",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
+      "summary": "A 34-year-old man is arrested on suspicion of murder following a fatal fire in Hounslow.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 01:34:15 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 16:38:24 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "title": "'New season, new trim' - Haaland reveals buzzcut",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+      "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 11:50:59 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 12:36:54 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Struggling households need more help with bills, energy industry says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+      "title": "How a new era of heatwaves could shake up the school calendar",
+      "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+      "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 10:11:21 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sat, 22 Aug 2026 23:16:43 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "The rapper turning council jargon into poetry",
-      "link": "https://www.bbc.co.uk/news/articles/c7vg9pz5ll9o?at_medium=RSS&at_campaign=rss",
+      "title": "Why we can't look away from hoarder home clean-ups",
+      "link": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A former council worker is using poetry and spoken word to explain council policy to young people.",
+      "summary": "Videos of extreme cleaning posted on social media often go viral and are watched millions of times.",
       "author": "",
-      "published": "Sun, 16 Aug 2026 07:15:32 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sat, 22 Aug 2026 23:22:10 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
+      "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
       "author": "",
-      "published": "Tue, 18 Aug 2026 23:14:49 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sat, 22 Aug 2026 19:03:03 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Collapsed owl saved by soldiers 70 miles out at sea",
-      "link": "https://www.bbc.co.uk/news/articles/c4gv11nx3j8o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "\"It's very unusual... barn owls shouldn't be 70 miles off Newcastle,\" a wildlife rescuer says.",
+      "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
       "author": "",
-      "published": "Thu, 20 Aug 2026 18:05:28 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sat, 22 Aug 2026 23:45:01 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Polygamist's author says women see themselves reflected in her Netflix hit",
-      "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
+      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+      "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all.",
+      "summary": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
       "author": "",
-      "published": "Fri, 14 Aug 2026 23:17:22 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sat, 22 Aug 2026 23:22:02 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Robot boxing, football and sprinting at World Humanoid Games",
+      "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+      "author": "",
+      "published": "Sun, 23 Aug 2026 12:47:06 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+      "author": "",
+      "published": "Sun, 23 Aug 2026 10:02:23 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Wicker Man director's sons complete their late father's film trilogy",
+      "link": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years.",
+      "author": "",
+      "published": "Sun, 23 Aug 2026 12:51:15 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Scottish climber completes 'full house' of 1,072 peaks around UK",
+      "link": "https://www.bbc.co.uk/news/articles/c0m7mv0xkkro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 38-year-old becomes one of just over 100 people who have stood on all 1,072 summits.",
+      "author": "",
+      "published": "Sun, 23 Aug 2026 16:00:34 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+      "author": "",
+      "published": "Sun, 23 Aug 2026 12:52:08 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +221,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +231,7 @@
       "summary": "And, Sue Gray gives her first interview since leaving Downing Street.",
       "author": "",
       "published": "Fri, 21 Aug 2026 14:35:00 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +241,7 @@
       "summary": "Attorney General Todd Blanche won’t pledge to act “independently” from the White House.",
       "author": "",
       "published": "Fri, 21 Aug 2026 11:00:00 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
@@ -251,37 +251,57 @@
       "summary": "Having fun? Nothing as as it seems on a private party island, and leaving's not an option",
       "author": "",
       "published": "Wed, 01 Jul 2026 23:20:41 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Abuse from Liverpool fans hurts - Alexander-Arnold",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&at_campaign=rss",
+      "title": "ECB investigates Carse 'nightclub incident'",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
+      "summary": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 10:05:27 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 15:07:04 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australia beat Bangladesh in two days",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo?at_medium=RSS&at_campaign=rss",
+      "title": "Norris beats Antonelli to claim final Dutch GP win",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ce8l8jek1k1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mitchell Starc takes 10 wickets in the match as Australia bounce back to win the second Test against Bangladesh by an innings and 51 runs and draw the series.",
+      "summary": "Lando Norris and McLaren beats Mercedes' Kimi Antonelli to take a masterful strategic victory in a compelling Dutch Grand Prix.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 07:39:21 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 15:20:17 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     },
     {
       "source": "bbc",
-      "title": "What does Savinho's £75m move reveal about Man City's multi-club model?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&at_campaign=rss",
+      "title": "Watkins' absence at Brighton a question for him - Emery",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?",
+      "summary": "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 07:43:38 GMT",
-      "fetched_at": "2026-08-23T12:19:17.701709+00:00"
+      "published": "Sun, 23 Aug 2026 18:05:17 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Newcastle and Liverpool united in tribute to legend Keegan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
+      "author": "",
+      "published": "Sun, 23 Aug 2026 15:53:38 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Jamieson takes Trump call after ending 14-year title wait",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Scott Jamieson shoots a final round of 67 at the Nexo Championship to end his 14-year drought and earn a video call with President Donald Trump.",
+      "author": "",
+      "published": "Sun, 23 Aug 2026 16:57:39 GMT",
+      "fetched_at": "2026-08-23T18:15:03.394025+00:00"
     }
   ]
 }
