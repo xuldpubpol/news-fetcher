@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-23T00:42:47.395131+00:00",
+  "fetched_at": "2026-08-23T06:23:39.990313+00:00",
   "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+      "author": "",
+      "published": "Sun, 23 Aug 2026 03:10:51 GMT",
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
+    },
     {
       "source": "bbc",
       "title": "Two police officers among seven killed in wrong-way car crash",
@@ -11,17 +21,17 @@
       "summary": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
       "author": "",
       "published": "Sat, 22 Aug 2026 19:28:14 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
-      "title": "Video appears to show police chase minutes before fatal A66 crash",
-      "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 20:14:04 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -31,27 +41,27 @@
       "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
       "author": "",
       "published": "Sat, 22 Aug 2026 23:00:03 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
-      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "title": "Restriction zone scheme for offenders to start in October",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "summary": "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 20:10:00 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "published": "Sun, 23 Aug 2026 02:37:03 GMT",
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "title": "Cyber attack shut down small power plant",
+      "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "summary": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 13:13:16 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "published": "Sun, 23 Aug 2026 02:48:41 GMT",
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -61,17 +71,7 @@
       "summary": "The Office star was appearing at convention in London, less than two weeks after announcing her condition.",
       "author": "",
       "published": "Sat, 22 Aug 2026 21:50:29 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US military newspaper editor voices censorship fears after being fired",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 16:57:19 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +81,7 @@
       "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
       "author": "",
       "published": "Sat, 22 Aug 2026 19:03:03 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -91,7 +91,7 @@
       "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
       "author": "",
       "published": "Sat, 22 Aug 2026 23:16:43 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +101,7 @@
       "summary": "Videos of extreme cleaning posted on social media often go viral and are watched millions of times.",
       "author": "",
       "published": "Sat, 22 Aug 2026 23:22:10 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +111,7 @@
       "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
       "author": "",
       "published": "Sat, 22 Aug 2026 23:45:01 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +121,7 @@
       "summary": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
       "author": "",
       "published": "Sat, 22 Aug 2026 23:22:02 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +131,7 @@
       "summary": "Northern Ireland saw consecutive nights of violence following a knife attack - but how are victims faring now?",
       "author": "",
       "published": "Sat, 22 Aug 2026 23:01:54 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -140,8 +140,8 @@
       "full_text": "",
       "summary": "New mayoral powers and continued reporting on the Duchess of Sussex's television role lead Sunday's papers.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 23:40:39 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "published": "Sun, 23 Aug 2026 05:07:23 GMT",
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -150,8 +150,38 @@
       "full_text": "",
       "summary": "Doctors have told mum and dad Catrin and Dylan it could take years for a donor to materialise.",
       "author": "",
-      "published": "Sat, 22 Aug 2026 20:30:23 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "published": "Sun, 23 Aug 2026 06:13:45 GMT",
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "author": "",
+      "published": "Sun, 23 Aug 2026 03:44:19 GMT",
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+      "author": "",
+      "published": "Sun, 23 Aug 2026 01:34:15 GMT",
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+      "author": "",
+      "published": "Sat, 22 Aug 2026 16:57:19 GMT",
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -161,37 +191,7 @@
       "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
       "author": "",
       "published": "Sat, 22 Aug 2026 17:02:06 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 21:42:42 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Fourteen killed in strike on Myanmar monastery",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 13:48:06 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "author": "",
-      "published": "Sat, 22 Aug 2026 14:35:11 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +201,7 @@
       "summary": "Ahead of a Channel 4 documentary, Lisa Hayden-Johnson's son Matthew reflects on her actions.",
       "author": "",
       "published": "Wed, 19 Aug 2026 15:33:09 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +211,7 @@
       "summary": "Young carers face huge disadvantages growing up - one teenager explains what life is like.",
       "author": "",
       "published": "Thu, 20 Aug 2026 00:49:25 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +221,7 @@
       "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
       "author": "",
       "published": "Thu, 20 Aug 2026 20:41:31 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +231,7 @@
       "summary": "Ginge the cat was found in Leeds almost a year after going missing from his home in Sunderland.",
       "author": "",
       "published": "Fri, 14 Aug 2026 13:26:39 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +251,7 @@
       "summary": "And, Sue Gray gives her first interview since leaving Downing Street.",
       "author": "",
       "published": "Fri, 21 Aug 2026 14:35:00 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +261,7 @@
       "summary": "Attorney General Todd Blanche won’t pledge to act “independently” from the White House.",
       "author": "",
       "published": "Fri, 21 Aug 2026 11:00:00 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "Having fun? Nothing as as it seems on a private party island, and leaving's not an option",
       "author": "",
       "published": "Wed, 01 Jul 2026 23:20:41 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +281,7 @@
       "summary": "Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty.",
       "author": "",
       "published": "Sat, 22 Aug 2026 20:16:00 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +291,7 @@
       "summary": "World champion Lando Norris says he expects other teams to challenge for victory after securing pole position for Sunday's final Dutch Grand Prix.",
       "author": "",
       "published": "Sat, 22 Aug 2026 17:43:01 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +301,7 @@
       "summary": "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
       "author": "",
       "published": "Sat, 22 Aug 2026 19:06:02 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +311,7 @@
       "summary": "Ben Stokes hits 66 not out and takes 5-17 as Durham wrap up a 338-run victory at Derbyshire inside three days in Division Two of the County Championship.",
       "author": "",
       "published": "Sat, 22 Aug 2026 19:09:08 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -321,7 +321,7 @@
       "summary": "Former West Brom midfielder Quevin Castro dies at the age of 25 after collapsing during a match in Portugal.",
       "author": "",
       "published": "Sat, 22 Aug 2026 18:06:43 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     },
     {
       "source": "bbc",
@@ -331,7 +331,7 @@
       "summary": "Promoter Eddie Hearn says \"no-one can pull out\" of the proposed fight between Tyson Fury and Anthony Joshua.",
       "author": "",
       "published": "Sat, 22 Aug 2026 22:57:04 GMT",
-      "fetched_at": "2026-08-23T00:42:45.607264+00:00"
+      "fetched_at": "2026-08-23T06:23:35.355879+00:00"
     }
   ]
 }
