@@ -1,47 +1,87 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-24T12:27:33.491611+00:00",
-  "count": 32,
+  "fetched_at": "2026-08-24T18:25:15.992270+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "Social media firms should remove dangerous driving videos, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+      "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+      "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Defence minister Luke Pollard says \"there's no place\" for social media trend showing people driving the wrong way down roads.",
+      "summary": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 11:46:21 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 17:53:40 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+      "title": "How the deadly A66 crash unfolded leaving seven dead",
+      "link": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+      "summary": "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 05:00:22 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 16:55:42 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-      "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
+      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 10:55:47 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 17:29:59 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
-      "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
+      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.",
+      "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 05:15:25 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 15:14:14 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Police pass Mohamed Al Fayed case file to prosecutors",
+      "link": "https://www.bbc.co.uk/news/articles/cz6zx0njdywo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Crown Prosecution Service will review evidence relating to a man in his 80s gathered by police investigating allegations against the late Harrods owner.",
+      "author": "",
+      "published": "Mon, 24 Aug 2026 18:20:37 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Snooker champion Graeme Dott guilty of child sex abuse",
+      "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.",
+      "author": "",
+      "published": "Mon, 24 Aug 2026 17:35:35 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Prince Harry steps down from African wildlife charity board",
+      "link": "https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Last year the organisation African Parks  admitted human rights abuses were committed by its rangers in Congo-Brazzaville.",
+      "author": "",
+      "published": "Mon, 24 Aug 2026 15:28:06 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "World's oceans hit highest temperature on record as El Niño grows",
+      "link": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
+      "author": "",
+      "published": "Mon, 24 Aug 2026 16:27:28 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
@@ -51,47 +91,57 @@
       "summary": "Former TV contestant, Jo Gardiner, 61, dies of cancer one year after her son's death in a crash.",
       "author": "",
       "published": "Mon, 24 Aug 2026 10:13:58 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mother, grandmother and stepfather sentenced for 'house of terror' abuse",
-      "link": "https://www.bbc.co.uk/news/articles/c20jxky3ggro?at_medium=RSS&at_campaign=rss",
+      "title": "Briton fighting for Russia killed in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zry1zk9go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Shirley Freeman, Julia Stephen and David McColl's victims were beaten, starved and psychologically tormented.",
+      "summary": "Bradley Townsend left South Yorkshire in April, telling his family he was going to Romania.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 11:15:23 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 16:17:54 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+      "summary": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 10:40:22 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 05:00:22 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
+      "link": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "summary": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 10:39:23 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 12:51:10 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
+      "title": "Toddler with sun allergy can play in daylight thanks to UV window film",
+      "link": "https://www.bbc.co.uk/news/articles/c3053n15r78o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
+      "summary": "Two-year-old Mollie Murray from Montrose has a rare genetic disorder that makes her extremely sensitive to ultraviolet light",
       "author": "",
-      "published": "Mon, 24 Aug 2026 10:54:22 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 11:21:26 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "EsDeeKid mystery no problem for fans after 'insane' All Points East set",
+      "link": "https://www.bbc.co.uk/news/articles/cp8012ejyr6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "We still don't know the Scouse rapper's true identity, but do music lovers really care who he is?",
+      "author": "",
+      "published": "Mon, 24 Aug 2026 14:00:00 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
@@ -101,47 +151,47 @@
       "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
       "author": "",
       "published": "Mon, 24 Aug 2026 09:47:22 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope",
-      "link": "https://www.bbc.co.uk/news/articles/ceqe8exvwwwo?at_medium=RSS&at_campaign=rss",
+      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
+      "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Grace, 14, feels doctors were dismissive of her pain. She wants others to know the symptoms.",
+      "summary": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
       "author": "",
-      "published": "Sun, 23 Aug 2026 23:14:04 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 16:50:47 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why is it so hard to find an NHS dentist? Find out how many have closed where you live",
-      "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
+      "title": "Carse dropped from England squad for second Test after nightclub incident",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.",
+      "summary": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan amid an ongoing investigation into an incident that led to him being briefly arrested.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 23:10:18 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 16:52:44 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "How to get £2,000 to play computer games at university",
-      "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+      "title": "Teen pleads guilty over Channel boat with 165 migrants",
+      "link": "https://www.bbc.co.uk/news/articles/cy0znklge1wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Roehampton University offers students a year;y scholarship to play esports alongside their studies.",
+      "summary": "A man admits endangering lives at sea after piloting a dinghy with a then-record number of migrants.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 23:23:55 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 14:39:10 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-      "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
+      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 23:25:44 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 13:56:22 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
@@ -151,67 +201,27 @@
       "summary": "Kiwi the Capybara is among animals getting their annual health check while data is gathered and shared.",
       "author": "",
       "published": "Mon, 24 Aug 2026 11:43:10 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australian shark attack victim grateful for 'second chance at life'",
-      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
+      "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+      "summary": "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 05:31:53 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 15:15:07 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "title": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "summary": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 07:00:53 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tesla recalls nearly three million cars in China over hidden door handles",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 05:01:17 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 06:55:06 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Reform says it will prioritise young British-born workers for social housing",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Labour called the plan \"unserious and unworkable\" and accused Reform of pushing \"gimmicks and division\".",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 12:07:43 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Esports World Cup ends with surprise win for China-based team",
-      "link": "https://www.bbc.co.uk/news/articles/cew9lxpjjq2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "AG.AL claim the overall title and $7m (£5.1m) top prize at the third Esports World Cup in Paris.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 10:01:32 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 10:54:22 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
@@ -221,17 +231,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Is Andy Burnham Actually Popular Or Just New?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p4z216?at_medium=RSS&at_campaign=rss",
+      "title": "What Is Andy Burnham's Missile Offer To Ukraine?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p62njt?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "And, Sue Gray gives her first interview since leaving Downing Street.",
+      "summary": "Andy Burnham makes his first foreign trip as Prime Minister to Ukraine",
       "author": "",
-      "published": "Fri, 21 Aug 2026 14:35:00 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 16:05:00 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +251,7 @@
       "summary": "Attorney General Todd Blanche won’t pledge to act “independently” from the White House.",
       "author": "",
       "published": "Fri, 21 Aug 2026 11:00:00 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +261,7 @@
       "summary": "iPlayer's most added watchlist pick",
       "author": "",
       "published": "Sun, 31 May 2026 05:00:00 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
@@ -261,67 +271,67 @@
       "summary": "One small ember can burn down everything. Dev Patel’s thriller steeped in mythology",
       "author": "",
       "published": "Thu, 20 Aug 2026 00:19:47 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "What will it take to stop the England hangovers?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss",
+      "title": "Watkins' departure would cut deepest - and Villa did not see it coming",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.",
+      "summary": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
       "author": "",
-      "published": "Sun, 23 Aug 2026 21:31:03 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 16:43:58 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Alonso 'always thinking' but Arbeloa becoming boss 'a surprise' - Benitez",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckge725zy1zo?at_medium=RSS&at_campaign=rss",
+      "title": "Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
+      "summary": "An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 06:59:58 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 16:07:06 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Boks drop Feinberg-Mngomezulu to bench for All Blacks rematch",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cg7k90y8j9no?at_medium=RSS&at_campaign=rss",
+      "title": "England drop Carse after nightclub incident",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sacha Feinberg-Mngomezulu pays for an indifferent showing in South Africa's series opener against New Zealand, as the fly-half drops to the Springbok bench.",
+      "summary": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan amid an ongoing investigation into an incident that led to him being briefly arrested.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 11:24:25 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 16:52:44 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fans suffer firework burns and eye injuries in Eredivisie",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr50n2d4rj0o?at_medium=RSS&at_campaign=rss",
+      "title": "Former world snooker champion Dott guilty of child sex abuse",
+      "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dutch side SC Cambuur says fans were left with \"burns, hearing damage and eye injuries\"  after Feyenoord supporters threw fireworks during Sunday's Eredivisie match.",
+      "summary": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 11:13:53 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 17:35:35 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "DeChambeau proud of what LIV has achieved",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2z9yl1gdno?at_medium=RSS&at_campaign=rss",
+      "title": "Does Elliott have a Liverpool future after latest omission?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bryson DeChambeau says he is \"proud\" of what LIV Golf has achieved with the breakaway league facing questions about its future following the final event of the season in Indianapolis.",
+      "summary": "Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 10:20:10 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 14:23:54 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mateta's contract claim leaves Palace with transfer decision",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz6465pj4njo?at_medium=RSS&at_campaign=rss",
+      "title": "McInnes could be in stand for first Old Firm game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c750nd2419ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Following a dispute over the length of his contract, will Jean-Philippe Mateta stay at Crystal Palace beyond the transfer window?",
+      "summary": "Derek McInnes could be in the stand for his first Old Firm match as Rangers manager after a hearing date of 31 August was set for his appeal against a touchline ban.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 08:06:26 GMT",
-      "fetched_at": "2026-08-24T12:27:29.091793+00:00"
+      "published": "Mon, 24 Aug 2026 14:15:19 GMT",
+      "fetched_at": "2026-08-24T18:25:10.589311+00:00"
     }
   ]
 }
