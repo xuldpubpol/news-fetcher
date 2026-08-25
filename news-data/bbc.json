@@ -1,17 +1,67 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-25T12:27:51.581313+00:00",
+  "fetched_at": "2026-08-25T18:24:20.539941+00:00",
   "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
-      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "title": "Dolly Parton: The country legend who sang from the heart",
+      "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 11:53:36 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 18:14:13 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Father's house rammed before son died in A66 crash",
+      "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 16:56:20 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 17:32:50 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 15:04:52 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 17:54:03 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
@@ -20,8 +70,8 @@
       "full_text": "",
       "summary": "Two women are also hurt and one remains in hospital in critical condition.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 11:52:31 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 16:06:56 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
@@ -31,97 +81,37 @@
       "summary": "The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday.",
       "author": "",
       "published": "Tue, 25 Aug 2026 10:06:04 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
-      "title": "Young people leaving care have death rate four times higher than national average",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&at_campaign=rss",
+      "title": "US judge rejects Ghislaine Maxwell's 'frivolous' appeal against conviction",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zrey17qno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Those leaving care have a death rate around four times higher than the general population, a new review reveals.",
+      "summary": "The former Jeffrey Epstein accomplice loses her latest effort to be released from prison.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 11:05:37 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 14:42:17 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
-      "title": "Moment tornado tears through southern France",
-      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "title": "Inspectors to assess police after Henry Nowak murder",
+      "link": "https://www.bbc.co.uk/news/articles/cly4w05x4p6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "summary": "Hampshire Police officers initially arrested the student and placed him in handcuffs as he lay dying.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 00:16:35 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 14:04:20 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
-      "title": "Boy, 3, injured in crocodile attack returns home from hospital",
-      "link": "https://www.bbc.co.uk/news/articles/c8d3pn5g764o?at_medium=RSS&at_campaign=rss",
+      "title": "Andrew Tate exaggerates and did not own supercars in photos, his lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c4grxr0e5gdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The boy's family say he is \"happy to be home\" after undergoing seven operations in hospital.",
+      "summary": "Prosecutors argue Tate and his brother Tristan are a flight risk and should not be released on bail.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 10:48:09 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Kate Hudson to make How to Lose a Guy in 10 Days sequel, 23 years on",
-      "link": "https://www.bbc.co.uk/news/articles/cpq0j81pv08o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hudson and Matthew McConaughey, her co-star from the 2003 rom-com, could be reunited for the sequel.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 11:46:12 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "OnlyFans owner was paid over $700m before his death",
-      "link": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The site hosts a range of subscription-based content from cooking to fitness videos, but it is best known for pornography.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 10:09:00 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 12:10:13 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham refuses to rule out tax rises in autumn Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 06:40:33 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 11:54:03 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russian stadium says it won't host Kanye West gigs",
-      "link": "https://www.bbc.co.uk/news/articles/c4gmvyzj5dgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Two planned concerts are thrown into doubt, but Russian promoters insist they will go ahead.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 08:43:56 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 14:38:57 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +121,27 @@
       "summary": "Caroline Bryan died three months after being diagnosed of an incurable cancer linked to asbestos.",
       "author": "",
       "published": "Tue, 25 Aug 2026 10:39:14 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
+      "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 12:37:53 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sir Billy Boston - 'the world-class athlete, whose story deserved to be told'",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c5yedegw3wpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Rugby league commentator Matt Newsum says Sir Billy Boston was a \"world-class athlete, whose story deserved to be told\".",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 11:46:37 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
@@ -141,17 +151,7 @@
       "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
       "author": "",
       "published": "Mon, 24 Aug 2026 22:13:20 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiralling trade dispute?",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 02:49:22 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
@@ -161,17 +161,7 @@
       "summary": "One man's death highlights the growing strains on the UK's coroner's courts",
       "author": "",
       "published": "Mon, 24 Aug 2026 23:09:16 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
-      "link": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 19:43:51 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +171,7 @@
       "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
       "author": "",
       "published": "Mon, 24 Aug 2026 23:04:17 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +181,57 @@
       "summary": "People on the food scene look at the rise of influencers and the role of social media in the industry.",
       "author": "",
       "published": "Tue, 25 Aug 2026 05:05:23 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Kate Hudson to make How to Lose a Guy in 10 Days sequel, 23 years on",
+      "link": "https://www.bbc.co.uk/news/articles/cpq0j81pv08o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Hudson and Matthew McConaughey, her co-star from the 2003 rom-com, could be reunited for the sequel.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 11:46:12 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Brain disease in dead NFL players 'higher than previously shown'",
+      "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 11:54:40 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England captain Joe Root says he is 'hacked off' and 'disappointed' at Brydon Carse incident",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c4g5z5p8w17o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England captain Joe Root says he is \"hacked off\" and \"disappointed\" at the incident involving fast bowler Brydon Carse at a Derby nightclub.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 13:48:54 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 15:18:50 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Boy, 3, injured in crocodile attack returns home from hospital",
+      "link": "https://www.bbc.co.uk/news/articles/c8d3pn5g764o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The boy's family say he is \"happy to be home\" after undergoing seven operations in hospital.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 10:48:09 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
@@ -201,47 +241,17 @@
       "summary": "Boston, born in Cardiff in 1934, became the first player in rugby league's 130-year history to receive a knighthood last year.",
       "author": "",
       "published": "Tue, 25 Aug 2026 09:24:51 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
-      "title": "Leeds and Rangers co-owner jailed after prostitution arrest",
-      "link": "https://www.bbc.co.uk/news/articles/c790wyyv71vo?at_medium=RSS&at_campaign=rss",
+      "title": "Moment tornado tears through southern France",
+      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jed York pleaded no contest to two charges in Ohio after being arrested for soliciting prostitution.",
+      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 10:55:25 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Millions of women who have missed cervical screening in England to be offered HPV home-testing kits",
-      "link": "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Nearly four million women in England can order a self-testing kits to check for high-risk HPV.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 23:27:50 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "£71m investment to reopen tungsten mine in Devon",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx3y111wdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Hemerdon mine in Devon will receive the money from the National Wealth Fund.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 11:18:28 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Historic' first as two osprey chicks born on Anglesey, experts say",
-      "link": "https://www.bbc.co.uk/news/articles/cz7z3ld5r44o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The chicks were born earlier this summer, and conservationists hope they'll return to Wales after migrating to west Africa",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 09:16:26 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 00:16:35 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
@@ -251,17 +261,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
-      "title": "What Is Andy Burnham's Missile Offer To Ukraine?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p62njt?at_medium=RSS&at_campaign=rss",
+      "title": "Is China Replacing Workers With Robots?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p64vd3?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Andy Burnham makes his first foreign trip as Prime Minister to Ukraine",
+      "summary": "And, is Prime Minister Andy Burnham fulfilling his council house building target?",
       "author": "",
-      "published": "Mon, 24 Aug 2026 16:05:00 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 15:39:00 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
@@ -271,67 +281,57 @@
       "summary": "Canadian Prime Minister Mark Carney says he will match US tariffs “dollar for dollar”.",
       "author": "",
       "published": "Mon, 24 Aug 2026 18:15:00 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
-      "title": "Legendary rugby league winger Boston dies aged 92",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cwy4zxypry7o?at_medium=RSS&at_campaign=rss",
+      "title": "Baleba completes £70m Man Utd move from Brighton",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1mv0rxpd1no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Rugby league legend Sir Billy Boston, one of the game's greatest try scorers, dies aged 92.",
+      "summary": "Manchester United sign Cameroon midfielder Carlos Baleba from Brighton in a £70m deal.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 09:24:51 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 15:55:56 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tottenham sign Savinho for £75m - what will he bring to club?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss",
+      "title": "Root 'hacked off' and 'disappointed' at Carse incident",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c4g5z5p8w17o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tottenham sign Brazil winger Savinho from Manchester City for an initial £75m.",
+      "summary": "England captain Joe Root says he is \"hacked off\" and \"disappointed\" at the incident involving fast bowler Brydon Carse at a Derby nightclub.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 09:14:39 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 13:48:54 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
-      "title": "Leeds and Rangers co-owner jailed after prostitution arrest",
-      "link": "https://www.bbc.co.uk/news/articles/c790wyyv71vo?at_medium=RSS&at_campaign=rss",
+      "title": "Forest agree £50m deal for Chelsea striker Delap",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4g5zg526gdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jed York pleaded no contest to two charges in Ohio after being arrested for soliciting prostitution.",
+      "summary": "Nottingham Forest have agreed a fee worth around £50m to sign Chelsea striker Liam Delap.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 10:55:25 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 18:06:53 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
-      "title": "What does your Premier League club still need in the transfer window?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o?at_medium=RSS&at_campaign=rss",
+      "title": "LIV returnees should 'eat humble pie' - Faldo",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/c3red51l4vxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport takes a look at what each of the Premier League clubs still need before the summer transfer window shuts in seven days.",
+      "summary": "Sir Nick Faldo says LIV golfers seeking a return to the DP World Tour may have to \"eat a bit of humble pie\" before regaining eligibility for the European-based circuit.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 08:40:20 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 14:26:12 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     },
     {
       "source": "bbc",
-      "title": "Punishment that sends shiver down whole England team needed - Vaughan",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o?at_medium=RSS&at_campaign=rss",
+      "title": "Man Utd's midfield spending is done - now for a left-back?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clykngy3gldo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.",
+      "summary": "After spending £155m on three midfielders, now Manchester United must decide whether to try to buy a left-back",
       "author": "",
-      "published": "Mon, 24 Aug 2026 22:42:38 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Are left-handers better and when will Root catch Tendulkar? Cricket Q&A",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwyz3qp1deno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Data analysts CricViz answer your questions on successful reviews, hat-tricks, Joe Root and more.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 11:24:44 GMT",
-      "fetched_at": "2026-08-25T12:27:48.127851+00:00"
+      "published": "Tue, 25 Aug 2026 16:03:24 GMT",
+      "fetched_at": "2026-08-25T18:24:17.910431+00:00"
     }
   ]
 }
