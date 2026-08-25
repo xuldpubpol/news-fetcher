@@ -1,77 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-25T00:40:52.817549+00:00",
+  "fetched_at": "2026-08-25T06:28:21.326993+00:00",
   "count": 37,
   "articles": [
     {
       "source": "bbc",
-      "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
-      "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 17:53:40 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How the deadly A66 crash unfolded leaving seven dead",
-      "link": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 16:55:42 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 17:29:59 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-      "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 22:13:20 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 23:48:25 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Tue, 25 Aug 2026 06:16:28 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
-      "title": "The grieving family who says the coroner's courts aren't working",
-      "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
+      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "One man's death highlights the growing strains on the UK's coroner's courts",
+      "summary": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 23:09:16 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
-      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 21:58:49 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Tue, 25 Aug 2026 05:41:08 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -81,37 +31,87 @@
       "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
       "author": "",
       "published": "Mon, 24 Aug 2026 22:13:36 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
-      "title": "70,000 social and affordable homes to be built across England as part of £39bn plan",
-      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+      "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 00:32:20 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Mon, 24 Aug 2026 22:13:20 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
-      "title": "Home-testing kits now available for women in England who have missed cervical screening",
+      "title": "The grieving family who say the coroner's courts aren't working",
+      "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "One man's death highlights the growing strains on the UK's coroner's courts",
+      "author": "",
+      "published": "Mon, 24 Aug 2026 23:09:16 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 04:06:34 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
+      "author": "",
+      "published": "Mon, 24 Aug 2026 21:58:49 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+      "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 05:52:21 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "HPV home-testing kits available for women in England who have missed cervical screening",
       "link": "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nearly 4 million women in England can order a self-testing kits to check for high-risk HPV.",
+      "summary": "Nearly four million women in England can order a self-testing kits to check for high-risk HPV.",
       "author": "",
       "published": "Mon, 24 Aug 2026 23:27:50 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
-      "title": "Briton fighting for Russia killed in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zry1zk9go?at_medium=RSS&at_campaign=rss",
+      "title": "Moment tornado tears through southern France",
+      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bradley Townsend left South Yorkshire in April, telling his family he was going to Romania.",
+      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 16:17:54 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Tue, 25 Aug 2026 00:16:35 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 00:17:25 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -120,8 +120,8 @@
       "full_text": "",
       "summary": "The cycling legend tells BBC Scotland that the onus to encourage men to get tested for prostate cancer should not just be on high profile individuals like him.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 23:39:36 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Tue, 25 Aug 2026 05:24:54 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -130,38 +130,8 @@
       "full_text": "",
       "summary": "Caroline Bryan died three months after being diagnosed of an incurable cancer linked to asbestos.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 21:20:44 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-      "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 23:04:17 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
-      "link": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 19:43:51 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'Burnham hints at tax increases' and 'Halt the hellrides'",
-      "link": "https://www.bbc.co.uk/news/articles/cgk5yz1zl31o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Several of the papers are calling on social media platforms to stop the sharing of videos posted by joyriders.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 22:57:23 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Tue, 25 Aug 2026 05:09:12 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +141,37 @@
       "summary": "At least one of the young people killed in the crash appears in videos posted on TikTok showing dangerous driving.",
       "author": "",
       "published": "Mon, 24 Aug 2026 19:42:47 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+      "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
+      "author": "",
+      "published": "Mon, 24 Aug 2026 23:04:17 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
+      "link": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
+      "author": "",
+      "published": "Mon, 24 Aug 2026 19:43:51 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'Burnham hints at tax increases' and 'Halt the hellrides'",
+      "link": "https://www.bbc.co.uk/news/articles/cgk5yz1zl31o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Several of the papers are calling on social media platforms to stop the sharing of videos posted by joyriders.",
+      "author": "",
+      "published": "Mon, 24 Aug 2026 22:57:23 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -181,77 +181,77 @@
       "summary": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
       "author": "",
       "published": "Mon, 24 Aug 2026 05:00:22 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
-      "title": "Prince Harry steps down from African wildlife charity board",
-      "link": "https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&at_campaign=rss",
+      "title": "New 10p coin enters circulation - will you spot one?",
+      "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Last year the organisation African Parks  admitted human rights abuses were committed by its rangers in Congo-Brazzaville.",
+      "summary": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 15:28:06 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Mon, 24 Aug 2026 23:03:42 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
-      "title": "World's oceans hit highest temperature on record as El Niño grows",
-      "link": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham refuses to rule out tax rises in autumn Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
+      "summary": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 16:27:28 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Tue, 25 Aug 2026 01:35:47 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
-      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-      "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
+      "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 15:14:14 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Tue, 25 Aug 2026 02:08:57 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
-      "title": "Police pass Mohamed Al Fayed case file to prosecutors",
-      "link": "https://www.bbc.co.uk/news/articles/cz6zx0njdywo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Crown Prosecution Service will review evidence relating to a man in his 80s gathered by police investigating allegations against the late Harrods owner.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 19:16:10 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
       "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
       "author": "",
-      "published": "Tue, 25 Aug 2026 00:25:52 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Tue, 25 Aug 2026 02:51:53 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
-      "title": "Teenager arrested after four viable devices found in security alert",
+      "title": "Songs created by AI banned from Australia's music charts",
+      "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 04:54:01 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fast-moving wildfire forces thousands to evacuate near Reno, Nevada",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Firefighters are still working to contain the blaze, which has burned 15,000 acres and injured seven people, officials say.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 01:06:18 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Boy,16, arrested after four viable devices found in security alert",
       "link": "https://www.bbc.co.uk/news/articles/cj64282epxpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Police said four viable explosive devices were found and removed from the property for forensic examination.",
       "author": "",
       "published": "Mon, 24 Aug 2026 20:57:02 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The fire has burned around 15,000 acres and is completely uncontained, officials say.",
-      "author": "",
-      "published": "Mon, 24 Aug 2026 17:42:33 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "Andy Burnham makes his first foreign trip as Prime Minister to Ukraine",
       "author": "",
       "published": "Mon, 24 Aug 2026 16:05:00 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +281,7 @@
       "summary": "Canadian Prime Minister Mark Carney says he will match US tariffs “dollar for dollar”.",
       "author": "",
       "published": "Mon, 24 Aug 2026 18:15:00 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +291,7 @@
       "summary": "iPlayer's most added watchlist pick",
       "author": "",
       "published": "Sun, 31 May 2026 05:00:00 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +301,7 @@
       "summary": "One small ember can burn down everything. Dev Patel’s thriller steeped in mythology",
       "author": "",
       "published": "Thu, 20 Aug 2026 00:19:47 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +311,7 @@
       "summary": "While Chelsea's front three produced a sparkling display in their win over Fulham, goalkeeper Robert Sanchez remains a major concern.",
       "author": "",
       "published": "Mon, 24 Aug 2026 22:54:36 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -321,7 +321,7 @@
       "summary": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
       "author": "",
       "published": "Mon, 24 Aug 2026 16:43:58 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -331,7 +331,7 @@
       "summary": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.",
       "author": "",
       "published": "Mon, 24 Aug 2026 22:42:38 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -341,7 +341,7 @@
       "summary": "Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.",
       "author": "",
       "published": "Mon, 24 Aug 2026 21:53:24 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -351,7 +351,7 @@
       "summary": "Heather Watson is among the British winners in the first round of US Open qualifying as she bids for a first New York main-drawn appearance in five years.",
       "author": "",
       "published": "Mon, 24 Aug 2026 23:11:21 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
@@ -361,17 +361,17 @@
       "summary": "An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal.",
       "author": "",
       "published": "Mon, 24 Aug 2026 16:07:06 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hodgkinson withdraws from Zurich Diamond League",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo?at_medium=RSS&at_campaign=rss",
+      "title": "Grealish back for Man City - but for how long?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy0znx93x05o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Keely Hodgkinson withdraws from the women's 800 metres at Thursday's Diamond League meeting in Zurich because her \"body is not quite ready\".",
+      "summary": "Man City winger has made two substitute appearances so far this season, but his future remains in doubt.",
       "author": "",
-      "published": "Mon, 24 Aug 2026 20:02:06 GMT",
-      "fetched_at": "2026-08-25T00:40:46.376591+00:00"
+      "published": "Tue, 25 Aug 2026 06:09:10 GMT",
+      "fetched_at": "2026-08-25T06:28:18.074127+00:00"
     }
   ]
 }
