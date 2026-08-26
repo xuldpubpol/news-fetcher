@@ -1,47 +1,47 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-26T00:41:43.259390+00:00",
-  "count": 34,
+  "fetched_at": "2026-08-26T06:30:52.081173+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "Dolly Parton: The life of an iconic country singer",
-      "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+      "title": "How Dolly Parton told her life story through six iconic songs",
+      "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+      "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 18:27:22 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "published": "Tue, 25 Aug 2026 23:43:13 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Father's house rammed before son died in A66 crash",
-      "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 17:30:40 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 19:48:14 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Winter energy prices expected to rise to three-year high",
+      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
       "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+      "summary": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 23:07:29 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "published": "Wed, 26 Aug 2026 06:24:42 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+      "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 04:07:48 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+      "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 05:14:12 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -51,7 +51,7 @@
       "summary": "Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes",
       "author": "",
       "published": "Tue, 25 Aug 2026 23:13:34 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -61,27 +61,17 @@
       "summary": "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks",
       "author": "",
       "published": "Tue, 25 Aug 2026 23:11:15 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 19:50:57 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man dies in crash after police pursuit",
-      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Two women are also hurt and one remains in hospital in critical condition.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 19:39:44 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "published": "Tue, 25 Aug 2026 19:48:14 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -91,7 +81,17 @@
       "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
       "author": "",
       "published": "Tue, 25 Aug 2026 23:50:53 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Father's house rammed before son died in A66 crash",
+      "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -101,27 +101,17 @@
       "summary": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
       "author": "",
       "published": "Tue, 25 Aug 2026 23:40:38 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Life of the music legend whose songs touched millions",
-      "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "title": "Elton John, Oprah Winfrey and Paul McCartney pay tribute",
+      "link": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
+      "summary": "The tributes have included artists across musical genres, fans from all generations and politicians from all spectrum sharing their love for the country icon.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 18:14:13 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Dolly Parton told her story through six iconic songs",
-      "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 23:43:13 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "published": "Wed, 26 Aug 2026 05:13:39 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -131,17 +121,27 @@
       "summary": "The singer rose from humble beginnings to become one of the most beloved entertainers in the world.",
       "author": "",
       "published": "Tue, 25 Aug 2026 18:34:05 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
-      "title": "'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview",
-      "link": "https://www.bbc.co.uk/news/videos/c20ljj1e9z5o?at_medium=RSS&at_campaign=rss",
+      "title": "Life of the music legend whose songs touched millions",
+      "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The singer spoke candidly about her childhood in rural Tennessee, her family's poverty, and the determination that helped her rise to international stardom.",
+      "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 20:31:20 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "published": "Tue, 25 Aug 2026 18:14:13 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "BBC at Dolly Parton's Hollywood star as fans gather",
+      "link": "https://www.bbc.co.uk/news/videos/c8d3j9ryg3mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC's LA correspondent Shaimaa Khalil spoke to fans gathered to mourn the country music star at her Hollywood Walk of Fame star on Tuesday evening.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 03:37:18 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -151,57 +151,27 @@
       "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
       "author": "",
       "published": "Tue, 25 Aug 2026 23:41:13 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Back to school: How to save on uniform costs",
+      "title": "Back to school: How parents can save on costs as the new term starts",
       "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
       "author": "",
       "published": "Tue, 25 Aug 2026 23:08:31 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 15:04:52 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Toxic waste sites exposed in Michael Sheen documentary 'tip of the iceberg'",
+      "title": "Toxic waste sites exposed in Michael Sheen documentary are 'tip of the iceberg'",
       "link": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "One scientist says there are thousands of sites across the UK that need investigating.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 21:53:24 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'We will always love you, Dolly'",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxnn50yero?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The death of country music legend and philanthropist Dolly Parton at aged 80 dominates Wednesday's papers.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 22:35:45 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
-      "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 12:37:53 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "published": "Wed, 26 Aug 2026 05:14:36 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +181,17 @@
       "summary": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
       "author": "",
       "published": "Tue, 25 Aug 2026 22:37:50 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'We will always love you, Dolly'",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxnn50yero?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The death of country music legend and philanthropist Dolly Parton at aged 80 dominates Wednesday's papers.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 04:26:08 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +201,37 @@
       "summary": "Hudson and Matthew McConaughey, her co-star from the 2003 rom-com, could be reunited for the sequel.",
       "author": "",
       "published": "Tue, 25 Aug 2026 11:46:12 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Libyan cleared after Lockerbie bombing trial dies aged 70",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 06:21:14 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 19:50:57 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man dies in crash after police pursuit",
+      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Two women are also hurt and one remains in hospital in critical condition.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 19:39:44 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -231,37 +241,7 @@
       "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
       "author": "",
       "published": "Tue, 25 Aug 2026 21:23:41 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US judge rejects Ghislaine Maxwell's 'frivolous' appeal against conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zrey17qno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The former Jeffrey Epstein accomplice loses her latest effort to be released from prison.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 14:42:17 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Several thousand migrants remain in the enclave after a mass crossing from Morocco in late July.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 19:11:40 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Brain disease in dead NFL players 'higher than previously shown'",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 11:54:40 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +251,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +261,7 @@
       "summary": "And, is Prime Minister Andy Burnham fulfilling his council house building target?",
       "author": "",
       "published": "Tue, 25 Aug 2026 15:39:00 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -291,17 +271,17 @@
       "summary": "Canadian Prime Minister Mark Carney says he will match US tariffs “dollar for dollar”.",
       "author": "",
       "published": "Mon, 24 Aug 2026 18:15:00 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
-      "title": "O'Neill takes responsibility with nowhere to hide for Celtic",
+      "title": "O'Neill takes responsibility after Celtic's latest European capitulation",
       "link": "https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Celtic manager Martin O'Neill says his team have a \"million miles to go\" after defeat in Austria.",
+      "summary": "Celtic throw away a four-goal aggregate lead as they suffer a 5-4 defeat by Austrian side LASK to miss out on the Champions League for the second year in a row.",
       "author": "",
       "published": "Tue, 25 Aug 2026 23:35:46 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -311,17 +291,17 @@
       "summary": "Serena Williams and Carlos Alcaraz were among the star double-acts in New York as the US Open mixed doubles competition got under way on Tuesday.",
       "author": "",
       "published": "Tue, 25 Aug 2026 23:25:29 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man Utd's midfield spending is done - now for a left-back?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clykngy3gldo?at_medium=RSS&at_campaign=rss",
+      "title": "Liverpool's midfield is fragile - will they act in the window?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zgzydd16o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "After spending £155m on three midfielders, now Manchester United must decide whether to try to buy a left-back",
+      "summary": "Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?",
       "author": "",
-      "published": "Tue, 25 Aug 2026 16:03:24 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "published": "Wed, 26 Aug 2026 06:04:34 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
@@ -331,17 +311,27 @@
       "summary": "Nottingham Forest have agreed a fee worth around £50m to sign Chelsea striker Liam Delap.",
       "author": "",
       "published": "Tue, 25 Aug 2026 18:06:53 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     },
     {
       "source": "bbc",
-      "title": "Littler's Players Championship hopes dented",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/c36ln69p1ldo?at_medium=RSS&at_campaign=rss",
+      "title": "Is Joao Pedro ready to break Chelsea's so-called number nine curse?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Luke Littler loses to Jermaine Wattimena in the quarter-finals of the 27th Players Championship contest of the year.",
+      "summary": "Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
       "author": "",
-      "published": "Tue, 25 Aug 2026 18:33:00 GMT",
-      "fetched_at": "2026-08-26T00:41:41.642341+00:00"
+      "published": "Wed, 26 Aug 2026 05:41:12 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "PGA Tour play-off shake-up a 'big swing' - McIlroy",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cm2q4n5r98mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Back-to-back Masters champion Rory McIlroy believes the PGA Tour are giving fans what they want by changing their end-of-season play-offs to matchplay.",
+      "author": "",
+      "published": "Tue, 25 Aug 2026 19:47:13 GMT",
+      "fetched_at": "2026-08-26T06:30:47.696239+00:00"
     }
   ]
 }
