@@ -1,107 +1,57 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-26T12:30:57.434878+00:00",
-  "count": 37,
+  "fetched_at": "2026-08-26T19:34:41.482819+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
-      "title": "Murder probe as two people dead in house fire in Middlesbrough",
-      "link": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
+      "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+      "link": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough.",
+      "summary": "This video has been edited by the BBC with white flashes, due to the distressing content.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 12:21:25 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 12:36:04 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Prince Harry and Meghan land in UK",
+      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+      "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 17:44:39 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rocky Horror star Tim Curry dies at 80",
+      "link": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 17:34:57 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Murder arrests after fire kills two including child near Middlesbrough",
+      "link": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 16:39:37 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Prince Harry and Meghan land in UK days after announcing move",
       "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 12:07:32 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
-      "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 18:27:22 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
-      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
-      "author": "",
-      "published": "Wed, 26 Aug 2026 10:29:36 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ex-chief constable investigated over ban on Israeli Maccabi Tel Aviv fans",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xe813w1do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Craig Guildford, three police officers and a staff member face IOPC investigation.",
-      "author": "",
-      "published": "Wed, 26 Aug 2026 12:29:30 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
-      "author": "",
-      "published": "Wed, 26 Aug 2026 11:03:50 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
-      "author": "",
-      "published": "Wed, 26 Aug 2026 11:55:05 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
-      "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 23:13:34 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "CIA chief met Russian intelligence services but not Putin, Kremlin says",
-      "link": "https://www.bbc.co.uk/news/articles/c0klj7ykp81o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "John Ratcliffe travelled to the Russian capital on Tuesday in a rare and unannounced visit.",
-      "author": "",
-      "published": "Wed, 26 Aug 2026 11:27:27 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Major Scottish gangland figure Steven Daniel arrested in organised crime raid",
-      "link": "https://www.bbc.co.uk/news/articles/c17jl59zg2ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Steven 'Bonzo' Daniel was arrested on Wednesday at his home in the north of Glasgow.",
-      "author": "",
-      "published": "Wed, 26 Aug 2026 07:00:53 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 18:44:54 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +61,57 @@
       "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
       "author": "",
       "published": "Wed, 26 Aug 2026 11:32:11 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "New thunderstorm warnings for parts of UK as rain set to continue",
+      "link": "https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Met Office has issued fresh thunderstorm warnings for Thursday with the potential for England and Wales to see flash flooding as the unsettled weather continues.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 19:15:35 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Stourbridge fires that razed 19 homes were accidental, say investigators",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye3ld87y1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Investigators say the fires started accidentally in fields where farming machinery was being used.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 15:34:52 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US designates Palestine Action a terrorist group",
+      "link": "https://www.bbc.co.uk/news/articles/cn4kzd7k2nvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Supporting Palestine Action became illegal in the UK in 2025 after the government banned it under anti-terror legislation.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 18:41:50 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Portrait of Ann Widdecombe put up in Parliament for MPs' return",
+      "link": "https://www.bbc.co.uk/news/articles/czdz1r1z17zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The framed photograph forms part of work by MPs to install a permament memorial for the former minister.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 16:40:59 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rupert Grint to return to Harry Potter in Broadway play",
+      "link": "https://www.bbc.co.uk/news/articles/c20vmp1v3rdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Grint, now 38, will play his character as an adult in the Harry Potter spin-off play in New York.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 15:14:24 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
@@ -121,57 +121,77 @@
       "summary": "The late singer-songwriter's charity causes were as eclectic as her music, but she had a personal connection to each one.",
       "author": "",
       "published": "Wed, 26 Aug 2026 12:11:43 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "'If you want the rainbow, you gotta put up with the rain': The singer's wit and wisdom",
-      "link": "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
+      "title": "How Dolly Parton became a fashion icon",
+      "link": "https://www.bbc.co.uk/news/videos/cy7z8pz25k8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The much-loved country singer-songwriter in her own words, following her death aged 80.",
+      "summary": "Culture correspondent Noor Nanji explores how the country legend's signature style helped her take over the world.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 08:42:55 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 14:24:43 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Taylor Swift and Beyoncé lead tributes after death of 'bold and brilliant' Dolly Parton",
+      "title": "Miley Cyrus pays tribute to godmother Dolly Parton - now ‘an angel by my side'",
       "link": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tributes pour in from across the worlds of music, film and politics for the star, who has died at 80.",
+      "summary": "Tributes pour in from across the worlds of music, film and politics for the star, who  died at the age of 80.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 10:37:39 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 17:26:12 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
-      "link": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo?at_medium=RSS&at_campaign=rss",
+      "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
+      "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
+      "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 23:41:13 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "How parents can save on costs as the new school year starts",
-      "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+      "title": "We saw signs of domestic abuse, but we didn't know how to protect Stacy",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjdwryq5wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
+      "summary": "Stacy Hunter was killed by her estranged husband weeks after he was released on bail - her family wish the authorities had intervened further.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 23:08:31 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 15:39:49 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+      "title": "The life of Rocky Horror star Tim Curry",
+      "link": "https://www.bbc.co.uk/news/videos/cd79xzyplnno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
+      "summary": "English actor Tim Curry, best known for playing the outlandish Frank-N-Furter in film musical The Rocky Horror Picture Show, has died at the age of 80.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 23:50:53 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 18:19:32 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Hundreds are feared to have died in flooding and landslides on the border of Nepal and Tibet.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 17:59:52 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Xbox boss 'thinking about affordability' of next-gen console",
+      "link": "https://www.bbc.co.uk/news/articles/c17jlngexy9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In an exclusive interview with the BBC, Asha Sharma also discusses giving gamers digital versions of games they own.",
+      "author": "",
+      "published": "Wed, 26 Aug 2026 15:38:49 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
@@ -181,107 +201,77 @@
       "summary": "The government is under pressure to support billpayers when domestic energy prices predicted to rise further.",
       "author": "",
       "published": "Wed, 26 Aug 2026 10:10:33 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Alcaraz and Williams thrill in US Open mixed doubles",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cn5drv06w2ro?at_medium=RSS&at_campaign=rss",
+      "title": "Funeral held for renowned Palestinian artist Sliman Mansour",
+      "link": "https://www.bbc.co.uk/news/articles/c8xker87k7do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Serena Williams and Carlos Alcaraz were among the star double-acts in New York as the US Open mixed doubles competition got under way on Tuesday.",
+      "summary": "The 79-year-old was best known for paintings depicting the Palestinian landscape and cultural scenes featuring Palestinian symbols of identity.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 09:11:11 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 16:58:36 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Canada's retaliation tests the limit of American power under Trump",
-      "link": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
+      "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 08:47:18 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 14:42:03 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
-      "link": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o?at_medium=RSS&at_campaign=rss",
+      "title": "King and Queen to visit the Caribbean in autumn tour",
+      "link": "https://www.bbc.co.uk/news/articles/cddv4mn0d6po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
+      "summary": "The eight-day visit will see the royal pair travel to Antigua before King Charles travels to the Bahamas and Guyana.",
       "author": "",
-      "published": "Tue, 25 Aug 2026 22:37:50 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 14:14:43 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
-      "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+      "title": "Maura Higgins to fill Cilla Black's shoes as host of Blind Date reboot",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4knr4xn0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks.",
+      "summary": "The Love Island and Traitors US TV personality will host a reboot of the popular dating show.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 09:28:03 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 15:29:53 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "title": "Inquest begins into death of Jason Arday",
+      "link": "https://www.bbc.co.uk/news/articles/cjdv5y220keo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+      "summary": "Dr Julian Morris Morris said he had \"reason to suspect that Professor Arday died an unnatural death\".",
       "author": "",
-      "published": "Wed, 26 Aug 2026 11:02:22 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 14:15:48 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ex-England footballer Sterling charged with dangerous driving after crashing Lamborghini",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c23xkk1vkkpo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+      "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Raheem Sterling will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.",
+      "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 07:42:51 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 15:42:45 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
-      "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+      "title": "Olympic champion Liu announces break from competition",
+      "link": "https://www.bbc.co.uk/sport/articles/c2e0kp7r19no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
+      "summary": "Women's Olympic figure skating champion Alysa Liu confirms that she will not compete during the 2026-27 season.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 05:14:12 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Nicotine vapes better than gum or patches for quitting smoking, major review finds",
-      "link": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
-      "author": "",
-      "published": "Tue, 25 Aug 2026 23:40:38 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
-      "author": "",
-      "published": "Wed, 26 Aug 2026 08:01:56 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "NHS failing child sexual abuse victims in adulthood, say psychiatrists",
-      "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
-      "author": "",
-      "published": "Wed, 26 Aug 2026 04:07:48 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 16:25:34 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
@@ -291,17 +281,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Is China Replacing Workers With Robots?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p64vd3?at_medium=RSS&at_campaign=rss",
+      "title": "Prince Harry and Meghan Land In The UK",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p64vdw?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "And, is Prime Minister Andy Burnham fulfilling his council house building target?",
+      "summary": "What will Prince Harry and Meghan’s new life in the Cotswolds look like?",
       "author": "",
-      "published": "Tue, 25 Aug 2026 15:39:00 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 16:27:00 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
@@ -311,67 +301,47 @@
       "summary": "Creating an icon. How a girl from the Smoky Mountains conquered Nashville – and the world",
       "author": "",
       "published": "Tue, 31 Mar 2026 05:00:00 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man City complete £86m Bouaddi signing from Lille",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss",
+      "title": "Liverpool turn attention to Sarr after Brighton reject Minteh bids",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr7d5m4d928o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a £85.6m deal on a five-year contract.",
+      "summary": "Liverpool are exploring a move for Crystal Palace's Ismaila Sarr after Brighton reject their two bids for Yankuba Minteh.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 10:30:52 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 15:42:13 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Root's message has '100%' landed, says Tongue",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cdj4e277vwxo?at_medium=RSS&at_campaign=rss",
+      "title": "Littler suffers another setback with semi-final exit at PC28",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/clyj5xzzvdlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fast bowler Josh Tongue said captain Joe Root’s message to the England players about their off-field behaviour has “100%” been heeded.",
+      "summary": "Luke Littler's hopes of qualifying for the Players Championship finals suffers another setback as he is beaten by Brendan Dolan in the semi-finals of PC28 in Leicester.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 11:45:58 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 18:51:26 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man City to make offer for £120m-rated Fernandez",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgewvygeq8vo?at_medium=RSS&at_campaign=rss",
+      "title": "Newcastle sign Gonzalez from Man City for £52m",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City are set to make an opening offer for priority midfield target Enzo Fernandez.",
+      "summary": "Newcastle United sign Manchester City midfielder Nico Gonzalez for a fee which could rise to £52m.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 09:55:42 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 18:35:30 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sterling charged with dangerous driving after crash",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c23xkk1vkkpo?at_medium=RSS&at_campaign=rss",
+      "title": "'0% chance' - Atletico hit back at Barca over Alvarez transfer row",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c87v0y2x8wro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Raheem Sterling will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.",
+      "summary": "Barcelona have again restated their desire to sign Julian Alvarez, prompting another angry response from Atletico Madrid.",
       "author": "",
-      "published": "Wed, 26 Aug 2026 07:42:51 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Celtic deficiencies laid bare on another night of Champions League pain",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "When Callum McGregor eviscerated his own team-mates in the wake of Celtic's stupefying Champions League collapse against LASK, he delivered their one coherent moment of a spineless night, writes Tom English.",
-      "author": "",
-      "published": "Wed, 26 Aug 2026 06:52:56 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Postecoglou subs off Ronaldo to spark dramatic Al-Nassr comeback",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62kd8027w1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Cristiano Ronaldo is taken off at half-time with his 10-man Al-Nassr side 2-0 down - but they fight back to seal a dramatic win over Al-Ettifaq.",
-      "author": "",
-      "published": "Wed, 26 Aug 2026 10:33:42 GMT",
-      "fetched_at": "2026-08-26T12:30:55.781195+00:00"
+      "published": "Wed, 26 Aug 2026 16:23:04 GMT",
+      "fetched_at": "2026-08-26T19:34:39.917436+00:00"
     }
   ]
 }
