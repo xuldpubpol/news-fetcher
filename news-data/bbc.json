@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-29T01:19:00.886511+00:00",
-  "count": 40,
+  "fetched_at": "2026-08-29T11:58:06.808101+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
@@ -11,7 +11,47 @@
       "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
       "author": "",
       "published": "Fri, 28 Aug 2026 21:17:54 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Christian festival 'devastated' as man dies after sign falls",
+      "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 11:22:48 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 10:31:18 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
+      "link": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 10:43:25 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "We helped create UK emergency alert system - but question how government is using it",
+      "link": "https://www.bbc.co.uk/news/articles/ckgw7xj698lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Millions across England and Wales received a wildfire alert on their phones earlier this month, but it partly backfired.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 01:37:08 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
@@ -20,108 +60,8 @@
       "full_text": "",
       "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
       "author": "",
-      "published": "Fri, 28 Aug 2026 22:05:41 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man dies and at least six injured after sign falls at Christian festival",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 21:41:12 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 00:32:17 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 00:56:19 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The race to stop England running out of water",
-      "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 00:46:00 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'It's destroying our town': Residents tell of concern after violent incidents near Middlesbrough",
-      "link": "https://www.bbc.co.uk/news/videos/cx2zdvlqw8yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Residents near Middlesbrough have told the BBC of their concern after a spate of violent incidents in their area.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 21:03:38 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 00:25:07 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
-      "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 00:53:13 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Wife of man who died after turbulence sues Singapore Airlines",
-      "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 17:47:00 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mountain of broken fridges growing across England and Wales",
-      "link": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "This year's multiple heat waves have increased the numbers of fridges and freezers breaking down.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 00:51:02 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-      "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 10:35:06 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
@@ -131,97 +71,7 @@
       "summary": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
       "author": "",
       "published": "Fri, 28 Aug 2026 17:36:54 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "This Indian pilgrim was about to enter Tibet for her dream tour - then her WhatsApp messages stopped",
-      "link": "https://www.bbc.co.uk/news/articles/c70d41g40njo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Her family is among hundreds anxiously waiting for news after the deadly flash floods.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 09:31:42 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Videos show people survive floodwaters on balcony in Nepal",
-      "link": "https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Verify has located several videos from disaster-struck areas of the Trishuli river after deadly floods swept through.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 17:32:02 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Charli XCX electrifies Reading Festival with era-spanning set",
-      "link": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 23:34:34 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sweetcorn ice creams and pastries: The latest 'swavoury' trend taking over your feed",
-      "link": "https://www.bbc.co.uk/news/articles/c4gdvvp07dzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "From lattes to pastries, UK foodies are embracing the humble sweetcorn as more than a pizza topping.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 01:13:14 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
-      "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 00:35:04 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 19:05:23 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Healey to defer defence spend target' and 'Fergie's coming home'",
-      "link": "https://www.bbc.co.uk/news/articles/cgl74j7jdlno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Several papers focus on the UK defence spending targets and Chancellor John Healey's plans to shelve his target.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 23:53:01 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Division, drama and power - what next for Infantino and Uefa?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Explosive court documents reveal the growing bitterness of Uefa's feud with Fifa president Gianni Infantino, Dan Roan reports.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 15:00:20 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What we know after the big Grand Theft Auto 6 preview",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The official look at the blockbuster video game leaves fans and critics impressed.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 11:04:11 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +81,117 @@
       "summary": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
       "author": "",
       "published": "Fri, 28 Aug 2026 19:21:57 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
+      "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.",
+      "author": "",
+      "published": "Fri, 28 Aug 2026 10:35:06 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 00:32:17 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How one of the 'most powerful hacks' to control stress actually works",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5jqly153o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "We spoke to experts about how the breathing technique used by soldiers and influencers works.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 01:24:36 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The race to stop England running out of water",
+      "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 00:46:00 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Charli XCX electrifies Reading Festival with era-spanning set",
+      "link": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026.",
+      "author": "",
+      "published": "Fri, 28 Aug 2026 23:34:34 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sweetcorn ice creams and pastries: The latest 'swavoury' trend taking over your feed",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdvvp07dzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "From lattes to pastries, UK foodies are embracing the humble sweetcorn as more than a pizza topping.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 01:13:14 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "An investigation has been launched into whether ammunition was being stored at the site.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 11:53:37 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 10:51:21 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Wales NHS gender surgeries paused for review into referral numbers",
+      "link": "https://www.bbc.co.uk/news/articles/c23xvv42rp1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Data suggests \"significantly higher\" rates of referral for gender-affirming surgery compared with English services, according to the health board.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 11:38:45 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 02:42:27 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 01:14:13 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
@@ -241,57 +201,57 @@
       "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
       "author": "",
       "published": "Sat, 29 Aug 2026 00:46:02 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
-      "title": "Paul Heaton scores first number one album as Dolly Parton's 9 to 5 finally reaches top 40",
-      "link": "https://www.bbc.co.uk/news/articles/c8d3ml106j8o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Heaton's solo album tops the chart, while Parton's 1980 US hit reaches the UK top 40 at last.",
+      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
       "author": "",
-      "published": "Fri, 28 Aug 2026 16:48:36 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "published": "Sat, 29 Aug 2026 07:11:04 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-      "link": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+      "title": "How to get £2,000 to play computer games at university",
+      "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
+      "summary": "Roehampton University offers students a year;y scholarship to play esports alongside their studies.",
       "author": "",
-      "published": "Fri, 28 Aug 2026 14:06:13 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "published": "Sun, 23 Aug 2026 23:23:55 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
-      "title": "Norway's 'grandfather': King Harald remembered as son Haakon takes the throne",
-      "link": "https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss",
+      "title": "Man tracks down siblings who sent him Christmas present as he fled war 33 years ago",
+      "link": "https://www.bbc.co.uk/news/articles/c3w08px9v6do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Norwegians paid their respects to the late King Harld after his death on Friday morning.",
+      "summary": "Dalibor Sentic was 10 when in the early 1990s his family fled Croatia for Sweden.",
       "author": "",
-      "published": "Fri, 28 Aug 2026 18:11:13 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "published": "Fri, 21 Aug 2026 21:31:03 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+      "title": "'Keep walking': 100-year-old still does mile a day",
+      "link": "https://www.bbc.co.uk/news/articles/cdj0v1dr8pxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
+      "summary": "Peter Byers says he walks into Pocklington town centre \"to make sure people know I'm still alive\".",
       "author": "",
-      "published": "Fri, 28 Aug 2026 16:30:59 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "published": "Fri, 21 Aug 2026 05:02:44 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
-      "title": "Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says",
-      "link": "https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss",
+      "title": "How a seaside town realised it needed public loos",
+      "link": "https://www.bbc.co.uk/news/articles/c2el8kkz1xxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Police now say they are not currently linking a deadly crash on the A66 to a fatal house fire.",
+      "summary": "Eastbourne Borough Council did not install the first public toilets for ladies until 1900.",
       "author": "",
-      "published": "Fri, 28 Aug 2026 19:38:35 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "published": "Sun, 23 Aug 2026 06:19:23 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +271,7 @@
       "summary": "And, did CIA chief travel to Moscow to warn Putin against attacking Nato?",
       "author": "",
       "published": "Fri, 28 Aug 2026 15:21:00 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
@@ -321,7 +281,7 @@
       "summary": "And, America says goodbye to musical icon Dolly Parton.",
       "author": "",
       "published": "Wed, 26 Aug 2026 17:14:00 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
@@ -331,77 +291,47 @@
       "summary": "BBC Sport travels to Nuuk for the Greenlandic Football Championship.",
       "author": "",
       "published": "Sat, 06 Sep 2025 12:59:59 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
-      "title": "A magician and a maverick - this could be Cherki's moment for Man City",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
+      "title": "Liverpool agree £123m deal for PSG's Barcola",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
+      "summary": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future.",
       "author": "",
-      "published": "Fri, 28 Aug 2026 22:56:42 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "published": "Sat, 29 Aug 2026 08:03:53 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
-      "title": "How England are building an attack to trouble Australia",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o?at_medium=RSS&at_campaign=rss",
+      "title": "Slow start makes me want to stay - Norris extends McLaren deal to 2030",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cj06j11ej4lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?",
+      "summary": "In an exclusive BBC Sport interview, Lando Norris explains why he has signed a new contract that will keep him at McLaren until at least the end of 2030.",
       "author": "",
-      "published": "Fri, 28 Aug 2026 19:11:13 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "published": "Sat, 29 Aug 2026 09:52:52 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
-      "title": "More British athletes convicted in connection with Baptiste case",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo?at_medium=RSS&at_campaign=rss",
+      "title": "Forest to bid £40m for Everton teenager Armstrong",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport reveals that Will Sharman, Richard Sharman and Lamin Deen were also convicted in the case which led to Leon Baptiste's imprisonment.",
+      "summary": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.",
       "author": "",
-      "published": "Fri, 28 Aug 2026 17:54:59 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "published": "Sat, 29 Aug 2026 11:43:43 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     },
     {
       "source": "bbc",
-      "title": "Cherki genius and Wharton excels -  Palace v Man City player ratings",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
-      "summary": "How Crystal Palace and Manchester City's players rated following their Premier League match.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 21:01:24 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sarfaraz denies knowing about Pakistan threat to end tour",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo?at_medium=RSS&at_campaign=rss",
+      "title": "Cannabis smell at US Open is distracting - Boulter",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c74exxnd7r3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Head coach Sarfaraz Ahmed says he and his players did not know about a Pakistan Cricket Board threat to the England and Wales Cricket Board over a Sky interview with the sons of Imran Khan.",
+      "summary": "British number one Katie Boulter complains that the smell of cannabis is putting her off her game at the US Open.",
       "author": "",
-      "published": "Fri, 28 Aug 2026 19:38:35 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I learned from Murray' - Boulter won't make wedding ring mistake",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c20v7y3vy2do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Andy Murray has long been a guiding figure for British tennis, but newly-married Katie Boulter will not be following his lead when it comes to keeping her wedding ring safe as she prepares for the US Open.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 19:55:25 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Haaland and Cherki fire impressive Man City to victory at Palace",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Erling Haaland and Rayan Cherki both score twice as Manchester City cruise to a 4-1 win at Crystal Palace in the Premier League.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 21:30:06 GMT",
-      "fetched_at": "2026-08-29T01:18:55.604553+00:00"
+      "published": "Sat, 29 Aug 2026 11:07:31 GMT",
+      "fetched_at": "2026-08-29T11:57:56.548276+00:00"
     }
   ]
 }
