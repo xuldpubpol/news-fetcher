@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-29T16:12:51.193973+00:00",
-  "count": 30,
+  "fetched_at": "2026-08-29T20:10:12.022860+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
@@ -11,17 +11,7 @@
       "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "author": "",
       "published": "Sat, 29 Aug 2026 15:27:56 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Christian festival 'devastated' as man dies after sign falls",
-      "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 14:12:30 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -30,128 +20,18 @@
       "full_text": "",
       "summary": "The capital is not set to vote on a new mayor until 2028.",
       "author": "",
-      "published": "Sat, 29 Aug 2026 16:04:08 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "published": "Sat, 29 Aug 2026 16:24:39 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
-      "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough.",
+      "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
       "author": "",
-      "published": "Sat, 29 Aug 2026 15:43:43 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
-      "link": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 10:43:25 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-      "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 21:17:54 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 03:54:11 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Satellite images reveal scale of flood devastation in Nepal villages",
-      "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 17:36:54 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What we know about the 33 British nationals missing in Nepal",
-      "link": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 19:21:57 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 00:32:17 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "We're behind UK's emergency phone alerts - but question how they're being used",
-      "link": "https://www.bbc.co.uk/news/articles/ckgw7xj698lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Millions across England and Wales received a wildfire alert on their phones earlier this month, but it partly backfired.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 01:37:08 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 10:31:18 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How one of the 'most powerful hacks' to control stress actually works",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5jqly153o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "We spoke to experts about how the breathing technique used by soldiers and influencers works.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 01:24:36 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sweetcorn ice creams and pastries: The latest 'swavoury' trend taking over your feed",
-      "link": "https://www.bbc.co.uk/news/articles/c4gdvvp07dzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "From lattes to pastries, UK foodies are embracing the humble sweetcorn as more than a pizza topping.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 01:13:14 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
-      "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 10:51:21 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "published": "Sat, 29 Aug 2026 19:06:28 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -161,7 +41,147 @@
       "summary": "HMS Duncan, HMS St Albans and HMS Severn used radars to monitor four vessels as they passed through the North Sea and English Channel last week.",
       "author": "",
       "published": "Sat, 29 Aug 2026 12:05:03 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
+      "link": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 10:43:25 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man dies after train hits van on level crossing",
+      "link": "https://www.bbc.co.uk/news/articles/clylkwl5nd4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "British Transport Police said a man who was in a van died at the scene, in Burscough.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 18:38:31 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+      "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+      "author": "",
+      "published": "Fri, 28 Aug 2026 21:17:54 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Satellite images reveal scale of flood devastation in Nepal villages",
+      "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
+      "author": "",
+      "published": "Fri, 28 Aug 2026 17:36:54 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What we know about the 33 British nationals missing in Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
+      "author": "",
+      "published": "Fri, 28 Aug 2026 19:21:57 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 00:32:17 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "We're behind UK's emergency phone alerts - but question how they're being used",
+      "link": "https://www.bbc.co.uk/news/articles/ckgw7xj698lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Millions across England and Wales received a wildfire alert on their phones earlier this month, but it partly backfired.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 01:37:08 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 10:31:18 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How one of the 'most powerful hacks' to control stress actually works",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5jqly153o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "We spoke to experts about how the breathing technique used by soldiers and influencers works.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 01:24:36 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sweetcorn ice creams and pastries: The latest 'swavoury' trend taking over your feed",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdvvp07dzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "From lattes to pastries, UK foodies are embracing the humble sweetcorn as more than a pizza topping.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 01:13:14 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Christian festival 'devastated' as man dies after sign falls",
+      "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 14:12:30 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 17:52:42 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Normandy veteran who lied about age to enlist dies at 101",
+      "link": "https://www.bbc.co.uk/news/articles/cy5z3e64vpyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A veterans' charity says Donald Turrell will be remembered with \"enormous affection and gratitude\".",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 19:49:08 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -171,27 +191,17 @@
       "summary": "Emma Webber has joined more than 30 families in signing an open letter to the government.",
       "author": "",
       "published": "Sat, 29 Aug 2026 12:09:06 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
-      "title": "Wales NHS gender surgeries paused for review into referral numbers",
-      "link": "https://www.bbc.co.uk/news/articles/c23xvv42rp1o?at_medium=RSS&at_campaign=rss",
+      "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Data suggests \"significantly higher\" rates of referral for gender-affirming surgery compared with English services, according to the health board.",
+      "summary": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough.",
       "author": "",
-      "published": "Sat, 29 Aug 2026 11:38:45 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 15:13:42 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "published": "Sat, 29 Aug 2026 15:43:43 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +211,7 @@
       "summary": "The incident happened in Lisnahull Road in Dungannon, County Tyrone.",
       "author": "",
       "published": "Sat, 29 Aug 2026 15:52:36 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +221,7 @@
       "summary": "Roehampton University offers students a year;y scholarship to play esports alongside their studies.",
       "author": "",
       "published": "Sun, 23 Aug 2026 23:23:55 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +231,7 @@
       "summary": "Dalibor Sentic was 10 when in the early 1990s his family fled Croatia for Sweden.",
       "author": "",
       "published": "Fri, 21 Aug 2026 21:31:03 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +241,7 @@
       "summary": "Peter Byers says he walks into Pocklington town centre \"to make sure people know I'm still alive\".",
       "author": "",
       "published": "Fri, 21 Aug 2026 05:02:44 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +251,7 @@
       "summary": "Eastbourne Borough Council did not install the first public toilets for ladies until 1900.",
       "author": "",
       "published": "Sun, 23 Aug 2026 06:19:23 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +271,7 @@
       "summary": "And, did CIA chief travel to Moscow to warn Putin against attacking Nato?",
       "author": "",
       "published": "Fri, 28 Aug 2026 15:21:00 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +281,7 @@
       "summary": "And, America says goodbye to musical icon Dolly Parton.",
       "author": "",
       "published": "Wed, 26 Aug 2026 17:14:00 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
@@ -281,27 +291,57 @@
       "summary": "BBC Sport travels to Nuuk for the Greenlandic Football Championship.",
       "author": "",
       "published": "Sat, 06 Sep 2025 12:59:59 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
-      "title": "'That trust isn't there' - how does Iraola get best out of Isak?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
+      "title": "Man City open talks with Liverpool over Gakpo",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
+      "summary": "Manchester City open talks with Liverpool about signing Netherlands winger Cody Gakpo.",
       "author": "",
-      "published": "Sat, 29 Aug 2026 15:49:49 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "published": "Sat, 29 Aug 2026 20:05:30 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     },
     {
       "source": "bbc",
-      "title": "Leader Pogacar abandons Vuelta after crash",
+      "title": "Pogacar requires surgery after Vuelta crash",
       "link": "https://www.bbc.co.uk/sport/cycling/articles/c0qx0ndg373o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Race leader Tadej Pogacar pulls out of the Vuelta a Espana after crashing during stage eight of the three-week race.",
+      "summary": "Tadej Pogacar needs surgery on a broken collarbone after sustaining multiple injuries in the crash that led to him abandoning the Vuelta a Espana.",
       "author": "",
-      "published": "Sat, 29 Aug 2026 15:30:35 GMT",
-      "fetched_at": "2026-08-29T16:12:45.906749+00:00"
+      "published": "Sat, 29 Aug 2026 19:19:14 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Jaissle claims first Premier League win at lacklustre Spurs",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 19:27:16 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Vaughan backs Lawrence for extended run in England team",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cgrvw52zdrpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Former captain Michael Vaughan backs batter Dan Lawrence for a run in England's Test side. How would you solve impending selection headache?",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 18:21:55 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
+      "summary": "How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.",
+      "author": "",
+      "published": "Sat, 29 Aug 2026 18:26:50 GMT",
+      "fetched_at": "2026-08-29T20:10:09.837272+00:00"
     }
   ]
 }
