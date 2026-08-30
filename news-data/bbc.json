@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-30T10:54:50.726013+00:00",
-  "count": 34,
+  "fetched_at": "2026-08-30T15:43:21.484854+00:00",
+  "count": 24,
   "articles": [
     {
       "source": "bbc",
@@ -11,7 +11,37 @@
       "summary": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
       "author": "",
       "published": "Sun, 30 Aug 2026 08:59:58 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Police release one of two men arrested over fatal house fire",
+      "link": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 14:34:20 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "British woman killed in stabbing at German railway station",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 15:00:48 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Church names pastor killed by falling sign at Christian festival",
+      "link": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 11:46:07 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -21,127 +51,7 @@
       "summary": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
       "author": "",
       "published": "Sun, 30 Aug 2026 07:58:31 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "British woman killed in stabbing at German railway station",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 10:39:07 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Church names pastor killed by falling sign at Christian festival",
-      "link": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 10:43:55 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Iceland votes against restarting talks on joining EU",
-      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 10:49:11 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Three rescued, two still missing as French fishing vessel sinks in Channel",
-      "link": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Three of the five crew members were rescued and taken to hospital, the coastguard says.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 09:46:58 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "China censors videos showing deadly flash floods on the Nepal-Tibet border",
-      "link": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Footage of the flash floods have become almost impossible to find on China’s heavily censored internet.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 17:42:41 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-      "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 21:17:54 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 03:54:11 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What we know about the 33 British nationals missing in Nepal",
-      "link": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
-      "author": "",
-      "published": "Fri, 28 Aug 2026 19:21:57 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I was told I was unworthy to be a mother, then they stole my baby",
-      "link": "https://www.bbc.co.uk/news/articles/c2el0l0d38zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Marion McMillan was one of about 250,000 women who were forced to have their babies adopted between 1949 and 1976.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 00:52:50 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
-      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 04:59:56 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "They fell in love - then had to check they weren't brother and sister",
-      "link": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 23:03:51 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mount Fuji pics, life-changing ramen and a weak yen - why young Brits are going to Japan",
-      "link": "https://www.bbc.co.uk/news/articles/c7704l1ypjgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Photos of Mount Fuji, bowls of ramen and the bustle of Shibuya Crossing are filling up social media feeds.",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 23:04:22 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -151,37 +61,27 @@
       "summary": "Co-housing residents live in a Grade II listed mansion for the same price as a two-bed house.",
       "author": "",
       "published": "Sun, 30 Aug 2026 06:04:28 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "title": "I was told I was unworthy to be a mother, then they stole my baby",
+      "link": "https://www.bbc.co.uk/news/articles/c2el0l0d38zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "summary": "Marion McMillan was one of about 250,000 women who were forced to have their babies adopted between 1949 and 1976.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 10:29:20 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "published": "Sun, 30 Aug 2026 00:52:50 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
-      "title": "British heavyweight Moses Itauma handed harsh world-title lesson",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do?at_medium=RSS&at_campaign=rss",
+      "title": "They fell in love - then had to check they weren't brother and sister",
+      "link": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "British heavyweight Moses Itauma was taught a harsh lesson at world level - what can he learn from defeat and where does the 21-year-old go next?",
+      "summary": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?",
       "author": "",
-      "published": "Sun, 30 Aug 2026 06:08:52 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
-      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 00:17:25 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "published": "Sat, 29 Aug 2026 23:03:51 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -191,27 +91,67 @@
       "summary": "Parenting experts give their top tips on how to make sure back-to-school runs as smoothly as possible.",
       "author": "",
       "published": "Sun, 30 Aug 2026 00:26:33 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
-      "title": "Normandy veteran who lied about age to enlist dies at 101",
-      "link": "https://www.bbc.co.uk/news/articles/cy5z3e64vpyo?at_medium=RSS&at_campaign=rss",
+      "title": "Iceland votes against restarting EU membership talks",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A veterans' charity says Donald Turrell will be remembered with \"enormous affection and gratitude\".",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
       "author": "",
-      "published": "Sat, 29 Aug 2026 19:49:08 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "published": "Sun, 30 Aug 2026 14:45:05 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
-      "title": "Girl faces six-month recovery after 'freak accident' bus crash on holiday",
-      "link": "https://www.bbc.co.uk/news/articles/cre4yy39w35o?at_medium=RSS&at_campaign=rss",
+      "title": "Three rescued, two still missing as French fishing vessel sinks in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Emma Williams says what happened to her daughter shows the importance of travel insurance.",
+      "summary": "Three of the five crew members were rescued and taken to hospital, the coastguard says.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 06:05:05 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "published": "Sun, 30 Aug 2026 14:18:02 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
+      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 04:59:56 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 12:44:08 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The widow and two children of PC Matthew Blades will be at Old Trafford for Manchester United's Premier League game with Ipswich.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 12:46:10 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dementia patient's deportation from Sweden delayed",
+      "link": "https://www.bbc.co.uk/news/articles/c1wx7rjpjz4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "George Mason, originally from Hinckley in Leicestershire, is facing deportation from Sweden.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 06:12:45 GMT",
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +161,7 @@
       "summary": "The traffic-free route has been maintained by volunteers since the railway closed in the late 1960s.",
       "author": "",
       "published": "Thu, 27 Aug 2026 11:30:46 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +171,7 @@
       "summary": "Parents say misinformation means many families do not realise summer-born children can delay school.",
       "author": "",
       "published": "Sun, 23 Aug 2026 06:17:06 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +181,7 @@
       "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
       "author": "",
       "published": "Mon, 24 Aug 2026 23:04:17 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +191,7 @@
       "summary": "The gallery, which has been closed since 1943, will reopen from 16 September.",
       "author": "",
       "published": "Sat, 22 Aug 2026 07:00:07 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +201,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +211,7 @@
       "summary": "And, did CIA chief travel to Moscow to warn Putin against attacking Nato?",
       "author": "",
       "published": "Fri, 28 Aug 2026 15:21:00 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +221,7 @@
       "summary": "And, America says goodbye to musical icon Dolly Parton.",
       "author": "",
       "published": "Wed, 26 Aug 2026 17:14:00 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -291,47 +231,7 @@
       "summary": "BBC Sport travels to Nuuk for the Greenlandic Football Championship.",
       "author": "",
       "published": "Sat, 06 Sep 2025 12:59:59 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Everton call off Armstrong sale after fan backlash",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Everton have called off a proposed deal to sell midfielder Harrison Armstrong to Nottingham Forest following a backlash from the club's supporters.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 08:58:28 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tottenham make Ndiaye move with Richarlison set for Everton",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 10:39:54 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Martinez is eighth Chelsea-Villa deal in four years",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "After Emiliano Martinez's move, BBC Sport looks at why Aston Villa and Chelsea have become one of the Premier League’s busiest transfer partnerships since 2022.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 08:51:08 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Heavyweight Itauma handed harsh world-title lesson",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "British heavyweight Moses Itauma was taught a harsh lesson at world level - what can he learn from defeat and where does the 21-year-old go next?",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 06:08:52 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     },
     {
       "source": "bbc",
@@ -341,7 +241,7 @@
       "summary": "Will Aryna Sabalenka rediscover her mojo? How will Carlos Alcaraz's comeback go? And can Novak Djokovic win? It's time for the 2026 US Open singles.",
       "author": "",
       "published": "Sun, 30 Aug 2026 05:06:28 GMT",
-      "fetched_at": "2026-08-30T10:54:46.002497+00:00"
+      "fetched_at": "2026-08-30T15:43:12.886024+00:00"
     }
   ]
 }
