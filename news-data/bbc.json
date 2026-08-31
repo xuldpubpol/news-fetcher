@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-30T20:17:34.031723+00:00",
-  "count": 30,
+  "fetched_at": "2026-08-31T02:22:06.712260+00:00",
+  "count": 37,
   "articles": [
     {
       "source": "bbc",
@@ -11,7 +11,77 @@
       "summary": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
       "author": "",
       "published": "Sun, 30 Aug 2026 18:33:36 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+      "link": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 02:03:38 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 23:53:03 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 01:47:54 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
+      "link": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 23:02:43 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The mystery of why so many black Britons still can't swim",
+      "link": "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 00:31:22 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Like fighting a dinosaur': Sydney woman recalls how she punched shark during attack",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4px7yv6xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Leah Stewart, 34, was mauled by a great white shark in June during a morning swim at Coogee Beach.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 00:44:51 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Jewish community in harder position than immediately after synagogue attack, says rabbi",
+      "link": "https://www.bbc.co.uk/news/articles/cjrx4j7pyz3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Rabbi Daniel Walker says members of the Jewish community are feeling increasingly vulnerable.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 00:34:25 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -21,67 +91,7 @@
       "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
       "author": "",
       "published": "Sun, 30 Aug 2026 20:02:43 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 18:53:53 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 16:30:05 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Church names pastor killed by falling sign at Christian festival",
-      "link": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 11:46:07 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "British woman killed in stabbing at German railway station",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 16:11:46 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Iceland votes against restarting EU membership talks",
-      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 16:11:44 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Police release one of two men arrested over fatal house fire",
-      "link": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 14:34:20 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -91,27 +101,27 @@
       "summary": "The baby was pronounced dead at a property in the Wincobank area of Sheffield.",
       "author": "",
       "published": "Sun, 30 Aug 2026 18:29:09 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "title": "Emergency measures needed to stop teachers quitting, say Lib Dems",
+      "link": "https://www.bbc.co.uk/news/articles/ckgxng520m0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "summary": "A survey by the party suggested almost half of teachers reported considering quitting the classroom in the next five years.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 17:49:31 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "published": "Mon, 31 Aug 2026 01:53:17 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
-      "title": "Lola Young surprises Reading Festival with final day set",
-      "link": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss",
+      "title": "How the US-Canada trade war is being felt on both sides of the border",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
+      "summary": "The US-Canada trade war is being felt on both sides of the border.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 19:36:06 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "published": "Mon, 31 Aug 2026 00:05:22 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +131,7 @@
       "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
       "author": "",
       "published": "Sun, 30 Aug 2026 16:48:13 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +141,7 @@
       "summary": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
       "author": "",
       "published": "Sun, 30 Aug 2026 07:58:31 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +151,7 @@
       "summary": "Crowds take to the streets of west London to enjoy family day in the bank holiday weekend sunshine.",
       "author": "",
       "published": "Sun, 30 Aug 2026 16:36:25 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +161,17 @@
       "summary": "Co-housing residents live in a Grade II listed mansion for the same price as a two-bed house.",
       "author": "",
       "published": "Sun, 30 Aug 2026 06:04:28 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'Killers blocked from early release' and 'Harry should fund security'",
+      "link": "https://www.bbc.co.uk/news/articles/c70le01qrqqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Monday's papers are dominated by changes to the government's early release scheme for prisoners in England and Wales.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 00:12:44 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -161,57 +181,87 @@
       "summary": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?",
       "author": "",
       "published": "Sat, 29 Aug 2026 23:03:51 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 18:53:53 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 17:49:31 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Police release one of two men arrested over fatal house fire",
+      "link": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 14:34:20 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Iceland votes against restarting EU membership talks",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 16:11:44 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 16:30:05 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Lola Young surprises Reading Festival with final day set",
+      "link": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 19:36:06 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "British woman killed in stabbing at German railway station",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 16:11:46 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
       "title": "Three rescued, two still missing as French fishing vessel sinks in Channel",
       "link": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Three of the five crew members were rescued and taken to hospital, the coastguard says.",
+      "summary": "Searches are suspended after operations are carried out for a second day, coastguards say.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 14:18:02 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Woman injured in fatal police pursuit crash dies",
-      "link": "https://www.bbc.co.uk/news/articles/c62jzxn1klgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "She had been driving a car which was involved in a collision with an Audi being chased by police.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 16:46:11 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 14:25:43 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
-      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 04:59:56 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mum says family 'lucky to be alive' after train crash",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7xlz4j13o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "British Transport Police say a man who was in a van died at the scene  on Saturday afternoon.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 11:19:55 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "published": "Sun, 30 Aug 2026 20:20:37 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +281,7 @@
       "summary": "And, did CIA chief travel to Moscow to warn Putin against attacking Nato?",
       "author": "",
       "published": "Fri, 28 Aug 2026 15:21:00 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +291,7 @@
       "summary": "And, America says goodbye to musical icon Dolly Parton.",
       "author": "",
       "published": "Wed, 26 Aug 2026 17:14:00 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +301,7 @@
       "summary": "BBC Sport travels to Nuuk for the Greenlandic Football Championship.",
       "author": "",
       "published": "Sat, 06 Sep 2025 12:59:59 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +311,7 @@
       "summary": "For all the new signings, it is still captain Bruno Fernandes who sets the standard at Manchester United, writes Simon Stone.",
       "author": "",
       "published": "Sun, 30 Aug 2026 20:04:26 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +321,17 @@
       "summary": "How Manchester United and Ipswich Town's players rated following their Premier League match.",
       "author": "",
       "published": "Sun, 30 Aug 2026 17:32:04 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "British qualifier Toby Samuel breaks more new ground with a dominant victory over Tomas Machac on his US Open debut.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 23:30:14 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +341,7 @@
       "summary": "England captain Joe Root is \"not too concerned\" about his recent modest returns with the bat, saying he has \"14,000 runs for a reason\".",
       "author": "",
       "published": "Sun, 30 Aug 2026 19:53:14 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +351,17 @@
       "summary": "Who produced their best Test performance in 12 months? Which batter is building a case to test the selectors? Player ratings from England's win over Pakistan.",
       "author": "",
       "published": "Sun, 30 Aug 2026 17:04:35 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "World number one Scheffler claims second Fedex Cup title",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "At times it felt like there was a certain inevitability about Scottie Scheffler collecting his second Fedex Cup title on Sunday.",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 22:38:09 GMT",
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +371,7 @@
       "summary": "Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own.",
       "author": "",
       "published": "Sun, 30 Aug 2026 17:12:39 GMT",
-      "fetched_at": "2026-08-30T20:17:32.472240+00:00"
+      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
     }
   ]
 }
