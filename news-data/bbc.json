@@ -1,57 +1,67 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-31T02:22:06.712260+00:00",
-  "count": 37,
+  "fetched_at": "2026-08-31T12:09:36.373969+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss",
+      "title": "Once a village, now barren land - BBC in the valley devastated by floods",
+      "link": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
+      "summary": "The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 18:33:36 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 10:20:08 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
-      "link": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+      "title": "Early release scheme could see dangerous criminals released, Conservatives warn",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+      "summary": "The warning comes after the prime minister said some prisoners serving indefinite sentences could be freed to increase prison capacity.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 02:03:38 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 11:08:31 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "title": "Dolly Parton laid to rest alongside husband in Nashville",
+      "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 09:24:50 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US and Iran trade strikes for first time in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 23:53:03 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 08:34:25 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss",
+      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.",
+      "summary": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 01:47:54 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 10:18:07 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
+      "title": "The trial of Lindsay Clancy has gripped the US for weeks - here's what the jury must consider",
+      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
+      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 23:02:43 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 11:53:21 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
@@ -61,17 +71,137 @@
       "summary": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
       "author": "",
       "published": "Mon, 31 Aug 2026 00:31:22 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Like fighting a dinosaur': Sydney woman recalls how she punched shark during attack",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4px7yv6xo?at_medium=RSS&at_campaign=rss",
+      "title": "Djokovic in tears during US Open first-round exit",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Leah Stewart, 34, was mauled by a great white shark in June during a morning swim at Coogee Beach.",
+      "summary": "An emotional Novak Djokovic suffers a US Open first-round defeat which provides further evidence that age is catching up with the 39-year-old great.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 00:44:51 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 06:51:44 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+      "link": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 02:03:38 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 08:17:25 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 01:47:54 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The millennials swapping doom-scrolling for gardening",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4r4n3p02o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Young people say gardening offers joy, serenity and a sense of community.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 05:58:15 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The big moves to watch out for before football's transfer window closes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport's football experts picks out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 08:12:39 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+      "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "author": "",
+      "published": "Sun, 30 Aug 2026 23:22:24 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What will Sonia Gandhi's memoir reveal about India's most powerful dynasty?",
+      "link": "https://www.bbc.co.uk/news/articles/cdx81eveel5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sonia Gandhi’s memoir may finally answer questions about power, loss and the Gandhi family’s political legacy.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 00:16:14 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russian strikes destroy 12 million books ahead of Ukraine's first week back at school",
+      "link": "https://www.bbc.co.uk/news/articles/cly5v8qmy64o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ukraine says Russia is deliberately attacking its culture, after strikes on publishers and churches.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 05:01:12 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Parents of seriously ill children should be entitled to 12 weeks paid leave, says commissioner",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z4n8j14do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Children's commissioner Dame Rachel de Souza has backed called for more support for parents and carers.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 04:17:28 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
+      "link": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 10:00:23 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Moonies' church leader jailed for two years over bribery offences",
+      "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 06:56:40 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
+      "link": "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "More than 20 organisations have written a joint letter to John Swinney urging him to scrap his plan for a legal cap on some food and drink prices.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 11:56:50 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
@@ -81,27 +211,7 @@
       "summary": "Rabbi Daniel Walker says members of the Jewish community are feeling increasingly vulnerable.",
       "author": "",
       "published": "Mon, 31 Aug 2026 00:34:25 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
-      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 20:02:43 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Seven arrested after death of newborn baby girl",
-      "link": "https://www.bbc.co.uk/news/articles/cde0k172eddo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The baby was pronounced dead at a property in the Wincobank area of Sheffield.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 18:29:09 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
@@ -111,157 +221,7 @@
       "summary": "A survey by the party suggested almost half of teachers reported considering quitting the classroom in the next five years.",
       "author": "",
       "published": "Mon, 31 Aug 2026 01:53:17 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How the US-Canada trade war is being felt on both sides of the border",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US-Canada trade war is being felt on both sides of the border.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 00:05:22 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
-      "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 16:48:13 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
-      "link": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 07:58:31 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Celebrating 60 years of Notting Hill Carnival",
-      "link": "https://www.bbc.co.uk/news/articles/c4gvze8p758o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Crowds take to the streets of west London to enjoy family day in the bank holiday weekend sunshine.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 16:36:25 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "We all share a 15-acre Georgian mansion for the price of a two-bed house",
-      "link": "https://www.bbc.co.uk/news/articles/cg7mglglvmgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Co-housing residents live in a Grade II listed mansion for the same price as a two-bed house.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 06:04:28 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'Killers blocked from early release' and 'Harry should fund security'",
-      "link": "https://www.bbc.co.uk/news/articles/c70le01qrqqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Monday's papers are dominated by changes to the government's early release scheme for prisoners in England and Wales.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 00:12:44 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "They fell in love - then had to check they weren't brother and sister",
-      "link": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?",
-      "author": "",
-      "published": "Sat, 29 Aug 2026 23:03:51 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 18:53:53 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 17:49:31 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Police release one of two men arrested over fatal house fire",
-      "link": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 14:34:20 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Iceland votes against restarting EU membership talks",
-      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 16:11:44 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 16:30:05 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lola Young surprises Reading Festival with final day set",
-      "link": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 19:36:06 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "British woman killed in stabbing at German railway station",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 16:11:46 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Three rescued, two still missing as French fishing vessel sinks in Channel",
-      "link": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Searches are suspended after operations are carried out for a second day, coastguards say.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 20:20:37 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +241,7 @@
       "summary": "And, did CIA chief travel to Moscow to warn Putin against attacking Nato?",
       "author": "",
       "published": "Fri, 28 Aug 2026 15:21:00 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +251,7 @@
       "summary": "And, America says goodbye to musical icon Dolly Parton.",
       "author": "",
       "published": "Wed, 26 Aug 2026 17:14:00 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
@@ -301,77 +261,67 @@
       "summary": "BBC Sport travels to Nuuk for the Greenlandic Football Championship.",
       "author": "",
       "published": "Sat, 06 Sep 2025 12:59:59 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "A new Man Utd era - but Fernandes still sets the standard",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss",
+      "title": "The transfers to watch before window closes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "For all the new signings, it is still captain Bruno Fernandes who sets the standard at Manchester United, writes Simon Stone.",
+      "summary": "BBC Sport's football experts picks out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 20:04:26 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 08:12:39 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "How did Rashford do on return to Man Utd XI? Player ratings",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2z6kkqdxqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
-      "summary": "How Manchester United and Ipswich Town's players rated following their Premier League match.",
-      "author": "",
-      "published": "Sun, 30 Aug 2026 17:32:04 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss",
+      "title": "Djokovic in tears during US Open first-round exit",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "British qualifier Toby Samuel breaks more new ground with a dominant victory over Tomas Machac on his US Open debut.",
+      "summary": "An emotional Novak Djokovic suffers a US Open first-round defeat which provides further evidence that age is catching up with the 39-year-old great.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 23:30:14 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 06:51:44 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "'14,000 runs for a reason' - Root calm on form",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c2l8d45yen7o?at_medium=RSS&at_campaign=rss",
+      "title": "Man City sign Palmeiras winger Allan for £34m",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crer89qjgydo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England captain Joe Root is \"not too concerned\" about his recent modest returns with the bat, saying he has \"14,000 runs for a reason\".",
+      "summary": "Manchester City complete the signing of winger Allan Elias from Palmeiras in a deal worth up to £34.2m.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 19:53:14 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 12:00:06 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "'His best Test for a year' - England-Pakistan player ratings",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c70d87p74pxo?at_medium=RSS&at_campaign=rss",
+      "title": "Driven & hungry Rashford a Man Utd asset - Maguire",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c24j71ep0lno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Who produced their best Test performance in 12 months? Which batter is building a case to test the selectors? Player ratings from England's win over Pakistan.",
+      "summary": "Manchester United defender Harry Maguire is backing Marcus Rashford to make a big impact at the club this season.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 17:04:35 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 11:00:17 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "World number one Scheffler claims second Fedex Cup title",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
+      "title": "England attack's 2005 comparisons fair - Trescothick",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy8njg59po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "At times it felt like there was a certain inevitability about Scottie Scheffler collecting his second Fedex Cup title on Sunday.",
+      "summary": "Comparisons can be made between England’s new-look pace attack and the famous Ashes-winning quartet of 2005, according to interim head coach Marcus Trescothick.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 22:38:09 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 11:11:07 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why Chelsea need more than a new goalkeeper to be title challengers",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
+      "title": "From playing Serena Williams on screen to US Open",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy9zq3xn45yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own.",
+      "summary": "Having played a young Serena Williams on the big screen, teenager Thea Frodin is ready to follow in the American great's footsteps at the US Open.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 17:12:39 GMT",
-      "fetched_at": "2026-08-31T02:22:02.965212+00:00"
+      "published": "Mon, 31 Aug 2026 09:58:50 GMT",
+      "fetched_at": "2026-08-31T12:09:34.891504+00:00"
     }
   ]
 }
