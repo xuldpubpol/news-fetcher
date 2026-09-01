@@ -1,37 +1,77 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-01T02:39:10.628605+00:00",
-  "count": 37,
+  "fetched_at": "2026-09-01T10:46:37.995071+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
+      "title": "Laundry rooms to be turned into cells to tackle prison overcrowding",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 10:34:25 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 05:00:34 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The final minutes before floodwater crashed through Nepal-China border",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 06:02:27 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
       "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The verdict ends decades of mystery as to who was behind the rapper's death.",
+      "summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 02:32:15 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 07:02:58 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
-      "link": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+      "title": "New storm names for 2026-2027 released by Met Office",
+      "link": "https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
+      "summary": "Tuesday 1 September marks the start of the UK storm season and a new list of storm names have been released including Austen, Chloe and Evelyn.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 20:27:52 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 05:00:13 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Shein shares slide in long-awaited stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "title": "Man in court charged with murder after fire deaths",
+      "link": "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "summary": "A seven-year-old girl and her aunt died in the fire in Grangetown, near Middlesbrough, on 26 August.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 02:36:00 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 10:34:14 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Unconfirmed local reports say the Israeli military carried out air and artillery strikes after a raid by an Israel-backed militia was discovered.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 10:40:55 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
@@ -41,87 +81,17 @@
       "summary": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
       "author": "",
       "published": "Tue, 01 Sep 2026 01:01:03 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hundreds remember Heaton Park synagogue attack victims at memorial event",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z4wlxj04o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The chief rabbi and Angela Rayner are among speakers at the event, nearly a year on from the attack.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 21:05:10 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 02:18:26 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Orangutans in danger as wildfires blaze through Borneo",
-      "link": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 22:05:43 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Summer 2026 expected to be declared UK's hottest on record",
-      "link": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Met Office figures due on Tuesday are likely to show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 23:42:55 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "New super flu vaccine rollout begins as NHS regroups from 'busiest summer'",
+      "title": "Flu vaccine rollout begins as NHS regroups from 'busiest summer'",
       "link": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "This year's jab has a few tweaks, including changes to better combat the Super-K strain.",
+      "summary": "This year's jab has a few tweaks, including changes to better combat last year's Super-K strain.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 23:46:48 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Victoria Beckham's company makes its first profit after 18 years",
-      "link": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Beckham's fashion and beauty business makes a £7.3m operating profit after years of losses.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 17:28:19 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "More cells being built within prisons to help tackle overcrowding",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 21:59:17 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "AI could cause global economic downturn, Bank of England chief warns",
-      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 16:49:11 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 08:55:27 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
@@ -131,137 +101,137 @@
       "summary": "Going back to work after a summer holiday can be tricky - here are a few tips to make it easier.",
       "author": "",
       "published": "Mon, 31 Aug 2026 23:37:35 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "The trial of Lindsay Clancy has gripped the US for weeks - here's what the jury must consider",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+      "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+      "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
+      "summary": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 11:53:21 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 02:30:45 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Notting Hill Carnival revels in 60th anniversary celebrations",
-      "link": "https://www.bbc.co.uk/news/articles/c87vdj8j01xo?at_medium=RSS&at_campaign=rss",
+      "title": "Djokovic's tearful loss leaves future uncertain",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/ckgvrdz061eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Notting Hill Carnival, Europe's biggest street party, has celebrated its 60th year.",
+      "summary": "After Novak Djokovic's latest bid for a historic 25th major title ends in tears in New York, where does the most decorated men's player of the Open era go from here?",
       "author": "",
-      "published": "Mon, 31 Aug 2026 16:09:54 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 05:07:54 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers:  'Kemi gets Tories battle ready' and 'Posh makes some dosh'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy8xdzk41o?at_medium=RSS&at_campaign=rss",
+      "title": "It's taken me a long time to process Olympic experience, says breaker Raygun",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cwyz3dxpnq9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A Tory frontbench reshuffle and Victoria Beckham making \"some dosh\" lead some of Tuesday's papers.",
+      "summary": "Australian Olympic breakdancer Rachael Gunn - known as Raygun - tells BBC Sport about the aftermath of her extraordinary experience at the 2024 Olympics.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 00:50:55 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 07:17:00 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-      "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+      "title": "We survived the Aberfan disaster but were told to never talk about it again",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zn9kdvxmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
+      "summary": "In one of Britain's worst disasters, 116 children were killed on the morning of 21 October 1966.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 14:50:36 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 05:12:26 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "The mystery of why so many black Britons still can't swim",
-      "link": "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&at_campaign=rss",
+      "title": "Baby Tommy's our 'light', says grieving family of newborn whose mum died in childbirth",
+      "link": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
+      "summary": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 00:31:22 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 08:42:10 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "The millennials swapping doom-scrolling for gardening",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4r4n3p02o?at_medium=RSS&at_campaign=rss",
+      "title": "I climbed the career ladder and got my dream job at 30 - then I hit burnout",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Young people say gardening offers joy, serenity and a sense of community.",
+      "summary": "Just after Jo Hooper landed her dream role at 30, she struggled with burnout and had to take time off work.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 05:58:15 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 05:23:56 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "John Galliano exhibition at New York Met cancelled after backlash",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
+      "summary": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 15:30:05 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 10:30:55 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Festival honouring Dolly Parton set for Nashville and London",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "title": "Summer 2026 expected to be declared UK's hottest on record",
+      "link": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
+      "summary": "Met Office figures due on Tuesday are likely to show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 18:58:35 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Mon, 31 Aug 2026 23:42:55 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Boy, 16, charged with murder and attempted murder",
-      "link": "https://www.bbc.co.uk/news/articles/ce3rnk7975po?at_medium=RSS&at_campaign=rss",
+      "title": "Shein valued at $26bn after long-awaited stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The charges follow an attack on Saturday in which a man died and his wife and daughter were injured.",
+      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 21:33:20 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 10:01:26 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Holy Cross school dispute was 'hatred at its worst'",
-      "link": "https://www.bbc.co.uk/news/articles/c0m314lrywno?at_medium=RSS&at_campaign=rss",
+      "title": "Swinney to cut number of health boards in efficiency drive",
+      "link": "https://www.bbc.co.uk/news/articles/c9dw5x611gpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fr Aidan Troy says the \"hurt\" of that ordeal in 2001 in north Belfast could happen again.",
+      "summary": "Scotland's 14 health boards could be merged into two for the mainland, with different arrangements for the islands.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 23:07:17 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 10:25:57 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Twenty-seven people rescued from rollercoaster",
-      "link": "https://www.bbc.co.uk/news/articles/c05rle7zqedo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds remember Heaton Park synagogue attack victims at memorial event",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z4wlxj04o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Crews spend more than three hours bringing people down from the ride in Lowestoft.",
+      "summary": "The chief rabbi and Angela Rayner are among speakers at the event, nearly a year on from the attack.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 20:31:45 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Mon, 31 Aug 2026 21:05:10 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man dies near Notting Hill Carnival after entering canal",
-      "link": "https://www.bbc.co.uk/news/articles/cg7kzy2n8z7o?at_medium=RSS&at_campaign=rss",
+      "title": "Orangutans in danger as wildfires blaze through Borneo",
+      "link": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The man was taken to hospital by ambulance and was pronounced dead a short time later, police have said.",
+      "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 21:33:18 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Mon, 31 Aug 2026 22:05:43 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "title": "South Korean police officer admits to closing missing person cases to avoid work",
+      "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
+      "summary": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 20:47:38 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 05:47:21 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +251,7 @@
       "summary": "And, did CIA chief travel to Moscow to warn Putin against attacking Nato?",
       "author": "",
       "published": "Fri, 28 Aug 2026 15:21:00 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +261,7 @@
       "summary": "And, America says goodbye to musical icon Dolly Parton.",
       "author": "",
       "published": "Wed, 26 Aug 2026 17:14:00 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
@@ -301,77 +271,67 @@
       "summary": "BBC Sport travels to Nuuk for the Greenlandic Football Championship.",
       "author": "",
       "published": "Sat, 06 Sep 2025 12:59:59 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Aston Villa complete £47m Mbaye signing",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Aston Villa sign of Senegal winger Ibrahim Mbaye from Paris St-Germain for a fee of 55m euros (£47m).",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 10:42:45 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pakistan changes 'most shocking ever' - Afridi",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c4g5x5n892yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Pakistan's decision to make dramatic changes to their squad during the series in England is the \"most shocking decision ever\", according to former captain Shahid Afridi.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 10:00:10 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
       "title": "Arteta joins elite 250 club - but where does he rank?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cy4z8qjx931o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "At full-time in Arsenal's 1-0 win at Aston Villa, the travelling supporters sang about how their team will win the league again with Mikel Arteta in charge.",
+      "summary": "Arsenal's fans are singing about winning the league again under Mikel Arteta. Monday's 1-0 win at Aston Villa demonstrated the strengths they have developed under their long-serving manager.",
       "author": "",
       "published": "Mon, 31 Aug 2026 23:15:36 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man City open talks with Chelsea over Fernandez move",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss",
+      "title": "What does Norris deal mean for Piastri? F1 Q&A",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City open talks with Chelsea in their bid to sign Argentina midfielder Enzo Fernandez.",
+      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Italian Grand Prix.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 21:20:32 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 06:59:56 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "Messi retires from Argentina duty with 'nothing left to give'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+      "title": "A loss that feels different - Djokovic's future more uncertain than ever",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/ckgvrdz061eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+      "summary": "After Novak Djokovic's latest bid for a historic 25th major title ends in tears in New York, where does the most decorated men's player of the Open era go from here?",
       "author": "",
-      "published": "Mon, 31 Aug 2026 15:18:39 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "published": "Tue, 01 Sep 2026 05:07:54 GMT",
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     },
     {
       "source": "bbc",
-      "title": "How Messi's decade of dominance almost never happened",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 18:24:04 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I felt the love' - how did Alcaraz look on winning singles return?",
+      "title": "'I'll get better' - how did Alcaraz look on winning singles return?",
       "link": "https://www.bbc.co.uk/sport/tennis/articles/cm2m3484v4xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "After a 139-day wait, Carlos Alcaraz makes a winning return to the singles court as he beats Roman Safuillin in the US Open first round.",
       "author": "",
       "published": "Mon, 31 Aug 2026 22:28:42 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Who has made Troy's Premier League team of the week?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 23:00:03 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Pakistan drop seven players and release head coach",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy9qqvwzxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Pakistan respond to their series defeat by England by taking the extraordinary step of dropping seven players, calling up five uncapped players and releasing their head coach.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 21:30:47 GMT",
-      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+      "fetched_at": "2026-09-01T10:46:36.282077+00:00"
     }
   ]
 }
