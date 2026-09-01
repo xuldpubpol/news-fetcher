@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-08-31T22:11:25.455122+00:00",
-  "count": 36,
+  "fetched_at": "2026-09-01T02:39:10.628605+00:00",
+  "count": 37,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
+      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The verdict ends decades of mystery as to who was behind the rapper's death.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 02:32:15 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
     {
       "source": "bbc",
       "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
@@ -11,27 +21,27 @@
       "summary": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
       "author": "",
       "published": "Mon, 31 Aug 2026 20:27:52 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+      "title": "Shein shares slide in long-awaited stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 17:30:47 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "published": "Tue, 01 Sep 2026 02:36:00 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Messi retires from international football with 'nothing left to give'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+      "title": "US army secretary resigns after months of tension",
+      "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+      "summary": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 15:18:39 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "published": "Tue, 01 Sep 2026 01:01:03 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -41,17 +51,47 @@
       "summary": "The chief rabbi and Angela Rayner are among speakers at the event, nearly a year on from the attack.",
       "author": "",
       "published": "Mon, 31 Aug 2026 21:05:10 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
-      "title": "AI could cause global economic downturn, Bank of England chief warns",
-      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 16:49:11 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "published": "Tue, 01 Sep 2026 02:18:26 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Orangutans in danger as wildfires blaze through Borneo",
+      "link": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 22:05:43 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Summer 2026 expected to be declared UK's hottest on record",
+      "link": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Met Office figures due on Tuesday are likely to show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 23:42:55 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "New super flu vaccine rollout begins as NHS regroups from 'busiest summer'",
+      "link": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "This year's jab has a few tweaks, including changes to better combat the Super-K strain.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 23:46:48 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -61,37 +101,7 @@
       "summary": "Beckham's fashion and beauty business makes a £7.3m operating profit after years of losses.",
       "author": "",
       "published": "Mon, 31 Aug 2026 17:28:19 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Notting Hill Carnival revels in 60th anniversary celebrations",
-      "link": "https://www.bbc.co.uk/news/articles/c87vdj8j01xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Notting Hill Carnival, Europe's biggest street party, has celebrated its 60th year.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 16:09:54 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
-      "link": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 15:00:11 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Kushner states regret over World Cup sell-off plan",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Venture capitalist Joshua Kushner says he would not have got involved in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup if he had known how the football world reacted.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 18:38:55 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -101,27 +111,27 @@
       "summary": "The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.",
       "author": "",
       "published": "Mon, 31 Aug 2026 21:59:17 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
-      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+      "title": "AI could cause global economic downturn, Bank of England chief warns",
+      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
+      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 17:54:23 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "published": "Mon, 31 Aug 2026 16:49:11 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
-      "title": "Festival honouring Dolly Parton set for Nashville and London",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "title": "Feeling nostalgic for summer? How to beat the back-to-work blues",
+      "link": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
+      "summary": "Going back to work after a summer holiday can be tricky - here are a few tips to make it easier.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 18:58:35 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "published": "Mon, 31 Aug 2026 23:37:35 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +141,27 @@
       "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
       "author": "",
       "published": "Mon, 31 Aug 2026 11:53:21 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Notting Hill Carnival revels in 60th anniversary celebrations",
+      "link": "https://www.bbc.co.uk/news/articles/c87vdj8j01xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Notting Hill Carnival, Europe's biggest street party, has celebrated its 60th year.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 16:09:54 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers:  'Kemi gets Tories battle ready' and 'Posh makes some dosh'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy8xdzk41o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A Tory frontbench reshuffle and Victoria Beckham making \"some dosh\" lead some of Tuesday's papers.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 00:50:55 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +171,7 @@
       "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
       "author": "",
       "published": "Mon, 31 Aug 2026 14:50:36 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -151,17 +181,7 @@
       "summary": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
       "author": "",
       "published": "Mon, 31 Aug 2026 00:31:22 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 01:47:54 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -171,27 +191,7 @@
       "summary": "Young people say gardening offers joy, serenity and a sense of community.",
       "author": "",
       "published": "Mon, 31 Aug 2026 05:58:15 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The big moves to watch out for before football's transfer window closes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 17:28:57 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What will Sonia Gandhi's memoir reveal about India's most powerful dynasty?",
-      "link": "https://www.bbc.co.uk/news/articles/cdx81eveel5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sonia Gandhi’s memoir may finally answer questions about power, loss and the Gandhi family’s political legacy.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 00:16:14 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +201,37 @@
       "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
       "author": "",
       "published": "Mon, 31 Aug 2026 15:30:05 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Festival honouring Dolly Parton set for Nashville and London",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 18:58:35 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Boy, 16, charged with murder and attempted murder",
+      "link": "https://www.bbc.co.uk/news/articles/ce3rnk7975po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The charges follow an attack on Saturday in which a man died and his wife and daughter were injured.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 21:33:20 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Holy Cross school dispute was 'hatred at its worst'",
+      "link": "https://www.bbc.co.uk/news/articles/c0m314lrywno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Fr Aidan Troy says the \"hurt\" of that ordeal in 2001 in north Belfast could happen again.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 23:07:17 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +241,7 @@
       "summary": "Crews spend more than three hours bringing people down from the ride in Lowestoft.",
       "author": "",
       "published": "Mon, 31 Aug 2026 20:31:45 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -221,17 +251,7 @@
       "summary": "The man was taken to hospital by ambulance and was pronounced dead a short time later, police have said.",
       "author": "",
       "published": "Mon, 31 Aug 2026 21:33:18 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
-      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 10:18:07 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -241,27 +261,7 @@
       "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
       "author": "",
       "published": "Mon, 31 Aug 2026 20:47:38 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Three more held in crime crackdown following A66 crash that killed seven",
-      "link": "https://www.bbc.co.uk/news/articles/c9w45yyk551o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Cleveland Police say the arrests are part of a wider investigation following the fatal A66 crash.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 16:06:55 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 10:00:23 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +281,7 @@
       "summary": "And, did CIA chief travel to Moscow to warn Putin against attacking Nato?",
       "author": "",
       "published": "Fri, 28 Aug 2026 15:21:00 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +291,7 @@
       "summary": "And, America says goodbye to musical icon Dolly Parton.",
       "author": "",
       "published": "Wed, 26 Aug 2026 17:14:00 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +301,17 @@
       "summary": "BBC Sport travels to Nuuk for the Greenlandic Football Championship.",
       "author": "",
       "published": "Sat, 06 Sep 2025 12:59:59 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Arteta joins elite 250 club - but where does he rank?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy4z8qjx931o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "At full-time in Arsenal's 1-0 win at Aston Villa, the travelling supporters sang about how their team will win the league again with Mikel Arteta in charge.",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 23:15:36 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +321,7 @@
       "summary": "Manchester City open talks with Chelsea in their bid to sign Argentina midfielder Enzo Fernandez.",
       "author": "",
       "published": "Mon, 31 Aug 2026 21:20:32 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -321,7 +331,7 @@
       "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
       "author": "",
       "published": "Mon, 31 Aug 2026 15:18:39 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -331,17 +341,27 @@
       "summary": "Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories.",
       "author": "",
       "published": "Mon, 31 Aug 2026 18:24:04 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
-      "title": "How did match-winner Saka do? Ratings for Aston Villa v Arsenal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&at_campaign=rss",
-      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
-      "summary": "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
+      "title": "'I felt the love' - how did Alcaraz look on winning singles return?",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cm2m3484v4xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After a 139-day wait, Carlos Alcaraz makes a winning return to the singles court as he beats Roman Safuillin in the US Open first round.",
       "author": "",
-      "published": "Mon, 31 Aug 2026 20:59:29 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "published": "Mon, 31 Aug 2026 22:28:42 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "author": "",
+      "published": "Mon, 31 Aug 2026 23:00:03 GMT",
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     },
     {
       "source": "bbc",
@@ -351,17 +371,7 @@
       "summary": "Pakistan respond to their series defeat by England by taking the extraordinary step of dropping seven players, calling up five uncapped players and releasing their head coach.",
       "author": "",
       "published": "Mon, 31 Aug 2026 21:30:47 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "GB's Dart ends 19-month wait for Grand Slam win at 'home away from home'",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cj4j8wr8y1po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "British qualifier Harriet Dart ends a 19-month wait for a Grand Slam singles win by fighting back to beat Peyton Stearns in the US Open first round.",
-      "author": "",
-      "published": "Mon, 31 Aug 2026 19:36:50 GMT",
-      "fetched_at": "2026-08-31T22:11:14.276731+00:00"
+      "fetched_at": "2026-09-01T02:39:08.621436+00:00"
     }
   ]
 }
