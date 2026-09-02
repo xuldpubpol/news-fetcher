@@ -1,37 +1,47 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-02T15:37:25.250408+00:00",
-  "count": 35,
+  "fetched_at": "2026-09-02T20:17:26.126682+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
-      "link": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
+      "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.",
+      "summary": "Burnham said he had already cut taxes, including VAT on energy bills and hospitality business rates.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 14:26:39 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Wed, 02 Sep 2026 16:27:03 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
-      "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
-      "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
+      "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
+      "link": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
+      "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 14:52:48 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Wed, 02 Sep 2026 18:57:51 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
-      "title": "Four in court over murder of baby stabbed to death",
-      "link": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+      "title": "What famous scenes are in the epic Bayeux Tapestry?",
+      "link": "https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Four people, aged between 19 and 38, appear in court charged with murdering the newborn.",
+      "summary": "The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 15:35:13 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Wed, 02 Sep 2026 18:40:57 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
+      "link": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts continue.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 15:16:42 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -41,7 +51,17 @@
       "summary": "Dr Mark Deakin, a consultant at Alder Hey hospital, was described as Letby's \"boyfriend\" during her trial.",
       "author": "",
       "published": "Wed, 02 Sep 2026 13:49:17 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
+      "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 17:43:48 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -51,77 +71,57 @@
       "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
       "author": "",
       "published": "Wed, 02 Sep 2026 11:47:11 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
+      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 11:51:46 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Wed, 02 Sep 2026 16:49:00 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
-      "title": "London mayor says conviction for untaxed car was due to a scam",
-      "link": "https://www.bbc.co.uk/news/articles/c7708vn2yp7o?at_medium=RSS&at_campaign=rss",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "City Hall officials say the Nissan Micra does not belong to the mayor or Transport for London.",
+      "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 11:41:59 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Wed, 02 Sep 2026 17:33:45 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
-      "title": "King Charles, Macron and Burnham to preview Bayeux Tapestry display",
-      "link": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
+      "title": "Four in court over murder of baby stabbed to death",
+      "link": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
+      "summary": "Four people, aged between 19 and 38, appear in court charged with murdering the newborn.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 11:08:19 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Wed, 02 Sep 2026 15:35:13 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The golfer will accept a five-year driving ban and $1,000 fine as part of a plea agreement.",
+      "summary": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
       "author": "",
-      "published": "Wed, 02 Sep 2026 14:40:20 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Wed, 02 Sep 2026 17:21:00 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
-      "title": "Jurors return in Lindsay Clancy trial after judge asks them to break deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+      "title": "PMQs shows the challenge Burnham has in delivering new style of politics",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "They resumed efforts on Wednesday to reach a verdict in the case of a mother charged with murder over her children's deaths.",
+      "summary": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 14:59:17 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "BBC gains rare access to occupied Lebanon as officials say Israel expanding positions",
-      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 05:03:09 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can get you cheaper deals.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 23:26:38 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Wed, 02 Sep 2026 14:26:39 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -131,37 +131,47 @@
       "summary": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
       "author": "",
       "published": "Wed, 02 Sep 2026 13:20:11 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: What we know about reported strike on Iran wedding celebrations",
-      "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+      "title": "BBC gains rare access to occupied Lebanon as officials say Israel expanding positions",
+      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
+      "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 10:33:47 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Wed, 02 Sep 2026 05:03:09 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
-      "title": "How the big five clubs strengthened their title hopes in record-breaking transfer window",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss",
+      "title": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As the transfer window closes for the summer, chief football writer Phil McNulty asks if Arsenal's rivals have done enough to challenge the champions?",
+      "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can get you cheaper deals.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 06:12:02 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Tue, 01 Sep 2026 23:26:38 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ariana Grande makes emotional tour exit and steps back from public life",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
+      "summary": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 21:41:05 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "published": "Wed, 02 Sep 2026 11:51:46 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Stars of The Gentlemen react to Meghan rumours",
+      "link": "https://www.bbc.co.uk/news/videos/c17jqvzdvqjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The stars of Netflix's The Gentlemen season two reacted to the swirling rumours that Meghan, Duchess of Sussex may be joining the cast.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 18:55:24 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +181,7 @@
       "summary": "Some government borrowing costs have hit their highest level for 28 years - what does it mean for you?",
       "author": "",
       "published": "Wed, 02 Sep 2026 11:05:22 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +191,57 @@
       "summary": "Nottinghamshire Police received a complaint and has referred the matter to the IOPC.",
       "author": "",
       "published": "Wed, 02 Sep 2026 12:40:13 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+      "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 17:05:09 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "London mayor's untaxed car conviction withdrawn",
+      "link": "https://www.bbc.co.uk/news/articles/c7708vn2yp7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "City Hall officials say the Nissan Micra does not belong to the mayor or Transport for London.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 16:37:52 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Below the dignity of the office': Canadian officials condemn Pete Hegseth cadet post",
+      "link": "https://www.bbc.co.uk/news/articles/clyk32nr1emo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US Defence Secretary is facing criticism for his apparent online mocking of members of Canada's cadet programme.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 19:20:50 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
+      "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 16:58:59 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Uber to cut over 3,000 jobs in major global restructuring",
+      "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The company says cutting roles would make its operations \"simpler and faster\".",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 16:51:49 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -191,57 +251,7 @@
       "summary": "The new plan shows Andy Burnham's government kept the promised original schedule of how and when offenders will leave jail.",
       "author": "",
       "published": "Wed, 02 Sep 2026 13:10:19 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 13:17:43 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 13:16:26 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lords call for AI 'kill switch' powers in UK",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 14:41:52 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Pub's 'beloved' manager stabbed to death in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/ckgw8e8p0ngo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Rebecca Bullock, 31, was attacked at Rosenheim station on Sunday.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 12:51:35 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Gary Glitter pleads not guilty to historical sex offence charges",
-      "link": "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The former singer, whose real name is Paul Gadd, appeared at Southwark Crown Court via video.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 10:13:19 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +271,7 @@
       "summary": "Former Prime Minister Keir Starmer to stand down as an MP triggering a by-election.",
       "author": "",
       "published": "Tue, 01 Sep 2026 14:38:00 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +281,7 @@
       "summary": "And, why did Justin call Donald Trump from a train?",
       "author": "",
       "published": "Mon, 31 Aug 2026 09:00:00 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +291,7 @@
       "summary": "Exposing a British scandal.  The women forced by the state to give up their newborns",
       "author": "",
       "published": "Mon, 31 Aug 2026 05:00:00 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +301,7 @@
       "summary": "How Chelsea, Everton and Monaco all missed out after late-night drama on deadline day. Nizaar Kinsella reports.",
       "author": "",
       "published": "Wed, 02 Sep 2026 14:48:09 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +311,17 @@
       "summary": "Everton's transfer deadline day debacle over Folarin Balogun leaves owners The Friedkin facing fan mutiny, says chief football writer Phil McNulty.",
       "author": "",
       "published": "Wed, 02 Sep 2026 12:33:25 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Olympic champion Davis-Woodhall 'lucky to be alive' after car crash",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cwyzdvrrz3yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Olympic long jump champion Tara Davis-Woodhall says she is \"lucky and blessed to be alive\" after being involved in a car crash.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 19:18:45 GMT",
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     },
     {
       "source": "bbc",
@@ -311,47 +331,7 @@
       "summary": "England leave Brydon Carse out of their squad for the third and final Test against Pakistan at Edgbaston.",
       "author": "",
       "published": "Wed, 02 Sep 2026 15:13:06 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man Utd and their calculated left-back gamble",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 10:46:56 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Woods banned from driving for five years after March's crash arrest",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The golfer will accept a five-year driving ban and $1,000 fine as part of a plea agreement.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 14:40:20 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Who are the free agents after transfer deadline day?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yd4065nlwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Sport takes a look at the players still without a club after the 2026 summer transfer window shut.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 13:53:47 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Five moments that shaped Taylor's legendary career",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cp30z57kq0ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "From writing a letter to her idol as a 10-year-old to messaging a promoter on social media, here are five sliding doors moments that helped shape Katie Taylor’s career.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 06:58:31 GMT",
-      "fetched_at": "2026-09-02T15:37:23.214179+00:00"
+      "fetched_at": "2026-09-02T20:17:22.300086+00:00"
     }
   ]
 }
