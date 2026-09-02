@@ -1,197 +1,87 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-02T02:00:04.260057+00:00",
-  "count": 37,
+  "fetched_at": "2026-09-02T10:11:26.327261+00:00",
+  "count": 31,
   "articles": [
     {
       "source": "bbc",
-      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
+      "link": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "summary": "Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 00:13:26 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "published": "Wed, 02 Sep 2026 04:49:23 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Four charged with murder after baby stabbed to death",
+      "link": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 09:30:10 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "link": "https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC's Hugo Bachega joined a UN humanitarian convoy as it travelled along Israeli-occupied southern Lebanon.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 08:29:42 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
       "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
       "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tyler Robinson is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+      "summary": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
       "author": "",
       "published": "Wed, 02 Sep 2026 01:59:10 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham promises more devolution and public control of essential services",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 21:48:44 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 01:23:00 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rising numbers of children in mental health crisis ending up in A&E",
-      "link": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 23:38:20 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tiger Woods to change plea after crash arrest",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 00:26:08 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ariana Grande completes tour and steps back from public life",
+      "title": "Ariana Grande makes emotional tour exit and steps back from public life",
       "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
       "author": "",
       "published": "Tue, 01 Sep 2026 21:41:05 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "title": "UK aid worker says he was mistaken for survivor in Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/cg59d09nyyvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "summary": "Alastair Chambers says the mix-up was after he returned to Kathmandu after flying back in an aid helicopter.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 21:05:22 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "published": "Wed, 02 Sep 2026 09:24:23 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
-      "title": "Urine test can spot more than nine in 10 bladder cancers",
-      "link": "https://www.bbc.co.uk/news/articles/crr40g71vylo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The NHS has been trialling the test and says the results so far are truly promising.",
+      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 01:39:17 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "published": "Wed, 02 Sep 2026 10:00:08 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
-      "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
-      "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The iPhone maker follows rival technology giant Google in renaming the Great Lake.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 01:32:24 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US aircraft carrier to dock near Thai beach resort Pattaya after record 250 days at sea",
+      "title": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
       "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The ship is docking close to Pattaya, known for its raucous nightlife, and for sex tourism.",
+      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 23:59:46 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Families hit by long waits for dementia diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyp2n1e75o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hundreds of families say they have had to wait months or even years for a dementia diagnosis for a loved one.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 01:46:08 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "In the studio with Kasabian: 'We never thought we'd see success again'",
-      "link": "https://www.bbc.co.uk/news/articles/ce301e7w2qvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The rock band invite us into the studio to talk about the unexpected \"third act\" of their career.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 23:56:25 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Soft launches and late sittings - six ways to get cheaper meals out",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can net you cheaper deals.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 23:26:38 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
-      "link": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC's Tokyo correspondent Kurumi Mori tries Japan's latest food trend, instant noodles made using cold water.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 22:02:14 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Will self-flying planes transform the skies?",
-      "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 23:27:35 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'Brexit and Thatcher to blame' and 'Hottest summer ever'",
-      "link": "https://www.bbc.co.uk/news/articles/cg59d209dd1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Burnham's first parliamentary day as PM and the UK records \"hottest summer ever\" - what is leading Wednesday's papers.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 00:34:58 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 05:00:34 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Five takeaways from Burnham's Commons debut as PM",
-      "link": "https://www.bbc.co.uk/news/articles/c2e0rdkrjw0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister's first appearance in Parliament comes more than six weeks after he entered No 10.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 18:17:41 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "published": "Wed, 02 Sep 2026 10:04:28 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
@@ -201,67 +91,137 @@
       "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
       "author": "",
       "published": "Wed, 02 Sep 2026 01:27:34 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
-      "title": "Baby girl who died at Sheffield house was stabbed, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cdx0n18z8ypo?at_medium=RSS&at_campaign=rss",
+      "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+      "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A baby girl who was pronounced dead at a property in Sheffield was stabbed, police confirm.",
+      "summary": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 19:42:04 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "published": "Wed, 02 Sep 2026 01:32:24 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
-      "title": "Women pose as men to buy testosterone online after prescription difficulties",
+      "title": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can get you cheaper deals.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 23:26:38 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How the big five clubs strengthened their title hopes in record-breaking transfer window",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As the transfer window closes for the summer, chief football writer Phil McNulty asks if Arsenal's rivals have done enough to challenge the champions?",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 06:12:02 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
+      "link": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC's Tokyo correspondent Kurumi Mori tries Japan's latest food trend, instant noodles made using cold water.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 22:02:14 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "In the studio with Kasabian: 'We never thought we'd see success again'",
+      "link": "https://www.bbc.co.uk/news/articles/ce301e7w2qvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The rock band invite us into the studio to talk about the unexpected \"third act\" of their career.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 23:56:25 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Will self-flying planes transform the skies?",
+      "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 23:27:35 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How a small island in Canada appeared, vanished, and was found again",
+      "link": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Officials in British Columbia say the floating island drifted towards the shoreline of a local lake. But its origins remain a mystery.",
+      "author": "",
+      "published": "Tue, 01 Sep 2026 17:36:44 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Children as young as six going to A&E in mental health crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 06:18:31 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 09:34:32 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Khan convicted in car tax 'scam' for vehicle he denies owning",
+      "link": "https://www.bbc.co.uk/news/articles/c7708vn2yp7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "City Hall officials say the Nissan Micra does not belong to the mayor or Transport for London.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 09:36:22 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tiger Woods to change plea after crash arrest",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 00:26:08 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Menopausal women pose as men to buy testosterone online after prescription difficulties",
       "link": "https://www.bbc.co.uk/news/articles/cjw53nl479do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "One menopause specialists says she has seen women with up to 12 times the safe level of the hormone.",
+      "summary": "One menopause specialist says she has seen women with up to 12 times the safe level of the hormone.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 20:54:56 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "published": "Wed, 02 Sep 2026 04:57:14 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
-      "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+      "title": "Parking tickets sent to patient in intensive care",
+      "link": "https://www.bbc.co.uk/news/articles/cjrx2wrze84o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+      "summary": "Kate Matthews, 36, is in Hull Royal Infirmary and has been \"fighting for her life\" since March.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 16:11:18 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Israel warns it will retaliate if UK imposes sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 19:27:38 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Range Rover launches first fully electric model",
-      "link": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The vehicle is being built at JLR's manufacturing plant in Solihull, in the West Midlands.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 23:43:47 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Astronauts set out on rare all-female spacewalk",
-      "link": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 21:08:48 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "published": "Wed, 02 Sep 2026 05:15:34 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +241,7 @@
       "summary": "And, did CIA chief travel to Moscow to warn Putin against attacking Nato?",
       "author": "",
       "published": "Fri, 28 Aug 2026 15:21:00 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +251,7 @@
       "summary": "And, America says goodbye to musical icon Dolly Parton.",
       "author": "",
       "published": "Wed, 26 Aug 2026 17:14:00 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
@@ -301,27 +261,37 @@
       "summary": "High school misfit Evan lies to comfort a grieving mother - but will the truth come out?",
       "author": "",
       "published": "Fri, 28 Aug 2026 01:12:47 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fernandez joins Man City for joint-British record £125m",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss",
+      "title": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City pay a joint-British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.",
+      "summary": "The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 22:52:22 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "published": "Tue, 01 Sep 2026 23:16:59 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
-      "title": "Premier League breaks transfer record for second straight summer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
+      "title": "Have title contenders done enough in transfer window to challenge Arsenal?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Premier League clubs break their all-time summer transfer record after spending reaches £3.198bn.",
+      "summary": "As the transfer window closes for the summer, chief football writer Phil McNulty asks if Arsenal's rivals have done enough to challenge the champions?",
       "author": "",
-      "published": "Wed, 02 Sep 2026 00:17:42 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "published": "Wed, 02 Sep 2026 06:12:02 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Balogun has medical at Everton before abandoning move",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Everton's move for Folarin Balogun collapses after the striker changes his mind following a medical at the club's Finch Farm training base.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 07:48:04 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
@@ -331,47 +301,17 @@
       "summary": "Arthur Fery is unable to produce a repeat of his Wimbledon heroics as his US Open debut ends in a first-round loss to Italian 13th seed Lorenzo Musetti.",
       "author": "",
       "published": "Tue, 01 Sep 2026 23:19:35 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     },
     {
       "source": "bbc",
-      "title": "Superb England crush Ireland with record ODI chase",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdvem7yke9o?at_medium=RSS&at_campaign=rss",
+      "title": "Five moments that shaped Taylor's legendary career",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cp30z57kq0ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Maia Bouchier's stunning century helps England women seal their record one-day international chase of 282 to beat Ireland in the series opener.",
+      "summary": "From writing a letter to her idol as a 10-year-old to messaging a promoter on social media, here are five sliding doors moments that helped shape Katie Taylor’s career.",
       "author": "",
-      "published": "Tue, 01 Sep 2026 18:57:53 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Camara's £47.1m move from Monaco to Chelsea collapses",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 23:34:53 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rybakina makes winning start in race to number one",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c0m3wv4e7vlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Elena Rybakina says she is \"motivated\" by the race to become world number one but is simply taking things \"day by day\" after getting her US Open campaign off to a winning start.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 00:16:59 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Fofana seals £30m move to Sunderland",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sunderland have beaten Crystal Palace to the signing of Malick Fofana from Lyon.",
-      "author": "",
-      "published": "Tue, 01 Sep 2026 23:34:50 GMT",
-      "fetched_at": "2026-09-02T02:00:00.956738+00:00"
+      "published": "Wed, 02 Sep 2026 06:58:31 GMT",
+      "fetched_at": "2026-09-02T10:11:21.502116+00:00"
     }
   ]
 }
