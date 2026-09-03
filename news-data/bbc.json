@@ -1,57 +1,77 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-03T02:05:01.380971+00:00",
-  "count": 35,
+  "fetched_at": "2026-09-03T10:23:15.379325+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.",
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "Between 1 January and 1 September 2026, a total of 16,513 people crossed the English Channel by small boat from France. This was down by 43% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 40% of asylum applications between July 2025 to June 2026.\nBoats that arrived in the UK from 2 September 2025 to 1 September 2026 carried an average of 68 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from July 2025 to June 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,335 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,712 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from July 2025 to June 2026. This was down by 17% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
+      "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 20:43:06 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 05:00:04 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
-      "link": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
+      "link": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
+      "summary": "A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 18:57:51 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 06:21:09 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "The overlooked factor driving the childhood obesity crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss",
+      "title": "Zack Polanski says he'll run for former PM Starmer's seat in by-election",
+      "link": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "At a specialist childhood obesity clinic, almost all of the children are not in school. Why?",
+      "summary": "The Green Party leader intends to run in the Holborn and St Pancras seat following Sir Keir Starmer's resignation as MP.",
       "author": "",
-      "published": "Thu, 03 Sep 2026 00:47:45 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 08:45:04 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 23:36:49 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 06:01:54 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+      "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "summary": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 16:49:00 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 07:20:23 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hundreds of North Sea workers too heavy for new helicopter rules",
+      "link": "https://www.bbc.co.uk/news/articles/c4gk2zlv0e6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Workers should weigh no more than 19.5st fully clothed so that they can be winched to safety in an emergency.",
+      "author": "",
+      "published": "Thu, 03 Sep 2026 05:06:55 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
+      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 23:56:29 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
@@ -61,7 +81,17 @@
       "summary": "The party's continued prominence has brought what prominence always brings: scrutiny, says BBC political editor Chris Mason.",
       "author": "",
       "published": "Thu, 03 Sep 2026 01:55:46 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Another White House renovation? A look at Trump's new helipad",
+      "link": "https://www.bbc.co.uk/news/videos/cdx02dw785vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The facility will be the first of its kind at the White House - though critics feel it alters the property's historic grounds.",
+      "author": "",
+      "published": "Thu, 03 Sep 2026 08:14:16 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
@@ -71,77 +101,87 @@
       "summary": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
       "author": "",
       "published": "Wed, 02 Sep 2026 23:08:05 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rocky Horror star Tim Curry's cause of death revealed",
-      "link": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
+      "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
+      "summary": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 23:47:02 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 09:37:34 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 21:34:27 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "‘I'd be the last to know’: Stars of The Gentlemen react to Meghan reports",
-      "link": "https://www.bbc.co.uk/news/articles/c05rg7mj2p1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The world premiere for series 2 of the Netflix drama took place on Wednesday night in London.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 21:44:13 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Boulter wins one game in 58-minute US Open defeat",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cjdv3gxl5zgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "British number one Katie Boulter is dumped out in the second round of the US Open as she wins just one game in a 58-minute demolition by Karolina Muchova.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 22:56:24 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-      "link": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 23:24:06 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What famous scenes are in the epic Bayeux Tapestry?",
+      "title": "A guide to the famous scenes in the epic Bayeux Tapestry",
       "link": "https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum.",
       "author": "",
       "published": "Wed, 02 Sep 2026 18:40:57 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Chasing a perfect sleep score? You could be making it worse",
+      "title": "The overlooked factor driving the childhood obesity crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "At a specialist childhood obesity clinic, almost all of the children are not in school. Why?",
+      "author": "",
+      "published": "Thu, 03 Sep 2026 00:47:45 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: From Star Wars to Banksy, the art is with you at new Lucas Museum",
+      "link": "https://www.bbc.co.uk/news/videos/cg59d9dyn46o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The museum, founded Star Wars creator George Lucas and his wife, will feature more than 1,200 works of art.",
+      "author": "",
+      "published": "Thu, 03 Sep 2026 01:04:16 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How much should you give to the office whip-round?",
+      "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+      "author": "",
+      "published": "Wed, 02 Sep 2026 23:25:50 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why 'sleepmaxxing' could be making your sleep worse",
       "link": "https://www.bbc.co.uk/news/articles/c99drr70m2eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The things you're doing to make your sleep better could actually be making your sleep worse.",
       "author": "",
       "published": "Thu, 03 Sep 2026 00:41:27 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US sailors go shopping and bar-hopping in Thailand after 250-day voyage",
+      "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "With military haircuts and moustaches, the US sailors stood out against the flip-flops of the usual Pattaya crowd, writes the BBC's Jonathan Head.",
+      "author": "",
+      "published": "Thu, 03 Sep 2026 05:17:04 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Argentine league to pause games this weekend to honour Messi after his retirement",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyzjy431keo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Argentine football league will pay tribute to Lionel Messi's international career by pausing all their domestic matches in the 10th minute this weekend.",
+      "author": "",
+      "published": "Thu, 03 Sep 2026 08:42:31 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
@@ -151,107 +191,47 @@
       "summary": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
       "author": "",
       "published": "Thu, 03 Sep 2026 00:14:20 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-      "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+      "title": "Embattled Spanish PM Sánchez insists no prior warnings before Ceuta crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
+      "summary": "Spain's prime minister tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 13:20:11 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 09:30:26 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I don't even like them': How much should you give to office gift collections?",
-      "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+      "title": "MoD withheld information about nuclear test veterans' records, ex-minister claims",
+      "link": "https://www.bbc.co.uk/news/articles/c3d787k9kpyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+      "summary": "Cold War veterans who oversaw nuclear tests have claimed they caused lifelong health problems.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 23:25:50 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 08:52:28 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 11:47:11 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 03:21:24 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Will the Lindsay Clancy trial end in a mistrial? Here are the jury's options",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+      "title": "Almost half of households do not see benefits of economic growth, report says",
+      "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
+      "summary": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 23:56:29 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 17:21:00 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham to tackle 'mega-donors' in UK politics, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/c7839kyekm0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some MPs have pressed for the government to introduce a cap on UK-based donors.",
-      "author": "",
-      "published": "Thu, 03 Sep 2026 00:44:36 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sydney police investigate second possible mistaken identity killing in two days",
-      "link": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Wednesday's fatal shooting of a man in his 40s comes after a university student was gunned down on Tuesday.",
-      "author": "",
-      "published": "Thu, 03 Sep 2026 00:40:29 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Four in court over murder of baby stabbed to death",
-      "link": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Four people, aged between 19 and 38, appear in court charged with murdering the newborn.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 15:35:13 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Trump 'happy' that Prince Harry and Meghan left the US",
-      "link": "https://www.bbc.co.uk/news/videos/c33k72m7x11o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "President Donald Trump said he was not a fan of the couple and added that they treated the Royal Family with \"great disrespect\".",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 20:15:29 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
-      "author": "",
-      "published": "Wed, 02 Sep 2026 17:33:45 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 05:47:11 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +251,7 @@
       "summary": "Former Prime Minister Keir Starmer to stand down as an MP triggering a by-election.",
       "author": "",
       "published": "Tue, 01 Sep 2026 14:38:00 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +261,7 @@
       "summary": "And, why did Justin call Donald Trump from a train?",
       "author": "",
       "published": "Mon, 31 Aug 2026 09:00:00 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
@@ -291,67 +271,67 @@
       "summary": "Exposing a British scandal.  The women forced by the state to give up their newborns",
       "author": "",
       "published": "Mon, 31 Aug 2026 05:00:00 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man City buy costly new midfield - but have they overlooked Haaland cover?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
+      "title": "Ashes ticket price increase 'really poor' - Vaughan",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City have completed a squad overhaul including a fully revamped midfield to the tune of a Premier League record £458m, but that eyewatering number does not tell the full story.",
+      "summary": "Former England captain Michael Vaughan is critical of a 43% ticket price increase for next year's men's Ashes Test at Edgbaston.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 22:07:52 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 06:58:17 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Boulter wins one game in 58-minute US Open defeat",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cjdv3gxl5zgo?at_medium=RSS&at_campaign=rss",
+      "title": "Ranking the most game-changing transfers in Premier League history",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "British number one Katie Boulter is dumped out in the second round of the US Open as she wins just one game in a 58-minute demolition by Karolina Muchova.",
+      "summary": "Some transfers take time to bed in, others prove instant game-changers - here are the top 10 signings of the Premier League era that moved the needle.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 22:56:24 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 06:17:38 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fury calls Joshua a 'coward' as wait for announcement continues",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cx2zg14qzryo?at_medium=RSS&at_campaign=rss",
+      "title": "'What kind of question is that?' - Sabalenka spiky after ruthless win",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/ce8emkzpxmmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tyson Fury says Anthony Joshua is a \"coward\" as the pair face a tense wait to see whether their long-awaited all-British heavyweight blockbuster can be agreed.",
+      "summary": "Two-time defending champion Aryna Sabalenka cruises into the US Open third round before a spiky exchange with a journalist.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 20:55:37 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 02:21:11 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Olympic champion Davis-Woodhall 'lucky to be alive' after car crash",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cwyzdvrrz3yo?at_medium=RSS&at_campaign=rss",
+      "title": "Tifo, rollercoaster or both? Osnabruck unveil new display",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Olympic long jump champion Tara Davis-Woodhall says she is \"lucky and blessed to be alive\" after being involved in a car crash.",
+      "summary": "VfL Osnabruck showcase a tifo that took months to plan before their German Cup tie against Bayern Munich.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 19:18:45 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 09:38:32 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "Celtic sign five in one day after Van den Berg & Lotomba arrive",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
+      "title": "Italian Grand Prix declared heat-hazard race",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c99dp0zeymjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
+      "summary": "The Italian Grand Prix is declared a heat-hazard race as high temperatures continue in the country following the summer heatwave.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 22:07:25 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 09:41:30 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     },
     {
       "source": "bbc",
-      "title": "LA Clippers fined $30m by NBA over Leonard scandal",
-      "link": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
+      "title": "Brand sacks execs over ad showing woman pushed over",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cj647lgx00yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The LA Clippers are fined $30m (£22.2m) by the NBA for violating salary rules over the acquisition of star player Kawhi Leonard.",
+      "summary": "American brand Good Good sacks three senior executives following a backlash over an advert showing a woman being pushed to the ground.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 21:42:38 GMT",
-      "fetched_at": "2026-09-03T02:04:42.419102+00:00"
+      "published": "Thu, 03 Sep 2026 06:32:49 GMT",
+      "fetched_at": "2026-09-03T10:23:12.388092+00:00"
     }
   ]
 }
