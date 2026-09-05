@@ -1,8 +1,28 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-05T09:39:03.049689+00:00",
-  "count": 32,
+  "fetched_at": "2026-09-05T14:14:12.912723+00:00",
+  "count": 27,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Reform promises to increase tax-free personal allowance to £15,000",
+      "link": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The party says the tax cut will be paid for by reducing public spending by £80bn.",
+      "author": "",
+      "published": "Sat, 05 Sep 2026 12:59:02 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
+      "link": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power.",
+      "author": "",
+      "published": "Sat, 05 Sep 2026 12:32:31 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
+    },
     {
       "source": "bbc",
       "title": "Cleveland police chief proud of force but being 'let down' by funding",
@@ -11,37 +31,17 @@
       "summary": "Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.",
       "author": "",
       "published": "Sat, 05 Sep 2026 05:40:03 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
-      "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+      "title": "Jaguar Land Rover confirms planned job cuts",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+      "summary": "The firm says it needs to save about £1.7bn over the next two years.",
       "author": "",
-      "published": "Fri, 04 Sep 2026 19:50:01 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 06:37:46 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Reform promises to increase tax-free personal allowance to £15,000",
-      "link": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The party says the tax cut will be paid for by reducing public spending by £80bn.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 09:13:29 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "published": "Sat, 05 Sep 2026 13:22:17 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -51,57 +51,7 @@
       "summary": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
       "author": "",
       "published": "Sat, 05 Sep 2026 06:20:04 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US rapper rolled back the years for more than two hours at the first of his two shows in London.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 01:53:45 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Recipe for success - the Chicken Shop Date moments that created a YouTube star",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyqpmy01po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "After more than 10 years, Amelia Dimoldenberg announced Chicken Shop Date was shutting up shop.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 00:14:08 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Counterfeit copies of experimental weight-loss jab flood black market",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market.",
-      "author": "",
-      "published": "Fri, 04 Sep 2026 23:47:40 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why are European countries moving their gold out of North America?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 01:42:09 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Grand Tour's new presenters: 'I hope we prove the critics wrong'",
-      "link": "https://www.bbc.co.uk/news/articles/c9865dyrjrwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A new trio has taken the wheel of the motoring TV show from Jeremy Clarkson, Richard Hammond and James May.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 00:44:24 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -111,37 +61,107 @@
       "summary": "His comments sparked discussions around parenting, gender and culture, and just how important those three simple words are.",
       "author": "",
       "published": "Sat, 05 Sep 2026 00:19:32 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
-      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "title": "Counterfeit weight-loss jabs are booming - and doctors are worried",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+      "summary": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market.",
       "author": "",
-      "published": "Fri, 04 Sep 2026 23:07:23 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "published": "Fri, 04 Sep 2026 23:47:40 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
-      "title": "Heat exceeds 40C in parts of Europe  - is a September heatwave in store for the UK?",
+      "title": "Police say these cameras make US safer - so why are they being sabotaged?",
+      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
+      "author": "",
+      "published": "Sat, 05 Sep 2026 01:16:27 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What different world maps get right - and what they get wrong",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "author": "",
+      "published": "Sat, 05 Sep 2026 13:46:02 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Grand Tour's new presenters: 'I hope we prove the critics wrong'",
+      "link": "https://www.bbc.co.uk/news/articles/c9865dyrjrwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A new trio has taken the wheel of the motoring TV show from Jeremy Clarkson, Richard Hammond and James May.",
+      "author": "",
+      "published": "Sat, 05 Sep 2026 12:32:09 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why are European countries moving their gold out of North America?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "author": "",
+      "published": "Sat, 05 Sep 2026 01:42:09 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+      "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+      "author": "",
+      "published": "Fri, 04 Sep 2026 19:50:01 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+      "author": "",
+      "published": "Sat, 05 Sep 2026 10:02:29 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Temperature exceeds 40C in parts of Europe  - is a September heatwave likely for UK?",
       "link": "https://www.bbc.co.uk/weather/articles/cyvzq94g604o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Parts of central and southern Europe have seen temperatures above 40C this week. As things warm up in the UK, is there a heatwave on the way?",
       "author": "",
       "published": "Sat, 05 Sep 2026 00:30:26 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
+      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
       "author": "",
-      "published": "Fri, 04 Sep 2026 22:02:52 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "published": "Sat, 05 Sep 2026 12:23:00 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
+      "author": "",
+      "published": "Sat, 05 Sep 2026 07:20:17 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -151,27 +171,17 @@
       "summary": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
       "author": "",
       "published": "Sat, 05 Sep 2026 01:03:35 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Nigel on the ropes' and 'Tough first budget' says Healey",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvgejwgvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The majority of the papers on Saturday focus on Reform UK following the party's annual conference.",
+      "summary": "The US rapper rolled back the years for more than two hours at the first of his two shows in London.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 05:01:16 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
-      "link": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 05:52:05 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "published": "Sat, 05 Sep 2026 01:53:45 GMT",
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +191,7 @@
       "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
       "author": "",
       "published": "Sun, 30 Aug 2026 23:22:24 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +201,7 @@
       "summary": "More than 800 barrels of the stout have been stolen from a depot in Runcorn, Cheshire, say police.",
       "author": "",
       "published": "Thu, 03 Sep 2026 16:46:23 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +211,7 @@
       "summary": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground.",
       "author": "",
       "published": "Thu, 03 Sep 2026 10:01:33 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +221,7 @@
       "summary": "The former Great British Bake Off star says ageing is something to celebrate.",
       "author": "",
       "published": "Fri, 04 Sep 2026 05:23:14 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +241,7 @@
       "summary": "Two senior Reform UK officials step down after undercover donations report.",
       "author": "",
       "published": "Fri, 04 Sep 2026 12:23:00 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +251,7 @@
       "summary": "The US military is losing its senior leaders.",
       "author": "",
       "published": "Wed, 02 Sep 2026 18:05:00 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +261,7 @@
       "summary": "Go behind the scenes with the Manchester United and England footballer",
       "author": "",
       "published": "Fri, 29 May 2026 17:00:00 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     },
     {
       "source": "bbc",
@@ -261,67 +271,7 @@
       "summary": "An unsuccessful singer-songwriter wakes up in a world where no-one remembers The Beatles.",
       "author": "",
       "published": "Thu, 13 Aug 2026 23:31:15 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Isak finally arrives as Gakpo proves value to Liverpool",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
-      "author": "",
-      "published": "Fri, 04 Sep 2026 22:37:16 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Best bend I've ever run' - Hunt's strong season continues in Brussels",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Amy Hunt's strong late-season form showed no signs of letting up as she clocked a season's best to finish third in the 200m at the Diamond League final in Brussels.",
-      "author": "",
-      "published": "Fri, 04 Sep 2026 21:32:46 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I've never spoken to Everton owner Friedkin - Moyes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 08:40:13 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 06:32:23 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'It's so strong' - Sabalenka halts play over cannabis smell",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c4gm2607p0zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Aryna Sabalenka briefly halts her US Open match against Kamilla Rakhimova because of the smell of cannabis before going on to reach the fourth round.",
-      "author": "",
-      "published": "Fri, 04 Sep 2026 22:08:20 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Superstar-led London City live up to hype as Man Utd suffer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czxz1vnwgz6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There was an expectation on London City Lionesses to live up to the hype and deliver in the Women's Super League's season opener - and they did.",
-      "author": "",
-      "published": "Fri, 04 Sep 2026 22:02:34 GMT",
-      "fetched_at": "2026-09-05T09:39:00.551276+00:00"
+      "fetched_at": "2026-09-05T14:14:11.557703+00:00"
     }
   ]
 }
