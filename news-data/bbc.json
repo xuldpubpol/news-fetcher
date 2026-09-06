@@ -1,77 +1,37 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-06T09:54:31.019295+00:00",
-  "count": 34,
+  "fetched_at": "2026-09-06T14:37:33.061540+00:00",
+  "count": 30,
   "articles": [
     {
       "source": "bbc",
-      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+      "summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 02:24:16 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 13:16:21 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "title": "Police slow to respond to Dover protest, says council boss",
+      "link": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "summary": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 08:05:22 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 10:59:35 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+      "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "summary": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 23:20:00 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Temperatures could climb to 28C in late burst of warmth",
-      "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 04:08:41 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The next James Bond: The (00)7 questions fans want answered",
-      "link": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 00:06:10 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 07:06:50 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Prince William to attend King Harald's funeral in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 21:00:02 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 10:29:03 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -81,17 +41,57 @@
       "summary": "Planning, organising and remembering household tasks often fall disproportionately to mothers - here are some tips to help.",
       "author": "",
       "published": "Sat, 05 Sep 2026 23:31:14 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
-      "title": "'We feel abandoned by police': A community's despair after months of crime",
-      "link": "https://www.bbc.co.uk/news/articles/crk3xnm34p4o?at_medium=RSS&at_campaign=rss",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A crimewave in part of Birmingham over several months leaves residents asking who is in control.",
+      "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 06:28:46 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 09:56:39 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 14:07:35 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Royal Navy aircraft carrier departs for training",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz6728veqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "HMS Queen Elizabeth left Portsmouth Naval Base at about 18:20 BST on Saturday.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 10:32:38 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The next James Bond: The (00)7 questions fans want answered",
+      "link": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 00:06:10 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "author": "",
+      "published": "Sat, 05 Sep 2026 23:20:00 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +101,7 @@
       "summary": "The pop star talks about new music, stage fright, conspiracy theories and awkward auditions.",
       "author": "",
       "published": "Sun, 06 Sep 2026 00:22:07 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +111,7 @@
       "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
       "author": "",
       "published": "Sat, 05 Sep 2026 23:54:07 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +121,27 @@
       "summary": "The comedian is making his stage acting debut and says he wants to move away from social content.",
       "author": "",
       "published": "Sun, 06 Sep 2026 00:13:09 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Apologies after Diana fountain shut all summer by technical fault",
+      "link": "https://www.bbc.co.uk/news/articles/c8047ye4m9eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Diana Memorial Fountain remains closed following a sequence of technical faults.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 07:01:46 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 08:05:22 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -131,67 +151,47 @@
       "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
       "author": "",
       "published": "Sun, 06 Sep 2026 09:18:37 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Katie Taylor crowns career in stylish Croke Park triumph",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/clyeg4n8l98o?at_medium=RSS&at_campaign=rss",
+      "title": "Green Party deputy leader linked to property lets despite opposition to landlords",
+      "link": "https://www.bbc.co.uk/news/articles/clykgxp754no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Katie Taylor ends illustrious career as a three-time undisputed world champion as Croke Park gave one of Ireland's greatest sporting figures the grandest of farewells.",
+      "summary": "Mothin Ali, is linked to two rental properties via his company, but does not appear to profit from them.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 22:22:47 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 12:23:03 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "title": "Fifa president Infantino will stand for re-election",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "summary": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 22:44:07 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
-      "title": "City plan change sought to protect Tower of London",
-      "link": "https://www.bbc.co.uk/news/articles/clyejyeq3pro?at_medium=RSS&at_campaign=rss",
+      "title": "'We feel abandoned by police': A community's despair after months of crime",
+      "link": "https://www.bbc.co.uk/news/articles/crk3xnm34p4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Historic England is seeking changes to the Corporation's draft City Plan on development locations.",
+      "summary": "A crimewave in part of Birmingham over several months leaves residents asking who is in control.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 07:03:31 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 12:07:45 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "title": "Temperatures could climb to 28C in late burst of warmth",
+      "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+      "summary": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
       "author": "",
-      "published": "Fri, 04 Sep 2026 23:07:23 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 01:54:29 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I brushed off my sore throat as a hangover, but it turned into sepsis",
-      "link": "https://www.bbc.co.uk/news/articles/cp30121n24xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Doctors told Elle Black if she had gone to hospital later the outcome could have been quite different.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 06:08:31 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 04:08:41 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +201,7 @@
       "summary": "The things you're doing to make your sleep better could actually be making your sleep worse.",
       "author": "",
       "published": "Thu, 03 Sep 2026 00:41:27 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +211,7 @@
       "summary": "The Wolverhampton-born comedian and actress shares her experiences in her new memoir.",
       "author": "",
       "published": "Fri, 04 Sep 2026 12:28:31 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +221,7 @@
       "summary": "A newly married couple take an unusual method of transport to their wedding reception.",
       "author": "",
       "published": "Fri, 04 Sep 2026 05:25:45 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +231,7 @@
       "summary": "Sweetie was on the roof of a two-storey house after climbing through a first-floor bedroom window.",
       "author": "",
       "published": "Fri, 04 Sep 2026 09:57:24 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -241,17 +241,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
-      "title": "How Damaging Is Reform's Donations Row?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p85r6c?at_medium=RSS&at_campaign=rss",
+      "title": "How New Is Andy Burnham’s Labour?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p64w5c?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Nigel Farage tells Laura he 'wasn't listening' during foreign donor talks.",
+      "summary": "The new chancellor prepares a speech as the PM tries to seperate the party from the past.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 16:02:00 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 11:36:00 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +261,7 @@
       "summary": "Jonathan Swan gained unprecedented access to Trump’s inner circle.",
       "author": "",
       "published": "Fri, 04 Sep 2026 11:00:00 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "Go behind the scenes with the Manchester United and England footballer",
       "author": "",
       "published": "Fri, 29 May 2026 17:00:00 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
@@ -281,67 +281,27 @@
       "summary": "An unsuccessful singer-songwriter wakes up in a world where no-one remembers The Beatles.",
       "author": "",
       "published": "Thu, 13 Aug 2026 23:31:15 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Taylor's place among greats set in stone after extraordinary swansong",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
+      "title": "Vardy joins Burnley on season-long contract",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fairytale endings in boxing are a rarity, but Irish icon Katie Taylor sails off into the sunset after the most perfect of farewells at Dublin's towering Croke Park.",
+      "summary": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 06:24:34 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 14:01:54 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hunt 'not afraid of anyone' after second podium in two days",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss",
+      "title": "Fifa president Infantino will stand for re-election",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Amy Hunt says she is \"on the up\" and \"not afraid of anyone\" after finishing second in the 100m at the Diamond League final in Brussels.",
+      "summary": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 21:03:10 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 19:08:30 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zheng goes from 5-0 and match point down to victory",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c3eq55xznvyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 22:09:18 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 17:56:55 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 18:04:38 GMT",
-      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
+      "fetched_at": "2026-09-06T14:37:31.787511+00:00"
     }
   ]
 }
