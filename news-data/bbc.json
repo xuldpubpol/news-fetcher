@@ -1,47 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-06T01:56:55.093436+00:00",
-  "count": 35,
+  "fetched_at": "2026-09-06T09:54:31.019295+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 01:10:25 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sun, 06 Sep 2026 02:24:16 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-      "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused.",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 21:29:02 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 14:26:37 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 22:44:07 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sun, 06 Sep 2026 08:05:22 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -51,7 +31,37 @@
       "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
       "author": "",
       "published": "Sat, 05 Sep 2026 23:20:00 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Temperatures could climb to 28C in late burst of warmth",
+      "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 04:08:41 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The next James Bond: The (00)7 questions fans want answered",
+      "link": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 00:06:10 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 07:06:50 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -61,27 +71,37 @@
       "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
       "author": "",
       "published": "Sat, 05 Sep 2026 21:00:02 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
-      "link": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Severe delays and cancellations are set to continue, with no trains between central London and the airport.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 21:22:31 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
       "title": "Why more women carry the 'mental load' - and how couples can share it",
       "link": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Planning, organising and remembering household tasks falls disproportionately to mothers - here are some tips to help.",
+      "summary": "Planning, organising and remembering household tasks often fall disproportionately to mothers - here are some tips to help.",
       "author": "",
       "published": "Sat, 05 Sep 2026 23:31:14 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'We feel abandoned by police': A community's despair after months of crime",
+      "link": "https://www.bbc.co.uk/news/articles/crk3xnm34p4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A crimewave in part of Birmingham over several months leaves residents asking who is in control.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 06:28:46 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Natalie Imbruglia on her worst audition: 'I remember feeling icky'",
+      "link": "https://www.bbc.co.uk/news/articles/c87vpg1yvxzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The pop star talks about new music, stage fright, conspiracy theories and awkward auditions.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 00:22:07 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -91,17 +111,7 @@
       "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
       "author": "",
       "published": "Sat, 05 Sep 2026 23:54:07 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The next James Bond: the (00)7 questions fans want answered",
-      "link": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 00:06:10 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -111,17 +121,17 @@
       "summary": "The comedian is making his stage acting debut and says he wants to move away from social content.",
       "author": "",
       "published": "Sun, 06 Sep 2026 00:13:09 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "Natalie Imbruglia on her worst audition: 'I remember feeling icky'",
-      "link": "https://www.bbc.co.uk/news/articles/c87vpg1yvxzo?at_medium=RSS&at_campaign=rss",
+      "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The pop star's first album since 2021 deals with the mental health fallout of perimenopause.",
+      "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 00:22:07 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sun, 06 Sep 2026 09:18:37 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -131,47 +141,47 @@
       "summary": "Katie Taylor ends illustrious career as a three-time undisputed world champion as Croke Park gave one of Ireland's greatest sporting figures the grandest of farewells.",
       "author": "",
       "published": "Sat, 05 Sep 2026 22:22:47 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "Britain 'taxing itself to death' and 'Some Might Stray'",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4781d9mmo?at_medium=RSS&at_campaign=rss",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Several papers feature stories on what they say is Liam and Noel Gallagher's first joint interview in over 20 years.",
+      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 23:05:28 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sat, 05 Sep 2026 22:44:07 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "title": "City plan change sought to protect Tower of London",
+      "link": "https://www.bbc.co.uk/news/articles/clyejyeq3pro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "summary": "Historic England is seeking changes to the Corporation's draft City Plan on development locations.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 21:29:38 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sun, 06 Sep 2026 07:03:31 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "The centuries-old problem of mapping the world",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 16:14:24 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Fri, 04 Sep 2026 23:07:23 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Fantastic' moment blind veteran, 95, drives again after giving up licence",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyw8np7nmo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jim Alison, who gave up his licence five years ago, has driven again with support from a charity.",
+      "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 20:48:26 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sun, 06 Sep 2026 01:54:29 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -180,58 +190,48 @@
       "full_text": "",
       "summary": "Doctors told Elle Black if she had gone to hospital later the outcome could have been quite different.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 20:47:59 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sun, 06 Sep 2026 06:08:31 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "King and Queen join Highland games fans at Braemar Gathering",
-      "link": "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss",
+      "title": "Why 'sleepmaxxing' could be making your sleep worse",
+      "link": "https://www.bbc.co.uk/news/articles/c99drr70m2eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.",
+      "summary": "The things you're doing to make your sleep better could actually be making your sleep worse.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 18:04:39 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Thu, 03 Sep 2026 00:41:27 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
-      "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "title": "'Not only did I survive, I thrived' - Meera Syal after assaults",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zr356l66o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "summary": "The Wolverhampton-born comedian and actress shares her experiences in her new memoir.",
       "author": "",
-      "published": "Sun, 30 Aug 2026 23:22:24 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Fri, 04 Sep 2026 12:28:31 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "Thieves steal 70,000 pints of Guinness in two lorries",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjred1dleo?at_medium=RSS&at_campaign=rss",
+      "title": "'I didn't want a wedding car, I wanted a dragon boat'",
+      "link": "https://www.bbc.co.uk/news/articles/cj06zjdpg46o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 800 barrels of the stout have been stolen from a depot in Runcorn, Cheshire, say police.",
+      "summary": "A newly married couple take an unusual method of transport to their wedding reception.",
       "author": "",
-      "published": "Thu, 03 Sep 2026 16:46:23 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Fri, 04 Sep 2026 05:25:45 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "US man struck by lightning describes 'horrific' experience",
-      "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
+      "title": "Dog 'grounded' after rescue from roof of house",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyprjlmvgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground.",
+      "summary": "Sweetie was on the roof of a two-storey house after climbing through a first-floor bedroom window.",
       "author": "",
-      "published": "Thu, 03 Sep 2026 10:01:33 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Prue Leith: 'You come into your own growing old'",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The former Great British Bake Off star says ageing is something to celebrate.",
-      "author": "",
-      "published": "Fri, 04 Sep 2026 05:23:14 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Fri, 04 Sep 2026 09:57:24 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -241,27 +241,27 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "Newscast",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p64vx5?at_medium=RSS&at_campaign=rss",
+      "title": "How Damaging Is Reform's Donations Row?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p85r6c?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Two senior Reform UK officials step down after undercover donations report.",
+      "summary": "Nigel Farage tells Laura he 'wasn't listening' during foreign donor talks.",
       "author": "",
-      "published": "Fri, 04 Sep 2026 12:23:00 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sat, 05 Sep 2026 16:02:00 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "Has Pete Hegseth lost control of the Pentagon?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p7lymd?at_medium=RSS&at_campaign=rss",
+      "title": "An insider's account of Trump's White House",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzl?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "The US military is losing its senior leaders.",
+      "summary": "Jonathan Swan gained unprecedented access to Trump’s inner circle.",
       "author": "",
-      "published": "Wed, 02 Sep 2026 18:05:00 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Fri, 04 Sep 2026 11:00:00 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "Go behind the scenes with the Manchester United and England footballer",
       "author": "",
       "published": "Fri, 29 May 2026 17:00:00 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -281,27 +281,27 @@
       "summary": "An unsuccessful singer-songwriter wakes up in a world where no-one remembers The Beatles.",
       "author": "",
       "published": "Thu, 13 Aug 2026 23:31:15 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "Taylor crowns career in stylish Croke Park triumph",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/clyeg4n8l98o?at_medium=RSS&at_campaign=rss",
+      "title": "Taylor's place among greats set in stone after extraordinary swansong",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Katie Taylor ends illustrious career as a three-time undisputed world champion as Croke Park gave one of Ireland's greatest sporting figures the grandest of farewells.",
+      "summary": "Fairytale endings in boxing are a rarity, but Irish icon Katie Taylor sails off into the sunset after the most perfect of farewells at Dublin's towering Croke Park.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 22:22:47 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sun, 06 Sep 2026 06:24:34 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "'One of the best' - boxing world reacts to Taylor's farewell win",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/czxzygrgd19o?at_medium=RSS&at_campaign=rss",
+      "title": "Hunt 'not afraid of anyone' after second podium in two days",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Some of the biggest names in women's boxing pay tribute to Katie Taylor after the Irish great ended her career with victory over Flora Pili at Croke Park.",
+      "summary": "Amy Hunt says she is \"on the up\" and \"not afraid of anyone\" after finishing second in the 100m at the Diamond League final in Brussels.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 23:48:55 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sat, 05 Sep 2026 21:03:10 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -311,27 +311,7 @@
       "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
       "author": "",
       "published": "Sat, 05 Sep 2026 19:08:30 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "From chess to battle for pole, Gasly has Russell covered at Monza",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c3wjdn80g2jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Pierre Gasly delivered the biggest surprise pole position in F1 for years in Italy as the leading contenders had scrappy qualifying sessions.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 19:17:33 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Man Utd plan to compete at top with richer rivals",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat  Manchester United can be successful despite the club's relatively low summer spending.",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 21:57:48 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
@@ -341,17 +321,27 @@
       "summary": "Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.",
       "author": "",
       "published": "Sat, 05 Sep 2026 22:09:18 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     },
     {
       "source": "bbc",
-      "title": "Glasner and Williams dispute VAR call over Forest handball",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+      "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
+      "summary": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 18:36:28 GMT",
-      "fetched_at": "2026-09-06T01:56:51.920305+00:00"
+      "published": "Sat, 05 Sep 2026 17:56:55 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
+      "author": "",
+      "published": "Sat, 05 Sep 2026 18:04:38 GMT",
+      "fetched_at": "2026-09-06T09:54:28.370254+00:00"
     }
   ]
 }
