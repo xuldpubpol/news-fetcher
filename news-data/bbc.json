@@ -1,17 +1,17 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-07T11:02:52.698682+00:00",
-  "count": 30,
+  "fetched_at": "2026-09-07T16:52:04.723945+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "Watch: Anti-migrant boat protesters block roads in Portsmouth",
-      "link": "https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The government condemned \"the intimidating and thuggish behaviour\" of the demonstrators.",
+      "summary": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 05:57:30 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 15:20:48 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
@@ -20,8 +20,48 @@
       "full_text": "",
       "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 10:41:11 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 14:57:30 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "King makes clear Harry and Meghan remain non-working royals",
+      "link": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 16:37:55 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+      "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 15:41:52 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 15:27:50 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Self-described 'genocidal racist monster' jailed after BBC investigation",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywj92jwy1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A former tax worker is sentenced to two years for inciting hatred online.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 16:35:51 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
@@ -31,7 +71,17 @@
       "summary": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
       "author": "",
       "published": "Mon, 07 Sep 2026 05:31:06 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I have chronic cancer but I'm not going to die' - BBC presenter Maryam Moshiri",
+      "link": "https://www.bbc.co.uk/news/videos/cdr736zeljeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Moshiri was diagnosed in November 2024 with polycythaemia vera (PV), after her GP noticed irregularities in blood test results.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 12:51:12 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
@@ -40,68 +90,48 @@
       "full_text": "",
       "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 10:14:51 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 14:04:01 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+      "title": "Probe begins into why cargo plane overran Miami runway",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+      "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 22:00:36 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 09:54:40 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+      "title": "Next wins key appeal to overturn £30m equal pay ruling",
+      "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+      "summary": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 07:03:44 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 16:25:41 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "'The man who drugged and raped me was freed from prison and went on to kill'",
-      "link": "https://www.bbc.co.uk/news/articles/c74el40wpw9o?at_medium=RSS&at_campaign=rss",
+      "title": "Emotional Oasis documentary glosses over the hard stuff",
+      "link": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "One of Richard Scatchard's victims says his killing of Kelly Faiers in 2023 could have been avoided.",
+      "summary": "Don't Look Back In Anger captures the euphoria of the band's comeback, but fails to explore the story of their reunion.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 01:11:40 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 15:43:11 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "One million people to receive one-off pension top-up payment",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+      "title": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+      "summary": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 08:50:55 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
-      "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 06:13:17 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 09:36:14 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 14:36:37 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
@@ -111,17 +141,7 @@
       "summary": "The beauty and resilience of women living with cancer is celebrated though photography.",
       "author": "",
       "published": "Mon, 07 Sep 2026 05:15:34 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
-      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 04:07:23 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
@@ -131,77 +151,87 @@
       "summary": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
       "author": "",
       "published": "Mon, 07 Sep 2026 01:31:41 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
+      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+      "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 23:13:29 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 04:07:23 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "Smaller rugby ball for women makes it 'harder to do my job'",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwyz72pp22yo?at_medium=RSS&at_campaign=rss",
+      "title": "Man, 102, with dementia died after being pushed in pub, inquest told",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6p08v54jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A smaller ball is being trialled in women's international rugby union for September and October's WXV Global Series - and it is dividing opinion.",
+      "summary": "Phillip Ormerod was taken to hospital in critical condition and later died.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 06:30:17 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 15:18:35 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
+      "summary": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 09:31:26 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 12:22:07 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australians will be able to switch off social media algorithms under planned legislation",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
+      "title": "Murder arrests over baby girl's death in woodland",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
+      "summary": "Police say they have arrested two men and two women as part of their investigation.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 03:40:09 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 12:36:09 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "Probe begins into why Amazon cargo plane overran Miami runway",
-      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "title": "Plans for major overhaul of councils halted",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zkj09dy4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Five people are dead and five others injured after an aircraft overran the runway, hit vehicles and caught fire.",
+      "summary": "Proposals to merge smaller councils to form larger authorities have been paused or withdrawn in a number of areas.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 09:54:40 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 16:30:19 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "Israeli strikes in southern Lebanese village kill nine",
-      "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+      "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 10:16:56 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 14:50:50 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+      "summary": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 00:01:32 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 11:03:33 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 11:30:27 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +251,7 @@
       "summary": "The new chancellor prepares a speech as the PM tries to seperate the party from the past.",
       "author": "",
       "published": "Sun, 06 Sep 2026 11:36:00 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +261,7 @@
       "summary": "Jonathan Swan gained unprecedented access to Trump’s inner circle.",
       "author": "",
       "published": "Fri, 04 Sep 2026 11:00:00 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
@@ -241,57 +271,57 @@
       "summary": "Creating an icon. How a girl from the Smoky Mountains conquered Nashville – and the world",
       "author": "",
       "published": "Tue, 31 Mar 2026 05:00:00 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pietersen joins England's white-ball coaching team",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cz6zggqp190o?at_medium=RSS&at_campaign=rss",
+      "title": "Can Kane buck history and win Ballon d'Or?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup.",
+      "summary": "History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?",
       "author": "",
-      "published": "Mon, 07 Sep 2026 10:55:49 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 16:03:24 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "How £725 game-show winnings kick-started Champions League coach's career",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
+      "title": "Pakistan investigate 'discipline and conduct' on England tour",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cj4je1nl51qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
+      "summary": "Pakistan begin an inquiry into “discipline and conduct” in the latest twist on a turbulent tour of England.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 08:04:12 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 14:18:21 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
+      "title": "Who will be new Liverpool sporting director - and what issues do they face?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yw73ppwd1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?",
+      "summary": "The possible candidates to succeed Richard Hughes - plus the numerous tasks facing Liverpool's next sporting director.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 20:25:24 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 15:52:04 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "Antonelli 'walks over water' for win that will go down in F1 folklore",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2my2z365lo?at_medium=RSS&at_campaign=rss",
+      "title": "New video shows Williams handball - but won't end VAR row",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0lr4401rw0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kimi Antonelli delivered one of the great F1 drives to win the Italian Grand Prix and leave Mercedes' team-mate George Russell's title hopes almost a lost cause.",
+      "summary": "A new camera angle shows the ball coming off Nottingham Forest defender Neco Williams' arms as he scores his disallowed goal against Tottenham.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 19:53:30 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 11:13:12 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
-      "title": "'We're not robots' - why US Open men's contenders have tumbled",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/czrz8kmmdgzo?at_medium=RSS&at_campaign=rss",
+      "title": "Red Star fans unveil tifo of war criminal Mladic before derby",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c209n1y58neo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The chaotic nature of the men's draw has been a sharp contrast to the relative calm of the women's - but anyone can still win the US Open titles.",
+      "summary": "Red Star Belgrade fans unveil a tifo of war criminal Ratko Mladic before their derby win over Partizan Belgrade on Sunday.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 10:42:52 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "published": "Mon, 07 Sep 2026 11:35:38 GMT",
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +331,7 @@
       "summary": "Tyson Fury has sparked more speculation his all-British heavyweight fight with Anthony Joshua is on the verge of collapse by suggesting he needs a new opponent for November.",
       "author": "",
       "published": "Mon, 07 Sep 2026 06:54:57 GMT",
-      "fetched_at": "2026-09-07T11:02:44.197748+00:00"
+      "fetched_at": "2026-09-07T16:51:54.627380+00:00"
     }
   ]
 }
