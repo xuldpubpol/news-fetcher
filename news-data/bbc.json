@@ -1,37 +1,77 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-06T19:45:38.789904+00:00",
-  "count": 31,
+  "fetched_at": "2026-09-07T01:54:27.920719+00:00",
+  "count": 35,
   "articles": [
     {
       "source": "bbc",
-      "title": "German far-right set for big win in eastern state, projections show",
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+      "summary": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 19:30:14 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "published": "Sun, 06 Sep 2026 23:02:45 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 00:57:38 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 23:34:18 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 22:00:36 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "140 migrants in single dinghy rescued in English Channel",
+      "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "Between 1 January and 1 September 2026, a total of 16,513 people crossed the English Channel by small boat from France. This was down by 43% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 40% of asylum applications between July 2025 to June 2026.\nBoats that arrived in the UK from 2 September 2025 to 1 September 2026 carried an average of 68 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from July 2025 to June 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,335 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,712 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from July 2025 to June 2026. This was down by 17% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
+      "summary": "They were transferred onto two lifeboats and taken to shore in the UK.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 22:42:56 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
       "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 18:33:50 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "published": "Sun, 06 Sep 2026 20:41:58 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
       "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
       "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+      "summary": "Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.",
       "author": "",
       "published": "Sun, 06 Sep 2026 16:32:59 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -41,47 +81,27 @@
       "summary": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
       "author": "",
       "published": "Sun, 06 Sep 2026 16:39:45 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
-      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "title": "The £70 refund letter that isn't a scam",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 16:00:21 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "published": "Sun, 06 Sep 2026 23:16:05 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dozens feared trapped in collapsed building in Delhi",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "title": "Rapist serving life may face more assault charges",
+      "link": "https://www.bbc.co.uk/news/articles/cj06z37p0mlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "summary": "Zhenhao Zou was convicted of raping 10 women but he is thought to have committed further crimes.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 16:54:34 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "140 migrants in single dinghy rescued in English Channel",
-      "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "Between 1 January and 1 September 2026, a total of 16,513 people crossed the English Channel by small boat from France. This was down by 43% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 40% of asylum applications between July 2025 to June 2026.\nBoats that arrived in the UK from 2 September 2025 to 1 September 2026 carried an average of 68 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from July 2025 to June 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,335 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,712 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from July 2025 to June 2026. This was down by 17% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
-      "summary": "They were transferred onto two lifeboats and taken to shore in the UK.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 16:28:59 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-      "author": "",
-      "published": "Sat, 05 Sep 2026 23:20:00 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "published": "Mon, 07 Sep 2026 01:23:04 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -91,7 +111,7 @@
       "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
       "author": "",
       "published": "Sun, 06 Sep 2026 17:00:56 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -101,37 +121,67 @@
       "summary": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
       "author": "",
       "published": "Sun, 06 Sep 2026 13:01:17 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why more women carry the 'mental load' - and how couples can share it",
-      "link": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&at_campaign=rss",
+      "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
+      "link": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Planning, organising and remembering household tasks often fall disproportionately to mothers - here are some tips to help.",
+      "summary": "The actor says it was wonderful playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 23:31:14 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "published": "Mon, 07 Sep 2026 01:31:41 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
-      "title": "Natalie Imbruglia on her worst audition: 'I remember feeling icky'",
-      "link": "https://www.bbc.co.uk/news/articles/c87vpg1yvxzo?at_medium=RSS&at_campaign=rss",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The pop star talks about new music, stage fright, conspiracy theories and awkward auditions.",
+      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 00:22:07 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "published": "Sun, 06 Sep 2026 20:52:12 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
-      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+      "title": "Drug rape killer should never have been freed, says victim",
+      "link": "https://www.bbc.co.uk/news/articles/c74el40wpw9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
+      "summary": "One of Richard Scatchard's victims says his killing of Kelly Faiers in 2023 could have been avoided.",
       "author": "",
-      "published": "Sat, 05 Sep 2026 23:54:07 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "published": "Mon, 07 Sep 2026 01:11:40 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 00:01:32 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'Losing battle to halt Russia's 'hybrid' war' and 'Oh chute!'",
+      "link": "https://www.bbc.co.uk/news/articles/cdr73jpmpn1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A warning from defence officials and a skydiving miracle lead Monday's front pages.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 00:05:46 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 23:13:29 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -141,17 +191,7 @@
       "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
       "author": "",
       "published": "Sun, 06 Sep 2026 00:06:10 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
-      "link": "https://www.bbc.co.uk/news/articles/ce3r02z3dxno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The comedian is making his stage acting debut and says he wants to move away from social content.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 00:13:09 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -161,17 +201,27 @@
       "summary": "Three people have been arrested in connection to the incident near Gravesend.",
       "author": "",
       "published": "Sun, 06 Sep 2026 19:15:36 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
-      "title": "Apologies after Diana fountain shut all summer by technical fault",
-      "link": "https://www.bbc.co.uk/news/articles/c8047ye4m9eo?at_medium=RSS&at_campaign=rss",
+      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Diana Memorial Fountain remains closed following a sequence of technical faults.",
+      "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 07:01:46 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "published": "Sun, 06 Sep 2026 16:00:21 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 16:54:34 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -181,27 +231,7 @@
       "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
       "author": "",
       "published": "Sun, 06 Sep 2026 09:18:37 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 08:05:22 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Police slow to respond to Dover protest, says council boss",
-      "link": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 10:59:35 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +251,7 @@
       "summary": "The new chancellor prepares a speech as the PM tries to seperate the party from the past.",
       "author": "",
       "published": "Sun, 06 Sep 2026 11:36:00 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +261,7 @@
       "summary": "Jonathan Swan gained unprecedented access to Trump’s inner circle.",
       "author": "",
       "published": "Fri, 04 Sep 2026 11:00:00 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +271,7 @@
       "summary": "Go behind the scenes with the Manchester United and England footballer",
       "author": "",
       "published": "Fri, 29 May 2026 17:00:00 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +281,17 @@
       "summary": "An unsuccessful singer-songwriter wakes up in a world where no-one remembers The Beatles.",
       "author": "",
       "published": "Thu, 13 Aug 2026 23:31:15 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 20:25:24 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +301,7 @@
       "summary": "Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs alongside each other in midfield - how did they get here?",
       "author": "",
       "published": "Sun, 06 Sep 2026 19:31:17 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -271,37 +311,17 @@
       "summary": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
       "author": "",
       "published": "Sun, 06 Sep 2026 18:58:27 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
-      "title": "Antonelli takes stunning Monza win from 19th on grid",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/clyl3l325g6o?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli 'walks over water' for win that will go down in F1 folklore",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2my2z365lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mercedes' Kimi Antonelli takes a breathtaking victory in an incident-packed Italian Grand Prix from 19th place on the grid.",
+      "summary": "Kimi Antonelli delivered one of the great F1 drives to win the Italian Grand Prix and leave Mercedes' team-mate George Russell's title hopes almost a lost cause.",
       "author": "",
-      "published": "Sun, 06 Sep 2026 19:34:53 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man Utd cannot ignore more dropped points despite positives",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 17:18:32 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
-      "author": "",
-      "published": "Sun, 06 Sep 2026 18:58:33 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "published": "Sun, 06 Sep 2026 19:53:30 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +331,27 @@
       "summary": "Sophia Dunkley hits 119 as England end their international summer with a 114-run thrashing of Ireland at Worcester.",
       "author": "",
       "published": "Sun, 06 Sep 2026 16:15:53 GMT",
-      "fetched_at": "2026-09-06T19:45:36.055312+00:00"
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 18:58:33 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "author": "",
+      "published": "Sun, 06 Sep 2026 22:06:40 GMT",
+      "fetched_at": "2026-09-07T01:54:16.808465+00:00"
     }
   ]
 }
