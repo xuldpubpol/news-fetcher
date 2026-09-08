@@ -1,97 +1,37 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-08T02:05:22.255038+00:00",
-  "count": 37,
+  "fetched_at": "2026-09-08T10:17:20.734181+00:00",
+  "count": 31,
   "articles": [
     {
       "source": "bbc",
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-      "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
+      "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Foreign Secretary Ed Miliband is expected to outline proposals targeting goods from Israeli-occupied areas on Tuesday.",
+      "summary": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 01:50:55 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 06:58:02 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "Between 1 January and 6 September 2026, a total of 17,138 people crossed the English Channel by small boat from France. This was down by 43% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 40% of asylum applications between July 2025 to June 2026.\nBoats that arrived in the UK from 7 September 2025 to 6 September 2026 carried an average of 68 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from July 2025 to June 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,335 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,712 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from July 2025 to June 2026. This was down by 17% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
-      "summary": "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\".",
+      "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+      "link": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 19:04:09 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 09:43:53 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "King makes clear Harry and Meghan remain non-working royals",
-      "link": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+      "title": "A&E did not get the basics right - my son's life was ruined at 32",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+      "summary": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 18:23:31 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-      "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 15:41:52 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 22:23:03 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 21:12:37 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Self-described 'genocidal racist monster' jailed after BBC investigation",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywj92jwy1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A former tax worker is sentenced to two years for inciting hatred online.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 19:58:04 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Prince George set for first day at Eton College",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 01:00:32 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 23:05:12 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 03:49:39 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
@@ -100,48 +40,98 @@
       "full_text": "",
       "summary": "Parts of England and Wales have seen more rain than any other week since early February but are still in drought.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 01:05:08 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 09:31:31 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-      "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+      "title": "Canadian counter-tariffs come into force as US trade dispute escalates",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+      "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 14:57:30 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 04:39:14 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Police forces failing investigation basics, says inspectorate report",
-      "link": "https://www.bbc.co.uk/news/articles/c05r61jzp0po?at_medium=RSS&at_campaign=rss",
+      "title": "Prince George begins first day at Eton College",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "His Majesty's Chief Inspector of Constabulary said too many victims are not receiving the quality of service they should expect.",
+      "summary": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 00:21:35 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 08:57:31 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+      "title": "'Good to have choice': Australians on opting out of social media algorithms",
+      "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 06:20:10 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK's third-biggest taxpayer to leave for Greece",
+      "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 09:33:35 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 23:46:44 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 09:17:48 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The firms turning recruitment into X Factor-style competitions",
       "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
       "author": "",
-      "published": "Mon, 07 Sep 2026 23:06:14 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 07:43:15 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
-      "link": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+      "title": "Forget the Mediterranean diet, I'm eating only food from Shetland for a month",
+      "link": "https://www.bbc.co.uk/news/articles/c74ewj1kdyro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
+      "summary": "Dr Alex Armitage is eating only food grown, reared or caught in Shetland during September.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 15:20:48 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 09:02:46 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Liam Gallagher's tambourine grin and Charli XCX says bye to Brat - Music Photography Awards 2026 shortlist",
+      "link": "https://www.bbc.co.uk/news/articles/c3re99gp4pro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nominees for the Abbey Road awards captured some of the past year's best moments in music.",
+      "author": "",
+      "published": "Mon, 07 Sep 2026 23:01:22 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
@@ -151,117 +141,87 @@
       "summary": "As he publishes his autobiography, Sir Paul Smith takes BBC News on a tour of his London headquarters.",
       "author": "",
       "published": "Tue, 08 Sep 2026 01:14:17 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Emotional Oasis documentary glosses over the hard stuff",
-      "link": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Don't Look Back In Anger captures the euphoria of the band's comeback, but fails to explore the story of their reunion.",
+      "summary": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 15:43:11 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Mon, 07 Sep 2026 15:20:48 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
+      "title": "'I've had no hot water or heating for most of my pregnancy'",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zyj4lrn1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
+      "summary": "Residents living in flats in Croydon are in limbo having have been without gas since March.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 14:36:37 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 05:13:32 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Port in a storm' and 'Megxit means Megxit'",
-      "link": "https://www.bbc.co.uk/news/articles/cde0z4e8d1wo?at_medium=RSS&at_campaign=rss",
+      "title": "Champions League returns - who are favourites and players to watch?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Immigration protests, Harry and Meghan, and UK-Israel relations dominate the front pages on Tuesday.",
+      "summary": "The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 00:17:49 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Mon, 07 Sep 2026 20:30:53 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "title": "Shetland spaceport project secures £30m of UK government investment",
+      "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+      "summary": "Several companies hope to use SaxaVord in Unst, the northernmost point in the UK, as a launch site for small commercial rockets.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 05:31:06 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 08:48:33 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "title": "Highest paid world leader to get salary increase of $1 million",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
       "author": "",
-      "published": "Tue, 08 Sep 2026 01:32:56 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 09:20:05 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+      "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+      "summary": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 01:07:47 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 06:49:56 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I have chronic cancer but I'm not going to die' - BBC presenter Maryam Moshiri",
-      "link": "https://www.bbc.co.uk/news/videos/cdr736zeljeo?at_medium=RSS&at_campaign=rss",
+      "title": "Nepal cracks down on online abuse of flood survivors",
+      "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Moshiri was diagnosed in November 2024 with polycythaemia vera (PV), after her GP noticed irregularities in blood test results.",
+      "summary": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 12:51:12 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 08:31:01 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "title": "Police forces failing investigation basics, says inspectorate report",
+      "link": "https://www.bbc.co.uk/news/articles/c05r61jzp0po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+      "summary": "His Majesty's Chief Inspector of Constabulary said too many victims are not receiving the quality of service they should expect.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 23:46:44 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 15:27:50 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ecclestone stopped by police for taking shotgun into Portugal",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 17:40:04 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What we know about the journey of the Portsmouth migrant boat",
-      "link": "https://www.bbc.co.uk/news/videos/ce8xz6p23dno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Verify used ship-tracking websites to follow UK and French vessels which monitored the migrant boat in the English Channel.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 17:57:19 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 00:21:35 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +241,7 @@
       "summary": "Chancellor John Healey aims for ‘vibes boost’ in first major economic speech.",
       "author": "",
       "published": "Mon, 07 Sep 2026 16:26:00 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +251,7 @@
       "summary": "And will Trump succeed in limiting mail-in voting before the midterms?",
       "author": "",
       "published": "Mon, 07 Sep 2026 18:15:00 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
@@ -301,77 +261,57 @@
       "summary": "Creating an icon. How a girl from the Smoky Mountains conquered Nashville – and the world",
       "author": "",
       "published": "Tue, 31 Mar 2026 05:00:00 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Champions League returns - who are favourites and players to watch?",
+      "title": "Who are favourites and players to watch in 2026-27 Champions League?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Champions League is back and BBC Sport take a look at who the favourites are to win the title plus predictions from the experts.",
+      "summary": "The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts.",
       "author": "",
       "published": "Mon, 07 Sep 2026 20:30:53 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Can Kane buck history and win Ballon d'Or?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss",
+      "title": "How Alcaraz can single-handedly end American dreams",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?",
+      "summary": "Three Americans have the chance to become the first home US Open men's champion since 2003. But Carlos Alcaraz stands in the way.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 16:03:24 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 09:56:43 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rybakina sweeps past Osaka to close in on number one ranking",
+      "title": "Newcastle were 'preparing for months' for Howe departure",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 06:21:00 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 06:42:09 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Gauff's dominant win completes stacked US Open last eight",
       "link": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Elena Rybakina sweeps aside two-time champion Naomi Osaka to reach the  US Open quarter-finals and close in on becoming world number one.",
+      "summary": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 22:09:00 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zheng stuns Swiatek after winning another set from 5-0 down",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cm2ml7xxg80o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Zheng Qinwen wins a set from 5-0 down for the second successive match as she shocks Iga Swiatek to reach the US Open quarter-finals.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 21:55:23 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ecclestone stopped by police for taking shotgun into Portugal",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 17:40:04 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Edu leaves Nottingham Forest after turbulent spell",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Global head of football Edu leaves Nottingham Forest after just over a year at the City Ground.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 16:45:43 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Allow overseas stars to play for England - Lawes",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5y5kd13y99o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "England selection should no longer be restricted to players based at domestic clubs, according to cap centurion Courtney Lawes.",
-      "author": "",
-      "published": "Mon, 07 Sep 2026 17:30:19 GMT",
-      "fetched_at": "2026-09-08T02:05:14.548219+00:00"
+      "published": "Tue, 08 Sep 2026 02:59:35 GMT",
+      "fetched_at": "2026-09-08T10:17:15.352531+00:00"
     }
   ]
 }
