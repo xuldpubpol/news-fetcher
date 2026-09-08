@@ -1,37 +1,77 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-08T15:39:51.287137+00:00",
-  "count": 32,
+  "fetched_at": "2026-09-08T20:29:16.069083+00:00",
+  "count": 30,
   "articles": [
     {
       "source": "bbc",
-      "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
-      "link": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.",
+      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 09:43:53 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 19:11:39 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "Four Renoir paintings worth millions stolen in French museum heist",
+      "title": "Ports denied request to land 120 migrants in RNLI boats",
+      "link": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 20:13:19 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump shares misleading video of King and fainting worker",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 16:31:16 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Glastonbury confirms ticket sale dates - and highest ever price",
+      "link": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The festival will return in June after taking a fallow year, but tickets have topped £400 for the first time.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 18:10:14 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "British widow faces deportation from Sweden after 22 years",
+      "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 18:02:42 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Prince George attends first day at Eton College",
+      "link": "https://www.bbc.co.uk/news/videos/clyjdgvzg0yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 13 year old was dropped off at the all-boys boarding school by his parents, Prince William and Princess Catherine of Wales.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 16:32:06 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Renoir paintings worth millions stolen in French museum heist",
       "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
       "author": "",
       "published": "Tue, 08 Sep 2026 13:35:28 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Nottingham attacks victim's death 'potentially preventable'",
-      "link": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 15:18:10 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -41,27 +81,7 @@
       "summary": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
       "author": "",
       "published": "Tue, 08 Sep 2026 11:43:32 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Prince George begins first day at a rainy Eton College",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 11:52:40 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ports denied request to land 120 migrants in RNLI boats",
-      "link": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 15:26:05 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -71,37 +91,17 @@
       "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
       "author": "",
       "published": "Tue, 08 Sep 2026 11:09:54 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "England up in reading, maths and science rankings as Scotland and Wales fall behind",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy6n0l4rdo?at_medium=RSS&at_campaign=rss",
+      "title": "Iceland summons US ambassador over Trump's stars and stripes map",
+      "link": "https://www.bbc.co.uk/news/articles/c93ek32pqd2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The latest Pisa report also warned of a global decline in teenagers' reading skills.",
+      "summary": "Trump's territorial ambitions have repeatedly strained relations with neighbouring countries.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 13:53:13 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
-      "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "A modern browser with JavaScript and a stable internet connection is required to view this interactive.",
-      "summary": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 15:19:43 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 09:20:05 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 15:55:19 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -111,17 +111,17 @@
       "summary": "Nominees for the Abbey Road awards captured some of the past year's best moments in music.",
       "author": "",
       "published": "Mon, 07 Sep 2026 23:01:22 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
+      "link": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
+      "summary": "BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 15:36:34 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 16:45:32 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +131,7 @@
       "summary": "Dr Alex Armitage is eating only food grown, reared or caught locally during September.",
       "author": "",
       "published": "Tue, 08 Sep 2026 09:02:46 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +141,7 @@
       "summary": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
       "author": "",
       "published": "Tue, 08 Sep 2026 12:16:30 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +151,7 @@
       "summary": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
       "author": "",
       "published": "Tue, 08 Sep 2026 07:43:15 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -161,7 +161,7 @@
       "summary": "The celebrated British fashion designer invited BBC News to his office to talk about his career and a rubber chicken.",
       "author": "",
       "published": "Tue, 08 Sep 2026 12:14:06 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -171,77 +171,77 @@
       "summary": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
       "author": "",
       "published": "Tue, 08 Sep 2026 03:49:39 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "Canadian counter-tariffs come into force as US trade dispute escalates",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "title": "Kane among three of England's World Cup stars to make Ballon d'Or shortlist",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
+      "summary": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 14:46:16 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 15:27:09 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "title": "New law to force tech firms to stop children taking or sharing nude images",
+      "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
+      "summary": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 11:38:07 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 16:48:29 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "I was fired from The Voice - I didn't want to leave, says Sir Tom Jones",
-      "link": "https://www.bbc.co.uk/news/articles/c70dx3z9956o?at_medium=RSS&at_campaign=rss",
+      "title": "Fourteen go on trial over deadliest Channel small boats disaster",
+      "link": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Welsh singer has appeared as an on-off coach on the competition since it premiered in 2012.",
+      "summary": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 14:21:55 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 17:24:25 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK's third-biggest taxpayer to leave for Greece",
-      "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+      "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+      "link": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
+      "summary": "A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 09:33:35 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 09:43:53 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "title": "Nottingham attacks victim's death 'potentially preventable'",
+      "link": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The attack happened while the We Are Ukraine channel was broadcasting live, President Zelensky said.",
+      "summary": "The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 15:19:40 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 15:18:10 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pensioner with 'largest hoard' of child abuse images found in Scotland jailed",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z9xdyldwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 83-year-old from Stenhousemuir was found to have more than two million images on a number of devices.",
+      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+      "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "A modern browser with JavaScript and a stable internet connection is required to view this interactive.",
+      "summary": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 14:06:02 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 15:19:43 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "Some veterans to be called up to test UK's war resilience",
-      "link": "https://www.bbc.co.uk/news/articles/crr4qr2wg8do?at_medium=RSS&at_campaign=rss",
+      "title": "Lindsay Clancy's lawyer hopes for deal with prosecutors after mistrial",
+      "link": "https://www.bbc.co.uk/news/articles/czrz6gxp033o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An exercise next year on a scale not seen for a \"very long time\" will test the UK's preparedness, a minister says.",
+      "summary": "During an appearance on Good Morning America, Kevin Reddington also asked Trump to pardon Clancy.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 11:01:19 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 17:30:39 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -251,17 +251,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "Can The Chancellor's Positive Vibes Limit Tax Rises?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p650y7?at_medium=RSS&at_campaign=rss",
+      "title": "Why Has The UK Government Changed Its Approach to Israel?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p8l9mf?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Chancellor John Healey aims for ‘vibes boost’ in first major economic speech.",
+      "summary": "UK imposes sanctions on Israeli settlements in the West Bank.",
       "author": "",
-      "published": "Mon, 07 Sep 2026 16:26:00 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 15:55:00 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,17 @@
       "summary": "And will Trump succeed in limiting mail-in voting before the midterms?",
       "author": "",
       "published": "Mon, 07 Sep 2026 18:15:00 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "LIV players free to leave after bankruptcy protection filing",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "LIV Golf files for bankruptcy protection as it attempts to restructure after Saudi Arabia withdrew its multibillion dollar funding - a move that means all its players are free to leave.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 20:27:19 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
@@ -281,47 +291,17 @@
       "summary": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
       "author": "",
       "published": "Tue, 08 Sep 2026 15:27:09 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     },
     {
       "source": "bbc",
-      "title": "England different from when Pietersen left - Root",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
+      "title": "Sabalenka fights back to keep US Open defence alive",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Joe Root says the England team is \"very different\" to the one Kevin Pietersen was sacked from in 2014, after the former batter joined the coaching staff of the white-ball side.",
+      "summary": "Aryna Sabalenka battles back to beat sixth seed Linda Noskova in three sets and advance to the semi-finals.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 14:18:17 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mac Allister 'sad' at no Liverpool contract offer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 13:01:12 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "McTominay's heart procedure 'a complete success'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 12:28:16 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Alcaraz can single-handedly end American dreams",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Three Americans have the chance to become the first home US Open men's champion since 2003. But Carlos Alcaraz stands in the way.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 09:56:43 GMT",
-      "fetched_at": "2026-09-08T15:39:48.276573+00:00"
+      "published": "Tue, 08 Sep 2026 19:07:02 GMT",
+      "fetched_at": "2026-09-08T20:29:14.249573+00:00"
     }
   ]
 }
