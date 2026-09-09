@@ -1,87 +1,47 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-09T02:09:50.106087+00:00",
-  "count": 35,
+  "fetched_at": "2026-09-09T10:24:10.036289+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
+      "link": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+      "summary": "It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 01:45:15 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Tue, 08 Sep 2026 23:52:28 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "summary": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 21:46:31 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 04:59:08 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 23:18:39 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
+      "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
       "author": "",
-      "published": "Wed, 09 Sep 2026 00:41:53 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 09:47:39 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
-      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+      "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 23:11:32 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The trail of clues that our planet might be heating faster than we realised",
-      "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 23:11:52 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US slaps import ban on Canadian alcohol and other goods",
-      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 01:09:15 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Very hot drinks may damage the food pipe and increase cancer risk",
-      "link": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Steaming hot liquid can damage the cell lining on the way down to the stomach, experts say.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 23:30:39 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 09:58:27 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
@@ -91,37 +51,97 @@
       "summary": "The comedian and Celebrity Traitors win big - see a full list of winners and nominees from the 26th edition of the awards.",
       "author": "",
       "published": "Wed, 09 Sep 2026 01:28:19 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "RNLI boss says volunteers facing 'unacceptable' abuse",
-      "link": "https://www.bbc.co.uk/news/articles/c0j3912qe33o?at_medium=RSS&at_campaign=rss",
+      "title": "Very hot drinks may damage the food pipe and increase cancer risk",
+      "link": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Peter Sparkes says there has been \"deliberate misinformation\" spread about the charity.",
+      "summary": "Steaming hot liquid can damage the cell lining on the way down to the stomach, experts say.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 20:25:12 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Tue, 08 Sep 2026 23:30:39 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Glastonbury confirms ticket sale dates - and highest ever price",
-      "link": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo?at_medium=RSS&at_campaign=rss",
+      "title": "Shelton beats Alcaraz in late-night epic to reach US Open semis",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The festival will return in June after taking a fallow year, but tickets have topped £400 for the first time.",
+      "summary": "Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton which ends at 03:34 local time.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 18:10:14 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 09:03:44 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Thousands of teens missing education 'under the radar' of official stats, report warns",
-      "link": "https://www.bbc.co.uk/news/articles/cwyznq259elo?at_medium=RSS&at_campaign=rss",
+      "title": "Police officer's funeral to take place after A66 crash that killed seven",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The children's commissioner for England says many are enrolled at college but aren't showing up.",
+      "summary": "PC Matthew Blades' family say he brought light and laughter into every room.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 23:33:16 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 06:34:26 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Learner drivers still waiting 20 weeks to book tests",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 09:55:11 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 23:11:32 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Are women better than men at endurance running?",
+      "link": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Women have beaten men in some high-profile endurance events in recent months - are they better suited to these challenges?",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 06:27:02 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What are my rights if my flight is cancelled or delayed?",
+      "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 08:04:14 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "British-Israeli relations at lowest ebb in decades",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 21:46:31 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but it comes at a cost",
+      "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+      "author": "",
+      "published": "Tue, 08 Sep 2026 23:11:41 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
@@ -131,137 +151,87 @@
       "summary": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
       "author": "",
       "published": "Tue, 08 Sep 2026 23:04:17 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
+      "title": "The trail of clues that suggest our planet might be heating faster than we realised",
+      "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.",
+      "summary": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 23:52:28 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Tue, 08 Sep 2026 23:11:52 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
-      "link": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
+      "title": "Divorcing abusive husband cost woman £105k",
+      "link": "https://www.bbc.co.uk/news/articles/c70lqll4zk2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.",
+      "summary": "Annabelle Boucher wants the law changed after she paid thousands to divorce her coercive ex-husband.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 16:45:32 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 05:24:31 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-      "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+      "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 23:11:41 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 10:20:40 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Israel reacts with fury' and 'air traffic collapse'",
-      "link": "https://www.bbc.co.uk/news/articles/c1j4npw4wpxo?at_medium=RSS&at_campaign=rss",
+      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sanctions on West Bank settlements, airport chaos and Prince George dominate Wednesday's front pages.",
+      "summary": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 00:39:45 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 07:44:20 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Forget the Mediterranean diet, I'm eating only food from Shetland for a month",
-      "link": "https://www.bbc.co.uk/news/articles/c74ewj1kdyro?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Sinkhole at Nicolas Cage's Malibu house swallows driveway",
+      "link": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dr Alex Armitage is eating only food grown, reared or caught locally during September.",
+      "summary": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 09:02:46 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 09:49:08 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "A&E did not get the basics right - my son's life was ruined at 32",
-      "link": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
+      "title": "Family of slain teen call for death penalty in D4vd trial",
+      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
+      "summary": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 03:49:39 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 09:58:48 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "LIV files for bankruptcy protection with $45m owed to players",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
+      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
+      "summary": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 21:20:22 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 05:39:16 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Renoir paintings worth millions stolen in French museum heist",
-      "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+      "title": "'Emotional rollercoaster' - Lindsay Clancy jurors speak out on what led to mistrial",
+      "link": "https://www.bbc.co.uk/news/articles/c74k13kpv2no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+      "summary": "The three jurors said after 40 hours, a lone male juror wouldn't agree with the rest of the panel to find Clancy not guilty by reason of insanity.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 13:35:28 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "New law to force tech firms to stop children taking or sharing nude images",
-      "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 16:48:29 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Monty Don to leave Gardeners' World after more than 20 years",
-      "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 11:43:32 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump shares misleading video of King and fainting worker",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 16:31:16 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "British widow faces deportation from Sweden after 22 years",
-      "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 18:02:42 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Commentator Tim Montgomerie quits Reform following suspension",
-      "link": "https://www.bbc.co.uk/news/articles/c9dw051g53go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The political commentator, who defected from the Tories 18 months ago, was suspended from Reform UK last month.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 18:54:41 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 03:47:15 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +251,7 @@
       "summary": "UK imposes sanctions on Israeli settlements in the West Bank.",
       "author": "",
       "published": "Tue, 08 Sep 2026 15:55:00 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +261,17 @@
       "summary": "And will Trump succeed in limiting mail-in voting before the midterms?",
       "author": "",
       "published": "Mon, 07 Sep 2026 18:15:00 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton which ends at 03:34 local time.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 09:03:44 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
@@ -301,17 +281,27 @@
       "summary": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
       "author": "",
       "published": "Tue, 08 Sep 2026 21:20:22 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bouaddi impresses on first start - have Man City found 'a gem'?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy0zq59gr21o?at_medium=RSS&at_campaign=rss",
+      "title": "McLaren talks, 'numb' cars and being 'captain of the ship' - Verstappen Q&A",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cy4ze023nvro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the 18-year-old.",
+      "summary": "In an exclusive interview with BBC Sport, Max Verstappen talks about his new contract at Red Bull and much more.",
       "author": "",
-      "published": "Tue, 08 Sep 2026 22:09:47 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 05:06:34 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England to extend head coach Borthwick's contract",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ydlq5n0zwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England head coach Steve Borthwick will have his contract extended past the 2028 Six Nations in a bid to avoid uncertainty over his future before and during next year's Rugby World Cup.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 06:23:43 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
@@ -321,37 +311,17 @@
       "summary": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
       "author": "",
       "published": "Tue, 08 Sep 2026 23:14:36 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tiafoe consoles tearful Michelsen after remarkable US Open comeback",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c33k6zl5m87o?at_medium=RSS&at_campaign=rss",
+      "title": "Are women better than men at endurance running?",
+      "link": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Frances Tiafoe comes from two sets and a break down to beat Alex Michelsen in a thrilling comeback to reach the US Open semi-finals.",
+      "summary": "Women have beaten men in some high-profile endurance events in recent months - are they better suited to these challenges?",
       "author": "",
-      "published": "Wed, 09 Sep 2026 00:13:06 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "West Ham go top of Championship - are they ready to leave past behind?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp80znxj2dmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Three wins in a row, top of the table, unity at the club - are West Ham ready to leave the past behind on and off the pitch?",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 22:38:58 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sabalenka fights back to keep US Open defence alive",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Aryna Sabalenka battles back to beat sixth seed Linda Noskova in three sets and advance to the semi-finals.",
-      "author": "",
-      "published": "Tue, 08 Sep 2026 19:07:02 GMT",
-      "fetched_at": "2026-09-09T02:09:45.442828+00:00"
+      "published": "Wed, 09 Sep 2026 06:27:02 GMT",
+      "fetched_at": "2026-09-09T10:23:54.339631+00:00"
     }
   ]
 }
