@@ -1,77 +1,107 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-10T02:07:28.876322+00:00",
-  "count": 36,
+  "fetched_at": "2026-09-10T10:15:30.320940+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
-      "title": "Police launch criminal investigation into Reform UK donations",
-      "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+      "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 20:22:00 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 10:07:19 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "Iran war will not end until after November US elections, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The president also tells reporters he does not think oil prices will come down until after the crucial November vote.",
+      "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 23:46:06 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "Air traffic failure was avoidable, says transport secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+      "title": "England's mayors to be given power to introduce tourist tax",
+      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+      "summary": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 18:21:16 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 09:44:51 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 22:17:22 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "AI is becoming harder to control – can humans stay in charge?",
+      "title": "Why some experts increasingly fear AI will take over",
       "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
       "author": "",
       "published": "Wed, 09 Sep 2026 23:17:33 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
-      "link": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+      "title": "RNLI reviews security after volunteers targeted online",
+      "link": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+      "summary": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 23:00:23 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 09:07:49 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-      "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+      "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
+      "link": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
+      "summary": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 21:21:13 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 09:31:16 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 04:43:54 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 09:32:34 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "link": "https://www.bbc.co.uk/news/videos/cdr76legmevo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Rescuers are searching for survivors after the vessel travelling from the mainland to a popular tourist destination caught fire.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 05:21:41 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Primark finally set to launch home deliveries",
+      "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 10:02:26 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -80,28 +110,8 @@
       "full_text": "",
       "summary": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 20:16:38 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 00:06:33 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Failures 'contributed to' death of Sir Richard Branson's wife",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7k9n7exyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Lady Joan Branson died after suffering a cardiac arrest at the private Lister Hospital in Chelsea last year.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 19:09:24 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 07:49:57 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -110,38 +120,38 @@
       "full_text": "",
       "summary": "Nat and Nik Fraser-Edwards want a change in the law so once an embryo has been made, a donor can't withdraw consent.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 21:52:34 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 10:12:42 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "Migraines and acne among five more conditions pharmacists can treat",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
+      "title": "Four takeaways from Trump's speech at first Republican midterms convention",
+      "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
+      "summary": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 00:01:35 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 04:07:44 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "Should you sync your workouts to your period?",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzj89k4wyo?at_medium=RSS&at_campaign=rss",
+      "title": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Menstrual cycles are highly individual, making blanket advice found on social media difficult to apply, researchers say.",
+      "summary": "After F1’s explosion in popularity away from its European heartland the sport is coming home. Why Madrid? Because it is beautiful… and has a very big expo centre on the outskirts.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 23:22:05 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 05:21:13 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "'An injustice' or 'righting a wrong': British Jews debate sanctions move",
-      "link": "https://www.bbc.co.uk/news/articles/c9dw048lp9zo?at_medium=RSS&at_campaign=rss",
+      "title": "How a community living under demolition orders from Israel view UK sanctions",
+      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The UK's decision to sanction trade with illegal settlements has prompted a range of opinion among the British Jewish community.",
+      "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 19:12:52 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Wed, 09 Sep 2026 22:17:22 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -151,87 +161,37 @@
       "summary": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
       "author": "",
       "published": "Wed, 09 Sep 2026 23:02:20 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Farage faces Met inquiry' and 'Ready for departure?'",
-      "link": "https://www.bbc.co.uk/news/articles/c1e5j15en9wo?at_medium=RSS&at_campaign=rss",
+      "title": "Menstrual fitness: Why some women are 'cycle-syncing' their workouts",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzj89k4wyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thursday's front pages are dominated by a police investigation into Reform UK and UK airport chaos.",
+      "summary": "Menstrual cycles are highly individual, making blanket advice found on social media difficult to apply, researchers say.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 23:55:33 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Wed, 09 Sep 2026 23:22:05 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "Inside Thailand's school shooter drills following recent attacks",
-      "link": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
+      "title": "American football is coming to Australia - can it succeed?",
+      "link": "https://www.bbc.co.uk/news/articles/crerv93pv9yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Police say they hope the drill will help prepare students, as concern grows over the increase in school shootings in South East Asia.",
+      "summary": "The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 22:32:07 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Wed, 09 Sep 2026 22:29:13 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "'It's been a nightmare': Passengers face airport chaos after air traffic issue",
-      "link": "https://www.bbc.co.uk/news/articles/c4gk6lre2g7o?at_medium=RSS&at_campaign=rss",
+      "title": "August joint-hottest month on record as climate change and El Niño drive heat",
+      "link": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thousands are still stranded as people describe sleeping on floors and \"carnage\" in baggage reclaim halls.",
+      "summary": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 16:24:00 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 20:00:33 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Chaplain settles LGBT sermon unfair dismissal case",
-      "link": "https://www.bbc.co.uk/news/articles/c8e3deyrjkno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Rev Bernard Randall reaches a confidential agreement with Trent College.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 00:46:37 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "National security can't come at expense of social security, Burnham says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 14:53:26 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 21:23:45 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 20:59:24 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 02:05:47 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +201,57 @@
       "summary": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
       "author": "",
       "published": "Thu, 10 Sep 2026 00:48:35 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Migraines and acne among five more conditions pharmacists can treat",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 00:01:35 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Group entered hotel where Pakistani cricketers mistaken for migrants were staying",
+      "link": "https://www.bbc.co.uk/news/articles/c0klnjmgpm6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Protesters congregated at a Portsmouth hotel after false rumours that a coach of migrants had arrived.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 08:14:43 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 09:52:47 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Significant casualties' after fire on cargo ship in eastern China",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "President Xi Jinping has called for urgent search and rescue efforts.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 10:04:52 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
+      "link": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 23:00:23 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +271,7 @@
       "summary": "What counter-measures has Israel taken against the UK?",
       "author": "",
       "published": "Wed, 09 Sep 2026 16:13:00 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +281,7 @@
       "summary": "And will Trump succeed in limiting mail-in voting before the midterms?",
       "author": "",
       "published": "Mon, 07 Sep 2026 18:15:00 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +291,7 @@
       "summary": "Dolly Parton's death sparked an huge outpouring of love - why did she mean so much?",
       "author": "",
       "published": "Fri, 04 Sep 2026 12:00:00 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +301,17 @@
       "summary": "Making pop history. Priceless footage tells the true story of a real 80s culture shock",
       "author": "",
       "published": "Sat, 29 Aug 2026 21:28:09 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Spurs should be awarded 2016-17 title - Pochettino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 08:08:21 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -301,47 +321,17 @@
       "summary": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
       "author": "",
       "published": "Wed, 09 Sep 2026 22:35:51 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
-      "title": "Liverpool will reward Mac Allister if he lets his football do talking",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+      "title": "Why we should expect another Solheim Cup thriller",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
+      "summary": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 23:12:27 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Gauff saves match points to set up Rybakina semi-final",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 23:11:46 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 23:25:38 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What next for LIV Golf's star players, and its fight for survival?",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/c0re742dpw1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Golf's main tours are expecting a lot of interest in rejoining from LIV golfers – but the path back might not be so easy.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 14:26:19 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "published": "Thu, 10 Sep 2026 08:42:49 GMT",
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     },
     {
       "source": "bbc",
@@ -351,17 +341,7 @@
       "summary": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
       "author": "",
       "published": "Wed, 09 Sep 2026 21:07:13 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Benn 'dragged down to pits of hell' by weight cut",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cx2z9lvp0wgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Conor Benn says making the welterweight limit for his world-title challenge against Ryan Garcia has felt like being \"dragged down to the pits of hell\" but insists he is healthy and will make weight.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 20:23:19 GMT",
-      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+      "fetched_at": "2026-09-10T10:15:26.399721+00:00"
     }
   ]
 }
