@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-09T20:12:01.838166+00:00",
-  "count": 30,
+  "fetched_at": "2026-09-10T02:07:28.876322+00:00",
+  "count": 36,
   "articles": [
     {
       "source": "bbc",
@@ -10,8 +10,18 @@
       "full_text": "",
       "summary": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 17:21:14 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 20:22:00 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Iran war will not end until after November US elections, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The president also tells reporters he does not think oil prices will come down until after the crucial November vote.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 23:46:06 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
@@ -21,97 +31,107 @@
       "summary": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
       "author": "",
       "published": "Wed, 09 Sep 2026 18:21:16 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "National security can't come at expense of social security, Burnham says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+      "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 14:53:26 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 22:17:22 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Europe's royalty pay last respects to King Harald V in Norway",
-      "link": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+      "title": "AI is becoming harder to control – can humans stay in charge?",
+      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+      "summary": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
       "author": "",
-      "published": "Wed, 09 Sep 2026 16:36:45 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 23:17:33 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
+      "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
+      "link": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
+      "summary": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 13:28:58 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 23:00:23 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
-      "link": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+      "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lifeboat crew member wrongly identified as having helped small boat migrants speaks to BBC Verify.",
+      "summary": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 17:33:27 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 21:21:13 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "title": "BBC drops Drag Race UK after eight series",
+      "link": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "summary": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 20:00:33 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 20:16:38 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
-      "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
+      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
+      "summary": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 19:09:13 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Thu, 10 Sep 2026 00:06:33 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+      "title": "Failures 'contributed to' death of Sir Richard Branson's wife",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7k9n7exyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+      "summary": "Lady Joan Branson died after suffering a cardiac arrest at the private Lister Hospital in Chelsea last year.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 15:01:58 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 19:09:24 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hundreds mourn police officer killed in wrong-way A66 crash",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
+      "title": "We spent £23,000 on fertility treatment - now our embryos will be destroyed",
+      "link": "https://www.bbc.co.uk/news/articles/cr5035eldr3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Officers give PC Matthew Blades a guard of honour as people line the streets for his funeral.",
+      "summary": "Nat and Nik Fraser-Edwards want a change in the law so once an embryo has been made, a donor can't withdraw consent.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 14:00:55 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 21:52:34 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+      "title": "Migraines and acne among five more conditions pharmacists can treat",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+      "summary": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 16:33:49 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Thu, 10 Sep 2026 00:01:35 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Should you sync your workouts to your period?",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzj89k4wyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Menstrual cycles are highly individual, making blanket advice found on social media difficult to apply, researchers say.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 23:22:05 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +141,37 @@
       "summary": "The UK's decision to sanction trade with illegal settlements has prompted a range of opinion among the British Jewish community.",
       "author": "",
       "published": "Wed, 09 Sep 2026 19:12:52 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The one thing you need to do to succeed - according to top bosses",
+      "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 23:02:20 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Farage faces Met inquiry' and 'Ready for departure?'",
+      "link": "https://www.bbc.co.uk/news/articles/c1e5j15en9wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Thursday's front pages are dominated by a police investigation into Reform UK and UK airport chaos.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 23:55:33 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Inside Thailand's school shooter drills following recent attacks",
+      "link": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police say they hope the drill will help prepare students, as concern grows over the increase in school shootings in South East Asia.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 22:32:07 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
@@ -131,107 +181,67 @@
       "summary": "Thousands are still stranded as people describe sleeping on floors and \"carnage\" in baggage reclaim halls.",
       "author": "",
       "published": "Wed, 09 Sep 2026 16:24:00 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dallas Cowboys Cheerleaders star impresses on Broadway after celebrity casting row",
-      "link": "https://www.bbc.co.uk/news/articles/c4gk62vlegvo?at_medium=RSS&at_campaign=rss",
+      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The former Dallas Cowboys Cheerleader overcomes criticism of stunt casting for her Chicago debut.",
+      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 11:44:51 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 20:00:33 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
-      "link": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&at_campaign=rss",
+      "title": "Chaplain settles LGBT sermon unfair dismissal case",
+      "link": "https://www.bbc.co.uk/news/articles/c8e3deyrjkno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Four women have chosen to waive their anonymity and speak publicly to the BBC documentary, Britain's Forgotten Girls, about how they were targeted by criminals when they were children.",
+      "summary": "Rev Bernard Randall reaches a confidential agreement with Trent College.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 13:29:47 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Thu, 10 Sep 2026 00:46:37 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Are women better than men at endurance running?",
-      "link": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo?at_medium=RSS&at_campaign=rss",
+      "title": "National security can't come at expense of social security, Burnham says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Women have beaten men in some high-profile endurance events in recent months - are they better suited to these challenges?",
+      "summary": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
       "author": "",
-      "published": "Wed, 09 Sep 2026 06:27:02 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 14:53:26 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC drops Drag Race UK after eight series",
-      "link": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
+      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 19:56:49 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 21:23:45 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+      "summary": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 15:34:09 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 20:59:24 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Google picks Finland for its largest single investment in Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "title": "UK needs new laws for AI in healthcare, says watchdog",
+      "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "summary": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 17:06:48 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man charged with assisting Russian intelligence service",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4l9vy8m6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Joshua Cammidge will appear in court on Thursday accused of two offences under the National Security Act.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 18:31:00 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Actor Noel Clarke charged with sexual offences",
-      "link": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 12:51:24 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 13:29:33 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Reigning Miss Austria beauty queen dies aged 22",
-      "link": "https://www.bbc.co.uk/news/articles/c046r1z9ln4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tributes have been paid to Lucia Sisic, who had a lifelong experience with a heart condition.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 12:25:37 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Thu, 10 Sep 2026 00:48:35 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +251,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +261,7 @@
       "summary": "What counter-measures has Israel taken against the UK?",
       "author": "",
       "published": "Wed, 09 Sep 2026 16:13:00 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +271,7 @@
       "summary": "And will Trump succeed in limiting mail-in voting before the midterms?",
       "author": "",
       "published": "Mon, 07 Sep 2026 18:15:00 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +281,7 @@
       "summary": "Dolly Parton's death sparked an huge outpouring of love - why did she mean so much?",
       "author": "",
       "published": "Fri, 04 Sep 2026 12:00:00 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
@@ -281,17 +291,47 @@
       "summary": "Making pop history. Priceless footage tells the true story of a real 80s culture shock",
       "author": "",
       "published": "Sat, 29 Aug 2026 21:28:09 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
-      "title": "Gay should open for England in South Africa - Cook",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cj4jwpn94k2o?at_medium=RSS&at_campaign=rss",
+      "title": "Arsenal are passing every test - and Odegaard is in form of his life",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England batter Emilio Gay has done enough to lock in an opener's spot for their winter tour of South Africa, according to Sir Alastair Cook.",
+      "summary": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
       "author": "",
-      "published": "Wed, 09 Sep 2026 19:22:25 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "published": "Wed, 09 Sep 2026 22:35:51 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Liverpool will reward Mac Allister if he lets his football do talking",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 23:12:27 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Gauff saves match points to set up Rybakina semi-final",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 23:11:46 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 23:25:38 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +341,27 @@
       "summary": "Golf's main tours are expecting a lot of interest in rejoining from LIV golfers – but the path back might not be so easy.",
       "author": "",
       "published": "Wed, 09 Sep 2026 14:26:19 GMT",
-      "fetched_at": "2026-09-09T20:11:41.207552+00:00"
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Liverpool come from behind to beat Atletico Madrid",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 21:07:13 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Benn 'dragged down to pits of hell' by weight cut",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cx2z9lvp0wgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Conor Benn says making the welterweight limit for his world-title challenge against Ryan Garcia has felt like being \"dragged down to the pits of hell\" but insists he is healthy and will make weight.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 20:23:19 GMT",
+      "fetched_at": "2026-09-10T02:07:23.513244+00:00"
     }
   ]
 }
