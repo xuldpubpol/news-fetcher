@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-10T20:13:50.605367+00:00",
-  "count": 32,
+  "fetched_at": "2026-09-11T02:04:18.446084+00:00",
+  "count": 35,
   "articles": [
     {
       "source": "bbc",
@@ -10,8 +10,18 @@
       "full_text": "",
       "summary": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 16:59:38 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "published": "Thu, 10 Sep 2026 21:22:06 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 23:21:00 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -21,7 +31,7 @@
       "summary": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
       "author": "",
       "published": "Thu, 10 Sep 2026 17:38:31 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -31,7 +41,17 @@
       "summary": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
       "author": "",
       "published": "Thu, 10 Sep 2026 16:57:06 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 23:22:11 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -41,7 +61,7 @@
       "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
       "author": "",
       "published": "Thu, 10 Sep 2026 16:48:37 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -51,27 +71,7 @@
       "summary": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
       "author": "",
       "published": "Thu, 10 Sep 2026 18:27:22 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Four hurt and seven arrested in London stabbing",
-      "link": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 18:46:05 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Drone display recreates the Twin Towers over New York City",
-      "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 14:19:26 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -81,17 +81,7 @@
       "summary": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
       "author": "",
       "published": "Thu, 10 Sep 2026 16:37:18 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
-      "link": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 15:02:18 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -101,17 +91,117 @@
       "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
       "author": "",
       "published": "Thu, 10 Sep 2026 18:15:47 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
-      "title": "Four killed and 60 injured in Russian strike on shopping centre, Ukraine says",
+      "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+      "link": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The senator has also proposed a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 22:48:37 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
+      "link": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 15:02:18 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "More than 20 children killed in DR Congo school fire",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 19:16:24 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "People long for simpler times, say Practical Magic reboot stars",
+      "link": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 00:51:17 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I asked my husband to pay into my pension when we had a child - here's why",
+      "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 23:04:30 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "We want to move beyond elections, face of India's 'cockroach' movement tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 00:27:20 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Does your partner's snoring keep you up? It could be impacting your health",
+      "link": "https://www.bbc.co.uk/news/articles/c62jnyn2n2do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sleeping next to a snorer could be having a negative effect on your health, experts tell the BBC.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 23:56:18 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Day that changed the world forever' and 'Mayors plot hols tax'",
+      "link": "https://www.bbc.co.uk/news/articles/cqlwze9qgrlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A levy on overnight stays in England and Wales, 9/11 anniversary and Dame Esther Rantzen lead Friday's papers.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 00:08:09 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Weekly quiz: Alan Carr collected a prize for which TV show at the NTAs?",
+      "link": "https://www.bbc.co.uk/news/articles/cly59qzj6y7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 00:09:38 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Are interest rates on the way up again?",
+      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 23:03:09 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
       "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 18:41:06 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "published": "Thu, 10 Sep 2026 22:36:02 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -121,57 +211,17 @@
       "summary": "New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
       "author": "",
       "published": "Thu, 10 Sep 2026 17:13:53 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
-      "title": "'We lost over £1,000': Why some passengers were hit harder than others by air traffic chaos",
-      "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+      "title": "Drone display recreates the Twin Towers over New York City",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+      "summary": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 13:34:17 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "One year after Charlie Kirk's death, conservative students struggle to fill void he left",
-      "link": "https://www.bbc.co.uk/news/articles/c1e5j1pvv4yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The assassination sent shockwaves through the conservative youth movement, which students say has lost momentum and a vital figurehead.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 11:41:59 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 13:55:43 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
-      "link": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 09:31:16 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US airport security weighs major changes 25 years after 9/11",
-      "link": "https://www.bbc.co.uk/news/articles/clyk63yg2dxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Transportation Security Administration (TSA) is reversing policies put in place after 9/11.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 19:55:51 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "published": "Thu, 10 Sep 2026 14:19:26 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -181,47 +231,17 @@
       "summary": "Bronwen James, 30, admitted abusing two girls and was convicted of offences against a teenage boy.",
       "author": "",
       "published": "Thu, 10 Sep 2026 19:59:59 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
-      "title": "Gruffalo illustrator says rise of AI images 'worrying'",
-      "link": "https://www.bbc.co.uk/news/videos/ce9ernkxx48o?at_medium=RSS&at_campaign=rss",
+      "title": "Four hurt and seven arrested in London stabbing",
+      "link": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Axel Scheffler speaks to the BBC alongside author Dame Julia Donaldson, who reads an extract from their new book.",
+      "summary": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 13:43:32 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Father of A66 teen charged with funeral assault",
-      "link": "https://www.bbc.co.uk/news/articles/czxzw458q8zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police charged Gye Worthy with assault at the funeral for his son who was killed in the A66 crash.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 18:22:11 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Theatregoer who throttled woman at show is jailed",
-      "link": "https://www.bbc.co.uk/news/articles/cp93854xvllo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Malcolm Potier attacked the audience member after she started singing along, a judge is told.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 16:30:58 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 16:31:30 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "published": "Thu, 10 Sep 2026 18:46:05 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +251,17 @@
       "summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 election would be held.",
       "author": "",
       "published": "Thu, 10 Sep 2026 17:03:28 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 20:10:51 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +281,7 @@
       "summary": "Trump says every adult American will get $5,000 if the Republicans win the midterms.",
       "author": "",
       "published": "Thu, 10 Sep 2026 15:51:00 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +291,17 @@
       "summary": "And will Trump succeed in limiting mail-in voting before the midterms?",
       "author": "",
       "published": "Mon, 07 Sep 2026 18:15:00 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Two goals in two games - Sesko gives Man Utd a different threat",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
+      "author": "",
+      "published": "Thu, 10 Sep 2026 22:41:17 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -271,37 +311,27 @@
       "summary": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
       "author": "",
       "published": "Thu, 10 Sep 2026 16:44:58 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
-      "title": "Spurs and Richarlison in dispute over contract",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
+      "title": "Man Utd put four past Sabah on Champions League return",
+      "link": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
+      "summary": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 18:48:12 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "published": "Thu, 10 Sep 2026 21:01:24 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hamilton and Leclerc 'squash' Monza controversy",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss",
+      "title": "England captain Jones calls for fertility support",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ce9er3xdgvdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
+      "summary": "England captain Meg Jones wants the Red Roses to have access to fertility support and egg freezing.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 17:27:04 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "England march to early win over Pakistan held up by rain",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
-      "author": "",
-      "published": "Thu, 10 Sep 2026 17:05:35 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "published": "Thu, 10 Sep 2026 21:18:57 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
@@ -311,17 +341,17 @@
       "summary": "Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment.",
       "author": "",
       "published": "Thu, 10 Sep 2026 18:50:11 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     },
     {
       "source": "bbc",
-      "title": "GB return after pregnancy 'hard to put into words' - Kinsella",
-      "link": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+      "title": "Hamilton and Leclerc 'squash' Monza controversy",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Great Britain.",
+      "summary": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 14:33:10 GMT",
-      "fetched_at": "2026-09-10T20:13:48.911952+00:00"
+      "published": "Thu, 10 Sep 2026 17:27:04 GMT",
+      "fetched_at": "2026-09-11T02:04:16.778032+00:00"
     }
   ]
 }
