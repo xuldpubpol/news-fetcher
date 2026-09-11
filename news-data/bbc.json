@@ -1,47 +1,37 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-11T10:13:51.200477+00:00",
-  "count": 31,
+  "fetched_at": "2026-09-11T15:31:44.932498+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "title": "UK government rejects 'kill switch' idea for dangerous AI",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+      "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
       "author": "",
-      "published": "Fri, 11 Sep 2026 05:53:06 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 15:07:07 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "AI boom helps drive surprise UK growth in July",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+      "title": "Kate visits cancer patients in hospital she funded with climb",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+      "summary": "The princess completed the Three Peaks Challenge in aid of the hospital where she was treated for cancer.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 09:50:40 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 14:19:21 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "title": "Girls given legal right to wear trousers in Northern Ireland schools",
+      "link": "https://www.bbc.co.uk/news/articles/czxzw9117k5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "summary": "Guidelines stipulate that school uniform policies for the 2027/28 school year onwards must include the option for girls to wear trousers.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 08:15:25 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Princess Diana's 'revenge dress' goes up for auction",
-      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 06:54:46 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 09:50:52 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -51,67 +41,67 @@
       "summary": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
       "author": "",
       "published": "Thu, 10 Sep 2026 23:22:33 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 14:46:28 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Polanski selected as Green Party candidate for Starmer's former seat",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvzpg82yvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Green Party leader said the party is the \"underdog\" in Holborn and St Pancras but \"can win\".",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 11:06:46 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
       "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
       "link": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The convention offered a stark reminder that the Trump era is heading toward its final chapter, the BBC's Washington correspondent Daniel Bush writes.",
+      "summary": "JD Vance delivered the keynote speech to end the party's convention - but the president still took centre stage, the BBC's Daniel Bush writes.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 06:10:59 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 14:03:43 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "title": "Hull City footballer in crash near training ground",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+      "summary": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 23:22:11 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 11:33:22 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 08:54:20 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 12:04:46 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "I watched as a hijacked plane flew over my home - moments later my wife was killed",
-      "link": "https://www.bbc.co.uk/news/articles/c8e31lwnz9ro?at_medium=RSS&at_campaign=rss",
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A quarter of a century since the 9/11 attacks, Charles Wolf reflects on his wife's final moments.",
+      "summary": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 05:09:10 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Brother of Muslim policeman killed in attacks 'disappointed' by calls for Mamdani to sit out memorial",
-      "link": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Zeshan Hamdani speaks out after push back against New York Mayor Zohran Mamdani, who is Muslim, attending 9/11 events.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 04:10:24 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "My experience of tragedy gave me a second family",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7pmxgrz5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Louise Rayner is still friends with the wife and children of Bob Lawrence, who died in South Tower.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 09:14:19 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 05:53:06 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +111,27 @@
       "summary": "Paul Berriff says his life expectancy has been cut short because of being buried under rubble.",
       "author": "",
       "published": "Fri, 11 Sep 2026 09:34:41 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I watched as a hijacked plane flew over my home - moments later my wife was killed",
+      "link": "https://www.bbc.co.uk/news/articles/c8e31lwnz9ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A quarter of a century since the 9/11 attacks, Charles Wolf reflects on his wife's final moments.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 05:09:10 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Americans remember what they were doing on 9/11",
+      "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 02:48:43 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -131,17 +141,17 @@
       "summary": "Amy, not her real name, has told the BBC how her family and friends sent crucial evidence to police which led to the arrest of rapist Christopher Malcolm.",
       "author": "",
       "published": "Fri, 11 Sep 2026 05:20:12 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "Henry Zeffman: How Burnham got ready to govern with four key moments mapped out",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvz2r1qg4o?at_medium=RSS&at_campaign=rss",
+      "title": "Céline Dion duets with fan ahead of Paris comeback concert",
+      "link": "https://www.bbc.co.uk/news/videos/cm2q8gg09d1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As the prime minister looks ahead to autumn, Labour figures are asking whether his government represents continuity or change.",
+      "summary": "The Canadian singer - who was diagnosed with an incurable condition four years ago - has been interacting with fans outside her hotel, ahead of a much-anticipated show on Saturday.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 07:09:24 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 14:54:07 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +161,7 @@
       "summary": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
       "author": "",
       "published": "Fri, 11 Sep 2026 00:51:17 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -161,17 +171,17 @@
       "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
       "author": "",
       "published": "Thu, 10 Sep 2026 23:04:30 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Do I have to turn this gig down?': Female DJs describe harassment behind the decks",
-      "link": "https://www.bbc.co.uk/news/articles/crr4j00q44zo?at_medium=RSS&at_campaign=rss",
+      "title": "The man who bought an island, hired hitmen and throttled a theatregoer",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy8v5dk5po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Female DJs describe their experiences of safety and the wider issue of sexism in the nightlife scene.",
+      "summary": "Malcolm Potier is beginning his third spell in jail after attacking the woman at a Queen musical.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 23:02:28 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 04:44:49 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +191,7 @@
       "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "author": "",
       "published": "Fri, 11 Sep 2026 00:09:38 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -191,17 +201,47 @@
       "summary": "Sleeping next to a snorer could be having a negative effect on your health, experts tell the BBC.",
       "author": "",
       "published": "Thu, 10 Sep 2026 23:56:18 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "Philippine rescuers board ferry 40 hours after blaze began",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
+      "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 06:33:15 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Thu, 10 Sep 2026 23:22:11 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "First arrest over anti-migrant protest in Portsmouth",
+      "link": "https://www.bbc.co.uk/news/articles/cy8zrz42yxko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A man is arrested on suspicion of violent disorder after the anti-migrant demonstration on Sunday.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 14:38:24 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "AI boom helps drive surprise UK growth in July",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 10:17:28 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 08:54:20 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -211,37 +251,7 @@
       "summary": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
       "author": "",
       "published": "Fri, 11 Sep 2026 07:59:26 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Son charged with murdering parents in own home",
-      "link": "https://www.bbc.co.uk/news/articles/c23x7948enlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Yasin Leli, 46, is charged with two counts of murder after his parents, 80 and 78, were found stabbed.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 08:48:03 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rayner defends pause to local council overhaul",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz9jlqrj4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The cabinet minister tells the BBC she wanted to ensure the plans could survive potential legal actions.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 04:51:05 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 05:41:54 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +271,7 @@
       "summary": "And journalist Peter Bergen on his interview with Bin Laden before 9/11",
       "author": "",
       "published": "Wed, 09 Sep 2026 20:20:00 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -271,27 +281,27 @@
       "summary": "Trump says every adult American will get $5,000 if the Republicans win the midterms.",
       "author": "",
       "published": "Thu, 10 Sep 2026 15:51:00 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hall signs new contract with Newcastle until 2031",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
+      "title": "Star-studded, iconic, Oscar-winning mafia epic",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m000qf0f/the-godfather?at_mid=DhnFk1hhg0&at_campaign=The_Godfather&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000qf0f&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Godfather&at_bbc_team=BBC&at_creation=Film",
       "full_text": "",
-      "summary": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+      "summary": "Directed by Francis Ford Coppola and starring Al Pacino, Marlon Brando and Diane Keaton",
       "author": "",
-      "published": "Fri, 11 Sep 2026 08:00:07 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Sun, 30 Aug 2026 23:51:30 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "$10m on line at inaugural Ultimate Championship",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
+      "title": "Hull fined £30k & bans issued over Chelsea chant",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.",
+      "summary": "Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter bans following their FA Cup defeat by Chelsea in February.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 06:45:18 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 13:43:54 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
@@ -301,17 +311,17 @@
       "summary": "New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.",
       "author": "",
       "published": "Fri, 11 Sep 2026 09:09:59 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     },
     {
       "source": "bbc",
-      "title": "More than 100,000 watch 49ers shock Rams in Melbourne",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/cvgyq36rvxvo?at_medium=RSS&at_campaign=rss",
+      "title": "Hull's Thomas unhurt after car crash",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "San Francisco 49ers record dominant 27-7 victory over Super Bowl favourites Los Angeles Rams in front of a crowd of more than 100,000 at Melbourne Cricket Ground.",
+      "summary": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 06:24:40 GMT",
-      "fetched_at": "2026-09-11T10:13:46.797708+00:00"
+      "published": "Fri, 11 Sep 2026 11:33:22 GMT",
+      "fetched_at": "2026-09-11T15:31:27.694029+00:00"
     }
   ]
 }
