@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-11T20:13:03.380250+00:00",
-  "count": 38,
+  "fetched_at": "2026-09-12T02:09:40.005377+00:00",
+  "count": 36,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Reform receives record £36m donation from crypto billionaire",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 23:27:18 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
     {
       "source": "bbc",
       "title": "MPs vote against fresh attempt to legalise assisted dying",
@@ -10,28 +20,18 @@
       "full_text": "Please upgrade your browser to view this interactive",
       "summary": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 17:22:39 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Sat, 12 Sep 2026 01:12:31 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
-      "link": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
-      "full_text": "Please upgrade your browser to view this interactive",
-      "summary": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 16:49:47 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+      "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
+      "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 20:12:01 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Fri, 11 Sep 2026 23:06:39 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
@@ -40,128 +40,8 @@
       "full_text": "",
       "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 20:11:47 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 16:13:39 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK government rejects 'kill switch' idea for dangerous AI",
-      "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 15:07:07 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Kate visits cancer patients in hospital she helped fund with climb",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The princess completed the Three Peaks Challenge in aid of the hospital where she was treated for cancer.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 14:19:21 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 16:00:59 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Police to crack down on face coverings at protests",
-      "link": "https://www.bbc.co.uk/news/articles/cy8zrz42yxko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hampshire and Isle of Wight Constabulary says it will use powers under the Crime and Policing Act.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 16:31:21 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Surrogate who refused abortion over heart defect takes custody battle to US Supreme Court",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "She fled to Texas where abortions are illegal and now wants custody of the four-week-old baby.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 17:55:06 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Running costs of vaccine damage scheme more than double amount paid to victims",
-      "link": "https://www.bbc.co.uk/news/articles/cj06762qegmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The cost of administration and medical checks has now topped £83m, according to new figures.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 17:45:14 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
-      "link": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 15:32:44 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
-      "link": "https://www.bbc.co.uk/news/articles/c17j94ew1lno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The spy agency released 71 declassified presidential briefings, with one showing it had thought Al Qaeda's plans were 'widely known' by extremists.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 19:53:54 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Gen Zs recall first learning of 'deeply harrowing, terrifying' events",
-      "link": "https://www.bbc.co.uk/news/articles/cgmrzzkjywlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "They carry distinct memories not from the day itself, but from the moment  - years later - they learned about the attacks.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 17:21:00 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Families of British victims attend commemoration events in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydqr66z36o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "An event in London featured a video from Prime Minister Andy Burnham as well as speeches from family members of victims of the attacks",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 14:33:48 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I survived the epicentre of 9/11 - I'm so lucky'",
-      "link": "https://www.bbc.co.uk/news/articles/clyr0e5dgj8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Paul Berriff says his life expectancy has been cut short because of being buried under rubble.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 09:34:41 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Fri, 11 Sep 2026 22:17:45 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
@@ -171,137 +51,217 @@
       "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "author": "",
       "published": "Fri, 11 Sep 2026 19:44:58 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "Assisted dying: How laws differ around the world",
-      "link": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo?at_medium=RSS&at_campaign=rss",
+      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "About 400 million people have access to some form of assisted dying - what are the policies of other countries?",
+      "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 13:46:48 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Sat, 12 Sep 2026 00:43:00 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "title": "Zverev through to third Grand Slam final in a row",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+      "summary": "Alexander Zverev beats Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 05:53:06 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Fri, 11 Sep 2026 22:42:27 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
-      "link": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
+      "title": "Is a September heatwave forecast for the UK?",
+      "link": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "JD Vance delivered the keynote speech to end the party's convention - but the president still took centre stage, the BBC's Daniel Bush writes.",
+      "summary": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 14:03:43 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Fri, 11 Sep 2026 23:41:50 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Like a hangover': Why your partner's snoring could be impacting your health",
-      "link": "https://www.bbc.co.uk/news/articles/c62jnyn2n2do?at_medium=RSS&at_campaign=rss",
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sleeping next to a snorer could be having a negative effect on your health, experts tell the BBC.",
+      "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 23:56:18 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Fri, 11 Sep 2026 20:34:29 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "Céline Dion duets with fan ahead of Paris comeback concert",
-      "link": "https://www.bbc.co.uk/news/videos/cm2q8gg09d1o?at_medium=RSS&at_campaign=rss",
+      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Canadian singer - who was diagnosed with an incurable condition four years ago - has been interacting with fans outside her hotel, ahead of a much-anticipated show on Saturday.",
+      "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 14:54:07 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Sat, 12 Sep 2026 00:31:16 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "Weekly quiz: Alan Carr collected a prize for which TV show at the NTAs?",
-      "link": "https://www.bbc.co.uk/news/articles/cly59qzj6y7o?at_medium=RSS&at_campaign=rss",
+      "title": "Children and woman injured on fairground ride",
+      "link": "https://www.bbc.co.uk/news/articles/clymlyg7y44o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "summary": "Police say the three people have been taken to hospital for treatment, with the fair shut for the evening.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 00:09:38 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Fri, 11 Sep 2026 21:11:17 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "title": "Close race in Sweden as hard right eyes role in government",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz8dn5nn3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "summary": "Prime Minister Ulf Kristersson has promised cabinet jobs for the Sweden Democrats, but the rival left-wing bloc has a narrow lead in the polls.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 15:50:23 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Sat, 12 Sep 2026 00:56:47 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-      "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+      "summary": "Art detectives and security experts say the number of museum thefts across Europe are increasing - with some thieves inspired.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 15:37:25 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Sat, 12 Sep 2026 00:24:08 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sacked Grand Theft Auto worker claims Rockstar staff placed on 'watch list'",
-      "link": "https://www.bbc.co.uk/news/articles/cjrx5xlz83jo?at_medium=RSS&at_campaign=rss",
+      "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+      "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The makers of Grand Theft Auto deny staff were sacked for union organising and were instead dismissed for sharing confidential information online.",
+      "summary": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 15:52:19 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Sat, 12 Sep 2026 00:16:16 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
-      "link": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
+      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 23:22:33 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Sat, 12 Sep 2026 00:35:50 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "title": "I never got to experience my baby's scan but blind parents like me can now feel them",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+      "summary": "New innovations and workarounds are constantly being made to support blind parents in the challenges they face.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 23:22:11 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Sat, 12 Sep 2026 00:37:41 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "Eight held over Bromley KFC multiple stabbing",
-      "link": "https://www.bbc.co.uk/news/articles/cn0jr86ykzyo?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Military jet tripped chaos' and 'A failure for dying people'",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx7q25d9xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A man and seven boys are held on suspicion of attempted murder after four people were stabbed.",
+      "summary": "Several of the papers consider on the fall of the assisted dying bill in the House of Commons on Friday.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 13:36:42 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Sat, 12 Sep 2026 00:52:08 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "Princess Diana's 'revenge dress' goes up for auction",
-      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+      "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
+      "link": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
+      "full_text": "Please upgrade your browser to view this interactive",
+      "summary": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 12:04:46 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Fri, 11 Sep 2026 16:49:47 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
+      "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 23:39:01 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
+      "link": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 21:38:15 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "President Trump to arrive in Ireland for two-day visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Donald Trump will arrive on Saturday morning at Dublin Airport ahead of a two-day visit to Ireland.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 23:01:52 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 16:00:59 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Surrogate who refused abortion over heart defect takes custody battle to US Supreme Court",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "She fled to Texas where abortions are illegal and now wants custody of the four-week-old baby.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 17:55:06 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 21:25:32 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Police to crack down on face coverings at protests",
+      "link": "https://www.bbc.co.uk/news/articles/cy8zrz42yxko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Hampshire and Isle of Wight Constabulary says it will use powers under the Crime and Policing Act.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 20:40:31 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK government rejects 'kill switch' idea for dangerous AI",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 15:07:07 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
@@ -321,7 +281,7 @@
       "summary": "MPs vote against the assisted dying bill with 286 votes against and 270 in favour.",
       "author": "",
       "published": "Fri, 11 Sep 2026 15:29:00 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
@@ -331,7 +291,7 @@
       "summary": "Trump made the pledge at the Republicans’ first ever midterm convention.",
       "author": "",
       "published": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
@@ -341,17 +301,37 @@
       "summary": "Directed by Francis Ford Coppola and starring Al Pacino, Marlon Brando and Diane Keaton",
       "author": "",
       "published": "Sun, 30 Aug 2026 23:51:30 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Zverev through to third Grand Slam final in a row",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Alexander Zverev beats Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 22:42:27 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
       "title": "Razaullah introduces himself as Pakistan thrive in chaos",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c158k8vn7vwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Cancel the tee booked at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring. The reason? Pakistan's debutant Razaullah and Razball.",
+      "summary": "Cancel the tee time at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring - Pakistan's debutant Razaullah lights up Edgbaston to send third Test into fourth day.",
       "author": "",
       "published": "Fri, 11 Sep 2026 19:35:07 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 21:30:23 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
@@ -361,17 +341,17 @@
       "summary": "Carlota Ciganda steals the show after Europe's top pairing of Charley Hull and Lottie Woad fail to ignite on day one of the Solheim Cup against the United States.",
       "author": "",
       "published": "Fri, 11 Sep 2026 18:26:09 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
-      "title": "New Madrid circuit very high risk, says Russell",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss",
+      "title": "Glitzy innovations but Duplantis still wins - new Ultimate Championship begins",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "George Russell says the new Madrid circuit is \"very high risk\" after Arvid Lindblad crashes in Friday practice at the Spanish Grand Prix.",
+      "summary": "The Ultimate Championship is posed as something different in athletics, but some things stay the same - pole vault star Armand Duplantis taking centre stage.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 18:17:36 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "published": "Fri, 11 Sep 2026 22:24:31 GMT",
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     },
     {
       "source": "bbc",
@@ -381,7 +361,7 @@
       "summary": "England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to former captain Alastair Cook.",
       "author": "",
       "published": "Fri, 11 Sep 2026 19:48:43 GMT",
-      "fetched_at": "2026-09-11T20:12:57.575474+00:00"
+      "fetched_at": "2026-09-12T02:09:36.849056+00:00"
     }
   ]
 }
