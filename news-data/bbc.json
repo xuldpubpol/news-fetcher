@@ -1,17 +1,37 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-12T09:48:06.117947+00:00",
-  "count": 30,
+  "fetched_at": "2026-09-12T14:38:33.236440+00:00",
+  "count": 27,
   "articles": [
     {
       "source": "bbc",
-      "title": "Reform receives record £36m donation from crypto billionaire",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+      "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+      "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+      "summary": "Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 06:19:50 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "published": "Sat, 12 Sep 2026 14:26:20 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
+      "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 12:51:24 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 13:56:20 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -20,8 +40,8 @@
       "full_text": "",
       "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 04:43:10 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "published": "Sat, 12 Sep 2026 12:15:50 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -31,47 +51,7 @@
       "summary": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "author": "",
       "published": "Fri, 11 Sep 2026 19:44:58 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
-      "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 23:06:39 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 02:29:49 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Is a September heatwave forecast for the UK?",
-      "link": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 23:41:50 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Art crime investigators and security experts say museum thefts across Europe are becoming more brazen.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 00:24:08 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -81,17 +61,37 @@
       "summary": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
       "author": "",
       "published": "Sat, 12 Sep 2026 00:16:16 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
-      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
+      "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
+      "author": "",
+      "published": "Fri, 11 Sep 2026 23:06:39 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "PlayStation gambles with 18-rated Wolverine game",
       "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
       "author": "",
       "published": "Sat, 12 Sep 2026 00:35:50 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Every museum in the world is stressing': Did the Louvre heist embolden thieves?",
+      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 00:24:08 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +101,7 @@
       "summary": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
       "author": "",
       "published": "Fri, 11 Sep 2026 23:39:01 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -111,17 +111,37 @@
       "summary": "New innovations and workarounds are constantly being made to support blind parents in the challenges they face.",
       "author": "",
       "published": "Sat, 12 Sep 2026 00:37:41 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "title": "Is a September heatwave forecast for the UK?",
+      "link": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "summary": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 05:55:15 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "published": "Fri, 11 Sep 2026 23:41:50 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rival protests in Portsmouth as face masks banned",
+      "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Rival demonstrators march through Portsmouth as new police powers come into force.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 14:04:22 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Record heatwaves in France set to make champagne stronger",
+      "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 13:00:32 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -131,27 +151,7 @@
       "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
       "author": "",
       "published": "Sat, 12 Sep 2026 08:04:16 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "MPs vote against fresh attempt to legalise assisted dying",
-      "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "Please upgrade your browser to view this interactive",
-      "summary": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 01:12:31 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "American Shelton to face Zverev in US Open final",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 06:05:34 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -161,17 +161,27 @@
       "summary": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
       "author": "",
       "published": "Sat, 12 Sep 2026 06:09:37 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 00:43:00 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "published": "Sat, 12 Sep 2026 05:55:15 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 02:29:49 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +191,7 @@
       "summary": "Last week 13-year-old Ethan became the youngest Ulster Chess champion in history across all ages.",
       "author": "",
       "published": "Fri, 11 Sep 2026 05:24:35 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +201,7 @@
       "summary": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
       "author": "",
       "published": "Wed, 09 Sep 2026 23:02:20 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +211,7 @@
       "summary": "The owner of Mentmore Towers, which starred in Batman Begins, says a repair scheme is under way.",
       "author": "",
       "published": "Wed, 09 Sep 2026 08:12:20 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +221,7 @@
       "summary": "Hugo the shire horse enters the record books as the world's tallest living horse.",
       "author": "",
       "published": "Thu, 10 Sep 2026 05:21:23 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +241,7 @@
       "summary": "MPs vote against the assisted dying bill with 286 votes against and 270 in favour.",
       "author": "",
       "published": "Fri, 11 Sep 2026 15:29:00 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +251,7 @@
       "summary": "Trump made the pledge at the Republicans’ first ever midterm convention.",
       "author": "",
       "published": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
@@ -251,57 +261,17 @@
       "summary": "Directed by Francis Ford Coppola and starring Al Pacino, Marlon Brando and Diane Keaton",
       "author": "",
       "published": "Sun, 30 Aug 2026 23:51:30 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     },
     {
       "source": "bbc",
-      "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
+      "title": "England survive scare to sweep Pakistan series",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c770z1j5l0ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
+      "summary": "England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 06:14:51 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 09:04:13 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Garcia v Benn - welterweight world title fight predictions",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cje8y84wd1no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Figures from the boxing world give their predictions for Saturday's WBC welterweight world title fight between Ryan Garcia and Briton Conor Benn.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 06:55:38 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "American Shelton to face Zverev in US Open final",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 06:05:34 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'A legacy' at 26 - how Hemp has grown at Man City",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester City forward Lauren Hemp has already achieved more than most footballers at the age of 26.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 07:39:53 GMT",
-      "fetched_at": "2026-09-12T09:47:54.487899+00:00"
+      "published": "Sat, 12 Sep 2026 12:20:38 GMT",
+      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
     }
   ]
 }
