@@ -1,6 +1,6 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-12T14:38:33.236440+00:00",
+  "fetched_at": "2026-09-12T19:51:57.313633+00:00",
   "count": 27,
   "articles": [
     {
@@ -8,10 +8,10 @@
       "title": "Reform receives second £36m donation in two days as crypto investor matches record",
       "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.",
+      "summary": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 14:26:20 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "published": "Sat, 12 Sep 2026 17:36:45 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
@@ -21,47 +21,67 @@
       "summary": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
       "author": "",
       "published": "Sat, 12 Sep 2026 12:51:24 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
-      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
       "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+      "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
       "author": "",
       "published": "Sat, 12 Sep 2026 13:56:20 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 12:15:50 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "published": "Sat, 12 Sep 2026 17:42:38 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "title": "Céline Dion fans prepare for comeback concert in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "summary": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 19:44:58 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "published": "Sat, 12 Sep 2026 17:36:20 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
-      "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
-      "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
+      "title": "Three arrests at Portsmouth protests including man, 76, suspected of concealing identity",
+      "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
+      "summary": "Rival demonstrators march through Portsmouth as new police powers come into force.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 00:16:16 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "published": "Sat, 12 Sep 2026 18:43:01 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 17:28:53 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I never got to experience my baby's scan, but blind parents like me can now feel them",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tactile 3D models created from pregnancy scans are just one innovation to support blind parents-to-be.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 00:37:41 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
@@ -71,27 +91,7 @@
       "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
       "author": "",
       "published": "Fri, 11 Sep 2026 23:06:39 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "PlayStation gambles with 18-rated Wolverine game",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 00:35:50 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Every museum in the world is stressing': Did the Louvre heist embolden thieves?",
-      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 00:24:08 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
@@ -101,17 +101,67 @@
       "summary": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
       "author": "",
       "published": "Fri, 11 Sep 2026 23:39:01 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
-      "title": "I never got to experience my baby's scan but blind parents like me can now feel them",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&at_campaign=rss",
+      "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+      "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "New innovations and workarounds are constantly being made to support blind parents in the challenges they face.",
+      "summary": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 00:37:41 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "published": "Sat, 12 Sep 2026 00:16:16 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 16:32:27 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+      "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 18:31:23 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
+      "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 17:38:21 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Teen boy rescued after days adrift in Alaskan waters",
+      "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 15:03:14 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "French officials investigate if malicious act caused train derailment",
+      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 15:05:53 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
@@ -121,77 +171,17 @@
       "summary": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
       "author": "",
       "published": "Fri, 11 Sep 2026 23:41:50 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rival protests in Portsmouth as face masks banned",
-      "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Rival demonstrators march through Portsmouth as new police powers come into force.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 14:04:22 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Record heatwaves in France set to make champagne stronger",
-      "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 13:00:32 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 08:04:16 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
-      "link": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 06:09:37 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 05:55:15 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 02:29:49 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I was beating adults at chess when I was eight'",
+      "title": "I was beating adults at chess when I was eight",
       "link": "https://www.bbc.co.uk/news/articles/cx2zx7edyy2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Last week 13-year-old Ethan became the youngest Ulster Chess champion in history across all ages.",
       "author": "",
       "published": "Fri, 11 Sep 2026 05:24:35 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +191,7 @@
       "summary": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
       "author": "",
       "published": "Wed, 09 Sep 2026 23:02:20 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +201,7 @@
       "summary": "The owner of Mentmore Towers, which starred in Batman Begins, says a repair scheme is under way.",
       "author": "",
       "published": "Wed, 09 Sep 2026 08:12:20 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +211,7 @@
       "summary": "Hugo the shire horse enters the record books as the world's tallest living horse.",
       "author": "",
       "published": "Thu, 10 Sep 2026 05:21:23 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
@@ -231,17 +221,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
-      "title": "MPs Vote Against Assisted Dying Bill",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p8r5l1?at_medium=RSS&at_campaign=rss",
+      "title": "How Reform's £72m Mega Donations Change UK Politics",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p8r5pn?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "MPs vote against the assisted dying bill with 286 votes against and 270 in favour.",
+      "summary": "How the record donations change the country’s political landscape.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 15:29:00 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "published": "Sat, 12 Sep 2026 16:00:00 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +241,7 @@
       "summary": "Trump made the pledge at the Republicans’ first ever midterm convention.",
       "author": "",
       "published": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
@@ -261,17 +251,27 @@
       "summary": "Directed by Francis Ford Coppola and starring Al Pacino, Marlon Brando and Diane Keaton",
       "author": "",
       "published": "Sun, 30 Aug 2026 23:51:30 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     },
     {
       "source": "bbc",
-      "title": "England survive scare to sweep Pakistan series",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c770z1j5l0ko?at_medium=RSS&at_campaign=rss",
+      "title": "More dropped points at Anfield - is it too early for Liverpool to worry?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.",
+      "summary": "Liverpool have failed to win either of their first two Premier League games at Anfield. But is it too early to worry?",
       "author": "",
-      "published": "Sat, 12 Sep 2026 12:20:38 GMT",
-      "fetched_at": "2026-09-12T14:38:29.683304+00:00"
+      "published": "Sat, 12 Sep 2026 19:30:02 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Norris' real opportunity after coming from nowhere with 'masterpiece' lap",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c5yeljnxyvdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "McLaren do not have the fastest car at the Spanish Grand Prix but with overtaking expected to be difficult, pole man Lando Norris has a chance of another win.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 18:26:39 GMT",
+      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
     }
   ]
 }
