@@ -1,8 +1,58 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-12T19:51:57.313633+00:00",
-  "count": 27,
+  "fetched_at": "2026-09-13T02:06:15.838058+00:00",
+  "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 01:15:04 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+      "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 23:15:54 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 21:25:28 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Student loan terms to be made clearer in England",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Changes will spell out that governments can change rules and that career choices affect repayments.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 23:20:29 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Elena Rybakina demonstrates why she is the best women's player in the world by beating Aryna Sabalenka to win her first US Open title.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 23:46:52 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
+    },
     {
       "source": "bbc",
       "title": "Reform receives second £36m donation in two days as crypto investor matches record",
@@ -11,117 +61,117 @@
       "summary": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
       "author": "",
       "published": "Sat, 12 Sep 2026 17:36:45 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
-      "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+      "title": "Diljit Dosanjh makes history under the famous Wembley arch",
+      "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+      "summary": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 12:51:24 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sat, 12 Sep 2026 23:06:08 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+      "link": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+      "summary": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 13:56:20 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sun, 13 Sep 2026 01:01:01 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "summary": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 17:42:38 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sat, 12 Sep 2026 23:43:52 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+      "title": "Drag Race co-creator fears for queer representation after BBC drops show",
+      "link": "https://www.bbc.co.uk/news/articles/c86x4pd720xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
+      "summary": "The BBC is cutting the show because of financial pressures, sparking discussion about LGBTQ+ representation on TV.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 17:36:20 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sat, 12 Sep 2026 23:49:23 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "Three arrests at Portsmouth protests including man, 76, suspected of concealing identity",
-      "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Rival demonstrators march through Portsmouth as new police powers come into force.",
+      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 18:43:01 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sun, 13 Sep 2026 00:49:08 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "title": "Best friends for decades - until a DNA test revealed they were sisters",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 17:28:53 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sat, 12 Sep 2026 22:00:28 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "I never got to experience my baby's scan, but blind parents like me can now feel them",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&at_campaign=rss",
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tactile 3D models created from pregnancy scans are just one innovation to support blind parents-to-be.",
+      "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 00:37:41 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sat, 12 Sep 2026 23:51:05 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
-      "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Nigel hits the jackpot' and 'Dark day for democracy'",
+      "link": "https://www.bbc.co.uk/news/articles/clylg547430o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
+      "summary": "Almost every paper on Sunday leads on a record-breaking double donation of £72m to Reform UK.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 23:06:39 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sat, 12 Sep 2026 23:39:40 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
-      "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Fantasia on British Sea-Songs at the Last Night of the Proms",
+      "link": "https://www.bbc.co.uk/news/videos/c1wxl4ld3r3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
+      "summary": "Sir Henry Wood composed the melody for the centenary of the Battle of Trafalgar in 1905.",
       "author": "",
-      "published": "Fri, 11 Sep 2026 23:39:01 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sun, 13 Sep 2026 01:13:55 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
-      "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
+      "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
+      "summary": "Tom Felton talks about taking on Broadway, Rupert Grint following his footsteps and a new Harry Potter generation.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 00:16:16 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sat, 12 Sep 2026 23:41:52 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
+      "title": "Five night sky events to look out for this autumn",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
+      "summary": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 16:32:27 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sat, 12 Sep 2026 23:53:07 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -130,48 +180,18 @@
       "full_text": "",
       "summary": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
       "author": "",
-      "published": "Sat, 12 Sep 2026 18:31:23 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sat, 12 Sep 2026 20:37:29 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
-      "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
+      "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
+      "summary": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
       "author": "",
-      "published": "Sat, 12 Sep 2026 17:38:21 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Teen boy rescued after days adrift in Alaskan waters",
-      "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 15:03:14 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "French officials investigate if malicious act caused train derailment",
-      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 15:05:53 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Is a September heatwave forecast for the UK?",
-      "link": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
-      "author": "",
-      "published": "Fri, 11 Sep 2026 23:41:50 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "published": "Sat, 12 Sep 2026 21:19:11 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +201,7 @@
       "summary": "Last week 13-year-old Ethan became the youngest Ulster Chess champion in history across all ages.",
       "author": "",
       "published": "Fri, 11 Sep 2026 05:24:35 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +211,7 @@
       "summary": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
       "author": "",
       "published": "Wed, 09 Sep 2026 23:02:20 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +221,7 @@
       "summary": "The owner of Mentmore Towers, which starred in Batman Begins, says a repair scheme is under way.",
       "author": "",
       "published": "Wed, 09 Sep 2026 08:12:20 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +231,7 @@
       "summary": "Hugo the shire horse enters the record books as the world's tallest living horse.",
       "author": "",
       "published": "Thu, 10 Sep 2026 05:21:23 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +251,7 @@
       "summary": "How the record donations change the country’s political landscape.",
       "author": "",
       "published": "Sat, 12 Sep 2026 16:00:00 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +261,7 @@
       "summary": "Trump made the pledge at the Republicans’ first ever midterm convention.",
       "author": "",
       "published": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +271,47 @@
       "summary": "Directed by Francis Ford Coppola and starring Al Pacino, Marlon Brando and Diane Keaton",
       "author": "",
       "published": "Sun, 30 Aug 2026 23:51:30 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a result.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 22:57:13 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Elena Rybakina demonstrates why she is the best women's player in the world by beating Aryna Sabalenka to win her first US Open title.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 23:46:52 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "South Africa cap series victory over New Zealand with win in Baltimore",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c07lmxpmvr9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "South Africa complete a 3-1 series win over New Zealand as the world champions' consistency, power and cohesion proves too much in the fourth Test in Baltimore.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 23:29:11 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Toothless Spurs blank again as new era turns into a false dawn",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgydkv0yxdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Toothless Spurs' draw a blank again and are now in danger of seeing a brave new era turn into a false dawn, says chief football writer Phil McNulty.",
+      "author": "",
+      "published": "Sat, 12 Sep 2026 20:38:33 GMT",
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +321,7 @@
       "summary": "Liverpool have failed to win either of their first two Premier League games at Anfield. But is it too early to worry?",
       "author": "",
       "published": "Sat, 12 Sep 2026 19:30:02 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +331,7 @@
       "summary": "McLaren do not have the fastest car at the Spanish Grand Prix but with overtaking expected to be difficult, pole man Lando Norris has a chance of another win.",
       "author": "",
       "published": "Sat, 12 Sep 2026 18:26:39 GMT",
-      "fetched_at": "2026-09-12T19:51:55.736174+00:00"
+      "fetched_at": "2026-09-13T02:06:14.027664+00:00"
     }
   ]
 }
