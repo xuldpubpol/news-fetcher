@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-13T20:00:13.180779+00:00",
-  "count": 33,
+  "fetched_at": "2026-09-14T02:24:37.510804+00:00",
+  "count": 37,
   "articles": [
     {
       "source": "bbc",
@@ -11,27 +11,47 @@
       "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "author": "",
       "published": "Sun, 13 Sep 2026 19:14:21 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 01:12:20 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Culture shift' needed in how UK does business, PM urges",
+      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 21:30:21 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
       "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "author": "",
       "published": "Sun, 13 Sep 2026 18:49:37 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "title": "Deep-fried food banned under new school dinner rules in England",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "summary": "The government describes its new school food standards as \"once-in-a-generation changes\".",
       "author": "",
-      "published": "Sun, 13 Sep 2026 18:20:22 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "published": "Sun, 13 Sep 2026 21:30:29 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
@@ -41,7 +61,177 @@
       "summary": "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.",
       "author": "",
       "published": "Sun, 13 Sep 2026 17:51:19 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Zverev caps transformational year with US Open triumph",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 22:55:31 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Gloomy forecast for tenants as rent rises set to speed up",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 23:05:45 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 01:58:59 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Warm start to week to make way for wetter and windier conditions",
+      "link": "https://www.bbc.co.uk/weather/articles/cx2zyjw825go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A stronger jet stream will bring a distinctly autumnal look to our weather this week, but is there a September heatwave on the horizon later this month?",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 00:15:25 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Buckingham Palace works uncover trove of everyday items dating back to 1800s",
+      "link": "https://www.bbc.co.uk/news/articles/c2095wyqvx2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A collection of historic, forgotten items have been found during the restoration of the London royal residence.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 23:20:03 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors",
+      "link": "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Those in the medical profession say the HBO Max show about a US hospital emergency room is the most realistic medical drama yet.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 23:18:39 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I had 11 years of chemotherapy for a cancer I didn't have",
+      "link": "https://www.bbc.co.uk/news/articles/c74e0zwkk18o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Becky Jones is among more than 40 people taking legal action against a hospital trust.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 23:11:37 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 18:20:22 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'Compulsory lentils' and 'Boris flees Vlad drone blitz'",
+      "link": "https://www.bbc.co.uk/news/articles/cd794dn05p1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "New school food rules for England and ex-PM Boris Johnson \"flees Vlad drone blitz\" are the top stories in Monday's papers.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 23:34:15 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How to protect your laptop, phone and bike from thieves at uni",
+      "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "What should new students consider to keep your belongings safe and covered by insurance?",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 23:39:32 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why I'm doing a September reset and how you can create a new routine",
+      "link": "https://www.bbc.co.uk/news/articles/c770drlkzkpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It's the month when many of us embark on a new chapter so here's how to start strong and keep the good habits.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 23:12:32 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+      "link": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 23:21:00 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+      "link": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 22:07:22 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "First ministers of Wales, Scotland and Northern Ireland to meet in Cardiff",
+      "link": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Plaid Cymru, SNP and Sinn Féin leaders will discuss ways they can work more closely.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 21:04:31 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Amazon pauses operations with cargo carrier after fatal Miami crash",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 02:11:53 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Meghan shares glimpse of family life after Sussexes return to UK",
+      "link": "https://www.bbc.co.uk/news/articles/c62ml4lp6jlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It's the first time the Duchess of Sussex posted her family on her Instagram grid since they returned to the UK last month.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 17:22:22 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Refereeing body admits judgement error over Haaland derby winner",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 20:29:58 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
@@ -51,187 +241,27 @@
       "summary": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
       "author": "",
       "published": "Sun, 13 Sep 2026 14:54:40 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
-      "title": "Meghan shares glimpse of family life after Sussexes return to UK",
-      "link": "https://www.bbc.co.uk/news/articles/c62ml4lp6jlo?at_medium=RSS&at_campaign=rss",
+      "title": "Carney gambles on the world's biggest investors betting on Canada",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It's the first time the Duchess of Sussex had posted her family on her Instagram grid since they return to the UK last month.",
+      "summary": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
       "author": "",
-      "published": "Sun, 13 Sep 2026 17:22:22 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "published": "Sun, 13 Sep 2026 23:03:06 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
+      "title": "Patrols to start in Essex locations visited by asylum seekers",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xyjdw1wmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.",
+      "summary": "A Reform UK-led council says it is part of a three-month trial to \"deter anti-social behaviour\".",
       "author": "",
-      "published": "Sun, 13 Sep 2026 11:16:06 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 19:34:36 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Police searching for six men over anti-migrant protest in Portsmouth",
-      "link": "https://www.bbc.co.uk/news/articles/c158p587w4no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Force releases images of individuals it wants to speak to after disorder at Eastney Marina on 6 September.",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 16:51:35 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US embassy child abuse images suspect flown from UK before police interview",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjw1j1eq7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The individual worked at the US embassy in Vauxhall, south London, had diplomatic protection, despite not being a diplomat.",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 13:31:18 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Was Haaland's winner a VAR error? Man Utd fury at 'injustice'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester City celebrate a remarkable derby win over Manchester United but questions remain over whether Erling Haaland's winning goal should have stood in a match fraught with controversy.",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 19:13:19 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 22:00:28 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Will the Thirlwall report change the debate about Lucy Letby?",
-      "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 23:15:54 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 00:49:08 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Diljit Dosanjh makes history under the famous Wembley arch",
-      "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 23:06:08 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Flattened molars and facial pain: Why are more young people grinding their teeth?",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 05:55:19 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have \"to return that money\".",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 15:40:38 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 14:25:56 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Drag Race co-creator warns of TV representation 'crisis' after BBC drops show",
-      "link": "https://www.bbc.co.uk/news/articles/c86x4pd720xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC is cutting the show because of financial pressures, sparking discussion about LGBTQ+ representation on TV.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 23:49:23 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Harry Potter actor talks about taking on Broadway and his friendship with former co-stars",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 23:41:52 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Europe must endure winter of hardship to keep pressure on Putin, says PM's security adviser",
-      "link": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\".",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 06:21:12 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zoo advertises tickets for 'child predator tour'",
-      "link": "https://www.bbc.co.uk/news/articles/c1j4z27n8xyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Chester Zoo, which was selling tickets to see lions and tigers, says the mistake was a computer error.",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 09:31:32 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Student loan terms to be made clearer in England following repayment row",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Changes will spell out that governments can change rules and that career choices affect repayments.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 23:20:29 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "published": "Sun, 13 Sep 2026 21:32:16 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +281,7 @@
       "summary": "The government is trying to change the law but will it affect Reform’s record donations?",
       "author": "",
       "published": "Sun, 13 Sep 2026 11:35:00 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +291,7 @@
       "summary": "Trump made the pledge at the Republicans’ first ever midterm convention.",
       "author": "",
       "published": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
@@ -271,17 +301,37 @@
       "summary": "Directed by Francis Ford Coppola and starring Al Pacino, Marlon Brando and Diane Keaton",
       "author": "",
       "published": "Sun, 30 Aug 2026 23:51:30 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
-      "title": "Was Haaland's winner a VAR error? Man Utd fury at 'injustice'",
+      "title": "Refereeing body admits judgement error over Haaland derby winner",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City celebrate a remarkable derby win over Manchester United but questions remain over whether Erling Haaland's winning goal should have stood in a match fraught with controversy.",
+      "summary": "The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby.",
       "author": "",
-      "published": "Sun, 13 Sep 2026 19:13:19 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "published": "Sun, 13 Sep 2026 20:29:58 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Match of the Day pundit Danny Murphy explains how Manchester City beat Manchester United at Old Trafford despite being down to 10 men for most of the game.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 22:20:42 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Zverev caps transformational year with US Open triumph",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
+      "author": "",
+      "published": "Sun, 13 Sep 2026 22:55:31 GMT",
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +341,7 @@
       "summary": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.",
       "author": "",
       "published": "Sun, 13 Sep 2026 19:30:14 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +351,7 @@
       "summary": "Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes.",
       "author": "",
       "published": "Sun, 13 Sep 2026 19:06:08 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +361,7 @@
       "summary": "Charley Hull gets the ball rolling as Europe's big guns finally came to the fore in Sunday's singles as they wrestled the Solheim Cup back from the United States with a 15½-12½ victory at Bernardus Golf Club in the Netherlands.",
       "author": "",
       "published": "Sun, 13 Sep 2026 15:54:44 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     },
     {
       "source": "bbc",
@@ -321,17 +371,7 @@
       "summary": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
       "author": "",
       "published": "Sun, 13 Sep 2026 16:08:09 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Dominant Kerr wins $150k with GB's first Ultimate title",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Josh Kerr ends a sensational season by winning the Ultimate Championship 1500m title as the inaugural edition of athletics' new global event concludes.",
-      "author": "",
-      "published": "Sun, 13 Sep 2026 19:45:58 GMT",
-      "fetched_at": "2026-09-13T20:00:10.856038+00:00"
+      "fetched_at": "2026-09-14T02:24:10.261184+00:00"
     }
   ]
 }
