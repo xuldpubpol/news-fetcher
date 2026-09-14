@@ -1,17 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-14T17:15:34.563595+00:00",
-  "count": 35,
+  "fetched_at": "2026-09-14T21:10:49.799881+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
-      "title": "Man admits drugging and raping wife for 20 years",
+      "title": "Man admits drugging and raping wife over 20 years",
       "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
       "author": "",
       "published": "Mon, 14 Sep 2026 16:54:26 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 21:10:15 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -20,8 +30,8 @@
       "full_text": "",
       "summary": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 14:24:10 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "published": "Mon, 14 Sep 2026 18:53:38 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -30,18 +40,18 @@
       "full_text": "",
       "summary": "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 15:27:12 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "published": "Mon, 14 Sep 2026 17:50:29 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
-      "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
+      "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+      "link": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The incident is not the result of hostile action, the BBC understands.",
+      "summary": "The US rapper was condemned by Jewish groups after making comments criticising Israel.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 15:03:39 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "published": "Mon, 14 Sep 2026 19:55:50 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -51,17 +61,27 @@
       "summary": "Inquest hears how Rolando Torres-Pena, 22, was able to strangle and kill Hugo Flint-Cahan on a hospital ward in east London.",
       "author": "",
       "published": "Mon, 14 Sep 2026 15:19:26 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
-      "title": "Oasis confirm second leg of reunion tour after weeks of social media teasers",
-      "link": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
+      "title": "Harry and Meghan to have security review and children change school",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The band have announced a second wave of shows for their hit reunion tour, after weeks of teasers.",
+      "summary": "The level of police protection they need and potential dangers they face are to be reviewed.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 15:04:22 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "published": "Mon, 14 Sep 2026 20:29:52 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The incident is not the result of hostile action, the BBC understands.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 15:03:39 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -71,7 +91,7 @@
       "summary": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
       "author": "",
       "published": "Mon, 14 Sep 2026 16:48:10 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -81,37 +101,17 @@
       "summary": "Lord Wormald became the shortest-serving cabinet secretary in the history of the post when he left in February.",
       "author": "",
       "published": "Mon, 14 Sep 2026 16:35:40 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
-      "title": "Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say",
-      "link": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The leaders of Plaid Cymru, SNP and Sinn Fein say the UK government should prepare for constitutional change.",
+      "summary": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 15:23:29 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Amy Hunt tells Sydney Sweeney 'this is what women in sport look like' after controversial ad",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 13:17:47 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "London musical cancelled after Ariana Grande and Jonathan Bailey pull out",
-      "link": "https://www.bbc.co.uk/news/articles/cqpved1p2j4zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sunday in the Park With George was supposed to make its debut next year at the Barbican.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 12:28:44 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "published": "Mon, 14 Sep 2026 18:26:20 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +121,7 @@
       "summary": "The BBC's AI correspondent Marc Cieslak explains what artificial intelligence is and whether it could cause a threat to humanity.",
       "author": "",
       "published": "Mon, 14 Sep 2026 16:00:51 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -130,8 +130,8 @@
       "full_text": "",
       "summary": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
       "author": "",
-      "published": "Sun, 13 Sep 2026 23:21:00 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "published": "Mon, 14 Sep 2026 20:34:35 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +141,7 @@
       "summary": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
       "author": "",
       "published": "Mon, 14 Sep 2026 17:05:31 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +151,7 @@
       "summary": "It's the month when many of us embark on a new chapter so here's how to start strong and keep the good habits.",
       "author": "",
       "published": "Sun, 13 Sep 2026 23:12:32 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -161,7 +161,7 @@
       "summary": "Becky Jones is among more than 40 people taking legal action against a hospital trust.",
       "author": "",
       "published": "Mon, 14 Sep 2026 16:09:39 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +171,7 @@
       "summary": "What should new students consider to keep your belongings safe and covered by insurance?",
       "author": "",
       "published": "Mon, 14 Sep 2026 08:13:56 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +181,47 @@
       "summary": "North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville.",
       "author": "",
       "published": "Sun, 13 Sep 2026 23:16:33 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Oasis confirm second leg of reunion tour after weeks of social media teasers",
+      "link": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The band have announced a second wave of shows for their hit reunion tour, after weeks of teasers.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 15:04:22 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Amy Hunt tells Sydney Sweeney 'this is what women in sport look like' after controversial ad",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 13:17:47 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say",
+      "link": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The leaders of Plaid Cymru, SNP and Sinn Fein say the UK government should prepare for constitutional change.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 15:23:29 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "London musical cancelled after Ariana Grande and Jonathan Bailey pull out",
+      "link": "https://www.bbc.co.uk/news/articles/cqpved1p2j4zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sunday in the Park With George was supposed to make its debut next year at the Barbican.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 12:28:44 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -191,17 +231,7 @@
       "summary": "After a phone call with Buckingham Palace, Uganda now says it will take part in the Invictus Games.",
       "author": "",
       "published": "Mon, 14 Sep 2026 15:33:23 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Steep rise in young UK nationals detained for smuggling drugs from Asia",
-      "link": "https://www.bbc.co.uk/news/articles/c750vqkgeero?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hundreds of Britons have been detained in Thailand on suspicion of attempting to smuggle cannabis to the UK.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 12:14:10 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -211,27 +241,7 @@
       "summary": "Romanian van driver Visile Barbu's appeal against deportation was dismissed by a judge.",
       "author": "",
       "published": "Mon, 14 Sep 2026 11:27:01 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Speedboat killer jailed for attack on girlfriend",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zvkglvm8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jack Shepherd was sentenced at Isleworth Crown Court after previously admitting the violent assault.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 11:37:31 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "No police collusion in sectarian murder but multiple RUC failings included tip-off to suspect",
-      "link": "https://www.bbc.co.uk/news/articles/cmpwlkk9dgr7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Robert Hamill died after he was beaten by loyalists in Portadown, County Armagh.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 16:49:04 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -241,17 +251,7 @@
       "summary": "A jury fails to reach a verdict for Tim Speers who was accused of planning a protest at the event.",
       "author": "",
       "published": "Mon, 14 Sep 2026 15:51:25 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Removal of US Embassy staffer from UK 'unforgivable'",
-      "link": "https://www.bbc.co.uk/news/articles/cj1dlz00g2lxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Charlotte Charles says the situation has \"all the hallmarks\" of her son's case.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 12:26:32 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -261,37 +261,47 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
-      "title": "Will Reform Have To Give Their Mega Donations Back?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p8r5y6?at_medium=RSS&at_campaign=rss",
+      "title": "Newscast",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p9l053?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "The government is trying to change the law but will it affect Reform’s record donations?",
+      "summary": "President Trump dismisses need for AI guardrails, saying “whoever wins AI, wins”",
       "author": "",
-      "published": "Sun, 13 Sep 2026 11:35:00 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "published": "Mon, 14 Sep 2026 16:01:00 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
       "title": "Americast",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p9212w?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p9m9vz?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
-      "summary": "Trump made the pledge at the Republicans’ first ever midterm convention.",
+      "summary": "And which songs have made it onto Trump’s Air Force One playlist?",
       "author": "",
-      "published": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "published": "Mon, 14 Sep 2026 18:26:00 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
-      "title": "'This is what women in sport look like' - Hunt leads response to controversial Sweeney advert",
+      "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6790xr3wvr7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
+      "summary": "How Leeds United and Newcastle United's players rated following their Premier League match.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 20:54:23 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'This is what women in sport look like' - Hunt leads response to Sweeney advert",
       "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
       "author": "",
       "published": "Mon, 14 Sep 2026 13:17:47 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -301,27 +311,17 @@
       "summary": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
       "author": "",
       "published": "Mon, 14 Sep 2026 17:02:50 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
-      "title": "Left in the dark - will fans ever get to hear live VAR audio?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz6z80qqzplo?at_medium=RSS&at_campaign=rss",
+      "title": "Pollock still 'open to new opportunities' as Northampton talks go on",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck1e54qzjqljo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "VAR is nearly 10 years old, and yet the game is still a long way off being allowed to broadcast the audio live to supporters.",
+      "summary": "Henry Pollock continues to play hardball in his negotiations over a Northampton Saints contract extension, insisting he is still open to offers from elsewhere.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 15:00:42 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Brands v country - Kerr ramps up kit battle after latest victory",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Josh Kerr celebrated becoming Great Britain's first Ultimate Champion by making a clear point about funding in athletics - BBC Sport explains what the issue is.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 13:22:44 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "published": "Mon, 14 Sep 2026 17:51:43 GMT",
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -331,7 +331,7 @@
       "summary": "Spanish Grand Prix organisers are set to make changes to the new Madrid circuit after criticism of its inaugural race at the weekend.",
       "author": "",
       "published": "Mon, 14 Sep 2026 14:11:04 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     },
     {
       "source": "bbc",
@@ -341,17 +341,7 @@
       "summary": "Four games is far too soon to be talking about who is in or out of the title race... isn't it? BBC Sport asks if this is already a two-horse race.",
       "author": "",
       "published": "Mon, 14 Sep 2026 14:48:17 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "McCullum wants Pietersen to challenge methods",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crpd066l0yl9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Former batter Kevin Pietersen accused England players of not trying on last year's tour of India.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 13:09:06 GMT",
-      "fetched_at": "2026-09-14T17:15:03.371958+00:00"
+      "fetched_at": "2026-09-14T21:10:43.110152+00:00"
     }
   ]
 }
