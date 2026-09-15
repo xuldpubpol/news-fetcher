@@ -1,97 +1,107 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-15T02:29:08.774781+00:00",
-  "count": 33,
+  "fetched_at": "2026-09-15T10:41:31.746602+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
-      "title": "Lucy Letby public inquiry findings set to be published",
-      "link": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
+      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.",
+      "summary": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 01:54:35 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 08:51:39 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
+      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 00:32:21 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 08:49:31 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
+      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.",
+      "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 23:51:03 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 03:50:06 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is currently unknown where the drone came from, officials said.",
+      "summary": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 02:22:07 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 01:15:15 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet",
-      "link": "https://www.bbc.co.uk/news/videos/crlyjxjv69v6o?at_medium=RSS&at_campaign=rss",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Celebrities walked a blue version of the traditional red carpet ahead of the primetime show honouring the best shows in US television.",
+      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 02:00:40 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 10:12:49 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "US has deployed a space weapon, air force secretary says",
+      "title": "US confirms for first time it has deployed space weapons",
       "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is the first time the US has acknowledged having a weapon in space, which it says is necessary to defend the country against enemy action.",
+      "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 01:52:02 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 08:48:28 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man admits drugging and raping wife over 20 years",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+      "title": "Fall in small boat Channel crossings down to law enforcement, agency says",
+      "link": "https://www.bbc.co.uk/news/articles/cjvgy1g932xro?at_medium=RSS&at_campaign=rss",
+      "full_text": "Between 1 January and 7 September 2026, a total of 17,281 people crossed the English Channel by small boat from France. This was down by 43% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 40% of asylum applications between July 2025 to June 2026.\nBoats that arrived in the UK from 8 September 2025 to 7 September 2026 carried an average of 68 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from July 2025 to June 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,335 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,712 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from July 2025 to June 2026. This was down by 17% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
+      "summary": "But other factors, including developments in the Middle East, may also be playing a role.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 16:54:26 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 09:00:14 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Harry and Meghan to have security review and children change school",
+      "title": "Harry and Meghan change children's school over security concerns",
       "link": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The level of police protection they need and potential dangers they face are to be reviewed.",
+      "summary": "It is understood that the couple's private security team had cited concerns about difficulties in making the school run route secure.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 20:29:52 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 10:24:09 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US rapper was condemned by Jewish groups after making comments criticising Israel.",
+      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 21:10:49 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 09:59:14 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 23:07:56 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
@@ -101,87 +111,117 @@
       "summary": "As temperatures drop through the week and it starts to feel more autumnal, is it now time to put the summer clothes away?",
       "author": "",
       "published": "Tue, 15 Sep 2026 00:24:53 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+      "title": "TV superstars and a Taylor Swift cameo: 2026 Emmy highlights",
+      "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
+      "summary": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 18:26:20 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 05:14:24 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Emmys 2026: The winners and nominations list",
+      "title": "The winners and nominees in full",
       "link": "https://www.bbc.co.uk/news/articles/ce8l9pnkn62o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Zendaya, Noah Wyle, Sarah Snook and Colman Domingo are among the stars nominated for acting prizes.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 01:25:22 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 05:31:34 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "I got paid $5,000 to move to a place I'd never heard of",
+      "title": "Memorable moments and everything you couldn't see on TV",
+      "link": "https://www.bbc.co.uk/news/articles/cq9v9j2rxpxxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Backstage, the winners continued the celebrations off-screen and addressed some of the ceremony's most viral moments.",
+      "author": "",
+      "published": "Tue, 15 Sep 2026 05:30:35 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "In pictures: Zendaya, Selena Gomez and other stars light up red carpet",
+      "link": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Stars from the latest hit TV shows turn out at the biggest night in the US TV calendar.",
+      "author": "",
+      "published": "Tue, 15 Sep 2026 02:56:19 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I was paid thousands to start a new life in small town America",
       "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
       "author": "",
       "published": "Mon, 14 Sep 2026 23:08:28 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Why Harry and Meghan's security in the UK to be reviewed",
+      "title": "Watch: What's behind the decision to review Harry and Meghan's UK security?",
       "link": "https://www.bbc.co.uk/news/videos/cq98692g6xxdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The Duke and Duchess of Sussex are going to be given a review of their publicly-funded security after their return to live in the UK.",
       "author": "",
       "published": "Mon, 14 Sep 2026 22:15:33 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Could AI pose a threat to humanity, and can it be regulated?",
-      "link": "https://www.bbc.co.uk/news/videos/ckgjqnz6pd2do?at_medium=RSS&at_campaign=rss",
+      "title": "From Marilyn Monroe to Sabrina Carpenter - Bob Mackie's designs in pictures",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8enjrn3dyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC's AI correspondent Marc Cieslak explains what artificial intelligence is and whether it could cause a threat to humanity.",
+      "summary": "Beyoncé, Cher, Elton John and Miley Cyrus have all worn Mackie's glittery ensembles.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 16:00:51 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 02:53:39 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: Reform donors 'could face enhanced checks' and 'Sydney Sweeney blasted'",
-      "link": "https://www.bbc.co.uk/news/articles/c6lyedp0y35no?at_medium=RSS&at_campaign=rss",
+      "title": "Pokémon fans prepare for 'biggest day in a decade'",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4z2vwrkpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Several papers feature actor Sydney Sweeney, who has been criticised by female athletes for posing nude for a sports betting company advert.",
+      "summary": "Collectors are eagerly awaiting the first release of the 30th anniversary Pokémon trading cards.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 23:44:33 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 05:12:18 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Oasis confirm second leg of reunion tour after weeks of social media teasers",
-      "link": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The band have announced a second wave of shows for their hit reunion tour, after weeks of teasers.",
+      "summary": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 15:04:22 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Mon, 14 Sep 2026 23:51:03 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mass nesting brings swarms of turtles to Mexican beach",
-      "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
+      "title": "Sweeney ad a barrier for girls in sport, sprinter Hunt says",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
+      "summary": "British sprinter Amy Hunt says she is concerned the controversial advert starring Sydney Sweeney is a part of a \"barrier\" to girls' participation in sport.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 01:08:55 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 09:22:10 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Two dead after car hits group of pedestrians",
+      "link": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A vehicle hit four people before colliding with two cars on White Rose Way in Doncaster, police say.",
+      "author": "",
+      "published": "Tue, 15 Sep 2026 10:03:41 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
@@ -191,47 +231,27 @@
       "summary": "Nottingham becomes one of the first cities nationally to take this action, its council leader said.",
       "author": "",
       "published": "Tue, 15 Sep 2026 00:55:05 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Former top civil servant received pay-off of nearly £860,000",
-      "link": "https://www.bbc.co.uk/news/articles/cq7703kjvzlpo?at_medium=RSS&at_campaign=rss",
+      "title": "London misses out to Nairobi in World Athletics bid",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lord Wormald became the shortest-serving cabinet secretary in the history of the post when he left in February.",
+      "summary": "London has lost to Nairobi in its bid to host the World Athletics Championships in 2029, while the 2031 event will be held in Munich.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 16:35:40 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 10:12:55 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Staff slept while patient killed at NHS mental health unit",
-      "link": "https://www.bbc.co.uk/news/articles/c750vqp1wlxo?at_medium=RSS&at_campaign=rss",
+      "title": "Mass nesting brings swarms of turtles to Mexican beach",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Inquest hears how Rolando Torres-Pena, 22, was able to strangle and kill Hugo Flint-Cahan on a hospital ward in east London.",
+      "summary": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 15:19:26 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-      "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 22:56:44 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Legendary costume designer Bob Mackie who designed for Cher and Dolly Parton dies aged 87",
-      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 21:29:12 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 01:08:55 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +271,7 @@
       "summary": "President Trump dismisses need for AI guardrails, saying “whoever wins AI, wins”",
       "author": "",
       "published": "Mon, 14 Sep 2026 16:01:00 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
@@ -261,77 +281,67 @@
       "summary": "And which songs have made it onto Trump’s Air Force One playlist?",
       "author": "",
       "published": "Mon, 14 Sep 2026 18:26:00 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss",
+      "title": "London loses bid to host 2029 World Athletics as Nairobi named host",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dominic Calvert-Lewin has now scored in Leeds' past five league matches. Is he ready for an England recall?",
+      "summary": "London has lost to Nairobi in its bid to host the World Athletics Championships in 2029, while the 2031 event will be held in Munich.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 22:56:28 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 10:12:55 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Leeds inflict heavy defeat on Newcastle to climb to third",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
+      "title": "Sweeney ad a barrier for girls in sport - Hunt",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.",
+      "summary": "British sprinter Amy Hunt says she is concerned about the controversial advert starring Sydney Sweeney being part of a \"barrier\" to girls' participation in sport.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 21:31:59 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 09:22:10 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "'This is what women in sport look like' - Hunt leads response to Sweeney advert",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
+      "title": "Spurs' Richarlison posts crying emoji after being left out of Liverpool tie",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
+      "summary": "Richarlison publicly expresses his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 13:17:47 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 09:12:53 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Graham & Ure make Pocognoli's first Scotland squad",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o?at_medium=RSS&at_campaign=rss",
+      "title": "How did they get the Madring track so wrong? - F1 Q&A",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.",
+      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 21:00:42 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 06:49:52 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Who has made Troy's Premier League team of the week?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss",
+      "title": "McBurnie & seven uncapped names in Scotland squad",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "summary": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 22:18:48 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 10:03:22 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     },
     {
       "source": "bbc",
-      "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6790xr3wvr7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
-      "summary": "How Leeds United and Newcastle United's players rated following their Premier League match.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 20:54:23 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "No weekend game for Manchester derby VAR officials",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
+      "title": "Rodon absent as Ashford earns first Wales call-up",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
+      "summary": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
       "author": "",
-      "published": "Mon, 14 Sep 2026 17:02:50 GMT",
-      "fetched_at": "2026-09-15T02:29:03.950600+00:00"
+      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
+      "fetched_at": "2026-09-15T10:41:30.242941+00:00"
     }
   ]
 }
