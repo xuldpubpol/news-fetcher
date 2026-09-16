@@ -1,77 +1,87 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-15T20:39:13.025211+00:00",
-  "count": 32,
+  "fetched_at": "2026-09-16T02:23:37.359594+00:00",
+  "count": 38,
   "articles": [
     {
       "source": "bbc",
-      "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 19:47:10 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Wed, 16 Sep 2026 00:59:20 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-      "link": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
-      "author": "",
-      "published": "Tue, 15 Sep 2026 16:45:49 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
       "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+      "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 16:01:54 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Wed, 16 Sep 2026 01:29:20 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
-      "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
+      "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The former England winger crashed a Lamborghini into motorway barriers in May.",
+      "summary": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 16:24:00 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Wed, 16 Sep 2026 00:25:34 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-      "link": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+      "title": "UK in talks about joining global defence bank led by Canada",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
+      "summary": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 17:35:02 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 23:50:55 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Thirteenth Met Police officer sacked after Charing Cross Panorama film",
-      "link": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o?at_medium=RSS&at_campaign=rss",
+      "title": "Mayors could be given powers to oversee water companies",
+      "link": "https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "PC Mason O'Connor is dismissed after a hearing found he had breached standards of professional behaviour, the Met said.",
+      "summary": "The idea is to create nine new regional bodies responsible for planning, setting objectives and holding water companies to account.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 20:23:08 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Wed, 16 Sep 2026 02:09:22 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+      "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+      "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
+      "summary": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 11:05:42 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Wed, 16 Sep 2026 00:05:51 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
+      "author": "",
+      "published": "Tue, 15 Sep 2026 23:27:17 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Magazine returned to US library after 132 years overdue",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0jk2z760eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Concord Public Library said it would have incurred a $12,055 overdue fine, had there not been a temporary fine freeze in place.",
+      "author": "",
+      "published": "Wed, 16 Sep 2026 01:15:57 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
@@ -81,37 +91,37 @@
       "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
       "author": "",
       "published": "Tue, 15 Sep 2026 20:34:12 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two dead after car hits group of pedestrians",
-      "link": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&at_campaign=rss",
+      "title": "Prolific shoplifters behind more than 28,000 offences, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cvg7231pev5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A vehicle hit four people before colliding with two cars on White Rose Way in Doncaster, police say.",
+      "summary": "Just 270 people were linked to 28,415 shoplifting offences across England, a BBC analysis has found.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 14:47:59 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Wed, 16 Sep 2026 00:11:25 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+      "link": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The president assailed the justices for blocking his plan to allow delivery of ballots only to voters on lists of citizens.",
+      "summary": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 16:40:43 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 17:35:02 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Helicopter hovers feet from cliff face during rescue in California",
-      "link": "https://www.bbc.co.uk/news/videos/cw33k8dr5reyo?at_medium=RSS&at_campaign=rss",
+      "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+      "link": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The video shows a helicopter holding steady mere feet from a cliff face in the Sierra Nevada mountains while a rescue team secures an injured climber.",
+      "summary": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 13:57:04 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 20:41:35 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +131,7 @@
       "summary": "The inquiry found a \"complete failure to protect babies on the neonatal unit\" where the nurse worked.",
       "author": "",
       "published": "Tue, 15 Sep 2026 12:37:11 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +141,7 @@
       "summary": "Inquiry chair Lady Justice Thirlwall set out how the culture of the health system created the conditions that enabled poor care and criminality.",
       "author": "",
       "published": "Tue, 15 Sep 2026 16:51:43 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
@@ -141,37 +151,67 @@
       "summary": "The report has shed more details on Lucy Letby - the most prolific child killer in British legal history.",
       "author": "",
       "published": "Tue, 15 Sep 2026 15:42:03 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "An inquest verdict at last - but many mysteries remain about Noah Donohoe's death",
-      "link": "https://www.bbc.co.uk/news/articles/cm20j8re574o?at_medium=RSS&at_campaign=rss",
+      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
+      "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "After years of delay, the jury has reached a verdict but some questions remain unanswered over what happened to the 14-year-old.",
+      "summary": "The global AI race is being hit by very localised political and environmental concerns",
       "author": "",
-      "published": "Tue, 15 Sep 2026 14:58:49 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 23:39:55 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
-      "link": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+      "title": "Do you feel guilty when calling in sick at work? This might be why...",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day.",
+      "summary": "As many as half of people report working when sick. The reasons for this are complex, experts say.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 14:21:14 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 23:40:07 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "What weapon could the US have put into space?",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "title": "We are all new job starters - here's how we got through the first few days",
+      "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "summary": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 14:23:14 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 23:14:26 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Is bankrupt competitions boss behind new scheme?",
+      "link": "https://www.bbc.co.uk/news/articles/c8e3ryrl30lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The man behind a competions company which went bust owing thousands is back with a new venture.",
+      "author": "",
+      "published": "Wed, 16 Sep 2026 00:14:56 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'Complete failure to protect babies' and 'Sterling mess'",
+      "link": "https://www.bbc.co.uk/news/articles/c63re1pp098lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The landmark public inquiry into Lucy Letby's murders and attempted murders is the focus of several of today's papers.",
+      "author": "",
+      "published": "Wed, 16 Sep 2026 00:06:54 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+      "link": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
+      "author": "",
+      "published": "Tue, 15 Sep 2026 22:04:38 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
@@ -181,17 +221,7 @@
       "summary": "Collectors are eagerly awaiting the first release of the 30th anniversary Pokémon trading cards.",
       "author": "",
       "published": "Tue, 15 Sep 2026 11:45:04 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "From Marilyn Monroe to Sabrina Carpenter - Bob Mackie's designs in pictures",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8enjrn3dyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Beyoncé, Cher, Elton John and Miley Cyrus have all worn Mackie's glittery ensembles.",
-      "author": "",
-      "published": "Tue, 15 Sep 2026 02:53:39 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
@@ -201,67 +231,67 @@
       "summary": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
       "author": "",
       "published": "Tue, 15 Sep 2026 19:35:10 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Number of people claiming key disability benefit hits record high",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7djnl3000o?at_medium=RSS&at_campaign=rss",
+      "title": "Search continues for boy, 3, missing at playground",
+      "link": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An ongoing review into Personal Independence Payments (Pip) has found the system is \"not fit for purpose\".",
+      "summary": "Police carry out door-to-door inquiries in Brantham and a helicopter has been seen circling the area.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 13:36:33 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Wed, 16 Sep 2026 02:15:11 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "'My son was failed' - Noah Donohoe inquest finds tunnel errors possibly contributed to death",
-      "link": "https://www.bbc.co.uk/news/articles/ck20lgjx9y3yo?at_medium=RSS&at_campaign=rss",
+      "title": "Thirteenth Met Police officer sacked after Charing Cross Panorama film",
+      "link": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The nine jury members, who had 10 questions to answer, returned their verdict on Tuesday at the end of an inquest which began in January.",
+      "summary": "PC Mason O'Connor is dismissed after a hearing found he had breached standards of professional behaviour, the Met said.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 17:12:51 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 20:23:08 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Political donors could face tougher residency rules",
-      "link": "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It comes after Reform received donations totalling £72m from two British crypto-billionaires who have both recently lived abroad.",
+      "summary": "The president assailed the justices for blocking his plan to allow delivery of ballots only to voters on lists of citizens.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 13:25:48 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 16:40:43 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "title": "Southport attack victims, survivors and families hit by data breach",
+      "link": "https://www.bbc.co.uk/news/articles/cr74kwn1eeyjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "summary": "The Ministry of Justice says sensitive and personal data was accessed in a limited number of cases.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 16:13:41 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 20:19:54 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump says Kennedy Center will shutter 'immediately', as judge rules his name must stay off building",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
+      "title": "Turkey arrests dozens in crackdown on LGBTQ+ activists",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The ruling came as the centre's Trump-appointed board was reportedly scheduled to vote on closing it for two years.",
+      "summary": "The arrests are an escalation in the Turkish government's campaign targeting LGBTQ+ community and activists.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 20:37:41 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 22:26:05 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "title": "Two dead after car hits group of pedestrians",
+      "link": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "summary": "A vehicle hit four people before colliding with two cars on White Rose Way in Doncaster, police say.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 16:55:04 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 14:47:59 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +301,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +311,7 @@
       "summary": "President Trump dismisses need for AI guardrails, saying “whoever wins AI, wins”",
       "author": "",
       "published": "Mon, 14 Sep 2026 16:01:00 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
@@ -291,17 +321,47 @@
       "summary": "And which songs have made it onto Trump’s Air Force One playlist?",
       "author": "",
       "published": "Mon, 14 Sep 2026 18:26:00 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "VAR did not even consider if Fernandez was offside - Webb",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&at_campaign=rss",
+      "title": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Referees' chief Howard Webb has admitted that the video assistant referee (VAR) did not even consider whether Enzo Fernandez was offside for Erling Haaland's controversial winner in Sunday's Manchester derby.",
+      "summary": "Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 17:42:20 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 22:26:50 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Brook likened to Pietersen in SL win - how do they compare?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
+      "author": "",
+      "published": "Tue, 15 Sep 2026 21:46:02 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Let them ref the games and be humans - Andrews",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxj06nmjl3l6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After Brentford overcame Reading to reach the Carabao Cup fourth round, head coach Keith Andrews believes the video assistant referee (VAR) is preventing referees from making decisions in matches.",
+      "author": "",
+      "published": "Tue, 15 Sep 2026 22:50:30 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Brook & Baker shine as England crush Sri Lanka",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Harry Brook hit 114 not out in the first innings set up England with a total of 254 proving to difficult for Sri Lanka to chase leading to a England win by 119 runs after bowling out Sri Lanka.",
+      "author": "",
+      "published": "Tue, 15 Sep 2026 21:15:35 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
@@ -311,17 +371,17 @@
       "summary": "British sprinter Amy Hunt says she is concerned about the controversial advert starring Sydney Sweeney being part of a \"barrier\" to girls' participation in sport.",
       "author": "",
       "published": "Tue, 15 Sep 2026 09:22:10 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     },
     {
       "source": "bbc",
-      "title": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
+      "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United's highly-rated 15-year-old forward JJ Gabriel is on the verge of leaving the club.",
+      "summary": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 13:33:09 GMT",
-      "fetched_at": "2026-09-15T20:39:06.647977+00:00"
+      "published": "Tue, 15 Sep 2026 19:25:48 GMT",
+      "fetched_at": "2026-09-16T02:23:06.622516+00:00"
     }
   ]
 }
