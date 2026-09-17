@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-17T15:53:22.594988+00:00",
-  "count": 34,
+  "fetched_at": "2026-09-17T20:45:09.178053+00:00",
+  "count": 31,
   "articles": [
     {
       "source": "bbc",
@@ -11,17 +11,17 @@
       "summary": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
       "author": "",
       "published": "Thu, 17 Sep 2026 15:08:05 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+      "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+      "summary": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 14:33:12 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "published": "Thu, 17 Sep 2026 18:56:31 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
@@ -31,7 +31,7 @@
       "summary": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
       "author": "",
       "published": "Thu, 17 Sep 2026 14:05:38 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
@@ -41,7 +41,107 @@
       "summary": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people.",
       "author": "",
       "published": "Thu, 17 Sep 2026 14:54:53 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 14:33:12 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Archbishop of Canterbury withdraws award from Muslim cleric who praised Osama bin Laden",
+      "link": "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The award was handed out last week, on the anniversary of the 9/11 attacks.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 20:08:02 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ed Sheeran's tour in 'damage control mode' after Macklemore backlash",
+      "link": "https://www.bbc.co.uk/news/videos/cq986g1npk0eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "US stadium owner Robert Kraft says Sheeran asked him to match his own $2m (£1.5m) donation for \"aid in the region\".",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 16:34:03 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK Youth Parliament looks set to be axed",
+      "link": "https://www.bbc.co.uk/news/articles/c689jke4w310o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Some say scrapping the parliament for 11 to 18-year-olds would be a blow for democracy, while others say it is overdue.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 17:53:55 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+      "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 16:59:43 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 20:34:30 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
+      "link": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 16:51:55 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ukrainian guilty of vandalism at mosques linked to Russian network behind Starmer arson attack",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx5gldrk0ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Illia Bilyk, a 21-year-old Ukrainian man, has pleaded guilty to targeting five locations in east London.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 17:21:54 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 19:35:23 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why Canadians are ready for closer ties with Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "People the BBC spoke to are excited by the prospect of working and studying in the EU, a suggestion Carney made this week.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 19:59:54 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
@@ -51,67 +151,17 @@
       "summary": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
       "author": "",
       "published": "Thu, 17 Sep 2026 13:47:36 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "title": "The big questions for Tuchel's first England squad since World Cup",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "summary": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 15:07:47 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Canada welcomes EU proposal to become 'associate member'",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 12:27:18 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
-      "link": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 13:53:55 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "FA chair demands Infantino release World Cup sell-off documents",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 14:26:53 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
-      "link": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 12:13:26 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Barclays workers ask for more money to return to the office",
-      "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 14:20:27 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "published": "Thu, 17 Sep 2026 16:47:18 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
@@ -121,27 +171,7 @@
       "summary": "The sight of masked young men on electric bikes or motorcycles is becoming increasingly familiar - what can be done about it?",
       "author": "",
       "published": "Thu, 17 Sep 2026 05:04:52 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What could EU associate member status mean for Canada?",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgy3pq5ywyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mark Carney says he is seeking a \"unique\" relationship with the bloc, but currently there is no such thing as an associate member.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 15:24:16 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "GTA 6 soundtrack reveal revives digital release debate",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fred Again, PinkPantheress and Travis Scott provide new music for the blockbuster - but not all fans are happy.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 14:29:50 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
@@ -151,37 +181,77 @@
       "summary": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
       "author": "",
       "published": "Thu, 17 Sep 2026 05:00:36 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
-      "title": "'My mother apologised': A survivor's journey after genital mutilation",
-      "link": "https://www.bbc.co.uk/news/articles/cq770k5rrg7po?at_medium=RSS&at_campaign=rss",
+      "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
+      "link": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sara Kahsai was 29 when she found out she had FGM as a baby.",
+      "summary": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 05:33:18 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "published": "Thu, 17 Sep 2026 12:13:26 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mum's Facebook kidney plea prompts 'mind-blowing' gift from total stranger",
-      "link": "https://www.bbc.co.uk/news/articles/ck4gl6v10029o?at_medium=RSS&at_campaign=rss",
+      "title": "GTA 6 soundtrack reveal revives digital release debate",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A woman has undergone a lifesaving transplant after receiving a kidney from a stranger who saw her post on social media.",
+      "summary": "Fred Again, PinkPantheress and Travis Scott are on CD and vinyl editions of the album, but some fans have pointed out the \"irony\" of this following a controversial decision for a digital-only release of the game.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 05:06:33 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "published": "Thu, 17 Sep 2026 14:29:50 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why caffeine makes some people buzz - and others barely notice",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkd4zw564o?at_medium=RSS&at_campaign=rss",
+      "title": "Andy Burnham urged to set dementia waiting-time target",
+      "link": "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Scientists say it all depend on caffeine habits, lifestyle and one factor we have no control over: our genes.",
+      "summary": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 00:09:43 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "published": "Thu, 17 Sep 2026 19:13:59 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man, 29, jailed for raping two 14-year-old girls",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgy14g039lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "One victim escaped and told a neighbour her friend was being raped by the Afghan national, the court heard.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 17:58:23 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "White House withdraws Trump's ICE nominee as Republican senator objects",
+      "link": "https://www.bbc.co.uk/news/articles/cq23xzp55x08o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "One senator from Trump's party blocked the bid as he demands information about the fatal killings of US citizens by immigration enforcement.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 20:03:08 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK needs 'credible path' on defence spending, says Nato chief",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e35pwje2do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Mark Rutte tells the BBC that UK ministers accept the need to make yearly steps to up spending.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 18:02:26 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hyrox athlete apologises for continuing race after soiling herself",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 15:05:13 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
@@ -191,67 +261,7 @@
       "summary": "The RNLI says it hopes to have the lifeboat station operational again as soon as possible.",
       "author": "",
       "published": "Thu, 17 Sep 2026 12:26:13 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Seized luxury goods up for auction in Singapore after $2.2bn money laundering case",
-      "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for sale.",
-      "author": "",
-      "published": "Wed, 16 Sep 2026 22:13:36 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 15:05:13 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zelensky appoints new chief prosecutor after predecessor's corruption scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c539mwvl10g4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Former chief prosecutor Ruslan Kravchenko after searches of his offices by Ukrainian anti-corruption officials.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 14:52:24 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 13:44:07 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-      "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 03:09:21 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 05:00:18 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
@@ -271,77 +281,37 @@
       "summary": "It's the only thing you can trust. A friendship forged in motherhood is broken by a loss",
       "author": "",
       "published": "Fri, 14 Aug 2026 23:41:38 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
-      "title": "FA chair demands Infantino release World Cup sell-off documents",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
+      "title": "The big questions for Tuchel's first England squad since World Cup",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+      "summary": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 14:26:53 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "published": "Thu, 17 Sep 2026 16:47:18 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
-      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+      "summary": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 11:05:29 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "published": "Thu, 17 Sep 2026 19:35:23 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     },
     {
       "source": "bbc",
-      "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+      "title": "'Built differently' - Hodgkinson reveals hamstring abnormality",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cjx2zlpe67pvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+      "summary": "Olympic champion Keely Hodgkinson says she is \"built differently\" after an MRI scan uncovered an \"abnormality\" in her hamstring.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 07:52:32 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 15:05:13 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Australia batter Steve Smith says he is still traumatised by the aftermath of the ball-tampering scandal in 2018 and still gets flashbacks.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 09:31:54 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Klopp wants to 'reclaim' flag amid German elections",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 13:02:40 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 05:23:59 GMT",
-      "fetched_at": "2026-09-17T15:53:07.878449+00:00"
+      "published": "Thu, 17 Sep 2026 18:04:33 GMT",
+      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
     }
   ]
 }
