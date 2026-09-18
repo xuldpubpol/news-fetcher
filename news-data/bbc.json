@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-17T20:45:09.178053+00:00",
-  "count": 31,
+  "fetched_at": "2026-09-18T02:12:49.376661+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
@@ -11,7 +11,7 @@
       "summary": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
       "author": "",
       "published": "Thu, 17 Sep 2026 15:08:05 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
@@ -20,78 +20,18 @@
       "full_text": "",
       "summary": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 18:56:31 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "published": "Fri, 18 Sep 2026 00:54:05 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
-      "title": "Interest rates held but Bank signals rise if energy prices stay high",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+      "title": "War may be coming. Are we psychologically ready?",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+      "summary": "The military and government say the risk of conflict is growing, but we may not be mentally ready for it",
       "author": "",
-      "published": "Thu, 17 Sep 2026 14:05:38 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Father's tribute to 'sweetest little boy' Noah Woods",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 14:54:53 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 14:33:12 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Archbishop of Canterbury withdraws award from Muslim cleric who praised Osama bin Laden",
-      "link": "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The award was handed out last week, on the anniversary of the 9/11 attacks.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 20:08:02 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ed Sheeran's tour in 'damage control mode' after Macklemore backlash",
-      "link": "https://www.bbc.co.uk/news/videos/cq986g1npk0eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "US stadium owner Robert Kraft says Sheeran asked him to match his own $2m (£1.5m) donation for \"aid in the region\".",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 16:34:03 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK Youth Parliament looks set to be axed",
-      "link": "https://www.bbc.co.uk/news/articles/c689jke4w310o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some say scrapping the parliament for 11 to 18-year-olds would be a blow for democracy, while others say it is overdue.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 17:53:55 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-      "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 16:59:43 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "published": "Thu, 17 Sep 2026 23:22:17 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +41,197 @@
       "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
       "author": "",
       "published": "Thu, 17 Sep 2026 20:34:30 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "New wild cat species discovered - with only one known living member",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 23:15:55 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US fans with Ed Sheeran tickets are left 'torn' by Macklemore controversy",
+      "link": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 00:38:03 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Can humpback whales experience grief?",
+      "link": "https://www.bbc.co.uk/news/videos/c6p93mn44m42o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Rare footage captured by researchers off Australia's Gold Coast suggests humpback whale mothers may experience grief when their calves die.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 22:10:03 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Badenoch says she is bringing in lawyers to challenge government after Tory-run council's 94% tax hike",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gq87ed6n3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A row is growing over Wandsworth Council's rise, which the local authority is blaming on government funding cuts.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 00:13:56 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Not just 'Nice Guy Eddie': Lib Dems eager for leader to show radical side at party conference",
+      "link": "https://www.bbc.co.uk/news/articles/cq4grjdz8xv5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "There is a sizeable group of Lib Dem MPs who openly question whether the party's problem is with its leader, while others support his stance.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 00:18:23 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "See tiny organisms on show in microscopic video competition",
+      "link": "https://www.bbc.co.uk/news/videos/cr209jz45vn4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 01:41:14 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sunshine to return to parts of UK with warmer and drier weather on way",
+      "link": "https://www.bbc.co.uk/weather/articles/cwr50l32rr6yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "High pressure over the UK next week will bring a break from the wet and windy weather so far this month.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 00:34:10 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK Youth Parliament looks set to be axed",
+      "link": "https://www.bbc.co.uk/news/articles/c689jke4w310o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Some say scrapping the parliament for 11 to 18-year-olds would be a blow for democracy, while others say it is overdue.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 17:53:55 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why we bought our first home with a 100% mortgage - despite the risks",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 23:00:53 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Weekly quiz: Why did women's sports stars criticise actress Sydney Sweeney?",
+      "link": "https://www.bbc.co.uk/news/articles/cmgrvdyxwz0go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 18:52:26 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Learner drivers turn to YouTube and TikTok to cut costs - but instructors warn of risks",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjnz7md4lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "One learner says social media clips saved her money, but there was also misinformation online.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 21:11:37 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 23:29:17 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'Giddy King' and 'war of words' over Earl Spencer book",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz87j9ge4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Most papers feature the latest from the royal feud on the second day of Diana's brother Earl Spencer's book being serialised in the Daily Mail.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 23:17:30 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The big questions for Tuchel's first England squad since World Cup",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 16:47:18 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+      "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 16:59:43 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Healey to ask EU finance ministers to let UK into 'Made in Europe' industry scheme",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 22:07:01 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Zara Larsson criticises White House for using her song in deportation video",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 01:20:33 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 01:31:43 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Archbishop of Canterbury withdraws award from Muslim cleric who praised Osama bin Laden",
+      "link": "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The award was handed out last week, on the anniversary of the 9/11 attacks.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 20:08:02 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +241,7 @@
       "summary": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
       "author": "",
       "published": "Thu, 17 Sep 2026 16:51:55 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
@@ -121,127 +251,7 @@
       "summary": "Illia Bilyk, a 21-year-old Ukrainian man, has pleaded guilty to targeting five locations in east London.",
       "author": "",
       "published": "Thu, 17 Sep 2026 17:21:54 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 19:35:23 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why Canadians are ready for closer ties with Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "People the BBC spoke to are excited by the prospect of working and studying in the EU, a suggestion Carney made this week.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 19:59:54 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 13:47:36 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The big questions for Tuchel's first England squad since World Cup",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 16:47:18 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Balaclava boys on electric bikes: How to tackle the problem?",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx0jzzpd89o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The sight of masked young men on electric bikes or motorcycles is becoming increasingly familiar - what can be done about it?",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 05:04:52 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Steve Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 05:00:36 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
-      "link": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 12:13:26 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "GTA 6 soundtrack reveal revives digital release debate",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fred Again, PinkPantheress and Travis Scott are on CD and vinyl editions of the album, but some fans have pointed out the \"irony\" of this following a controversial decision for a digital-only release of the game.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 14:29:50 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Andy Burnham urged to set dementia waiting-time target",
-      "link": "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 19:13:59 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man, 29, jailed for raping two 14-year-old girls",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgy14g039lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "One victim escaped and told a neighbour her friend was being raped by the Afghan national, the court heard.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 17:58:23 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "White House withdraws Trump's ICE nominee as Republican senator objects",
-      "link": "https://www.bbc.co.uk/news/articles/cq23xzp55x08o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "One senator from Trump's party blocked the bid as he demands information about the fatal killings of US citizens by immigration enforcement.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 20:03:08 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK needs 'credible path' on defence spending, says Nato chief",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e35pwje2do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mark Rutte tells the BBC that UK ministers accept the need to make yearly steps to up spending.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 18:02:26 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
@@ -251,17 +261,7 @@
       "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
       "author": "",
       "published": "Thu, 17 Sep 2026 15:05:13 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Portsmouth RNLI station remains temporarily closed after anti-migrant protests",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxz7np1kldo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The RNLI says it hopes to have the lifeboat station operational again as soon as possible.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 12:26:13 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
@@ -281,27 +281,37 @@
       "summary": "It's the only thing you can trust. A friendship forged in motherhood is broken by a loss",
       "author": "",
       "published": "Fri, 14 Aug 2026 23:41:38 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
-      "title": "The big questions for Tuchel's first England squad since World Cup",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
+      "title": "'Just the beginning' - Samba, 17, steals Man City show",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+      "summary": "Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 16:47:18 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "published": "Thu, 17 Sep 2026 22:00:18 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
-      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
+      "title": "From -17 points to dream European start for Bournemouth",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
+      "summary": "Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.",
       "author": "",
-      "published": "Thu, 17 Sep 2026 19:35:23 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "published": "Thu, 17 Sep 2026 23:30:34 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England crush Sri Lanka to seal T20 series win",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm70dnrke6klo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England comfortably chase a below-par target of 146 to thrash Sri Lanka by six wickets and seal the three-match T20 series with a game to spare.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 20:55:37 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +321,17 @@
       "summary": "Olympic champion Keely Hodgkinson says she is \"built differently\" after an MRI scan uncovered an \"abnormality\" in her hamstring.",
       "author": "",
       "published": "Thu, 17 Sep 2026 18:04:33 GMT",
-      "fetched_at": "2026-09-17T20:45:03.280631+00:00"
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Champion Van Gerwen loses in first round to Gurney",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/crje8nkdkj28o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Defending champion Michael van Gerwen falls to a 6-5 defeat by Daryl Gurney in the opening round of the World Series of Darts Finals in Amsterdam.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 21:38:38 GMT",
+      "fetched_at": "2026-09-18T02:12:40.899595+00:00"
     }
   ]
 }
