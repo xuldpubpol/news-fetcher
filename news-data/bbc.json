@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-18T20:09:09.084860+00:00",
-  "count": 29,
+  "fetched_at": "2026-09-19T02:15:48.438707+00:00",
+  "count": 31,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 22:58:55 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
     {
       "source": "bbc",
       "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
@@ -11,7 +21,7 @@
       "summary": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
       "author": "",
       "published": "Fri, 18 Sep 2026 15:59:59 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -21,17 +31,7 @@
       "summary": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
       "author": "",
       "published": "Fri, 18 Sep 2026 15:59:21 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 12:30:16 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -41,17 +41,37 @@
       "summary": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
       "author": "",
       "published": "Fri, 18 Sep 2026 15:48:58 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
-      "title": "Donald Trump says he is banning CNN and Politico from White House",
+      "title": "Billionaire Man United owner says he has lost confidence in the UK",
+      "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 23:06:16 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump says he is banning CNN and Politico from White House",
       "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US president has had a tense and fiery relationship with the US media since returning to office.",
+      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
       "author": "",
-      "published": "Fri, 18 Sep 2026 20:04:29 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "published": "Fri, 18 Sep 2026 23:26:48 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 12:30:16 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -61,7 +81,7 @@
       "summary": "Chan Mathok Atak has been sentenced to two years and three months in prison after piloting the boat.",
       "author": "",
       "published": "Fri, 18 Sep 2026 13:59:44 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -71,7 +91,117 @@
       "summary": "Speaking on BBC Radio 4's Today programme, Nicholas Brandram's sisters accused the Metropolitan Police of being \"negligent and reckless\".",
       "author": "",
       "published": "Fri, 18 Sep 2026 15:55:57 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 23:04:41 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Temperatures could peak at 26C as summerlike warmth returns next week",
+      "link": "https://www.bbc.co.uk/weather/articles/cqlym1m2kllgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After a changeable week, drier and warmer conditions will dominate for some next week, but with little rain for those who need it.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 23:01:53 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Earl Spencer's Diana book opens old wounds royals would rather forget",
+      "link": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Many of the Royal Family's current troubles can be traced back to the aftermath of the then Princess of Wales' death.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 23:05:58 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 23:03:38 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'Monstrous words' and 'Russia to ramp up war'",
+      "link": "https://www.bbc.co.uk/news/articles/cw14d58dxm8jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The fallout from Earl Spencer's book about Princess Diana leads most papers on Saturday.",
+      "author": "",
+      "published": "Sat, 19 Sep 2026 00:23:20 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Is it cool to wear M&S clothes now?",
+      "link": "https://www.bbc.co.uk/news/articles/cje3rk4p39zwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The retailer hosted its first-ever London Fashion Week show this week, celebrating 100 years of producing clothing.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 23:05:30 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In real life the actress says she is just like the character she's playing in Sense and Sensibility.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 23:01:34 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 22:03:40 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 23:18:02 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 22:05:47 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Could AI wipe out humans and how might it do it?",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3020ge51ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Cyber Correspondent Joe Tidy looks at some of the scenarios being imagined and assesses how likely they are.",
+      "author": "",
+      "published": "Sat, 19 Sep 2026 00:48:29 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +211,7 @@
       "summary": "She was best known for playing Dr Beatrice Mason in the 1980s BBC wartime TV drama Tenko.",
       "author": "",
       "published": "Fri, 18 Sep 2026 15:27:01 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -91,17 +221,7 @@
       "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
       "author": "",
       "published": "Fri, 18 Sep 2026 17:10:58 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 17:57:30 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -111,87 +231,7 @@
       "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
       "author": "",
       "published": "Fri, 18 Sep 2026 18:04:38 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Get in' - woman joins police chase by giving officer a lift in Nissan Micra",
-      "link": "https://www.bbc.co.uk/news/articles/crx2zjdg9p5go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The suspect reverse-rammed a police car and crashed into parked cars while trying to escape.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 15:29:52 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "War may be coming. Are we psychologically ready?",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The military and government say the risk of conflict is growing, but we may not be mentally ready for it",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 23:22:17 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why an American football game played the Canadian national anthem",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ydk2y0gg2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The field in Buffalo was decked out with the flags of both countries, as tensions simmer and a trade war escalates.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 15:14:40 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 18:56:17 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "We bought our £242,000 home without a deposit - here's how",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 10:43:03 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Resident Evil: The video game adaptation with a lot to prove",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The video game adaptation is a hit with critics, but director Zach Cregger says the fan response surprised him.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 12:58:55 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Complete despair': Afghan female medical students fear being sent home from Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0z3kez6xno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Since 2023, hundreds of thousands of Afghans have been deported from Pakistan and over two million have left.",
-      "author": "",
-      "published": "Thu, 17 Sep 2026 23:31:43 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Voting under way in Russian election tightly controlled by Kremlin",
-      "link": "https://www.bbc.co.uk/news/videos/cw23xzjjn7p2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Russia's parliamentary elections are under way, the first since the full-scale invasion of Ukraine in 2022.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 17:33:01 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -201,27 +241,7 @@
       "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
       "author": "",
       "published": "Fri, 18 Sep 2026 11:59:42 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Men lose appeal for harassing BBC journalist over A Very British Cult documentary",
-      "link": "https://www.bbc.co.uk/news/articles/cv1j4k34ze07o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Kristofer Deichler, Jatinder Kamra and Sukhraj Singh were given community service and restraining orders for their harassment of Catrin Nye.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 16:53:23 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 11:49:46 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -230,38 +250,8 @@
       "full_text": "",
       "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
       "author": "",
-      "published": "Fri, 18 Sep 2026 17:31:30 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Football club apologises for United 93 shirt advert",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Oxford United apologises for the image, which features the call sign of one of the planes used in the 9/11 attacks.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 13:05:31 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 17:15:02 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "British rapper Sway dies aged 44",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sway, whose hits included Still Speedin' and Level Up, was living in Ghana at the time of his death.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 11:03:29 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "published": "Fri, 18 Sep 2026 20:17:50 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +261,47 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chelsea miss Joao Pedro... and can't stop conceding goals",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 22:39:24 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hodgkinson powers to Athlos win in speed suit",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Keely Hodgkinson powers to victory in a full-body speed suit before being presented with a Tiffany & Co crown as Athlos makes its London debut.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 23:00:14 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Brentford stay unbeaten as they put three past Chelsea",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 22:00:19 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Littler survives scare to progress at World Series Finals",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "World number one Luke Littler survives a first-round scare to overcome Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.",
+      "author": "",
+      "published": "Fri, 18 Sep 2026 21:29:55 GMT",
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     },
     {
       "source": "bbc",
@@ -281,17 +311,7 @@
       "summary": "Rory McIlroy stays in contention with a five-under 67 to sit four strokes behind second-round leader Ryan Gerard at the BMW PGA Championship at Wentworth.",
       "author": "",
       "published": "Fri, 18 Sep 2026 19:05:25 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Oxford apologise for United 93 shirt advert",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Oxford United apologises for the image, which features the call sign of one of the planes used in the 9/11 attacks.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 13:05:31 GMT",
-      "fetched_at": "2026-09-18T20:09:05.475852+00:00"
+      "fetched_at": "2026-09-19T02:15:44.361080+00:00"
     }
   ]
 }
