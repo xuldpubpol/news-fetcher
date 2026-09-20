@@ -1,47 +1,67 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-20T02:24:11.705403+00:00",
-  "count": 31,
+  "fetched_at": "2026-09-20T10:17:37.204385+00:00",
+  "count": 28,
   "articles": [
     {
       "source": "bbc",
-      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 05:00:07 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+      "link": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 05:06:37 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\".",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 08:41:36 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
       "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+      "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 01:38:30 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sun, 20 Sep 2026 04:49:11 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "title": "The deadly new drugs making Scotland's fight against addiction even harder",
+      "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "summary": "Experts warn potent new substances are making an already deadly crisis more dangerous.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 23:49:26 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sun, 20 Sep 2026 08:04:55 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+      "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+      "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+      "summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 20:11:35 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 23:00:27 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sun, 20 Sep 2026 09:32:50 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
@@ -51,27 +71,7 @@
       "summary": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
       "author": "",
       "published": "Sat, 19 Sep 2026 21:27:06 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The deadly new drugs reshaping Scotland's fight against addiction",
-      "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Experts warn potent new substances are making an already deadly crisis more dangerous.",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 22:51:14 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
-      "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 15:59:21 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
@@ -81,27 +81,7 @@
       "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
       "author": "",
       "published": "Sat, 19 Sep 2026 23:01:38 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cultural treasures are being destroyed by war, and people want justice",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 23:18:18 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'People forget we exist': Why older LGBTQ+ community fears losing identity",
-      "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers.",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 23:18:46 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
@@ -111,47 +91,77 @@
       "summary": "\"It's really weird watching yourself age on screen because that's not fun,\" Horgan reveals.",
       "author": "",
       "published": "Sat, 19 Sep 2026 23:18:34 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Analysis: Trump escalates media fight after week of setbacks",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+      "author": "",
+      "published": "Sat, 19 Sep 2026 23:18:18 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'People forget we exist': Why older LGBTQ+ community fears losing identity",
+      "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers.",
+      "author": "",
+      "published": "Sat, 19 Sep 2026 23:18:46 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump escalates media fight after week of setbacks",
       "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
       "author": "",
       "published": "Sat, 19 Sep 2026 17:23:37 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Not all AI workers think the tech could kill everyone",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 23:01:57 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sat, 19 Sep 2026 23:01:45 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 19:13:49 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sun, 20 Sep 2026 07:57:32 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 18:03:30 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sat, 19 Sep 2026 21:01:56 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Homes evacuated over fears fire at seaside hotel weakened building's structure",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgxer9jezeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Residents living near Folkestone’s Grand Burstin Hotel relocated after safety inspectors' concerns.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 09:57:01 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
@@ -160,78 +170,68 @@
       "full_text": "",
       "summary": "Everton and Ipswich supporters and players pay tribute to the three-year-old, who died this week.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 20:26:12 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sun, 20 Sep 2026 07:35:08 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Gaslit by the King' and 'McCann suspect's book plot'",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvexx4yd7do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Earl Spencer's memoir and plans for the chief Madeleine McCann suspect to write a book lead Sunday's papers.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 00:02:19 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-      "author": "",
-      "published": "Fri, 18 Sep 2026 23:04:41 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Maddy Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
+      "title": "Maddy Cusack's family still waiting for answers on third anniversary of her death",
       "link": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
       "author": "",
       "published": "Sat, 19 Sep 2026 23:17:57 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "AI not a threat to films, say Shaun the Sheep creators",
-      "link": "https://www.bbc.co.uk/news/articles/c8y5z7d37yzzo?at_medium=RSS&at_campaign=rss",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Bristol-based institution have released the third feature film in the Shaun the Sheep franchise.",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "author": "",
-      "published": "Fri, 18 Sep 2026 11:51:22 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sat, 19 Sep 2026 23:49:26 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why I'm doing a September reset and how you can create a new routine",
-      "link": "https://www.bbc.co.uk/news/articles/c770drlkzkpo?at_medium=RSS&at_campaign=rss",
+      "title": "Twin's stillbirth inspires grieving father's children's book",
+      "link": "https://www.bbc.co.uk/news/articles/c158n5zjyxqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It's the month when many of us embark on a new chapter so here's how to start strong and keep the good habits.",
+      "summary": "Richard Ganjavi says you never get over the loss of a child but hopes his book will be her legacy.",
       "author": "",
-      "published": "Sun, 13 Sep 2026 23:12:32 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Tue, 15 Sep 2026 05:31:37 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nepo baby is a horrific term, says Zeta-Jones",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz5yvye90o?at_medium=RSS&at_campaign=rss",
+      "title": "The Meta glasses revolution - is it okay to film people in public?",
+      "link": "https://www.bbc.co.uk/news/articles/cz05jxx08kyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Chicago star's children Dylan and Carys have both gone into showbiz, following in her footsteps.",
+      "summary": "Meta glasses, made by the company behind Facebook, WhatsApp and Instagram, have made it easier for people to film discreetly in public.",
       "author": "",
-      "published": "Sun, 13 Sep 2026 15:40:51 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sat, 12 Sep 2026 05:13:53 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Runaway horse captured by police on motorbikes",
-      "link": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
+      "title": "I got paid $5,000 to move to a place I'd never heard of",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The unharmed horse escaped from its owner before the start of a parade in New Mexico",
+      "summary": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
       "author": "",
-      "published": "Wed, 16 Sep 2026 05:57:23 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Mon, 14 Sep 2026 23:08:28 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Asian hornet hunt leads to nest discovery",
+      "link": "https://www.bbc.co.uk/news/articles/clyk6emn3dlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Bee keepers and inspectors used GPS trackers to follow the insects and find the nest in Oldham.",
+      "author": "",
+      "published": "Mon, 14 Sep 2026 05:13:55 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
@@ -241,77 +241,47 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmqlw745q30vo?at_medium=RSS&at_campaign=rss",
+      "title": "Townsend run over by pitch roller in Thailand",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
+      "summary": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 19:05:18 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sun, 20 Sep 2026 09:08:43 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
+      "title": "Littler could boycott Dutch events over booing",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/cr5ye91l200go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+      "summary": "Luke Littler threatens a boycott of playing in the Netherlands after being booed and whistled at the World Series of Darts Finals in Amsterdam.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 16:41:34 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sun, 20 Sep 2026 09:03:56 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hear'Say, 'Snake' & Tony Blair: A Coventry win 25 years in the making",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm209djp8d2xo?at_medium=RSS&at_campaign=rss",
+      "title": "'Beat the Aussies' - new England coach Fleming's key aim",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6d08r79rvlgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues.",
+      "summary": "New Test coach Stephen Fleming says he shares English cricket’s “obsession” with the Ashes and arrives with the goal to “beat the Aussies”.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 20:28:19 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sun, 20 Sep 2026 07:27:30 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Greater things to come,' says Mitchell after England winning run ends",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3dx0djgrrngo?at_medium=RSS&at_campaign=rss",
+      "title": "Wembley welcomes 'rabid' college football fans",
+      "link": "https://www.bbc.co.uk/sport/american-football/articles/c64g7x1r813go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Head coach John Mitchell says England's thrilling draw with Canada will inspire \"greater things to come\" from the world champions despite the result ending their record-breaking winning streak.",
+      "summary": "Wembley hosted its first American college football game on Saturday, but did the event meet expectations?",
       "author": "",
-      "published": "Sat, 19 Sep 2026 19:04:10 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Celtic win 'changes game' - but can they reverse Rangers' derby dominance?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c607l0xdm8xro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Former Celtic captain Scott Brown believes a win for the Scottish champions against Rangers on Sunday \"changes the game\" after a turbulent week for Martin O'Neill's side.",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 19:19:06 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Carrick has faith in VAR despite derby error",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq8r64ppml6lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester United head coach Michael Carrick still has faith in VAR despite the derby blunder that cost his side in their home defeat by Manchester City",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 21:30:56 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 14:52:38 GMT",
-      "fetched_at": "2026-09-20T02:23:59.975502+00:00"
+      "published": "Sun, 20 Sep 2026 06:38:49 GMT",
+      "fetched_at": "2026-09-20T10:17:34.012928+00:00"
     }
   ]
 }
