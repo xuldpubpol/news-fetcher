@@ -1,17 +1,17 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-20T15:06:03.779047+00:00",
-  "count": 24,
+  "fetched_at": "2026-09-20T19:58:43.199058+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 12:23:05 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "published": "Sun, 20 Sep 2026 19:21:28 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
@@ -20,8 +20,8 @@
       "full_text": "",
       "summary": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 15:03:42 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "published": "Sun, 20 Sep 2026 15:21:19 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
@@ -31,7 +31,7 @@
       "summary": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
       "author": "",
       "published": "Sun, 20 Sep 2026 15:00:09 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
@@ -41,7 +41,17 @@
       "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
       "author": "",
       "published": "Sun, 20 Sep 2026 10:45:39 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
+      "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "While Burnham praised the agreement, Lib Dem leader Ed Davey called it a \"pretend\" victory for Trump.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 17:25:49 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
@@ -51,17 +61,27 @@
       "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
       "author": "",
       "published": "Sun, 20 Sep 2026 04:49:11 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
-      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "title": "Kelsey Parker welcomes baby after 'devastating' stillbirth last year",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxz260020qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "summary": "The widow of The Wanted singer Tom Parker has given birth after last year announcing the \"devastating\" loss of a stillborn baby.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 23:01:38 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "published": "Sun, 20 Sep 2026 17:04:51 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 16:36:43 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
@@ -71,87 +91,7 @@
       "summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
       "author": "",
       "published": "Sun, 20 Sep 2026 14:42:42 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
-      "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers.",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 23:18:46 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The deadly new drugs making Scotland's fight against addiction even harder",
-      "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Experts warn potent new substances are making an already deadly crisis more dangerous.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 08:04:55 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 23:18:18 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
-      "link": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "\"It's really weird watching yourself age on screen because that's not fun,\" Horgan reveals.",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 23:18:34 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 23:01:45 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Maddy Cusack's family still waiting for answers on third anniversary of her death",
-      "link": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
-      "author": "",
-      "published": "Sat, 19 Sep 2026 23:17:57 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
-      "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 13:50:51 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Homes evacuated over fears fire at seaside hotel weakened building's structure",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgxer9jezeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Residents living near Folkestone’s Grand Burstin Hotel relocated after safety inspectors' concerns.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 14:02:59 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
@@ -161,17 +101,147 @@
       "summary": "The remains of mother-of-three Joanne Sheen were found almost seven years after she went missing.",
       "author": "",
       "published": "Sun, 20 Sep 2026 12:32:08 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
-      "title": "German elections under way which could decide fate of Chancellor Merz",
-      "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "title": "Top Gear star Richard Hammond thanks emergency crews 20 years on from crash",
+      "link": "https://www.bbc.co.uk/news/articles/c65y5084x8e0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
+      "summary": "Richard Hammond was seriously injured in a jet dragster crash at Elvington in September 2006.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 07:57:32 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "published": "Sun, 20 Sep 2026 13:55:58 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Kuenssberg: I asked Earl Spencer who we should believe - him or the King?",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9epzjy0klo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Princess Diana's brother has caused a storm with his new memoir - the BBC's Laura Kuenssberg describes how she put his claims to the test.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 16:11:38 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch the full interview with Earl Spencer on iPlayer in Princess Diana: My Sister's Story",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032cy9?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In this UK exclusive, Laura Kuenssberg interviews Earl Spencer.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 15:00:00 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Earl Spencer says he felt Charles had 'giddy tone' during call after Diana's death",
+      "link": "https://www.bbc.co.uk/news/videos/c6q8jpxxv9k2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Princess Diana's brother has been interviewed by the BBC ahead of the release of his book on the late Princess of Wales.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 15:00:45 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 12:23:05 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
+      "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers.",
+      "author": "",
+      "published": "Sat, 19 Sep 2026 23:18:46 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "author": "",
+      "published": "Sat, 19 Sep 2026 23:01:38 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The deadly new drugs making Scotland's fight against addiction even harder",
+      "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Experts warn potent new substances are making an already deadly crisis more dangerous.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 08:04:55 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+      "author": "",
+      "published": "Sat, 19 Sep 2026 23:18:18 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
+      "link": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "\"It's really weird watching yourself age on screen because that's not fun,\" Horgan reveals.",
+      "author": "",
+      "published": "Sat, 19 Sep 2026 23:18:34 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Maddy Cusack's family still waiting for answers on third anniversary of her death",
+      "link": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
+      "author": "",
+      "published": "Sat, 19 Sep 2026 23:17:57 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "No criminality in death of three sisters who died in sea",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwp9x4x4po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "An investigation by Sussex Police into the deaths off the coast of Brighton has concluded.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 15:26:35 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Danny Dyer and Becky Hill join water industry protest",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qr3vw4537o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Activists are calling for the water industry to be returned to public ownership.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 17:28:04 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Lib Dems sleepwalking to irrelevance under Davey, says council leader",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r64r7d56mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Devon County Council leader Julian Brazil tells the BBC Ed Davey is not the right person to lead the party.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 14:46:18 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +251,7 @@
       "summary": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
       "author": "",
       "published": "Sun, 20 Sep 2026 11:22:21 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
@@ -191,47 +261,17 @@
       "summary": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
       "author": "",
       "published": "Sun, 20 Sep 2026 13:47:08 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
-      "title": "Twin's stillbirth inspires grieving father's children's book",
-      "link": "https://www.bbc.co.uk/news/articles/c158n5zjyxqo?at_medium=RSS&at_campaign=rss",
+      "title": "Homes evacuated over fears fire at seaside hotel weakened building's structure",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgxer9jezeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Richard Ganjavi says you never get over the loss of a child but hopes his book will be her legacy.",
+      "summary": "Residents living near Folkestone’s Grand Burstin Hotel relocated after safety inspectors' concerns.",
       "author": "",
-      "published": "Tue, 15 Sep 2026 05:31:37 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Meta glasses revolution - is it okay to film people in public?",
-      "link": "https://www.bbc.co.uk/news/articles/cz05jxx08kyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Meta glasses, made by the company behind Facebook, WhatsApp and Instagram, have made it easier for people to film discreetly in public.",
-      "author": "",
-      "published": "Sat, 12 Sep 2026 05:13:53 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I got paid $5,000 to move to a place I'd never heard of",
-      "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 23:08:28 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Asian hornet hunt leads to nest discovery",
-      "link": "https://www.bbc.co.uk/news/articles/clyk6emn3dlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Bee keepers and inspectors used GPS trackers to follow the insects and find the nest in Oldham.",
-      "author": "",
-      "published": "Mon, 14 Sep 2026 05:13:55 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "published": "Sun, 20 Sep 2026 14:02:59 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +281,57 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-20T15:06:00.639291+00:00"
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What have we learned from the Premier League so far?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 19:08:10 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Mourinho prints out 'red card' incidents after Real lose derby",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Real Madrid manager Jose Mourinho prints out screenshots displaying two incidents he believes should have resulted in Atletico Madrid dismissals.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 19:44:41 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rangers look like they know where they want to go - Celtic just look lost",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 16:23:48 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Impressive defence seals solid start at Liverpool for Iraola",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cklyjpgj3nv6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Liverpool are looking good defensively but Andoni Iraola needs more from his attackers after a hard-fought win at Bournemouth.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 16:57:34 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Middlesex beat Leicestershire to win One-Day Cup",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3vgylgqz8p8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Middlesex claim their first silverware in a decade as they beat Leicestershire in a thrilling One-Day Cup final.",
+      "author": "",
+      "published": "Sun, 20 Sep 2026 18:00:21 GMT",
+      "fetched_at": "2026-09-20T19:58:41.203167+00:00"
     }
   ]
 }
