@@ -1,8 +1,28 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-21T02:22:52.695587+00:00",
-  "count": 34,
+  "fetched_at": "2026-09-21T11:27:01.755998+00:00",
+  "count": 31,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.",
+      "author": "",
+      "published": "Mon, 21 Sep 2026 04:00:05 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
+      "link": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Men who sexually abused them as underage girls are still walking around the city, they say.",
+      "author": "",
+      "published": "Mon, 21 Sep 2026 05:00:34 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
+    },
     {
       "source": "bbc",
       "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
@@ -10,148 +30,78 @@
       "full_text": "",
       "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 20:21:40 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 08:56:27 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
-      "link": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 15:21:19 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Specialist courts for rape cases to be rolled out across England and Wales",
-      "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 22:43:31 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Union calls for halt to graded Ofsted inspections over health concerns",
-      "link": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The National Association of Head Teachers says inspections in England may pose a \"risk to life\" for school leaders.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 23:02:05 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
-      "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "While Burnham praised the agreement, Lib Dem leader Ed Davey called it a \"pretend\" victory for Trump.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 17:25:49 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Kelsey Parker welcomes baby after 'devastating' stillbirth last year",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxz260020qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The widow of The Wanted singer Tom Parker has given birth after last year announcing the \"devastating\" loss of a stillborn baby.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 17:04:51 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-      "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 19:04:11 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 23:12:31 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results is far from clear",
+      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
       "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
       "author": "",
       "published": "Mon, 21 Sep 2026 00:05:11 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 21:17:22 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 07:01:25 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump says triumphal arch will be military complex with drones and snipers",
-      "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "title": "Southport killer accused of throwing boiling water mixed with sugar at prison officer",
+      "link": "https://www.bbc.co.uk/news/articles/c6d79pzny7gjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "summary": "Axel Rudakubana is accused of grievous bodily harm and two other assaults of prison officers while serving a life sentence.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 16:36:43 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 11:24:30 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Brigitte Bardot's ballet flats and diamond rings to be sold at auction",
-      "link": "https://www.bbc.co.uk/news/articles/c5j9x83yw19wo?at_medium=RSS&at_campaign=rss",
+      "title": "Why thousands of Yemeni refugees have fled to Djibouti",
+      "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Many of the film star's personal items, on sale in Paris, are priced at under €100.",
+      "summary": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 23:13:42 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 10:00:31 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-      "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
+      "title": "Helen Jenner announced by Nigel Farage as new leader of Reform in Wales",
+      "link": "https://www.bbc.co.uk/news/articles/cjly4p95y3zko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
+      "summary": "Jenner, who represents Bangor Conwy Mon in the Senedd, was previously Reform's Welsh deputy leader.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 23:02:45 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 11:24:12 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Smart beds and motion sensors - is this the future of dementia care?",
-      "link": "https://www.bbc.co.uk/news/articles/c3056d456gro?at_medium=RSS&at_campaign=rss",
+      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jyoti and Bharat Patel are testing dementia technology including sensors in socks, their bed and around the house.",
+      "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 23:02:52 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 04:00:38 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Workers came across human remains – and unearthed a mass grave of 572 people",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j4kl80z56o?at_medium=RSS&at_campaign=rss",
+      "title": "D-Day veteran who survived capture dies aged 101",
+      "link": "https://www.bbc.co.uk/news/articles/cv4g50w2px0no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Workers in northern Sri Lanka accidentally uncovered the country's largest mass grave – and reopened wounds from its civil war.",
+      "summary": "Kenneth Hay was an \"extraordinary gentleman whose remarkable life will never be forgotten\", the British Normandy Memorial says.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 22:28:15 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 09:04:28 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
@@ -161,107 +111,137 @@
       "summary": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
       "author": "",
       "published": "Sun, 20 Sep 2026 23:02:27 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Russia to test Nato pact' and 'Labour eye tax raid'",
-      "link": "https://www.bbc.co.uk/news/articles/crp3kpy905plo?at_medium=RSS&at_campaign=rss",
+      "title": "Countryside buses resurging in England after years of decline - check your local figures",
+      "link": "https://www.bbc.co.uk/news/articles/c07yrrpdvzko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Potential threats from Russia to Nato and speculation over Labour's tax plans ahead of the Budget lead Monday's papers.",
+      "summary": "A rise in bus miles with council funding might be starting to reverse the reduction in services.",
       "author": "",
-      "published": "Mon, 21 Sep 2026 00:37:06 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 10:57:17 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Kuenssberg: I asked Earl Spencer who we should believe - him or the King?",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9epzjy0klo?at_medium=RSS&at_campaign=rss",
+      "title": "Workers came across human remains – and unearthed a mass grave of 572 people",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j4kl80z56o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Princess Diana's brother has caused a storm with his new memoir - the BBC's Laura Kuenssberg describes how she put his claims to the test.",
+      "summary": "Workers in northern Sri Lanka accidentally uncovered the country's largest mass grave – and reopened wounds from its civil war.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 16:11:38 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Sun, 20 Sep 2026 22:28:15 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
-      "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
+      "title": "Spygate's final twist - Southampton manager says he's asked for forgiveness before FA misconduct hearing",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers.",
+      "summary": "As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parsons on what happens next.",
       "author": "",
-      "published": "Sat, 19 Sep 2026 23:18:46 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 05:32:44 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+      "title": "Smart beds and motion sensors - is this the future of dementia care?",
+      "link": "https://www.bbc.co.uk/news/articles/c3056d456gro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
+      "summary": "Jyoti and Bharat Patel are testing dementia technology including sensors in socks, their bed and around the house.",
       "author": "",
-      "published": "Mon, 21 Sep 2026 00:34:53 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Sun, 20 Sep 2026 23:02:52 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Danny Dyer and Becky Hill join water industry protest",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qr3vw4537o?at_medium=RSS&at_campaign=rss",
+      "title": "Will you get £13,000 a year when you stop working? Here's how to check",
+      "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Activists are calling for the water industry to be returned to public ownership.",
+      "summary": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 17:28:04 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 08:49:45 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ed Davey calls for immediate 10p cut to fuel duty",
-      "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+      "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+      "link": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+      "summary": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 14:42:42 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Sun, 20 Sep 2026 15:21:19 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
+      "title": "Specialist courts for rape cases to be rolled out in England and Wales",
+      "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
+      "summary": "Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 19:44:15 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 08:46:30 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man rearrested after missing mum's remains found",
-      "link": "https://www.bbc.co.uk/news/articles/ck8d3lz684zvo?at_medium=RSS&at_campaign=rss",
+      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The remains of mother-of-three Joanne Sheen were found almost seven years after she went missing.",
+      "summary": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
       "author": "",
-      "published": "Sun, 20 Sep 2026 12:32:08 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 11:15:41 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "No criminality in death of three sisters who died in sea",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwp9x4x4po?at_medium=RSS&at_campaign=rss",
+      "title": "BBC removes 11 Mitchell and Webb comedy sketches from iPlayer",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An investigation by Sussex Police into the deaths off the coast of Brighton has concluded.",
+      "summary": "The corporation said it had included \"the ones that still work today and not the ones that don't.\"",
       "author": "",
-      "published": "Sun, 20 Sep 2026 15:26:35 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 11:05:13 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Top Gear star Richard Hammond thanks emergency crews 20 years on from crash",
-      "link": "https://www.bbc.co.uk/news/articles/c65y5084x8e0o?at_medium=RSS&at_campaign=rss",
+      "title": "Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Richard Hammond was seriously injured in a jet dragster crash at Elvington in September 2006.",
+      "summary": "Patrick Clancy gives his first interview since his wife's mistrial over the killing of their three young children.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 13:55:58 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 05:52:57 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Lib Dems call for one-to-one midwife care during childbirth",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gr8pde059o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sir Ed Davey pledged to spend £600m a year on maternity services if the Lib Dems were in government.",
+      "author": "",
+      "published": "Mon, 21 Sep 2026 10:23:50 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Quadruple amputee enters the Big Brother house",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7vgkmp4do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Charlotte lost her arms and legs to meningitis as a toddler and is now a contestant on Big Brother.",
+      "author": "",
+      "published": "Mon, 21 Sep 2026 05:13:38 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "World Gurning Championship winners crowned",
+      "link": "https://www.bbc.co.uk/news/articles/crjw5p03qqpvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The World Gurning Championship is held annually in the small Cumbrian town of Egremont.",
+      "author": "",
+      "published": "Mon, 21 Sep 2026 09:10:36 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
@@ -271,77 +251,67 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
+      "title": "Gibbs-White set to replace Palmer in England squad",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
+      "summary": "Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is set to withdraw from the squad because of a minor injury.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 19:44:15 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 09:36:36 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "What have we learned from the Premier League so far?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
+      "title": "Why Cardiff is set to win race to host Fury-Joshua",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
+      "summary": "Why Cardiff is set to beat competition from London and New York to host the long-awaited fight between Tyson Fury and Anthony Joshua.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 19:08:10 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 10:51:22 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mourinho prints out 'red card' incidents after Real lose derby",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss",
+      "title": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Real Madrid manager Jose Mourinho prints out screenshots displaying two incidents he believes should have resulted in Atletico Madrid dismissals.",
+      "summary": "As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parsons on what happens next.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 19:44:41 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 05:32:44 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rangers look like they know where they want to go - Celtic just look lost",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
+      "title": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.",
+      "summary": "Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?",
       "author": "",
-      "published": "Sun, 20 Sep 2026 16:23:48 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 06:51:48 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqx2zg35kln5o?at_medium=RSS&at_campaign=rss",
+      "title": "All the goals from the Women's Super League - matchweek three",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm0qx2191yxgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Olivia Holdt claims a hat-trick as Tottenham score seven times in the second half to condemn 10-player Crystal Palace to their first defeat since being promoted back to the Women's Super League.",
+      "summary": "Watch every goal from matchweek three of the Women's Super League 2026-27 season.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 18:52:26 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 08:15:52 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     },
     {
       "source": "bbc",
-      "title": "Middlesex beat Leicestershire to win One-Day Cup",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3vgylgqz8p8o?at_medium=RSS&at_campaign=rss",
+      "title": "Chiefs back in business as star QBs go down - five things from NFL week two",
+      "link": "https://www.bbc.co.uk/sport/american-football/articles/crz6z2pypgqlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Middlesex claim their first silverware in a decade as they beat Leicestershire in a thrilling One-Day Cup final.",
+      "summary": "Patrick Mahomes and the Kansas City Chiefs look back to their best but Caleb Williams and Jayden Daniels suffer serious injuries. Here's what you need to know from week two in the NFL.",
       "author": "",
-      "published": "Sun, 20 Sep 2026 18:00:21 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Smith wins World Series of Darts Finals as Littler run ends",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/cmx2z19n25w7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "England's Ross Smith shocks Wales' Gerwyn Price to win World Series of Darts Finals as Luke Littler's clean-sweep dream ends in last eight in Amsterdam.",
-      "author": "",
-      "published": "Sun, 20 Sep 2026 21:14:00 GMT",
-      "fetched_at": "2026-09-21T02:22:42.427970+00:00"
+      "published": "Mon, 21 Sep 2026 06:10:32 GMT",
+      "fetched_at": "2026-09-21T11:26:58.729876+00:00"
     }
   ]
 }
