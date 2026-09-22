@@ -1,108 +1,8 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-22T02:26:29.506187+00:00",
-  "count": 34,
+  "fetched_at": "2026-09-22T10:39:44.996696+00:00",
+  "count": 33,
   "articles": [
-    {
-      "source": "bbc",
-      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 01:31:29 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 00:58:52 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-      "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 20:21:18 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 01:04:16 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 14:14:16 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Flights at major US airports delayed after cable cut by construction workers",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 01:36:54 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Police raid organised crime targets in Teesside",
-      "link": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Cleveland Police carried out one of their biggest raids in years, following the A66 crash that left two officers dead.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 20:21:29 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 00:16:06 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "First UK charges brought over 1994 Rwanda genocide",
-      "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 17:48:23 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'My army dream was ended by childhood eye surgery'",
-      "link": "https://www.bbc.co.uk/news/articles/cvg7k5nv4kpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some 114,000 Army application were rejected on medical grounds in the past five years, Freedom of Information figures show.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 23:19:10 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
     {
       "source": "bbc",
       "title": "Martha's Rule rolled out at every A&E department in England",
@@ -110,8 +10,78 @@
       "full_text": "",
       "summary": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
       "author": "",
-      "published": "Mon, 21 Sep 2026 23:38:57 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "published": "Tue, 22 Sep 2026 08:32:32 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+      "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 08:52:12 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 06:03:22 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
+      "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 04:05:58 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Scientists discover why Kent meningitis outbreak was so severe",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The bacteria responsible picked up some new genetic material, say experts.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 07:55:56 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 08:17:15 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Six-year-old girl from China sets new Rubik's Cube world record",
+      "link": "https://www.bbc.co.uk/news/videos/cmvgyzgnq9e3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lian Yunzhi broke the women's world record twice in three days at World Cube Association competitions.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 02:43:52 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK to help refuel Saudi jets countering Houthi attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The UK says it will provide air-to-air refuelling for \"defensive\" operations following a request from Saudi Arabia.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 08:53:03 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
@@ -120,18 +90,38 @@
       "full_text": "",
       "summary": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
       "author": "",
-      "published": "Mon, 21 Sep 2026 23:01:18 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "published": "Tue, 22 Sep 2026 07:39:35 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
-      "title": "What we found in Earl Spencer's controversial Diana memoir",
+      "title": "Eleven injured in shooting outside Turkish school",
+      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 10:25:25 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Glimpses into Diana's life show Earl Spencer's memoir is more than just score-settling",
       "link": "https://www.bbc.co.uk/news/articles/cqy7z21ekkrro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "What further revelations are going to appear now the full details of his Diana book are published?",
       "author": "",
       "published": "Mon, 21 Sep 2026 20:32:36 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "New right to bereavement leave to cover step and half relatives",
+      "link": "https://www.bbc.co.uk/news/articles/ckrerp1e7vdqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The new law will also cover foster, kinship care and adoptive relationships, as well as early pregnancy loss.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 00:01:19 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +131,17 @@
       "summary": "Former culinary-challenged students share four low cost meals they think everyone can master.",
       "author": "",
       "published": "Mon, 21 Sep 2026 23:41:20 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Can you take the 'London' out of London Fashion Week?",
+      "link": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 09:27:28 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +151,7 @@
       "summary": "From popping spots to getting enough sleep, experts share their advice on the best way to look after teenage skin.",
       "author": "",
       "published": "Mon, 21 Sep 2026 23:28:26 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
@@ -161,37 +161,87 @@
       "summary": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
       "author": "",
       "published": "Mon, 21 Sep 2026 23:01:26 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers:  'Air traffic out of control' and 'RAF to help Saudis'",
-      "link": "https://www.bbc.co.uk/news/articles/cmj4jpj9144wo?at_medium=RSS&at_campaign=rss",
+      "title": "Is the global appeal of the WSL becoming a problem for homegrown talent?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cew9nqnz9lno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A second glitch this month in the national air traffic system and the PM's first major foreign policy move lead the papers.",
+      "summary": "The London City Lionesses raised eyebrows with no English players in their starting line-up against Manchester United, but is there a wider trend?",
       "author": "",
-      "published": "Tue, 22 Sep 2026 00:46:31 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "published": "Tue, 22 Sep 2026 06:40:41 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
-      "title": "Autumn equinox 2026: When is it and what happens?",
-      "link": "https://www.bbc.co.uk/weather/articles/cj067v5215zo?at_medium=RSS&at_campaign=rss",
+      "title": "'My army dream was ended by childhood eye surgery'",
+      "link": "https://www.bbc.co.uk/news/articles/cvg7k5nv4kpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In the northern hemisphere, the September equinox marks the start of astronomical autumn.",
+      "summary": "Some 114,000 Army application were rejected on medical grounds in the past five years, Freedom of Information figures show.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 00:05:52 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "published": "Mon, 21 Sep 2026 23:19:10 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
-      "title": "Repeated air traffic control failures leave us in worrying territory",
-      "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
+      "title": "Inside Scotland's wildcat HQ - 'It's like Big Brother for cats'",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyzkyr0r8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
+      "summary": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms.",
       "author": "",
-      "published": "Mon, 21 Sep 2026 16:39:01 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "published": "Tue, 22 Sep 2026 05:00:15 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 08:57:08 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "No regular contact with pair held in Iran, family say",
+      "link": "https://www.bbc.co.uk/news/articles/c68xk2egvg1zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Craig and Lindsay Foreman's family say they were promised contact after they ended hunger strikes.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 09:09:29 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Ukraine's race to counter new jet-powered Russian drones",
+      "link": "https://www.bbc.co.uk/news/videos/cm1j422wdjn1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Russia's new drones are harder to intercept, making recent attacks on Ukraine even more devastating.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 05:12:21 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England fast bowler Wood retires from internationals",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England fast bowler Mark Wood announces his retirement from international cricket with immediate effect.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 08:58:21 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 07:14:12 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
@@ -201,67 +251,17 @@
       "summary": "Author Sir Anthony Seldon says AI needs to be addressed with the same urgency as a war or epidemic.",
       "author": "",
       "published": "Tue, 22 Sep 2026 00:02:08 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
-      "title": "Manchester to host world leaders at G20 summit in 2027",
-      "link": "https://www.bbc.co.uk/news/articles/cv4g503n374jo?at_medium=RSS&at_campaign=rss",
+      "title": "Traffic chaos in Perthshire villages after Google Maps glitch",
+      "link": "https://www.bbc.co.uk/news/articles/c933k2y1xk53o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Prime Minister Andy Burnham said he was pleased he would be welcoming US President Donald Trump to the city.",
+      "summary": "The issue saw vehicles leave the A9 and travel through the Perthshire villages of Ballinluig, Tulliemet and Guay.",
       "author": "",
-      "published": "Mon, 21 Sep 2026 22:39:10 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 19:01:36 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Two pilot whales dead after mass stranding",
-      "link": "https://www.bbc.co.uk/news/articles/c60qx22zny8yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Attempts to refloat the whales off the Northumberland coast are unsuccessful due to the tides.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 16:59:04 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Infantino says he is open to Fifa reform",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 19:50:57 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Arrests as migrant boat reaches UK unintercepted",
-      "link": "https://www.bbc.co.uk/news/articles/cxq63pdv3q78o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Five people have been detained and an investigation launched, the Home Office says.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 20:52:54 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Bishop of Lincoln resigns amid sex assault inquiry",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4pwlpn2po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Right Reverend Stephen Conway remains under investigation following a \"safeguarding complaint\".",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 21:16:38 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "published": "Tue, 22 Sep 2026 05:03:45 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,57 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England fast bowler Wood retires from internationals",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England fast bowler Mark Wood announces his retirement from international cricket with immediate effect.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 08:58:21 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pollock signs new Northampton deal in excess of £400K",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq39m2eppe0wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Henry Pollock has brought an end to his contract stand-off with Northampton, saying it was ultimately \"a very easy decision\" to sign an extension.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 08:28:34 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 06:19:17 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why is Monaco staging a sprint race? F1 Q&A",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Azerbaijan Grand Prix.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 06:38:06 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Alarming' - does WSL have a homegrown problem?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cew9nqnz9lno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The London City Lionesses raised eyebrows with no English players in their starting line-up against Manchester United, but is there a wider trend?",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 06:40:41 GMT",
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     },
     {
       "source": "bbc",
@@ -281,67 +331,7 @@
       "summary": "Could Luke Littler walk away from darts completely if the booing he has suffered at European tournaments continues?",
       "author": "",
       "published": "Mon, 21 Sep 2026 18:55:42 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 21:49:45 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Being run over by pitch roller was 'terrifying' - Townsend",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Townsend says he was lucky to only escape from under the roller with a few \"bumps and bruises\".",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 22:13:16 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Infantino says he is open to talks over Fifa reform",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 19:50:57 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "F1 reduces maximum distance of races by 15km",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "F1 announces the maximum race distance for grands prix will be reduced by 15km from 305km to 290km for the 2027 season.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 17:16:13 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 15:39:36 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Atletico hit back at Mourinho over referee complaints",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwx2z115lx4mo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Atletico Madrid hit back at Jose Mourinho after he complained about the refereeing in the Madrid derby.",
-      "author": "",
-      "published": "Mon, 21 Sep 2026 17:52:42 GMT",
-      "fetched_at": "2026-09-22T02:26:20.696290+00:00"
+      "fetched_at": "2026-09-22T10:34:56.739842+00:00"
     }
   ]
 }
