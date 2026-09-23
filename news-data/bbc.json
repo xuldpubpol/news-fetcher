@@ -1,17 +1,57 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-22T20:39:34.538976+00:00",
-  "count": 29,
+  "fetched_at": "2026-09-23T02:26:27.451854+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
-      "link": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+      "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
+      "link": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+      "summary": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 19:15:57 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Wed, 23 Sep 2026 01:08:40 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Key moments from Andy Burnham's first UN speech",
+      "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 01:25:47 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+      "link": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 21:22:36 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Poison seller' who sold my daughter deadly drugs should rot in hell",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Louise Nunn's daughter bought drugs from Canadian Kenneth Law, who sold toxic chemicals online.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 23:20:43 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+      "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 23:01:28 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -20,38 +60,28 @@
       "full_text": "",
       "summary": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 18:00:17 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Tue, 22 Sep 2026 20:54:49 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tim Westwood charged with two more sexual offences",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
+      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The alleged sexual offences date back to 1991 and 2004.",
+      "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 14:29:31 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Tue, 22 Sep 2026 22:03:48 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
-      "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
-      "link": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
+      "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 20:08:52 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Father admits causing death of his son in hotel fall",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 15:52:35 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Tue, 22 Sep 2026 23:11:33 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -61,27 +91,17 @@
       "summary": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
       "author": "",
       "published": "Tue, 22 Sep 2026 19:01:18 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
-      "title": "Lib Dems leave conference buoyed by Davey's message",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Concerns over Sir Ed Davey's leadership were dampened by pledges at conference and his performance.",
+      "summary": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 19:33:27 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system -  was ruled an accident.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 15:17:37 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Wed, 23 Sep 2026 02:00:26 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -90,28 +110,48 @@
       "full_text": "",
       "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 18:43:29 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Tue, 22 Sep 2026 21:36:55 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
-      "title": "New EU industry rules would damage UK, warns Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+      "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+      "summary": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 13:10:23 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Tue, 22 Sep 2026 20:08:52 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
-      "link": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
+      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
+      "summary": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 16:45:14 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Tue, 22 Sep 2026 23:20:31 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fresh bedsheets and dusk walks: Expert tips for sleep-deprived freshers",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyz2p41ezvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Why it's a good idea to get out for an evening stroll, and other essential sleep advice for students.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 23:20:56 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Child ketamine users getting bladder damage describe 'peeing a jellyfish'",
+      "link": "https://www.bbc.co.uk/news/articles/cqgk52ln68xvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Doctors running the UK's first and only dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 23:21:16 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -121,47 +161,97 @@
       "summary": "Riley Lubas took two over-the counter medicines without realising they both contained paracetamol.",
       "author": "",
       "published": "Tue, 22 Sep 2026 14:27:45 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
-      "title": "American power, AI and a walkout - key moments from Trump's UN speech",
-      "link": "https://www.bbc.co.uk/news/articles/c6rm903e22lgo?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Burn to be mild' and 'Pulp fiction'",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d3274g2l7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC correspondents who covered the president's address on Tuesday assess five key moments.",
+      "summary": "Burnham-Trump meeting at the UN and Earl Spencer admits error in new book lead Wednesday's papers.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 19:44:44 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Wed, 23 Sep 2026 02:16:47 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
-      "title": "The 'selfless decision' that saved our boy's life",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3kp9l1j94o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
+      "link": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ollie is still thriving and happy 10 years after receiving a liver transplant from 17-year-old Miriam.",
+      "summary": "Delegations from across the world attended the United Nations General Assembly in New York.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 10:42:28 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Tue, 22 Sep 2026 22:33:44 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
-      "title": "Can you take the 'London' out of London Fashion Week?",
-      "link": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+      "title": "Lib Dems leave conference buoyed by Davey's message",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
+      "summary": "Concerns over Sir Ed Davey's leadership were dampened by pledges at conference and his performance.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 09:27:28 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Tue, 22 Sep 2026 19:33:27 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
-      "title": "Inside Scotland's wildcat HQ - 'It's like Big Brother for cats'",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyzkyr0r8o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+      "link": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms.",
+      "summary": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
       "author": "",
-      "published": "Tue, 22 Sep 2026 05:00:15 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "published": "Tue, 22 Sep 2026 19:15:57 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Frost, wind and rain forecast as autumn warmth fades for many",
+      "link": "https://www.bbc.co.uk/weather/articles/cwp80lxpr71go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Late summer warmth is set to break in many areas as rain and wind sweep in from the west.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 23:28:27 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system -  was ruled an accident.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 15:17:37 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Father admits causing death of his son in hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 15:52:35 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tim Westwood charged with two more sexual offences",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The alleged sexual offences date back to 1991 and 2004.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 14:29:31 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
+      "link": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
+      "author": "",
+      "published": "Tue, 22 Sep 2026 16:45:14 GMT",
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -171,67 +261,7 @@
       "summary": "The country smash racks up it 23rd week in the US charts, breaking a record set by Mariah Carey.",
       "author": "",
       "published": "Tue, 22 Sep 2026 16:02:18 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 12:54:14 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mum and three children die in Bootle house fire",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyzkge3w9no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Another person was taken to hospital following the \"intense fire which spread very rapidly\".",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 17:02:59 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 19:06:06 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Juvenile murder sentence rule doesn't breach human rights, says Supreme Court",
-      "link": "https://www.bbc.co.uk/news/articles/c8kg75dnxq5xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The top court rejects an appeal for a minimum term review from a man who was sentenced after turning 18.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 15:14:49 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-      "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 15:43:14 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
-      "author": "",
-      "published": "Tue, 22 Sep 2026 16:57:55 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +281,7 @@
       "summary": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
       "author": "",
       "published": "Tue, 22 Sep 2026 19:08:52 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +291,7 @@
       "summary": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
       "author": "",
       "published": "Tue, 22 Sep 2026 15:58:22 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +301,7 @@
       "summary": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
       "author": "",
       "published": "Tue, 22 Sep 2026 13:54:18 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +311,7 @@
       "summary": "British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed.",
       "author": "",
       "published": "Tue, 22 Sep 2026 18:34:15 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +321,7 @@
       "summary": "As England prepare to face world champions Spain on Saturday, BBC Sport's experts predict who will be starting for the Three Lions at Euro 2028.",
       "author": "",
       "published": "Tue, 22 Sep 2026 14:25:43 GMT",
-      "fetched_at": "2026-09-22T20:39:18.068558+00:00"
+      "fetched_at": "2026-09-23T02:26:23.557404+00:00"
     }
   ]
 }
