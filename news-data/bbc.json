@@ -1,147 +1,127 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-24T10:44:52.124839+00:00",
-  "count": 33,
+  "fetched_at": "2026-09-24T16:08:36.380498+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
-      "link": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Trump anticipated Xi's visit for months",
+      "link": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.",
+      "summary": "The BBC's Sarah Smith is at the White House, explaining how President Donald Trump prepared for Chinese President Xi Jinping's visit.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 09:56:54 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 15:16:27 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anti-migrant activist arrested over video of dinghy slashing",
+      "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 15:53:06 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
+      "link": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 12:29:39 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 16:00:29 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Anti-migrant activist arrested after dinghy slashed in Channel",
       "link": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.",
       "author": "",
       "published": "Thu, 24 Sep 2026 08:42:35 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australia launches urgent review after OpenAI program hacks government health portal",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-England striker Andy Carroll reveals he was sexually assaulted in 2021",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+      "summary": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 05:18:26 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 12:18:04 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "RAF pilots who ejected moments before crash expected to make full recovery",
-      "link": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+      "title": "German prosecutors investigate 105-year-old for crimes at Nazi PoW camp",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Hawk T2 aircraft had been flying out of the RAF Valley station when it plummeted to the ground.",
+      "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 10:36:04 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 14:37:34 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
-      "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+      "title": "Small boat migrant arrivals reach 781 in one day, breaking 2026 record",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0z597m471o?at_medium=RSS&at_campaign=rss",
+      "full_text": "Between 1 January and 23 September 2026, a total of 18,565 people crossed the English Channel by small boat from France. This was down by 42% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 40% of asylum applications between July 2025 to June 2026.\nBoats that arrived in the UK from 24 September 2025 to 23 September 2026 carried an average of 67 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from July 2025 to June 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,335 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,712 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from July 2025 to June 2026. This was down by 17% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
+      "summary": "A total of 781 migrants arrive on Wednesday, but the yearly total is below the same point in 2025.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 07:10:19 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 14:58:51 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Police in Scotland arrest 36 in raids on Vietnamese crime gangs linked to human trafficking",
-      "link": "https://www.bbc.co.uk/news/articles/crd9453qpnd0o?at_medium=RSS&at_campaign=rss",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "About 300 officers took part in simultaneous early-morning raids at 47 sites across Scotland.",
+      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 05:14:14 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 14:08:38 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader",
-      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "title": "Elephants use medicinal plants to treat themselves, researchers find",
+      "link": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+      "summary": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 23:03:56 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 11:42:42 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tories would stop long-term jobless using benefits to buy alcohol and cigarettes",
-      "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
+      "title": "Cardiff to host long-awaited Fury v Joshua fight",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c89n188d53no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
+      "summary": "Cardiff's Principality Stadium will host Anthony Joshua and Tyson Fury's all-British heavyweight fight on 11 December.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 10:25:58 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 13:38:27 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Judge temporarily overturns Trump's White House media ban",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+      "title": "Drinking at football matches - would fans welcome it?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
+      "summary": "Andy Burnham has long championed a repeal of the ban which prevents football supporters from drinking alcohol in the view of the pitch. But do fans even want it?",
       "author": "",
-      "published": "Thu, 24 Sep 2026 10:29:35 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham describes ban on alcohol in football stands as 'discrimination'",
-      "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 21:01:16 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-      "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 21:25:01 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "£170 a bag? Protein users squeezed as prices soar",
-      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Consumers are feeling the pinch from the rising cost of protein.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 23:12:01 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 00:50:24 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 22:01:17 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 14:09:46 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
@@ -151,27 +131,47 @@
       "summary": "Lauren had to abandon her career in the NHS after being left \"in agony\" due to her migraines.",
       "author": "",
       "published": "Thu, 24 Sep 2026 05:23:15 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
-      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "title": "As AI hacks ramp up, are we back in big tech's 'move fast and break things' era?",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+      "summary": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 23:58:50 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 11:29:20 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
-      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+      "title": "£170 a bag? Protein users squeezed as prices soar",
+      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+      "summary": "Consumers are feeling the pinch from the rising cost of protein.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 00:15:46 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Wed, 23 Sep 2026 23:12:01 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I can't see it stopping' - Middlesbrough's young men discuss gangs after A66 crash",
+      "link": "https://www.bbc.co.uk/news/articles/cm0lrjn73npyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Last month's deadly A66 crash shone a light on organised crime and opportunities for young people in Middlesbrough.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 06:29:47 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 00:50:24 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
@@ -181,77 +181,77 @@
       "summary": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
       "author": "",
       "published": "Wed, 23 Sep 2026 23:42:38 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Teenagers to be offered new vocational GCSE subjects in school",
-      "link": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss",
+      "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
+      "link": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "New GCSE subjects could include child development and building and construction as vocational courses are being introduced.",
+      "summary": "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 07:25:04 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 13:07:40 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "FBI investigates claim by hackers they stole data on all agency staff",
-      "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+      "title": "Firm fined £1m after man killed by falling window",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydvp14y6xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
+      "summary": "Mick Ferris was crushed when the 130kg window fell from The Corniche building  in Vauxhall.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 21:30:22 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 14:58:49 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mother of teen who died ‘deeply hurt’ that NHS staff may have accessed son’s records inappropriately",
-      "link": "https://www.bbc.co.uk/news/articles/cm207yn1124zo?at_medium=RSS&at_campaign=rss",
+      "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+      "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Oliver McGowan, who died in 2016, may have had his medical records accessed inappropriately after his death by NHS staff in Bristol.",
+      "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 05:00:40 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 07:10:19 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Harry Potter play producer says cost of living made two-part show 'impossible'",
-      "link": "https://www.bbc.co.uk/news/articles/cr15819w3vllo?at_medium=RSS&at_campaign=rss",
+      "title": "Reported assaults on Britain's rail services rise by more than a third",
+      "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The London production, which has been running for 10 years, will reopen next month as a one-part show.",
+      "summary": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 06:45:25 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 15:38:50 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
+      "title": "On-the-run killer Gary Anderson appears in court",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yl06j3ezeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In a letter to Senator Kirsten Gillibrand, acting Navy Secretary Hung Cao said the crew had adequate mental health support during the long deployment.",
+      "summary": "Gary Anderson had been serving life in prison for the murder of Karol Kelly in Londonderry in 2018.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 00:43:53 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 15:51:28 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Prison staff told not to use inadequate cells as overcrowding worsens",
-      "link": "https://www.bbc.co.uk/news/articles/cmrerl4gw1zgo?at_medium=RSS&at_campaign=rss",
+      "title": "Police in Scotland arrest 36 in raids on Vietnamese crime gangs linked to human trafficking",
+      "link": "https://www.bbc.co.uk/news/articles/crd9453qpnd0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Workers tell BBC they are increasingly having to put two inmates in single occupancy cells because of overcrowding.",
+      "summary": "About 300 officers took part in simultaneous early-morning raids at 47 sites across Scotland.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 05:00:08 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 05:14:14 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Corrie Mckeague's mum: 'We did all we could to find him'",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wj23v9964o?at_medium=RSS&at_campaign=rss",
+      "title": "Edinburgh Zoo's red panda goes to the vet for toothache",
+      "link": "https://www.bbc.co.uk/news/articles/c6z7zd0l8g1xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nicola Urquhart speaks to the BBC on the 10th anniversary of her 23-year-old son's disappearance.",
+      "summary": "Red panda Bruce laid on his back under a general anaesthetic, as vets removed the problem tooth and checked him for other illnesses.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 05:47:24 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 11:31:16 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +261,37 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Drinking at football matches - would fans welcome it?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Andy Burnham has long championed a repeal of the ban which prevents football supporters from drinking alcohol in the view of the pitch. But do fans even want it?",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 14:09:46 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fury v Joshua announced for 11 December in Cardiff",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c89n188d53no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Cardiff's Principality Stadium will host Anthony Joshua and Tyson Fury's all-British heavyweight fight on 11 December.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 13:38:27 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ex-England striker Carroll reveals he was sexually assaulted in 2021",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 12:18:04 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
@@ -271,67 +301,27 @@
       "summary": "BBC Sport goes inside Manchester City's data team, who have been a key part of their rebuild over the past 18 months.",
       "author": "",
       "published": "Thu, 24 Sep 2026 09:31:22 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "Debbie Beard and Amanda Thorpe lost their husbands - this is their story",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Debbie Beard and Amanda Thorpe speak to the BBC's Simon Jack at the launch of a new suicide prevention toolkit.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 05:16:40 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man Utd selling Old Trafford turf cubes for £125",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzjedq51lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester United is selling pieces of its Old Trafford pitch for £125 each, an initiative announced the same day the club reported its overall debt remains more than £1bn.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 07:08:11 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3.34am",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cmvgy73zvwx1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Carlos Alcaraz discusses his US Open return, why he \"misses\" rival Jannik Sinner and his excitement for this year's Laver Cup.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 06:56:50 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russell fastest in Baku as Antonelli stops on track",
+      "title": "McLaren miles off pace in Baku practice - Norris",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/cmwyzqn4w20qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mercedes driver George Russell heads Red Bull's Max Verstappen in first practice at the Azerbaijan Grand Prix.",
+      "summary": "Lando Norris says McLaren were \"miles off\" the pace after the first day's practice at the Azerbaijan Grand Prix.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 09:44:53 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 16:00:32 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     },
     {
       "source": "bbc",
-      "title": "England should stop trying to replicate Spain - Gordon",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c90kly6kelk1o?at_medium=RSS&at_campaign=rss",
+      "title": "Is this really the Premier League's 'Bermuda Triangle'?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c39w40g8n59yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Anthony Gordon says that controlling games is not in the \"English DNA\" but the Three Lions could still win major tournaments if they stop \"trying to replicate Spain\".",
+      "summary": "Do the stats back the social media meme that Bournemouth, Brighton and Brentford form a Premier League 'Bermuda Triangle' where teams lose points?",
       "author": "",
-      "published": "Thu, 24 Sep 2026 05:05:26 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The eel-powered 11-year-old making history",
-      "link": "https://www.bbc.co.uk/sport/articles/cr1e51g1nvd6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Primary school student Yuki Kurihara makes a flying start as he becomes the youngest athlete at this year's Asian Games.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 09:30:07 GMT",
-      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+      "published": "Thu, 24 Sep 2026 13:27:39 GMT",
+      "fetched_at": "2026-09-24T16:08:32.414793+00:00"
     }
   ]
 }
