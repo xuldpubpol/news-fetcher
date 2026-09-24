@@ -1,17 +1,187 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-23T20:51:16.709969+00:00",
-  "count": 30,
+  "fetched_at": "2026-09-24T02:14:59.088682+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-      "link": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
+      "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+      "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The head of the RAF says the UK faces \"unprecedented threats\" from adversaries in space, as a new unit is created to defend Britain's satellites.",
+      "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 17:01:11 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "published": "Wed, 23 Sep 2026 21:01:06 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What video footage tells us about RAF training jet crash",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 22:48:29 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 23:03:56 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 01:59:53 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
+      "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 21:01:16 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 00:50:24 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In a letter to Senator Kirsten Gillibrand, acting Navy Secretary Hung Cao said the crew had adequate mental health support during the long deployment.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 00:43:53 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 21:16:00 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
+      "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 21:01:55 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Teenagers to be offered new vocational GCSE subjects in school",
+      "link": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "New GCSE subjects could include child development and building and construction as vocational courses are being introduced.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 21:31:40 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 23:58:50 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Consumers are feeling the squeeze from the rising price of protein.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 23:12:01 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
+      "link": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 23:42:38 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 22:01:17 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 23:12:22 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'RAF jet crash escape' and 'Tories to cut benefits'",
+      "link": "https://www.bbc.co.uk/news/articles/cx62m12yrnyqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The moment two RAF pilots ejected from a training jet is splashed across the front page of the Daily Mirror.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 00:03:02 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I couldn't live with the agony of migraines any more but my GP called me dramatic",
+      "link": "https://www.bbc.co.uk/news/articles/cmp8d1575xjzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lauren had to abandon her career in the NHS after being left \"in agony\" due to her migraines.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 22:00:38 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 23:14:10 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
@@ -21,57 +191,37 @@
       "summary": "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.",
       "author": "",
       "published": "Wed, 23 Sep 2026 17:18:49 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
-      "link": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss",
+      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The two pilots ejected from the jet before crash and sustained minor injuries.",
+      "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 15:23:49 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "published": "Wed, 23 Sep 2026 22:35:14 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "title": "FBI investigates apparent theft of its personnel data by hackers",
+      "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+      "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 18:15:31 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "published": "Wed, 23 Sep 2026 21:30:22 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
-      "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
-      "link": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Daniel Thomas, known to his supporters as Danny Tommo, livestreamed a video of the alleged incident.",
+      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 11:47:17 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Family tribute to 'devoted' mum and 'precious' children who died in fire",
-      "link": "https://www.bbc.co.uk/news/articles/ckpq03g8940po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Elisha Brabin, 36, and her children, Leo, 16, Ellis, 8, and Prudence, 7, died in Bootle on Tuesday.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 18:34:04 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\".",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 12:52:53 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "published": "Wed, 23 Sep 2026 21:26:14 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
@@ -81,157 +231,27 @@
       "summary": "The award-winning musician says he faces a \"tough journey ahead\" after a \"quite severe\" brain injury.",
       "author": "",
       "published": "Wed, 23 Sep 2026 16:19:16 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
-      "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
-      "link": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "link": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
+      "summary": "The head of the RAF says the UK faces \"unprecedented threats\" from adversaries in space, as a new unit is created to defend Britain's satellites.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 19:10:22 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "published": "Wed, 23 Sep 2026 17:01:11 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
-      "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
-      "link": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss",
+      "title": "Family tribute to 'devoted' mum and 'precious' children who died in fire",
+      "link": "https://www.bbc.co.uk/news/articles/ckpq03g8940po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A concerning number of patients are reporting problems from treatment abroad, say doctors.",
+      "summary": "Elisha Brabin, 36, and her children, Leo, 16, Ellis, 8, and Prudence, 7, died in Bootle on Tuesday.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 05:00:25 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 18:51:12 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Stunning photos from across the UK capture the first day of astronomical autumn",
-      "link": "https://www.bbc.co.uk/weather/articles/cj067v5215zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In the northern hemisphere, the September equinox occurred in the early hours of Wednesday marking the start of astronomical autumn.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 11:11:19 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Is Burnham right to blame Russia for spreading online disinformation?",
-      "link": "https://www.bbc.co.uk/news/articles/ckd79wldjzl4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Verify examines Russian-linked operations spreading false information about the UK, Ukraine and other nations.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 16:35:11 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hunting hidden gems - is there anywhere in the world left to scout for football players?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y8zp2v1zl4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Through live scouting and increasing data and footage, top clubs now have tabs on a large proportion of the world's talent.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 05:24:56 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Why is the UK reviewing its Chagos Islands deal?",
-      "link": "https://www.bbc.co.uk/news/videos/cqdr74vn85ndo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The UK is reviewing its deal to hand over the Chagos Islands to Mauritius, the defence secretary has said.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 13:49:39 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Be comfortable in your own identity' - Agassi's advice to Raducanu",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cwd08m2x93mpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton is taking inspiration from Andre Agassi's 2009 autobiography.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 05:18:54 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Orkney island welcomes first baby in more than three decades",
-      "link": "https://www.bbc.co.uk/news/articles/cv70dy71wllpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Residents on North Ronaldsay toasted the birth of Duncan Wilder Thorstein Traill Suarez Ford with a dram of whisky last week.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 13:17:09 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-      "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 12:22:53 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Millions of lettuces ruined by UK aphid outbreak",
-      "link": "https://www.bbc.co.uk/news/articles/ckd79wlg2wl8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Growers are facing losses of £10m, as 30 million heads of lettuce will be rendered unusable.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 16:08:49 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man died of cardiac arrest on flight, inquest told",
-      "link": "https://www.bbc.co.uk/news/articles/cm6241yg2804o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Geoff Kitchen died onboard a Singapore Airlines flight which experienced severe turbulence in 2024.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 18:18:16 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Netherlands to return to Eurovision after 2026 boycott",
-      "link": "https://www.bbc.co.uk/news/articles/c674kyg43d3lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The country did not participate in this year's contest but will return next year in Bulgaria.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 17:17:47 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "On-the-run killer who absconded after father's funeral arrested",
-      "link": "https://www.bbc.co.uk/news/articles/c699d2d7pjr9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Gary Anderson, who has been unlawfully at large for over a week, has been arrested in the Republic of Ireland.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 15:52:44 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 13:50:25 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "published": "Wed, 23 Sep 2026 18:34:04 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +271,7 @@
       "summary": "Championship leader Kimi Antonelli tells BBC Sport how he is \"still finding my way\" in F1 after a 2024 crash \"stayed in my head for a very long time\".",
       "author": "",
       "published": "Wed, 23 Sep 2026 14:26:47 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
@@ -261,17 +281,17 @@
       "summary": "Christian Eriksen leaves Wolfsburg by mutual consent, just over three months after collapsing during Denmark's friendly with Ukraine.",
       "author": "",
       "published": "Wed, 23 Sep 2026 16:47:34 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man Utd still £1bn in debt with £63.5m spent on new stadium",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5evwlmdmy00o?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham says ban on alcohol for football fans in stands is 'discrimination'",
+      "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United's overall debt remains over £1bn despite Sir Jim Ratcliffe's extensive cost-cutting measures, with the club also confirming it has spent £63.5m buying land for their new stadium.",
+      "summary": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 14:10:21 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "published": "Wed, 23 Sep 2026 21:01:16 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +301,7 @@
       "summary": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots.",
       "author": "",
       "published": "Wed, 23 Sep 2026 16:26:38 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
@@ -291,17 +311,17 @@
       "summary": "Essex cricketer Robin Das is charged with two counts of rape and will appear in court in October.",
       "author": "",
       "published": "Wed, 23 Sep 2026 20:32:31 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     },
     {
       "source": "bbc",
-      "title": "Itauma 'humiliated' but may never lose again - Hrgovic",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c9e8ej540l8vo?at_medium=RSS&at_campaign=rss",
+      "title": "Man Utd still £1bn in debt with £63.5m spent on new stadium",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5evwlmdmy00o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Moses Itauma may never lose again if he can get over the \"humiliation\" of his IBF heavyweight title defeat, says Filip Hrgovic, who stunned the Briton in August.",
+      "summary": "Manchester United's overall debt remains over £1bn despite Sir Jim Ratcliffe's extensive cost-cutting measures, with the club also confirming it has spent £63.5m buying land for their new stadium.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 19:14:43 GMT",
-      "fetched_at": "2026-09-23T20:51:12.989716+00:00"
+      "published": "Wed, 23 Sep 2026 14:10:21 GMT",
+      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
     }
   ]
 }
