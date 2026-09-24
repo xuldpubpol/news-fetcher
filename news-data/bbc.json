@@ -1,8 +1,48 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-24T02:14:59.088682+00:00",
-  "count": 32,
+  "fetched_at": "2026-09-24T10:44:52.124839+00:00",
+  "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
+      "link": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 09:56:54 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Anti-migrant activist arrested over video of dinghy slashing",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 08:42:35 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Australia launches urgent review after OpenAI program hacks government health portal",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 05:18:26 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "RAF pilots who ejected moments before crash expected to make full recovery",
+      "link": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Hawk T2 aircraft had been flying out of the RAF Valley station when it plummeted to the ground.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 10:36:04 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+    },
     {
       "source": "bbc",
       "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
@@ -10,48 +50,78 @@
       "full_text": "",
       "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 21:01:06 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 07:10:19 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "What video footage tells us about RAF training jet crash",
-      "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
+      "title": "Police in Scotland arrest 36 in raids on Vietnamese crime gangs linked to human trafficking",
+      "link": "https://www.bbc.co.uk/news/articles/crd9453qpnd0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way.",
+      "summary": "About 300 officers took part in simultaneous early-morning raids at 47 sites across Scotland.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 22:48:29 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 05:14:14 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "title": "Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader",
       "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
       "author": "",
       "published": "Wed, 23 Sep 2026 23:03:56 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "title": "Tories would stop long-term jobless using benefits to buy alcohol and cigarettes",
+      "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "summary": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 01:59:53 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 10:25:58 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
+      "title": "Judge temporarily overturns Trump's White House media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 10:29:35 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham describes ban on alcohol in football stands as 'discrimination'",
       "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
       "author": "",
       "published": "Wed, 23 Sep 2026 21:01:16 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+      "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 21:25:01 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "£170 a bag? Protein users squeezed as prices soar",
+      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Consumers are feeling the pinch from the rising cost of protein.",
+      "author": "",
+      "published": "Wed, 23 Sep 2026 23:12:01 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
@@ -61,67 +131,47 @@
       "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
       "author": "",
       "published": "Thu, 24 Sep 2026 00:50:24 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In a letter to Senator Kirsten Gillibrand, acting Navy Secretary Hung Cao said the crew had adequate mental health support during the long deployment.",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 00:43:53 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Wed, 23 Sep 2026 22:01:17 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK survivor of Canadian poison seller says he exploited her despair",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "title": "I couldn't live with the agony of migraines anymore but my GP called me dramatic",
+      "link": "https://www.bbc.co.uk/news/articles/cmp8d1575xjzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "summary": "Lauren had to abandon her career in the NHS after being left \"in agony\" due to her migraines.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 21:16:00 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 05:23:15 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
-      "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 21:01:55 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Teenagers to be offered new vocational GCSE subjects in school",
-      "link": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "New GCSE subjects could include child development and building and construction as vocational courses are being introduced.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 21:31:40 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
       "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
       "author": "",
       "published": "Wed, 23 Sep 2026 23:58:50 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
-      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Consumers are feeling the squeeze from the rising price of protein.",
+      "summary": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 23:12:01 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 00:15:46 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
@@ -131,127 +181,77 @@
       "summary": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
       "author": "",
       "published": "Wed, 23 Sep 2026 23:42:38 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "title": "Teenagers to be offered new vocational GCSE subjects in school",
+      "link": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "summary": "New GCSE subjects could include child development and building and construction as vocational courses are being introduced.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 22:01:17 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 07:25:04 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "How the oil capital of the US welcomed a solar power boom",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 23:12:22 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'RAF jet crash escape' and 'Tories to cut benefits'",
-      "link": "https://www.bbc.co.uk/news/articles/cx62m12yrnyqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The moment two RAF pilots ejected from a training jet is splashed across the front page of the Daily Mirror.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 00:03:02 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I couldn't live with the agony of migraines any more but my GP called me dramatic",
-      "link": "https://www.bbc.co.uk/news/articles/cmp8d1575xjzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Lauren had to abandon her career in the NHS after being left \"in agony\" due to her migraines.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 22:00:38 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Indians are discovering the thrill of shopping without paying",
-      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 23:14:10 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Home secretary says undetected migrant landings 'unacceptable'",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 17:18:49 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-      "author": "",
-      "published": "Wed, 23 Sep 2026 22:35:14 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "FBI investigates apparent theft of its personnel data by hackers",
+      "title": "FBI investigates claim by hackers they stole data on all agency staff",
       "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
       "author": "",
       "published": "Wed, 23 Sep 2026 21:30:22 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "title": "Mother of teen who died ‘deeply hurt’ that NHS staff may have accessed son’s records inappropriately",
+      "link": "https://www.bbc.co.uk/news/articles/cm207yn1124zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "summary": "Oliver McGowan, who died in 2016, may have had his medical records accessed inappropriately after his death by NHS staff in Bristol.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 21:26:14 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 05:00:40 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Singer Michael Kiwanuka reveals he is recovering from a stroke",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgy4yydj1do?at_medium=RSS&at_campaign=rss",
+      "title": "Harry Potter play producer says cost of living made two-part show 'impossible'",
+      "link": "https://www.bbc.co.uk/news/articles/cr15819w3vllo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The award-winning musician says he faces a \"tough journey ahead\" after a \"quite severe\" brain injury.",
+      "summary": "The London production, which has been running for 10 years, will reopen next month as a one-part show.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 16:19:16 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 06:45:25 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-      "link": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
+      "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The head of the RAF says the UK faces \"unprecedented threats\" from adversaries in space, as a new unit is created to defend Britain's satellites.",
+      "summary": "In a letter to Senator Kirsten Gillibrand, acting Navy Secretary Hung Cao said the crew had adequate mental health support during the long deployment.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 17:01:11 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 00:43:53 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Family tribute to 'devoted' mum and 'precious' children who died in fire",
-      "link": "https://www.bbc.co.uk/news/articles/ckpq03g8940po?at_medium=RSS&at_campaign=rss",
+      "title": "Prison staff told not to use inadequate cells as overcrowding worsens",
+      "link": "https://www.bbc.co.uk/news/articles/cmrerl4gw1zgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Elisha Brabin, 36, and her children, Leo, 16, Ellis, 8, and Prudence, 7, died in Bootle on Tuesday.",
+      "summary": "Workers tell BBC they are increasingly having to put two inmates in single occupancy cells because of overcrowding.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 18:34:04 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 05:00:08 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Corrie Mckeague's mum: 'We did all we could to find him'",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wj23v9964o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nicola Urquhart speaks to the BBC on the 10th anniversary of her 23-year-old son's disappearance.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 05:47:24 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
@@ -261,67 +261,77 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "The moment Antonelli knew he had been transformed as an F1 driver",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmpq03x9x27ro?at_medium=RSS&at_campaign=rss",
+      "title": "How Man City overhauled their squad from a 650,000-strong database",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Championship leader Kimi Antonelli tells BBC Sport how he is \"still finding my way\" in F1 after a 2024 crash \"stayed in my head for a very long time\".",
+      "summary": "BBC Sport goes inside Manchester City's data team, who have been a key part of their rebuild over the past 18 months.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 14:26:47 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 09:31:22 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Eriksen leaves Wolfsburg by mutual consent",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm5yezn8w4xdo?at_medium=RSS&at_campaign=rss",
+      "title": "Debbie Beard and Amanda Thorpe lost their husbands - this is their story",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Christian Eriksen leaves Wolfsburg by mutual consent, just over three months after collapsing during Denmark's friendly with Ukraine.",
+      "summary": "Debbie Beard and Amanda Thorpe speak to the BBC's Simon Jack at the launch of a new suicide prevention toolkit.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 16:47:34 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 05:16:40 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham says ban on alcohol for football fans in stands is 'discrimination'",
-      "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
+      "title": "Man Utd selling Old Trafford turf cubes for £125",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzjedq51lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
+      "summary": "Manchester United is selling pieces of its Old Trafford pitch for £125 each, an initiative announced the same day the club reported its overall debt remains more than £1bn.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 21:01:16 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 07:08:11 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ronaldo spurred on by 1,000 goals and Portugal glory",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
+      "title": "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3.34am",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cmvgy73zvwx1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots.",
+      "summary": "Carlos Alcaraz discusses his US Open return, why he \"misses\" rival Jannik Sinner and his excitement for this year's Laver Cup.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 16:26:38 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 06:56:50 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Essex cricketer Das charged with two counts of rape",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydgv1e31o?at_medium=RSS&at_campaign=rss",
+      "title": "Russell fastest in Baku as Antonelli stops on track",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmwyzqn4w20qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Essex cricketer Robin Das is charged with two counts of rape and will appear in court in October.",
+      "summary": "Mercedes driver George Russell heads Red Bull's Max Verstappen in first practice at the Azerbaijan Grand Prix.",
       "author": "",
-      "published": "Wed, 23 Sep 2026 20:32:31 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 09:44:53 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man Utd still £1bn in debt with £63.5m spent on new stadium",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5evwlmdmy00o?at_medium=RSS&at_campaign=rss",
+      "title": "England should stop trying to replicate Spain - Gordon",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c90kly6kelk1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United's overall debt remains over £1bn despite Sir Jim Ratcliffe's extensive cost-cutting measures, with the club also confirming it has spent £63.5m buying land for their new stadium.",
+      "summary": "Anthony Gordon says that controlling games is not in the \"English DNA\" but the Three Lions could still win major tournaments if they stop \"trying to replicate Spain\".",
       "author": "",
-      "published": "Wed, 23 Sep 2026 14:10:21 GMT",
-      "fetched_at": "2026-09-24T02:14:55.130686+00:00"
+      "published": "Thu, 24 Sep 2026 05:05:26 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The eel-powered 11-year-old making history",
+      "link": "https://www.bbc.co.uk/sport/articles/cr1e51g1nvd6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Primary school student Yuki Kurihara makes a flying start as he becomes the youngest athlete at this year's Asian Games.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 09:30:07 GMT",
+      "fetched_at": "2026-09-24T10:44:50.298955+00:00"
     }
   ]
 }
