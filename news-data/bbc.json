@@ -1,57 +1,47 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-25T02:31:57.396404+00:00",
+  "fetched_at": "2026-09-25T10:49:33.732140+00:00",
   "count": 31,
   "articles": [
     {
       "source": "bbc",
-      "title": "Watch: The world’s two most powerful men just met. How did it go?",
-      "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+      "title": "Noah Woods left playground through gap in fence, inquest hears",
+      "link": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+      "summary": "An inquest is told the three-year-old's body was found among submerged tree roots.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 01:27:10 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 10:28:00 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anti-migrant activist charged after dinghy slashed in Channel",
-      "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Families failed by decision to bail sex offender to flat near playground, victims commissioner says",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
+      "summary": "Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 22:16:23 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 10:03:25 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
+      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 23:44:00 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 03:57:09 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "title": "Daniel Thomas pleads not guilty after dinghy slashed",
+      "link": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "summary": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 00:44:04 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
-      "link": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 23:44:38 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 10:48:50 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
@@ -61,7 +51,27 @@
       "summary": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
       "author": "",
       "published": "Thu, 24 Sep 2026 23:45:08 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 23:44:00 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Robbie Williams' surprise singalong after Peru gig cancelled",
+      "link": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Robbie Williams gave an impromptu performance outside a hotel in Lima after his stadium concert was cancelled.",
+      "author": "",
+      "published": "Fri, 25 Sep 2026 09:20:04 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
@@ -70,58 +80,68 @@
       "full_text": "",
       "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 23:17:00 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 09:35:37 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "title": "Watch: What was it like inside the White House dinner?",
+      "link": "https://www.bbc.co.uk/news/videos/cw14d1yey0nmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US and Chinese leaders gave speeches at the lavish event inside the White House, the BBC's Bernd Debusmann Jr went along.",
+      "author": "",
+      "published": "Fri, 25 Sep 2026 04:28:36 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "FA could have prevented our son's death, say parents of striker Billy Vigar",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Billy Vigar's parents say the Football Association could have prevented their son's death.",
+      "author": "",
+      "published": "Fri, 25 Sep 2026 05:25:29 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Cyber attack on police force may have 'compromised' staff information",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx573qnlpwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Dyfed-Powys Police says no personal data relating to the public was believed to have been accessed.",
+      "author": "",
+      "published": "Fri, 25 Sep 2026 10:08:52 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump and Xi exchange warm words but little progress on key issues",
+      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+      "author": "",
+      "published": "Fri, 25 Sep 2026 10:36:55 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Media outlets banned by Trump denied access to dinner despite judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
       "author": "",
       "published": "Fri, 25 Sep 2026 01:10:35 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "'We are living a constant nightmare,' mother of poison seller victim tells hearing",
-      "link": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss",
+      "title": "Why Trump gave Xi an ornate bald eagle statue",
+      "link": "https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tanya Whitaker broke down before she spoke of how her son Samuel's death had devastated her family.",
+      "summary": "From redwood benches to DVDs, gifts are an important part of the art of diplomacy.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 19:16:05 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 16:00:29 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 17:55:44 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Xi visit to Washington all pomp but little progress so far",
-      "link": "https://www.bbc.co.uk/news/articles/c539me79z1yno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The summit so far has focused on \"positive vibes\", says one analyst, with several pressing issues awaiting discussion.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 21:57:25 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 03:00:03 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +151,17 @@
       "summary": "Gyms are booming, solitary cardio is out - how workouts are changing.",
       "author": "",
       "published": "Thu, 24 Sep 2026 23:46:14 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What to expect from Burnham's first Labour conference as PM",
+      "link": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
+      "author": "",
+      "published": "Thu, 24 Sep 2026 23:44:38 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
@@ -141,27 +171,7 @@
       "summary": "What's the smallest amount of money you would ask a friend to pay you back?",
       "author": "",
       "published": "Thu, 24 Sep 2026 23:00:45 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Weekly quiz: Who did Ella Langley beat to make US charts history?",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyqlp2qkqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 16:55:20 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Many of the papers include photographs of Chinese President Xi Jinping's historic visit to the White House.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 00:51:26 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
@@ -171,87 +181,67 @@
       "summary": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
       "author": "",
       "published": "Thu, 24 Sep 2026 23:41:10 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "title": "Weekly quiz: How quickly did this six-year-old girl solve a Rubik's Cube?",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyqlp2qkqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "author": "",
-      "published": "Thu, 24 Sep 2026 18:06:40 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Thu, 24 Sep 2026 16:55:20 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sex offender bailed to flat overlooking playground",
-      "link": "https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: UN delegates walk out of Netanyahu speech",
+      "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Victims of Zapher Dogen were living close to the 32-year-old, who admitted multiple offences.",
+      "summary": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 00:08:13 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Thu, 24 Sep 2026 18:29:29 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Yom Kippur shooting outside Canadian synagogue was 'hate-motivated', officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c6804n1r100eo?at_medium=RSS&at_campaign=rss",
+      "title": "'Heartbreaking': The man set to lose his home due to the UK's £5bn theme park",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e415dew5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Const Jeff Smith, who was critically injured in the incident, continued to fend off the attacker after being shot multiple times, police said.",
+      "summary": "Ritchie Wood is almost brought to tears at he looks at the empty homes once loved by his neighbours.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 22:03:25 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 05:18:13 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
-      "link": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+      "title": "Greek PM urges Burnham to return Elgin Marbles permanently",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.",
+      "summary": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
       "author": "",
-      "published": "Thu, 24 Sep 2026 12:29:39 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Thu, 24 Sep 2026 16:36:33 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ex-England striker Andy Carroll reveals he was sexually assaulted in 2021",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss",
+      "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
+      "summary": "The foreign secretary stresses \"the UK's unwavering resolve to combat threats from Iranian-linked groups in UK soil, including attacks on the British Jewish community\".",
       "author": "",
-      "published": "Thu, 24 Sep 2026 12:18:04 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 02:51:36 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man jailed for two years over throwing bottle at Portsmouth migrant protest",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgy7ww21rqo?at_medium=RSS&at_campaign=rss",
+      "title": "British rapper Yung Filly to face rape retrial in Australia next June",
+      "link": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Del Somerville, 42, pleaded guilty to violent disorder following an overnight protest at Eastney.",
+      "summary": "Andres Felipe Valencia Barrientos was cleared of several sexual offences in July but a jury was undecided on three rape charges.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 15:57:55 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 19:32:59 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Catterick Garrison fire could burn through night, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "North Yorkshire Fire and Rescue Service said in a statement that multiple crews were at the scene.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 23:36:42 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 04:02:54 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +251,37 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Breast Cancer Scandal: Exposing the Harm",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031nqw?at_mid=WpKygoRCT9&at_campaign=Breast_Cancer_Scandal_Exposing_the_Harm&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0031nqw&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Breast_Cancer_Scandal_Exposing_the_Harm&at_bbc_team=BBC&at_creation=News",
+      "full_text": "",
+      "summary": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 23:01:00 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Our son's death could have been prevented by FA - Billy Vigar's parents",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Billy Vigar's parents say the Football Association could have prevented their son's death.",
+      "author": "",
+      "published": "Fri, 25 Sep 2026 05:25:29 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chelsea charged by FA over discriminatory chanting",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crvgyw9qnpl3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Chelsea are charged by the Football Association over alleged discriminatory behaviour by fans during their win at Fulham in August.",
+      "author": "",
+      "published": "Fri, 25 Sep 2026 10:19:05 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
@@ -271,47 +291,27 @@
       "summary": "Craig Bellamy believes there is \"more to come\" from his Wales side in the Nations League following their opening-match loss in Lisbon.",
       "author": "",
       "published": "Thu, 24 Sep 2026 22:28:33 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Buttler injury halts England as Sri Lanka level series",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss",
+      "title": "Zidane waited for France - now can he harness their star power?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.",
+      "summary": "Zinedine Zidane says he waited for the France job, but what will he bring to the role after five years out of management?",
       "author": "",
-      "published": "Thu, 24 Sep 2026 20:15:06 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 05:51:22 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man Utd borrow another £90m as debt tops £1.1bn",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
+      "title": "Why schoolboys have become a huge part of football's transfer market",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United confirm they have borrowed another £90m since 30 June, to take their overall debt to more than £1.1bn.",
+      "summary": "BBC Sport explores why clubs at the top of English football are increasingly trading academy players and what the impact is on the youngsters themselves.",
       "author": "",
-      "published": "Thu, 24 Sep 2026 22:22:43 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The compromises and power struggles that shaped Fury-Joshua",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c65y74pjl0w4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Sport takes a look at the compromises, power struggles and competing interests behind Tyson Fury v Anthony Joshua.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 18:41:35 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Uefa fears impact of Premier League spending on transfer market",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Uefa believes \"a clear two-speed system\" is emerging in the transfer market due to huge spending by Premier League clubs this summer.",
-      "author": "",
-      "published": "Thu, 24 Sep 2026 22:09:28 GMT",
-      "fetched_at": "2026-09-25T02:31:44.938383+00:00"
+      "published": "Fri, 25 Sep 2026 06:32:33 GMT",
+      "fetched_at": "2026-09-25T10:49:26.217422+00:00"
     }
   ]
 }
