@@ -1,137 +1,87 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-26T02:34:19.279694+00:00",
-  "count": 35,
+  "fetched_at": "2026-09-26T10:30:47.350322+00:00",
+  "count": 31,
   "articles": [
     {
       "source": "bbc",
-      "title": "Man City found guilty of majority of 115 financial rule breaches",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
+      "summary": "Premier League clubs are seeking legal advice as to whether they would have a case for financial compensation as a result of City's breaches.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 20:11:12 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Fri, 25 Sep 2026 20:13:53 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+      "title": "The computer hacker who tried to take down Man City",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.",
+      "summary": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 20:48:18 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 05:56:40 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 23:38:48 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 05:03:09 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "E-bikes seized by police sold on at auction, BBC finds",
+      "title": "Rayner criticises visa rule proposals ahead of Labour conference",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The housing secretary says the government's plans to change wait times for permanent residency are unfair because they \"change the goalposts\".",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 09:47:25 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "E-motorbikes seized by police sold on at auction, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thousands are confiscated annually because they are suspected of being driven illegally or used in a crime - most are destroyed, but last year police sold at least 161.",
+      "summary": "Thousands of electric motorbikes are confiscated annually because they are suspected of being driven illegally or used in a crime - most are destroyed, but last year police sold at least 161.",
       "author": "",
       "published": "Fri, 25 Sep 2026 23:02:42 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "title": "Joshua fight at risk over promoter row, says Fury",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cq3d77ppnzdro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "summary": "Tyson Fury says his long-awaited all-British heavyweight fight against Anthony Joshua in December is in jeopardy.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 23:05:40 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 08:39:44 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "title": "Bangkok declares disaster as heavy rains spark flooding",
+      "link": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "OpenAI said its bots access public data from the US Census and the Securities and Exchange Commission, which looks over US stocks and investors",
+      "summary": "Days of near continuous downpours have caused widespread flooding in the Thai capital.",
       "author": "",
-      "published": "Sat, 26 Sep 2026 02:33:09 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 06:28:58 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "I'm not tempted to call an early election, Burnham says",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 17:15:35 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 01:24:31 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 23:20:48 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 23:08:02 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Smoke rises from burning Greek cargo ship near Mykonos",
-      "link": "https://www.bbc.co.uk/news/videos/c64grrelxgylo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "All 29 people aboard the ship were safely evacuated using lifeboats, the Hellenic Coastguard said.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 23:59:12 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "British climber dies after falling 60m on Spanish mountainside",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yeed6dzgyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The identity of the 28-year-old man, who fell down a vertical gully to his death, is yet to be confirmed.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 16:26:24 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'It's a brutal adjustment': How to cope when your child goes to uni",
+      "title": "Your child has left home. Here's why it's time to stop checking up on them",
       "link": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "This new stage of parenthood is emotional - but learning how to let go can help you cope.",
+      "summary": "Parents say social media groups and tracking apps are feeding their anxiety about children who have recently gone to uni.",
       "author": "",
       "published": "Fri, 25 Sep 2026 23:03:51 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +91,17 @@
       "summary": "Bare nails - or nails that appear that way - are a growing trend. But is it as innocent as it seems?",
       "author": "",
       "published": "Fri, 25 Sep 2026 23:31:20 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Could an iced coffee freeze you out of the job market?",
+      "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Employees and recruiters weigh into the online debate around interview etiquette.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 10:05:36 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
@@ -151,27 +111,57 @@
       "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
       "author": "",
       "published": "Fri, 25 Sep 2026 22:12:48 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "Could an iced coffee freeze you out of the job market?",
-      "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+      "title": "Murder or medical mix-up? New questions in the case of killer nurse Colin Norris",
+      "link": "https://www.bbc.co.uk/news/articles/ckg7q33gnwro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Employees and recruiters weigh into the online debate around interview etiquette.",
+      "summary": "A BBC podcast reveals a scenario in which the nurse's murders may never have taken place at all.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 23:08:22 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 08:05:11 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Verdicts that rocked football' and 'Burnham bottles it'",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dwwp20690o?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham not doing enough to boost growth, says former business secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrzzmez7j5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City being found guilty of financial breaches and the prime minister ruling out an early general election leads Saturday's papers.",
+      "summary": "Ex-Business Secretary Peter Kyle calls for more urgency on the economy, as Labour members head to the party's annual conference.",
       "author": "",
-      "published": "Sat, 26 Sep 2026 00:25:14 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 07:59:43 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 02:50:56 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Weekend of mixed UK weather with sunshine before showers arrive for some on Sunday",
+      "link": "https://www.bbc.co.uk/weather/articles/cqm2mgdmj3e5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Expect a dry and pleasant Saturday with rain for northern and western areas on Sunday, ahead of some strong wind and rain early next week.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 09:03:20 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "author": "",
+      "published": "Fri, 25 Sep 2026 23:20:48 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
@@ -181,87 +171,67 @@
       "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
       "author": "",
       "published": "Fri, 25 Sep 2026 23:34:20 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "Murder or medical mix-up? New questions in the case of killer nurse Colin Norris",
-      "link": "https://www.bbc.co.uk/news/articles/ckg7q33gnwro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A BBC podcast reveals a scenario in which the nurse's murders may never have taken place at all.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 21:48:36 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 20:47:49 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Two men jailed for 2022 murder of Argentine rugby player",
-      "link": "https://www.bbc.co.uk/news/articles/c639mm1mrv94o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Loik Le Priol, 32, a former soldier who fired the fatal shots, was sentenced to 26 years in jail.",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 00:49:02 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK ticket holder wins £111m EuroMillions jackpot",
+      "title": "UK ticket holder wins 'life-changing' £111m EuroMillions jackpot",
       "link": "https://www.bbc.co.uk/news/articles/c5j9xx1pv2p2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "It is the third time a UK-based player has scooped the EuroMillions jackpot this year, National Lottery operator Allwyn said.",
       "author": "",
-      "published": "Sat, 26 Sep 2026 01:09:26 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 07:57:50 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "U2 celebrate 50th anniversary at the school where they formed",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
+      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 16:52:10 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 01:24:31 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump's plans for massive arch move ahead",
-      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+      "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+      "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
+      "summary": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 18:27:46 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Mon, 21 Sep 2026 23:01:26 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement",
-      "link": "https://www.bbc.co.uk/news/articles/cmgjqq54dlx0o?at_medium=RSS&at_campaign=rss",
+      "title": "Virtual queue for disabled at Alton Towers praised",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9x811v3g4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Alabama was set to take TikTok to trial over claims that it intentionally addicted young users.",
+      "summary": "The Merlin pass, to be also in use at Legoland and Thorpe Park, is to be launched at Alton Towers.",
       "author": "",
-      "published": "Sat, 26 Sep 2026 00:11:14 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Thu, 17 Sep 2026 10:18:26 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
-      "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
+      "title": "Oh what a beauty! How the mangelwurzel is making a comeback",
+      "link": "https://www.bbc.co.uk/news/articles/crwyzvx93q0jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
+      "summary": "Mangelwurzels are attracting new fans, inspiring a festival and sparking a Somerset craze.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 16:00:44 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Fri, 18 Sep 2026 05:23:21 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Inside the 'scariest house on Rightmove'",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07yzly81no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The station house in Bleasby, dating back to the 1840s, has been dubbed the \"scariest\" on Rightmove.",
+      "author": "",
+      "published": "Thu, 17 Sep 2026 09:48:22 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +251,7 @@
       "summary": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
       "author": "",
       "published": "Thu, 17 Sep 2026 23:01:00 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +261,17 @@
       "summary": "A relationship between neighbours is changed forever by a tragic accident",
       "author": "",
       "published": "Fri, 14 Aug 2026 23:41:38 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The computer hacker who tried to take down Man City",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 05:56:40 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
@@ -301,57 +281,37 @@
       "summary": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
       "author": "",
       "published": "Fri, 25 Sep 2026 20:13:53 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+      "title": "Joshua fight at risk over promoter row, says Fury",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cq3d77ppnzdro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
+      "summary": "Tyson Fury says his long-awaited all-British heavyweight fight against Anthony Joshua in December is in jeopardy.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 20:48:18 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 08:39:44 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rodri believes in Man City's 'innocence'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss",
+      "title": "Do England have a problem against top-10 teams?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmr4v77zyr64o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
+      "summary": "As England prepare to take on Spain in their opening Nations League match, BBC Sport takes a look at whether they have a problem when faced with teams in the world top 10.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 21:56:35 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 06:41:39 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     },
     {
       "source": "bbc",
-      "title": "Palmer misses too many opportunities to play for England - Tuchel",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss",
+      "title": "Chadwick says driving F1 car 'top of bucket list'",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ck5ywrn20z3vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thomas Tuchel has said that Cole Palmer \"misses too many opportunities\" to play for England after the Chelsea forward pulled out of the latest squad.",
+      "summary": "Jamie Chadwick says testing a Formula 1 car is the highlight of her motorsport career.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 15:54:03 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "O'Neill left 'baffled' by refereeing in late NI win in Georgia",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6qxvvw15p0lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Michael O'Neill has said he was \"baffled\" by some of the refereeing decisions in Friday's 1-0 win in Georgia in the Nations League.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 19:54:46 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Warrington edge past Leeds to reach Grand Final",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ck4glyxd4j6no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Warrington Wolves reach their first Super League Grand Final in eight years with a thrilling victory against Leeds Rhinos.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 22:06:43 GMT",
-      "fetched_at": "2026-09-26T02:34:16.469351+00:00"
+      "published": "Sat, 26 Sep 2026 06:09:46 GMT",
+      "fetched_at": "2026-09-26T10:30:40.080526+00:00"
     }
   ]
 }
