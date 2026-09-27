@@ -1,17 +1,47 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-26T20:22:14.143865+00:00",
-  "count": 30,
+  "fetched_at": "2026-09-27T02:32:59.046281+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+      "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.",
+      "author": "",
+      "published": "Sun, 27 Sep 2026 02:25:07 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
       "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
       "author": "",
       "published": "Sat, 26 Sep 2026 18:50:02 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 23:00:42 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 22:15:59 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -21,27 +51,7 @@
       "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
       "author": "",
       "published": "Sat, 26 Sep 2026 16:32:42 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 18:17:12 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How long can Labour's feel-good factor last?",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 11:22:03 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -51,17 +61,47 @@
       "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
       "author": "",
       "published": "Sat, 26 Sep 2026 19:59:00 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Prince Harry says 'kids are happy' in British school after six years in US",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss",
+      "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+      "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "He says his children are “happy in school” and the family returned to the UK for \"lots of reasons\".",
+      "summary": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
       "author": "",
-      "published": "Sat, 26 Sep 2026 12:26:53 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "published": "Sat, 26 Sep 2026 23:01:47 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "UPFs are linked to a range of health problems. But no-one seems to be able to agree why.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 23:03:39 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 23:04:08 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Young people in China are fangirling over a professor who gets their anxiety",
+      "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 22:02:18 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -71,67 +111,47 @@
       "summary": "Bare nails - or nails that appear that way - are a growing trend. But is it as innocent as it seems?",
       "author": "",
       "published": "Fri, 25 Sep 2026 23:31:20 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Your child has left home. Here's why it's time to stop checking up on them",
-      "link": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Parents say social media groups and tracking apps are feeding their anxiety about children who have recently gone to uni.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 23:03:51 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Murder or medical mix-up? New questions in the case of killer nurse Colin Norris",
-      "link": "https://www.bbc.co.uk/news/articles/ckg7q33gnwro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A BBC podcast reveals a scenario in which the nurse's murders may never have taken place at all.",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 08:05:11 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "author": "",
-      "published": "Fri, 25 Sep 2026 22:12:48 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Could an iced coffee freeze you out of the job market?",
-      "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Employees and recruiters weigh into the online debate around interview etiquette.",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 10:05:36 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
       "title": "Man City chairman confident club will prove innocence",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
+      "summary": "Khaldoon Al Mubarak's comments came after the club was found guilty of breaking Premier League financial rules.",
       "author": "",
       "published": "Sat, 26 Sep 2026 15:02:28 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
-      "title": "Met to re-examine CCTV from Jill Dando murder case",
-      "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Noel's crying his heart out' and 'global IVF disaster'",
+      "link": "https://www.bbc.co.uk/news/articles/cky9zzre1259o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999.",
+      "summary": "A couple of the papers feature more reaction to the Manchester City drama, after the club was found guilty of breaking the Premier League's financial rules.",
       "author": "",
-      "published": "Sat, 26 Sep 2026 13:21:27 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "published": "Sun, 27 Sep 2026 00:09:26 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 21:13:13 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Powerful storm brings flooding to north-east US as states declare emergency",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 22:04:26 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -141,27 +161,17 @@
       "summary": "The BBC's religion editor Aleem Maqbool explains what Pope Leo's visit means for France.",
       "author": "",
       "published": "Sat, 26 Sep 2026 18:27:20 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "title": "Met to re-examine CCTV from Jill Dando murder case",
+      "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "summary": "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999.",
       "author": "",
-      "published": "Sat, 26 Sep 2026 12:47:25 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Orange Order to appeal High Court injunction stopping Drumcree parade",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 19:58:48 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "published": "Sat, 26 Sep 2026 13:21:27 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -171,17 +181,7 @@
       "summary": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
       "author": "",
       "published": "Sat, 26 Sep 2026 15:12:25 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rayner criticises visa rule proposals ahead of Labour conference",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The housing secretary says the government's plans to change wait times for permanent residency are unfair because they \"change the goalposts\".",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 10:39:33 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +191,7 @@
       "summary": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
       "author": "",
       "published": "Mon, 21 Sep 2026 23:01:26 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +201,7 @@
       "summary": "The concrete ring on the Suffolk coast has baffled people since 1993.",
       "author": "",
       "published": "Tue, 22 Sep 2026 05:50:07 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +211,7 @@
       "summary": "Proprietors explain why more independent bookshops are springing up in our towns and cities.",
       "author": "",
       "published": "Sun, 20 Sep 2026 06:02:48 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +221,7 @@
       "summary": "Hundreds of people join Bernard Gilbert as he leads a dance in Worcester city centre.",
       "author": "",
       "published": "Sun, 20 Sep 2026 13:28:07 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +241,7 @@
       "summary": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
       "author": "",
       "published": "Thu, 17 Sep 2026 23:01:00 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +251,17 @@
       "summary": "A relationship between neighbours is changed forever by a tragic accident",
       "author": "",
       "published": "Fri, 14 Aug 2026 23:41:38 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England embrace the chaos - but control also needed to win big prizes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England embrace the chaos, but superb Spain show it will never win big prizes, says chief football writer Phil McNulty.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 22:39:52 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -261,17 +271,27 @@
       "summary": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
       "author": "",
       "published": "Sat, 26 Sep 2026 17:44:04 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
-      "title": "Wakefield shock Wigan to reach first Grand Final",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
+      "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
+      "summary": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
       "author": "",
-      "published": "Sat, 26 Sep 2026 18:44:16 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "published": "Sat, 26 Sep 2026 22:47:10 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Pipe dream' to reality? Wakefield reach Grand Final",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6n8mm9d11lno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Wakefield Trinity were playing in rugby league's second tier in 2024. Two years on, they are one win away from becoming Super League champions.",
+      "author": "",
+      "published": "Sat, 26 Sep 2026 20:02:07 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -281,17 +301,17 @@
       "summary": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
       "author": "",
       "published": "Sat, 26 Sep 2026 13:26:40 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
-      "title": "England embrace growing competitiveness of women's game",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
+      "title": "Vollering wins women's road race world title",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
+      "summary": "Demi Vollering continues her remarkable season with a thrilling victory in the women's road race in Montreal.",
       "author": "",
-      "published": "Sat, 26 Sep 2026 18:55:41 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "published": "Sat, 26 Sep 2026 20:36:39 GMT",
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +321,7 @@
       "summary": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
       "author": "",
       "published": "Sat, 26 Sep 2026 16:38:22 GMT",
-      "fetched_at": "2026-09-26T20:22:11.864532+00:00"
+      "fetched_at": "2026-09-27T02:32:42.908562+00:00"
     }
   ]
 }
