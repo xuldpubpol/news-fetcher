@@ -1,27 +1,127 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-27T20:36:15.644472+00:00",
-  "count": 31,
+  "fetched_at": "2026-09-28T02:36:01.906921+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "What we know about RAF base counter-terror investigation",
+      "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+      "author": "",
+      "published": "Sun, 27 Sep 2026 20:10:51 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What we know about RAF Fairford counter-terror probe",
       "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
       "author": "",
       "published": "Sun, 27 Sep 2026 19:47:44 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham proposes NHS-style social care system for England",
-      "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+      "title": "Protesters disperse after blocking contentious Orange Order parade",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+      "summary": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
       "author": "",
-      "published": "Sun, 27 Sep 2026 13:48:05 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "published": "Mon, 28 Sep 2026 02:04:30 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "author": "",
+      "published": "Sun, 27 Sep 2026 21:16:31 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+      "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "author": "",
+      "published": "Sun, 27 Sep 2026 21:00:06 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "My hometown shows that high streets have to change or die",
+      "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+      "author": "",
+      "published": "Sun, 27 Sep 2026 23:05:53 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Republic of Ireland head coach Heimir Hallgrimsson says his players \"raised awareness worldwide\" after they chose not to engage in pre-match formalities with Israel.",
+      "author": "",
+      "published": "Sun, 27 Sep 2026 22:20:17 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+      "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+      "author": "",
+      "published": "Sun, 27 Sep 2026 23:01:47 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+      "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+      "author": "",
+      "published": "Mon, 28 Sep 2026 01:16:18 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Late September warmth before wind and rain returns this week",
+      "link": "https://www.bbc.co.uk/weather/articles/c8wyzzyxed3zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Temperatures remain above the average at the start of the week but wetter conditions are on the way for some",
+      "author": "",
+      "published": "Mon, 28 Sep 2026 01:46:35 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+      "author": "",
+      "published": "Sun, 27 Sep 2026 23:27:22 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England win series as Banton delivers on potential",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
+      "author": "",
+      "published": "Sun, 27 Sep 2026 16:49:38 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -31,127 +131,47 @@
       "summary": "The dispute over the controversial parade is a reminder that the peace process is not over.",
       "author": "",
       "published": "Sun, 27 Sep 2026 14:07:17 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ten NHS staff removed over Noah Woods data breach",
-      "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+      "title": "You need £17,000 for a first home - here's how to do it",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+      "summary": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
       "author": "",
-      "published": "Sun, 27 Sep 2026 13:25:27 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "published": "Sun, 27 Sep 2026 23:20:43 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
-      "title": "No handshakes between Republic of Ireland and Israel",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+      "title": "'I take my pillow everywhere': An expert's guide to finding your perfect match",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0jey2dde7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Republic of Ireland and Israel players do not shake hands with each other before Sunday's controversial Uefa Nations League game in Hungary.",
+      "summary": "Dr Chris McCarthy talks through the four considerations you need to make before buying your pillow.",
       "author": "",
-      "published": "Sun, 27 Sep 2026 18:58:35 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "published": "Sun, 27 Sep 2026 23:29:06 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
-      "title": "England win series as Banton delivers on potential",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: The ups and downs of SpaceX test flights as it prepares for 14th mission",
+      "link": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
+      "summary": "The BBC's Ricky Boleto looks how previous SpaceX test flights went.",
       "author": "",
-      "published": "Sun, 27 Sep 2026 16:49:38 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "published": "Sun, 27 Sep 2026 20:05:07 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Iran link to RAF bomb plot' and 'Tax rise talks at No 10'",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk5vd636m5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "summary": "Almost every front page on Monday is dominated by the what the Telegraph suggests is an \"Iran link\" to a \"bomb plot\" at RAF Fairford.",
       "author": "",
-      "published": "Sun, 27 Sep 2026 14:09:22 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-      "author": "",
-      "published": "Sun, 27 Sep 2026 14:24:46 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "author": "",
-      "published": "Sun, 27 Sep 2026 07:44:11 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
-      "author": "",
-      "published": "Sun, 27 Sep 2026 05:39:28 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
-      "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 23:01:47 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 23:04:08 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Big Bang wins over fans old and new at Tottenham Hotspur Stadium",
-      "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
-      "author": "",
-      "published": "Sun, 27 Sep 2026 08:51:23 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "China's new youth idol isn't a pop star - he's an academic",
-      "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
-      "author": "",
-      "published": "Sat, 26 Sep 2026 22:02:18 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Social care reform could mean big risks and big rewards for Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/c8y5z63x0ykno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The state of the social care system in England is a topic that's made Andy Burnham angry for decades - but will his plans for reform work?",
-      "author": "",
-      "published": "Sun, 27 Sep 2026 15:23:10 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "published": "Mon, 28 Sep 2026 00:30:13 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -161,7 +181,7 @@
       "summary": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
       "author": "",
       "published": "Sun, 27 Sep 2026 16:02:17 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +191,17 @@
       "summary": "Five men have been arrested as counter-terrorism police lead investigation into major incident near RAF Fairford.",
       "author": "",
       "published": "Sun, 27 Sep 2026 15:25:47 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "One dead as powerful storm pummels New York and New Jersey",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "author": "",
+      "published": "Sun, 27 Sep 2026 23:37:26 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +211,7 @@
       "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
       "author": "",
       "published": "Sun, 27 Sep 2026 17:05:26 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -191,27 +221,17 @@
       "summary": "Southern Water says it is investigating the burst pipe which happened on Sunday morning.",
       "author": "",
       "published": "Sun, 27 Sep 2026 18:55:30 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
-      "title": "US states declare emergency as powerful storm brings flooding and power cuts",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "title": "Ten NHS staff removed over Noah Woods data breach",
+      "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "summary": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
       "author": "",
-      "published": "Sun, 27 Sep 2026 12:34:26 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Police get more time to quiz suspects in alleged plot against Jewish community",
-      "link": "https://www.bbc.co.uk/news/articles/cj3v4qr4x5edo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Two men - both in the 30s - were arrested under the 2000 Terrorism Act in Manchester on 20 September.",
-      "author": "",
-      "published": "Sun, 27 Sep 2026 15:08:57 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "published": "Sun, 27 Sep 2026 13:25:27 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +241,7 @@
       "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
       "author": "",
       "published": "Sun, 27 Sep 2026 19:47:21 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +251,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +261,7 @@
       "summary": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
       "author": "",
       "published": "Thu, 17 Sep 2026 23:01:00 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -251,17 +271,17 @@
       "summary": "A relationship between neighbours is changed forever by a tragic accident",
       "author": "",
       "published": "Fri, 14 Aug 2026 23:41:38 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
-      "title": "No handshakes between Republic of Ireland and Israel",
+      "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Republic of Ireland and Israel players do not shake hands with each other before Sunday's controversial Uefa Nations League game in Hungary.",
+      "summary": "Republic of Ireland head coach Heimir Hallgrimsson says his players \"raised awareness worldwide\" after they chose not to engage in pre-match formalities with Israel.",
       "author": "",
-      "published": "Sun, 27 Sep 2026 18:58:35 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "published": "Sun, 27 Sep 2026 22:20:17 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -271,27 +291,17 @@
       "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
       "author": "",
       "published": "Sun, 27 Sep 2026 16:49:38 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bellamy 'hurting' as Denmark outclass Wales",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
+      "title": "McNulty first US world road race winner in 33 years",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
+      "summary": "Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.",
       "author": "",
-      "published": "Sun, 27 Sep 2026 19:16:16 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-      "author": "",
-      "published": "Sun, 27 Sep 2026 14:24:46 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "published": "Sun, 27 Sep 2026 20:33:42 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
@@ -301,17 +311,17 @@
       "summary": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
       "author": "",
       "published": "Sun, 27 Sep 2026 19:46:44 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     },
     {
       "source": "bbc",
-      "title": "Heroic York rearguard stuns Wigan in Grand Final",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ck1wxy1nwq4zo?at_medium=RSS&at_campaign=rss",
+      "title": "Bellamy 'hurting' as Denmark outclass Wales",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "York Valkyrie become the first side to win the Women's Super League three times after an incredible defensive effort thwarts favourites Wigan.",
+      "summary": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
       "author": "",
-      "published": "Sun, 27 Sep 2026 19:07:55 GMT",
-      "fetched_at": "2026-09-27T20:36:12.055711+00:00"
+      "published": "Sun, 27 Sep 2026 19:16:16 GMT",
+      "fetched_at": "2026-09-28T02:35:58.732087+00:00"
     }
   ]
 }
