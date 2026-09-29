@@ -1,17 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-29T17:16:29.524726+00:00",
-  "count": 34,
+  "fetched_at": "2026-09-29T21:39:23.982628+00:00",
+  "count": 36,
   "articles": [
     {
       "source": "bbc",
-      "title": "Watch: How did Burnham's speech go down in the conference hall?",
-      "link": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
+      "link": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care.",
+      "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 15:31:27 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 17:39:06 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+      "link": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 19:13:14 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -20,38 +30,38 @@
       "full_text": "",
       "summary": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 16:51:14 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 18:12:33 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Daniel Sandford on what's next in the RAF Fairford investigation",
-      "link": "https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss",
+      "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC correspondent Daniel Sandford explains where the investigation goes from here.",
+      "summary": "Police say the decision to release five men on bail is one \"grounded in experience and strategy\".",
       "author": "",
-      "published": "Tue, 29 Sep 2026 11:20:02 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 21:02:23 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Body of newborn baby found on shoreline in Wales as police search for mother",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07lj4egn2o?at_medium=RSS&at_campaign=rss",
+      "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The body of the newborn was found near Siliwen Road near the Menai Strait on Sunday.",
+      "summary": "Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 12:51:37 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 19:54:07 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "No 'deliberate' contact to stop car in A66 crash",
-      "link": "https://www.bbc.co.uk/news/articles/c6z0zk9d31xdo?at_medium=RSS&at_campaign=rss",
+      "title": "Three teenagers die after car enters River Wear",
+      "link": "https://www.bbc.co.uk/news/articles/c8y5zxeq5dl3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "No stinger was used by police before the fatal A66 crash, an initial investigation reveals.",
+      "summary": "The bodies of two teenage boys and a teenage girl have been recovered from the water, police say.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 15:59:07 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 20:01:45 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -61,7 +71,7 @@
       "summary": "He was arrested in Russia in 2023 and later sentenced to 16 years on espionage charges.",
       "author": "",
       "published": "Tue, 29 Sep 2026 14:45:03 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -71,47 +81,47 @@
       "summary": "The company that runs the Eiffel Tower said the removal of female staff during the visit earlier this month was \"unacceptable\".",
       "author": "",
       "published": "Tue, 29 Sep 2026 16:56:50 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anti-migrant activist Daniel Thomas refused bail over alleged boat damage",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kwlx2jg3do?at_medium=RSS&at_campaign=rss",
+      "title": "Prince William and Catherine's surprise visit to Kevin Sinfield's charity run",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdv7x5r8e1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Daniel Thomas is remanded in custody after appearing at Portsmouth Crown Court.",
+      "summary": "The rugby league star is on the third day of his endurance challenge to raise funds for Motor Neurone Disease charities.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 11:14:46 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 17:35:43 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nowak killer given leave to appeal against sentence",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgvm4yjn7mo?at_medium=RSS&at_campaign=rss",
+      "title": "No 'deliberate' contact to stop car in A66 crash",
+      "link": "https://www.bbc.co.uk/news/articles/c6z0zk9d31xdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Court of Appeal will decide in November whether to reduce or lengthen the 21-year minimum term.",
+      "summary": "No stinger was used by police before the fatal A66 crash, an initial investigation reveals.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 14:15:57 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 15:59:07 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sir Ranulph Fiennes' relatives tell BBC it's 'very painful' not being able to visit him",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss",
+      "title": "Body of newborn baby found on shoreline in Wales as police search for mother",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07lj4egn2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.",
+      "summary": "The body of the newborn was found near Siliwen Road near the Menai Strait on Sunday.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 15:52:32 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 12:51:37 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-      "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+      "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
+      "link": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
+      "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 12:39:18 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 19:58:58 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -121,17 +131,7 @@
       "summary": "Big policy announcements and emotional moments as the prime minister delivers a speech to Labour's conference.",
       "author": "",
       "published": "Tue, 29 Sep 2026 16:07:50 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham to fight next election on pledge to change voting system",
-      "link": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 15:55:34 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -141,17 +141,27 @@
       "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
       "author": "",
       "published": "Tue, 29 Sep 2026 16:43:39 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rayner announces crackdown on 'cowboy' leasehold property agents",
-      "link": "https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: How did Burnham's speech go down in the conference hall?",
+      "link": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The housing secretary used her Labour conference speech to announce protections for leaseholders facing 'injustice'.",
+      "summary": "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 13:07:16 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 15:31:27 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham to fight next election on pledge to change voting system",
+      "link": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 21:32:31 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -161,7 +171,7 @@
       "summary": "Turner’s early 19th century painting - Rome, from Mount Aventine - will be on display in the Italian capital for the first time ahead of an auction in London in December.",
       "author": "",
       "published": "Tue, 29 Sep 2026 14:10:38 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +181,7 @@
       "summary": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
       "author": "",
       "published": "Tue, 29 Sep 2026 07:02:07 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -181,17 +191,17 @@
       "summary": "Cinematographer Melissa Cofie says their purpose has evolved with the growth of platforms like TikTok.",
       "author": "",
       "published": "Tue, 29 Sep 2026 11:38:55 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "What is the triple lock and why are people talking about it?",
-      "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
+      "title": "Blue Lights: The police drama hitting home in Northern Ireland",
+      "link": "https://www.bbc.co.uk/news/articles/c6grvpppvw5eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
+      "summary": "As the award winning series returns, it highlights tensions between police and communities in Northern Ireland.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 17:09:46 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 03:24:39 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +211,7 @@
       "summary": "Police are trying to verify whether a female student was raped at Lovely Professional University (LPU).",
       "author": "",
       "published": "Tue, 29 Sep 2026 08:12:39 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -211,67 +221,67 @@
       "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
       "author": "",
       "published": "Tue, 29 Sep 2026 01:12:52 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Snooker champion Graeme Dott jailed for seven years for child sex abuse",
-      "link": "https://www.bbc.co.uk/news/articles/cv4g514pldgwo?at_medium=RSS&at_campaign=rss",
+      "title": "Sir Ranulph Fiennes' relatives tell BBC it's 'very painful' not being able to visit him",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 49-year-old was found guilty of two charges of lewd and libidinous behaviour towards a girl and a boy between 1993 and 2010.",
+      "summary": "It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 11:21:41 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 15:52:32 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "title": "Anti-migrant activist Daniel Thomas refused bail over alleged boat damage",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kwlx2jg3do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+      "summary": "Daniel Thomas is remanded in custody after appearing at Portsmouth Crown Court.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 16:09:26 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 11:14:46 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nigerian dances non-stop for seven days in world record bid",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+      "title": "Nowak killer given leave to appeal against sentence",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgvm4yjn7mo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Crowds cheered on Ben Dancer as completed his challenge and he has now gone to  hospital for a check-up",
+      "summary": "The Court of Appeal will decide in November whether to reduce or lengthen the 21-year minimum term.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 14:50:09 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 14:15:57 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+      "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+      "summary": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 03:50:40 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 12:39:18 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Celine Dion kicks off Paris Fashion Week with surprise performance",
-      "link": "https://www.bbc.co.uk/news/articles/cj207qk472zpo?at_medium=RSS&at_campaign=rss",
+      "title": "First female prime minister named in Morocco after winning elections",
+      "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The singer appeared at the end of L'Oreal's annual show as the French fashion bonanza kicked off.",
+      "summary": "Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 10:20:14 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 17:14:10 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: 'Ship buster' missiles sink old US warship in live fire training off Scotland",
-      "link": "https://www.bbc.co.uk/news/articles/cmly40r3pkqxo?at_medium=RSS&at_campaign=rss",
+      "title": "Soho House venue under investigation for food safety",
+      "link": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 43-year-old decommissioned frigate was used for target practice off the Outer Hebrides.",
+      "summary": "A former chef contacted Hackney Council after complaining to managers at the members' club.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 10:03:25 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 19:10:06 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +291,7 @@
       "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
       "author": "",
       "published": "Tue, 29 Sep 2026 16:23:58 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +301,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -301,17 +311,27 @@
       "summary": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
       "author": "",
       "published": "Thu, 17 Sep 2026 23:01:00 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man City guilty of 'sham' contracts and misleading accounts",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+      "title": "The intricate web Man City spun to con the Premier League",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+      "summary": "The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here's what it sets out.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 16:51:14 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 20:58:17 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Who continues to show how important they are? England player ratings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o?at_medium=RSS&at_campaign=rss",
+      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
+      "summary": "How the England players rated following their Nations League match.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 20:39:46 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
@@ -321,27 +341,27 @@
       "summary": "Wayne Rooney says Man Utd do not \"deserve\" to be awarded Premier League titles if rivals Man City are stripped of them.",
       "author": "",
       "published": "Tue, 29 Sep 2026 12:36:50 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man City? I feel cheated - when do Stoke City get our FA Cup?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+      "title": "Saracens face fines over 'wine consultant' Venter's media no-shows",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck7902q3g5vgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.",
+      "summary": "Saracens are facing fines from Prem Rugby for director of rugby Brendan Venter's failure to fulfil media commitments.",
       "author": "",
-      "published": "Sun, 27 Sep 2026 06:50:09 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 16:06:24 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     },
     {
       "source": "bbc",
-      "title": "Manchester City v The Premier League",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032vgq?at_medium=RSS&at_campaign=rss",
+      "title": "Fury & Joshua in London for news conference as doubts ease",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cr9dwz3nppx8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport traces how the disciplinary case against Manchester City unfolded.",
+      "summary": "Tyson Fury and Anthony Joshua arrive in London for Wednesday’s launch news conference, with their December fight now expected to take place as scheduled.",
       "author": "",
-      "published": "Fri, 25 Sep 2026 17:00:00 GMT",
-      "fetched_at": "2026-09-29T17:16:23.218990+00:00"
+      "published": "Tue, 29 Sep 2026 17:57:20 GMT",
+      "fetched_at": "2026-09-29T21:39:12.189457+00:00"
     }
   ]
 }
