@@ -1,27 +1,17 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-29T03:18:38.964001+00:00",
-  "count": 33,
+  "fetched_at": "2026-09-29T11:48:34.050442+00:00",
+  "count": 29,
   "articles": [
     {
       "source": "bbc",
-      "title": "Five men arrested in RAF Fairford incident released on police bail",
-      "link": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: What we do and don't know about the RAF Fairford incident",
+      "link": "https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
+      "summary": "BBC correspondent Daniel Sandford explains where the investigation goes from here.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 02:43:36 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham to unveil public body to invest in electricity grid",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 00:40:29 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 11:20:02 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
@@ -30,18 +20,128 @@
       "full_text": "",
       "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 02:29:25 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 09:14:13 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Delays in fitting electronic tags putting victims at risk, report finds",
-      "link": "https://www.bbc.co.uk/news/articles/cj62eyq1g5yvo?at_medium=RSS&at_campaign=rss",
+      "title": "Sir Ranulph Fiennes' relatives tell BBC it's 'very painful' not being able to visit him",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The reports says some criminals are waiting up to five months to be fitted with an electronic tag.",
+      "summary": "It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 02:32:27 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 09:13:43 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: 'Ship buster' missiles sink old US warship in live fire training off Scotland",
+      "link": "https://www.bbc.co.uk/news/articles/cmly40r3pkqxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 43-year-old decommissioned frigate was used for target practice off the Outer Hebrides.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 10:03:25 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Anti-migrant activist Daniel Thomas refused bail over alleged boat damage",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kwlx2jg3do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Daniel Thomas is remanded in custody after appearing at Portsmouth Crown Court.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 11:14:46 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 03:50:40 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Met Police officer charged after BBC Charing Cross investigation",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l60v6p92ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The police watchdog began an investigation into alleged misconduct at Charing Cross police station in London as a result of a BBC Panorama investigation.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 10:34:43 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Celine Dion kicks off Paris Fashion Week with surprise performance",
+      "link": "https://www.bbc.co.uk/news/articles/cj207qk472zpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The singer appeared at the end of L'Oreal's annual show as the French fashion bonanza kicked off.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 10:20:14 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Luxury units uncovered inside an Indonesian prison",
+      "link": "https://www.bbc.co.uk/news/videos/c6vgy293vvp3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A surprise inspection at the prison revealed apartment-like units appearing to house inmates, equipped with televisions, a gym and fridges stocked with alcohol.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 09:43:47 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I paid £30,000 for an 'influencer' degree. Here's why",
+      "link": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 07:02:07 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chris Mason: Burnham opens debate on huge issue of social care reform",
+      "link": "https://www.bbc.co.uk/news/articles/ckp840qp85l2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The pitch from Andy Burnham is that there needs to be a willingness to say \"the things politicians usually avoid\", the BBC's political editor writes.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 10:16:06 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What is the triple lock and why are people talking about it?",
+      "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 09:42:10 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Parading, policing and power sharing collide amid Drumcree dispute",
+      "link": "https://www.bbc.co.uk/news/articles/ckjw5ee564e4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Divisions that had been dormant over Drumcree have flowed angrily again between Stormont parties.",
+      "author": "",
+      "published": "Mon, 28 Sep 2026 21:15:22 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
+      "link": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police are trying to verify whether a female student was raped at Lovely Professional University (LPU).",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 08:12:39 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
@@ -51,217 +151,77 @@
       "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
       "author": "",
       "published": "Tue, 29 Sep 2026 01:12:52 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Migrants using longer, more dangerous routes across Channel",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "Between 1 January and 27 September 2026, a total of 19,135 people crossed the English Channel by small boat from France. This was down by 42% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 40% of asylum applications between July 2025 to June 2026.\nBoats that arrived in the UK from 28 September 2025 to 27 September 2026 carried an average of 67 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from July 2025 to June 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,335 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,712 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from July 2025 to June 2026. This was down by 17% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
-      "summary": "The government says it is bearing down on dangerous small boat crossings.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 00:42:15 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Temperatures to hit 25C in burst of late September warmth",
+      "title": "Temperatures to hit 26C in burst of late September warmth",
       "link": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 23:13:58 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 04:39:26 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK tries to stop Trump's diesel export ban",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+      "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 20:39:31 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 10:57:02 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Egyptian officials convicted of kidnapping Cambridge student found dead in 2016",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
+      "title": "South West Water fined almost £8m for sewage spills",
+      "link": "https://www.bbc.co.uk/news/articles/cx2mjkll24xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Giulio Regeni's tortured body was found days after he went missing on a research trip to Egypt in 2016, while studying at Cambridge University.",
+      "summary": "South West Water previously entered guilty pleas to pollution offences spanning six years.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 23:39:15 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 11:37:58 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
-      "link": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+      "title": "Lives 'will be lost' unless UK does more to combat wildfires, committee chairwoman says",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7dyx2x7pdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.",
+      "summary": "Baroness Brown says there must be better training and planning, after a record year for wildfires in England and Wales.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 19:28:54 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 10:23:06 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Warning more homes will be uninsurable due to flood risk",
-      "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-England captain Dallaglio to sell World Cup winner's medal",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqkgvm8mpxm2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+      "summary": "Former England captain Lawrence Dallaglio is set to sell his 2003 Rugby World Cup winner's medal after being declared bankrupt.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 23:10:13 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 08:28:54 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
-      "link": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
+      "title": "Police arrest 17 in dawn raids on suspected organised crime group",
+      "link": "https://www.bbc.co.uk/news/articles/c914d3nx7lngo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The heavy metal band will be joined by the US rock musician during their London show.",
+      "summary": "Searches continue at a number of properties and there is expected to be an ongoing police presence.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 17:00:29 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 08:27:19 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
-      "link": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+      "title": "Drumcree stalemate continues as protesters remain overnight",
+      "link": "https://www.bbc.co.uk/news/articles/ck0j30yg8j9do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Content creation degrees aim to help people make money from their social media posts.",
+      "summary": "Talks to resolve the issue took place on Monday as members of the Orange Order waited to begin their permitted parade.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 23:10:06 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "From Amazon retreats to clinical research: The rise of psychedelic therapy",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgy9ew7815o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Could hallucinogenic drugs become part of mainstream NHS care to treat depression?",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 00:59:52 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 17:26:21 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
-      "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 13:59:06 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'Labour split on triple lock' and 'Plot's going on, PM?'",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyx27vrq2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A number of the papers preview a speech from Prime Minister Andy Burnham on Tuesday.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 01:01:38 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How to find your perfect pillow - according to an expert",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0jey2dde7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Dr Chris McCarthy talks through the four considerations you need to make before buying your pillow.",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 09:45:37 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What a US diesel export ban could mean for you",
-      "link": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 18:18:30 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Orange Order parade dispute continues after main players hold talks",
-      "link": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A controversial march was due to take place on Sunday morning but was blocked by protesters on the mainly-nationalist Garvaghy Road.",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 21:42:18 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russian foreign minister questions 'what will become of UK' and future of 'the Celts'",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9xk474wxgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In response, Plaid Cymru said Wales' future was \"not for the Kremlin to endorse, oppose or exploit\".",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 18:58:58 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mahmood signals rethink on migrants' right to remain",
-      "link": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner.",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 18:04:41 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 23:43:48 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
-      "link": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 05:02:30 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lithium-ion battery caused fire that killed mum and 3 children",
-      "link": "https://www.bbc.co.uk/news/articles/cq62jyk6ne4vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Elisha Brabin, 36, and three of her children, died after a blaze at their home in Bootle, Merseyside.",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 12:13:31 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Felled Sycamore Gap stump has 'encouraging' growth",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgyxrlve46o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A thick layer of growth surrounds the stump three years after the landmark was illegally felled.",
-      "author": "",
-      "published": "Mon, 28 Sep 2026 05:01:06 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 10:09:18 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
@@ -281,57 +241,57 @@
       "summary": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
       "author": "",
       "published": "Thu, 17 Sep 2026 23:01:00 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man City CEO defiant over Premier League charges",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
+      "title": "'Period of deception' - Pochettino on Man City verdict",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City chief executive Ferran Soriano issues a defiant message to the executives of other teams about the club being found guilty of a majority of Premier League charges, BBC Sport has been told.",
+      "summary": "Former Tottenham and Chelsea manager Mauricio Pochettino says it is \"impossible to turn back time\" after Manchester City being found guilty of financial breaches.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 18:53:30 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 09:13:10 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Infantino makes bigger cash pledge to Fifa members",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+      "title": "Toone and Kelly miss out on Lionesses squad",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6y9z7dlq199o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members from its cash reserves.",
+      "summary": "Manchester United midfielder Ella Toone misses out on selection for England's Women's World Cup qualifying matches this month.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 22:32:29 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 11:39:35 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Littler stunned by Woodhouse at World Grand Prix",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/cmzxzjv5gwzqo?at_medium=RSS&at_campaign=rss",
+      "title": "'I still feel as fast as anybody' - Alonso on why he's staying in F1",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cde0gz51g36o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "World champion Luke Littler's hopes of defending his World Grand Prix title are dashed as he falls to a shock shock first-round defeat by Luke Woodhouse in Leicester.",
+      "summary": "Fernando Alonso commits to staying in Formula 1 with Aston Martin for at least one more year. - and explains why to BBC Sport.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 22:49:06 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 11:00:06 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hart trusts Man City chair Al Mubarak over ruling",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-England captain Dallaglio to sell World Cup winner's medal",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqkgvm8mpxm2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
+      "summary": "Former England captain Lawrence Dallaglio is set to sell his 2003 Rugby World Cup winner's medal after being declared bankrupt.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 19:24:40 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 08:28:54 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     },
     {
       "source": "bbc",
-      "title": "Leicestershire get partial points reprieve but stay in limbo",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
+      "title": "Life bright for Gilmour after baseball and World Cup heartache",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm046wnwkvnvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
+      "summary": "Scotland midfielder Billy Gilmour opens up on the pain of missing out of this summer's World Cup.",
       "author": "",
-      "published": "Mon, 28 Sep 2026 17:34:59 GMT",
-      "fetched_at": "2026-09-29T03:18:36.178368+00:00"
+      "published": "Tue, 29 Sep 2026 09:42:29 GMT",
+      "fetched_at": "2026-09-29T11:48:32.075849+00:00"
     }
   ]
 }
