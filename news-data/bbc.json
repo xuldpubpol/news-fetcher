@@ -1,27 +1,37 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-30T17:14:56.334963+00:00",
-  "count": 32,
+  "fetched_at": "2026-09-30T21:40:03.383716+00:00",
+  "count": 35,
   "articles": [
     {
       "source": "bbc",
-      "title": "'We've just taken control': Passengers describe what happened on flight",
-      "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
+      "title": "Dame Esther Rantzen: A presenter who campaigned for change",
+      "link": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
+      "summary": "The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 15:07:00 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 19:00:50 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
       "title": "UK believes Iran involved in RAF Fairford incident, PM says",
       "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'.",
+      "summary": "Iran's foreign minister has responded, saying the PM was \"barking up the wrong tree\".",
       "author": "",
-      "published": "Wed, 30 Sep 2026 15:59:51 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 21:26:59 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK-France 'one in, one out' migrant scheme scrapped",
+      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+      "full_text": "Between 1 January and 27 September 2026, a total of 19,135 people crossed the English Channel by small boat from France. This was down by 42% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 40% of asylum applications between July 2025 to June 2026.\nBoats that arrived in the UK from 28 September 2025 to 27 September 2026 carried an average of 67 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from July 2025 to June 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,335 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,712 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from July 2025 to June 2026. This was down by 17% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
+      "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 17:11:08 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -30,18 +40,18 @@
       "full_text": "",
       "summary": "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS).",
       "author": "",
-      "published": "Wed, 30 Sep 2026 13:49:38 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 18:15:15 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "title": "Teens who died in car that entered River Wear named",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+      "summary": "Jackson Duke, Luke Etheridge and Zara Shaw died when the car they were in ended up in the River Wear.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 15:29:11 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 18:40:18 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -51,17 +61,17 @@
       "summary": "The PM says a referendum wouldn't be the right thing now but the UK needs to consider its options for the future.",
       "author": "",
       "published": "Wed, 30 Sep 2026 16:06:23 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "Teens who died in car that entered river named",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss",
+      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jackson Duke, Luke Etheridge and Zara Shaw died when the car they were in ended up in the Wear.",
+      "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 16:51:10 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 15:29:11 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -71,37 +81,17 @@
       "summary": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.",
       "author": "",
       "published": "Wed, 30 Sep 2026 16:11:32 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sussexes condemn 'reckless intrusion' after photographer spotted near Archie and Lilibet's school",
-      "link": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
+      "title": "Ronaldo leaves Portugal camp after coach denies rift",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "One of two men seen outside the UK school attended by the children is understood to be an international press photographer.",
+      "summary": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 12:50:51 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Oasis take legal action to stop sale of unheard tapes",
-      "link": "https://www.bbc.co.uk/news/articles/cw98070pq999o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The auction house said it was \"very disappointed\" the lot could no longer be sold.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 12:33:22 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Greggs to shut four factories and cut 740 jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 15:03:22 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 19:33:07 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -111,17 +101,47 @@
       "summary": "The Messy singer says her lungs feel \"battery powered\" due to the effects of vaping.",
       "author": "",
       "published": "Wed, 30 Sep 2026 16:11:21 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "title": "What we know about stabbing on Israel-bound plane",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 16:24:18 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 21:36:31 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
+      "link": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The man says he \"pulled the controls\" of the plane after it plummeted during the attack.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 18:40:36 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 21:38:54 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Shaken and emotional'  travellers arrive at Israeli airport",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2z29wx32vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC's Yogita Limaye is at Ben Gurion Airport as passengers from the Flydubai flight arrive in Israel.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 19:11:20 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +151,17 @@
       "summary": "From a late-night call about suspicious vehicles, to five men being arrested and then bailed - here is how the incident has unfolded.",
       "author": "",
       "published": "Wed, 30 Sep 2026 16:08:02 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 13:17:44 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -141,37 +171,7 @@
       "summary": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
       "author": "",
       "published": "Wed, 30 Sep 2026 00:44:50 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
-      "link": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Helen discovered her mum was in the grip of a romance scam - here's how she found out and broke her free.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 23:09:37 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 13:17:44 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Residents fear new rules could mean dangerous cladding is left on blocks of flats",
-      "link": "https://www.bbc.co.uk/news/articles/cw07l4r8vjmpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The government says it hopes the changes will speed up the process of removing cladding.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 12:08:45 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -181,37 +181,7 @@
       "summary": "A £2.3m study will look at whether a personalised pain management plan can improve the quality of life of women who have the debilitating condition.",
       "author": "",
       "published": "Wed, 30 Sep 2026 17:11:36 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Met hands Grenfell fire investigation file to CPS",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The force is seeking charges against 54 individuals and 20 companies over the 2017 tower block fire.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 17:11:40 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rock, paper, scissors used to decide London Marathon race days for elite runners",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cm36lgdk9g33o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A game of rock, paper, scissors is used to determine when the elite female and male races will take place at next year's two-day London Marathon.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 11:05:10 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
-      "link": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister compares the allegations against Man City to the plight of his own club Everton.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 16:01:16 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -221,37 +191,77 @@
       "summary": "The brown bear, described by one supporter as having both the \"chonk and the badonk\", will shortly enter hibernation, which can last up to six months.",
       "author": "",
       "published": "Wed, 30 Sep 2026 13:51:52 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "Grooming gangs inquiry expanded to Birmingham and Wales",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2zr39l716o?at_medium=RSS&at_campaign=rss",
+      "title": "Sussexes condemn 'reckless intrusion' after photographer spotted near Archie and Lilibet's school",
+      "link": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Targeted investigations will be carried out as part of a national inquiry into child sexual abuse.",
+      "summary": "One of two men seen outside the UK school attended by the children is understood to be an international press photographer.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 16:16:09 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 12:50:51 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+      "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 11:36:23 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 17:14:03 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "WhatsApp introduces optional parental controls for teenagers",
-      "link": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss",
+      "title": "NHS trust admits 'failing families' over stillbirths",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyz0ryz701o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The social messaging app will let parents decide on privacy settings for their child's account.",
+      "summary": "An independent review ordered by the trust finds systemic issues lay at the heart of the failures.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 13:01:30 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 15:22:51 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Greggs to shut four factories and cut 740 jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 15:03:22 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
+      "link": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister compares the allegations against Man City to the plight of his own club Everton.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 16:01:16 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Oasis take legal action to stop sale of unheard tapes",
+      "link": "https://www.bbc.co.uk/news/articles/cw98070pq999o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The auction house said it was \"very disappointed\" the lot could no longer be sold.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 12:33:22 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Bayeux Tapestry tour added for blind people after legal threat",
+      "link": "https://www.bbc.co.uk/news/articles/cwp93d9r034xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The British Museum will offer an audio-described Bayeux Tapestry tour for people with impaired vision.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 20:13:02 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +281,17 @@
       "summary": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
       "author": "",
       "published": "Thu, 17 Sep 2026 23:01:00 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Punish Man City this season, say other club chiefs",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 20:38:22 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
@@ -281,47 +301,57 @@
       "summary": "The prime minister compares the allegations against Manchester City to the plight of his own club Everton.",
       "author": "",
       "published": "Wed, 30 Sep 2026 16:01:16 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
+      "title": "Ronaldo leaves Portugal camp after coach denies rift",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
+      "summary": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 13:17:44 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 19:33:07 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ocon to leave Haas putting F1 future in doubt",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
+      "title": "Respect and laughs as Fury and Joshua face off",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cme8x7rey9dlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Esteban Ocon is fighting to save his Formula 1 career after the Haas team announcement that they are splitting with the Frenchman at the end of the year.",
+      "summary": "After more than a decade of public feuding and false starts, Tyson Fury and Anthony Joshua exchange pleasantries, trade jokes and even discuss going for a pint at a news conference in London.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 10:24:02 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 19:37:32 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "Gill hits 223 not out as India chase down Windies' record total",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo?at_medium=RSS&at_campaign=rss",
+      "title": "Arsenal let two-goal lead slip to draw with Paris FC",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cwzdz9mzd3mvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati.",
+      "summary": "A miscommunication between Arsenal goalkeeper Misa Rodriguez and England captain Leah Williamson gifts Paris FC a late equaliser as the sides draw 2-2 in the Women's Champions League.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 16:53:38 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 18:55:13 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     },
     {
       "source": "bbc",
-      "title": "Djokovic wins first match since Wimbledon in China",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cq20vxxdxk54o?at_medium=RSS&at_campaign=rss",
+      "title": "Infantino should have no place in future of football - Pinto",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm0rekrpxnl1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Novak Djokovic beats Nuno Borges at the China Open to secure his first win since reaching the Wimbledon semi-finals in July.",
+      "summary": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Gianni Infantino \"should have no place in the future of the game\".",
       "author": "",
-      "published": "Wed, 30 Sep 2026 14:50:46 GMT",
-      "fetched_at": "2026-09-30T17:14:38.203903+00:00"
+      "published": "Wed, 30 Sep 2026 19:47:40 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Saracens boss Venter skips more media duties",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmwyz9ypw3x2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Saracens director of rugby Brendan Venter misses a second pre-match media conference, as head coach Joe Shaw attends.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 17:46:17 GMT",
+      "fetched_at": "2026-09-30T21:39:59.126918+00:00"
     }
   ]
 }
