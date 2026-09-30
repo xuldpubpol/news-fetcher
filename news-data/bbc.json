@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-09-30T03:01:13.289183+00:00",
-  "count": 40,
+  "fetched_at": "2026-09-30T11:35:04.640559+00:00",
+  "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Move to rejoin EU among options for UK, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 10:43:13 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
     {
       "source": "bbc",
       "title": "One of the five men arrested near RAF Fairford called 999 himself",
@@ -11,17 +21,77 @@
       "summary": "He made the call almost an hour before a farmer also called police after seeing men in balaclavas.",
       "author": "",
       "published": "Wed, 30 Sep 2026 00:12:24 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss",
+      "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
+      "link": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes.",
+      "summary": "One of the men seen outside the UK school attended by the children is understood to be an international press photographer.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 19:54:07 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 10:59:17 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The force is seeking charges against 54 individuals and 20 companies over the 2017 tower block fire that killed 72 people.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 11:33:15 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The transfers that helped Man City dominate while breaking financial rules",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 06:26:34 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 05:02:50 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Greggs to shut four factories and cut 740 jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 08:59:14 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Peter Murrell's legal aid withdrawn after embezzlement conviction",
+      "link": "https://www.bbc.co.uk/news/articles/c5j9xmgz8eero?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The former SNP chief executive had been receiving government-funded support since last year.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 11:21:14 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Regulating AI 'not the right place to start' says Bank of England governor",
+      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 10:20:20 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
@@ -30,148 +100,8 @@
       "full_text": "",
       "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 23:03:13 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
-      "link": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 17:39:06 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
-      "link": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 19:13:14 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Three teenagers die after car enters River Wear",
-      "link": "https://www.bbc.co.uk/news/articles/c8y5zxeq5dl3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The bodies of two teenage boys and a teenage girl have been recovered from the water, police say.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 20:01:45 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man City guilty of 'sham' contracts and misleading accounts",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 18:12:33 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Antisemitism on the rise at universities, charity warns",
-      "link": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Community Security Trust says reported incidents are \"substantially higher\" than before the war in Gaza began.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 00:36:22 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "It is time for Tuchel to offer Alexander-Arnold some trust",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Having been overlooked for so long, Trent Alexander-Arnold produced a world-class moment on his return, writes Phil McNulty.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 22:06:30 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-      "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 23:33:34 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: US journalist Evan Gershkovich describes being detained by Russian agents",
-      "link": "https://www.bbc.co.uk/news/videos/c862ep9w5g2vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "He was arrested in Russia in 2023 and later sentenced to 16 years on espionage charges.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 14:45:03 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Huel ad banned for suggesting its products could replace all conventional food",
-      "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 23:06:06 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
-      "link": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 19:58:58 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Five takeaways from Andy Burnham's Labour conference speech",
-      "link": "https://www.bbc.co.uk/news/articles/cr209vl2z9jqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Big policy announcements and emotional moments as the prime minister delivers a speech to Labour's conference.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 16:07:50 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
-      "link": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 16:43:39 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: How did Burnham's speech go down in the conference hall?",
-      "link": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 15:31:27 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham to fight next election on pledge to change voting system",
-      "link": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 21:32:31 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 10:47:49 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
@@ -181,67 +111,107 @@
       "summary": "Helen discovered her mum was in the grip of a romance scam - here's how she found out and broke her free.",
       "author": "",
       "published": "Tue, 29 Sep 2026 23:09:37 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I like proving people wrong': The women taking up DIY and plumbing",
-      "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 23:06:14 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hidden habits that make your social anxiety worse - and how to break them",
+      "title": "Hidden habits that make your social anxiety worse and how to break them",
       "link": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
       "author": "",
       "published": "Wed, 30 Sep 2026 00:44:50 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "How AI is creating a UK super-museum and revealing our planet's history",
+      "title": "What we know about Cornell University frat house rape investigation",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 09:12:44 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Doubters spur me on: why female DIY is booming",
+      "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 07:27:11 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 23:33:34 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Endometriosis trial gives hope to millions of women in pain like me",
+      "link": "https://www.bbc.co.uk/news/articles/cme3r9ny2p4xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A £2.3m study will look at whether a personalised pain management plan can improve the quality of life of women who have the debilitating condition.",
+      "author": "",
+      "published": "Wed, 30 Sep 2026 05:21:34 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
+      "link": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money.",
+      "author": "",
+      "published": "Tue, 29 Sep 2026 19:58:58 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Gold beetles to Darwin's finds - the 70 million museum artefacts going online",
       "link": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
       "author": "",
       "published": "Wed, 30 Sep 2026 00:46:29 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
-      "link": "https://www.bbc.co.uk/news/articles/crd941kkejy4o?at_medium=RSS&at_campaign=rss",
+      "title": "More talks over Drumcree dispute as stalemate continues",
+      "link": "https://www.bbc.co.uk/news/articles/c6ge43qx83eno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Every front page on Wednesday is dominated by Prime Minister Andy Burnham's speech at the Labour Party conference.",
+      "summary": "Northern Ireland Secretary Sir Chris Bryant is holding further talks with community leaders over the controversial Drumcree march.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 01:04:00 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 11:00:24 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
-      "link": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&at_campaign=rss",
+      "title": "Huel ad banned for suggesting its products could replace all meals",
+      "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Turner’s early 19th century painting - Rome, from Mount Aventine - will be on display in the Italian capital for the first time ahead of an auction in London in December.",
+      "summary": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
       "author": "",
-      "published": "Tue, 29 Sep 2026 14:10:38 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Tue, 29 Sep 2026 23:06:06 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "I paid £30,000 for an 'influencer' degree. Here's why",
-      "link": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+      "title": "Singapore launches matchmaking service for government workers",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
+      "summary": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 07:02:07 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 09:42:36 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
@@ -251,67 +221,37 @@
       "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
       "author": "",
       "published": "Tue, 29 Sep 2026 23:15:29 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Village team triumphs in FA Cup row replay",
-      "link": "https://www.bbc.co.uk/news/articles/cm17j4r2wez2o?at_medium=RSS&at_campaign=rss",
+      "title": "Antisemitism on the rise at universities, charity warns",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The controversial replay follows the FA ruling a referee had made a mistake in the initial match.",
+      "summary": "The Community Security Trust says reported incidents are \"substantially higher\" than before the war in Gaza began.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 20:51:31 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 00:36:22 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Venezuelan man shot by ICE in Texas is charged with assault",
-      "link": "https://www.bbc.co.uk/news/articles/c63eqgz41n0xo?at_medium=RSS&at_campaign=rss",
+      "title": "Leaving your engine running in Wales could cost you £150",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zw4l998jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Wilber Rafael Garces-Perez is accused of striking an agent with his car's side-view mirror while driving away.",
+      "summary": "The previous punishment for idling was £20 and had not changed since its introduction in 2003.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 23:27:47 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 05:25:37 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
-      "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees.",
+      "summary": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
       "author": "",
-      "published": "Tue, 29 Sep 2026 22:33:13 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Prince William and Catherine's surprise visit to Kevin Sinfield's charity run",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdv7x5r8e1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The rugby league star is on the third day of his endurance challenge to raise funds for Motor Neurone Disease charities.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 17:35:43 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-      "link": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 23:39:58 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The company that runs the Eiffel Tower said the removal of female staff during the visit earlier this month was \"unacceptable\".",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 16:56:50 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 08:59:38 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
@@ -321,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
@@ -331,77 +271,67 @@
       "summary": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
       "author": "",
       "published": "Thu, 17 Sep 2026 23:01:00 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "The intricate web Man City spun to con the Premier League",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
+      "title": "Richards 'devastated' by Man City guilty verdicts",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here's what it sets out.",
+      "summary": "Former Manchester City defender Micah Richards felt \"absolutely devastated\" after reading the Premier League's \"damning\" verdict on the club's financial charges.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 20:58:17 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 10:07:23 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Time for Tuchel to offer Alexander-Arnold some trust",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&at_campaign=rss",
+      "title": "£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Having been overlooked for so long, Trent Alexander-Arnold produced a world-class moment on his return, writes Phil McNulty.",
+      "summary": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 22:06:30 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 06:26:34 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "New coach, new players, but same old failings hamper Scotland",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss",
+      "title": "Ocon to leave Haas putting F1 future in doubt",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.",
+      "summary": "Esteban Ocon is fighting to save his Formula 1 career after the Haas team announcement that they are splitting with the Frenchman at the end of the year.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 22:30:20 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 10:24:02 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Who continues to show how important they are? England player ratings",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o?at_medium=RSS&at_campaign=rss",
-      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
-      "summary": "How the England players rated following their Nations League match.",
-      "author": "",
-      "published": "Tue, 29 Sep 2026 20:39:46 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+      "title": "The part-timers who won three Wembley finals in a row",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6y4z21xelk4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+      "summary": "You probably knew Pep Guardiola's Manchester City won four League Cups on the bounce between 2018 and 2021 – but another side did the silverware hat-trick first.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 18:12:33 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 06:07:28 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Saracens face fines over 'wine consultant' Venter's media no-shows",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck7902q3g5vgo?at_medium=RSS&at_campaign=rss",
+      "title": "'Rock, paper, scissors' decides order of London Marathon races",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cm36lgdk9g33o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Saracens are facing fines from Prem Rugby for director of rugby Brendan Venter's failure to fulfil media commitments.",
+      "summary": "A game of rock, paper, scissors is used to determine when the elite female and male races will take place at next year's two-day London Marathon.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 16:06:24 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 11:05:10 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fury & Joshua in London for news conference as doubts ease",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cr9dwz3nppx8o?at_medium=RSS&at_campaign=rss",
+      "title": "The Premier League footballers studying to become sporting directors",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckq5xp9p1v31o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tyson Fury and Anthony Joshua arrive in London for Wednesday’s launch news conference, with their December fight now expected to take place as scheduled.",
+      "summary": "Kiernan Dewsbury-Hall, Taiwo Awoniyi and others have been juggling education with a football career - even studying on the team bus during away trips.",
       "author": "",
-      "published": "Tue, 29 Sep 2026 17:57:20 GMT",
-      "fetched_at": "2026-09-30T03:01:02.232390+00:00"
+      "published": "Wed, 30 Sep 2026 06:41:14 GMT",
+      "fetched_at": "2026-09-30T11:34:56.265073+00:00"
     }
   ]
 }
