@@ -1,78 +1,8 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-01T03:07:33.506268+00:00",
-  "count": 37,
+  "fetched_at": "2026-10-01T12:03:51.260038+00:00",
+  "count": 34,
   "articles": [
-    {
-      "source": "bbc",
-      "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying.",
-      "author": "",
-      "published": "Thu, 01 Oct 2026 01:10:30 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How That's Life! gave Esther Rantzen a career-defining moment",
-      "link": "https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sir Nicholas Winton's story became national news when he appeared on That's Life! in February 1988.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 18:19:30 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia.",
-      "author": "",
-      "published": "Thu, 01 Oct 2026 02:29:04 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
-      "author": "",
-      "published": "Thu, 01 Oct 2026 01:45:09 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Employers should teach primary-age children about work, says Milburn",
-      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 21:40:31 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 23:25:23 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Celebrity Traitors is back - here's what you need to know ahead of the first show",
-      "link": "https://www.bbc.co.uk/news/articles/ckqxvnpy7e49o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Maya Jama, Michael Sheen and Bella Ramsey are among this year's celebrities taking part in the show.",
-      "author": "",
-      "published": "Thu, 01 Oct 2026 00:09:38 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
-    },
     {
       "source": "bbc",
       "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
@@ -80,8 +10,48 @@
       "full_text": "",
       "summary": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 16:11:32 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 05:56:47 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US death row inmate survives execution attempt after two lethal injections",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+      "author": "",
+      "published": "Thu, 01 Oct 2026 09:59:59 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What happened in failed execution of Christa Pike - and what next?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "author": "",
+      "published": "Thu, 01 Oct 2026 10:29:49 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Travelodge failed sex assault victim 'at every stage', review finds",
+      "link": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
+      "author": "",
+      "published": "Thu, 01 Oct 2026 11:44:40 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Moment Esther Rantzen surprises Nicholas Winton with children he saved",
+      "link": "https://www.bbc.co.uk/news/videos/cxnvlvm2r85zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "One of her most memorable career moments came during one particular episode in 1988 - the footage of which has gone viral several times over in recent years.",
+      "author": "",
+      "published": "Thu, 01 Oct 2026 09:07:36 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
@@ -91,57 +61,57 @@
       "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
       "author": "",
       "published": "Wed, 30 Sep 2026 23:10:19 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+      "summary": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
       "author": "",
-      "published": "Thu, 01 Oct 2026 00:08:23 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 11:26:46 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC should not overspend on shows such as Suits and Schitt's Creek, MPs say",
-      "link": "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The issue is one of several raised by an influential committee as debate about the BBC's future continues.",
+      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
       "author": "",
-      "published": "Thu, 01 Oct 2026 00:20:51 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 11:37:46 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
-      "link": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
+      "title": "Ivan Toney denies Soho nightclub assault",
+      "link": "https://www.bbc.co.uk/news/articles/crkgwglz4dd5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit.",
+      "summary": "England striker Ivan Toney pleads not guilty to assaulting a man at a Soho nightclub last year.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 22:38:33 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 09:44:09 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "What we know about stabbing on Israel-bound plane",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "title": "Northern Ireland's young drivers first in UK to get restrictions put on new licences",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2rgmn74pro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "summary": "Northern Ireland becomes the first part of the UK to introduce new rules for new drivers in a bid to reduce fatal road crashes involving young people.",
       "author": "",
-      "published": "Thu, 01 Oct 2026 02:31:24 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 06:21:06 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
-      "link": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&at_campaign=rss",
+      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+      "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The man says he \"pulled the controls\" of the plane after it plummeted during the attack.",
+      "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 18:40:36 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 08:39:28 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
@@ -151,137 +121,137 @@
       "summary": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
       "author": "",
       "published": "Wed, 30 Sep 2026 21:38:54 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Shaken and emotional'  travellers arrive at Israeli airport",
-      "link": "https://www.bbc.co.uk/news/videos/cmx2z29wx32vo?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about stabbing on Israel-bound plane",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC's Yogita Limaye is at Ben Gurion Airport as passengers from the Flydubai flight arrive in Israel.",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 19:11:20 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 02:31:24 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Energy bills are going up - here's what you can do about it",
-      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "title": "Celebrity Traitors is back - here's what you need to know ahead of the first show",
+      "link": "https://www.bbc.co.uk/news/articles/ckqxvnpy7e49o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
+      "summary": "Maya Jama, Michael Sheen and Bella Ramsey are among this year's celebrities taking part in the show.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 23:01:32 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 00:09:38 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
       "author": "",
       "published": "Wed, 30 Sep 2026 23:10:06 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Son who used AI to help save mum's life hopes case unlocks clues for other Parkinson's patients",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0zewj483wo?at_medium=RSS&at_campaign=rss",
+      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Doctors say clinical trials are needed to understand more after Ed Patrick identified a potential side effect of a Parkinson's drug.",
+      "summary": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
       "author": "",
-      "published": "Thu, 01 Oct 2026 00:52:34 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Wed, 30 Sep 2026 23:25:23 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "How the new prison release scheme will work - and number of inmates to be freed",
-      "link": "https://www.bbc.co.uk/news/articles/c6z0zk9e7ggpo?at_medium=RSS&at_campaign=rss",
+      "title": "Why are hundreds of prisoners being released early?",
+      "link": "https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Hundreds of eligible offenders will leave jails in England and Wales on 1 October, under the government's early prison release plan.",
+      "summary": "More people going to prison, and for longer, is why governments including the current one have had to release prisoners early.",
       "author": "",
-      "published": "Thu, 01 Oct 2026 01:00:37 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 10:33:02 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Israel's 9/11 stopped' and 'That was a great life'",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2z2l28x9po?at_medium=RSS&at_campaign=rss",
+      "title": "'I'm very shocked' - College students react to Cornell University rape investigation",
+      "link": "https://www.bbc.co.uk/news/videos/cmdx0x928999o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Many of the papers are leading on the passengers who helped prevent a possible plane hijacking of a flight bound for Israel.",
+      "summary": "The BBC asked students in Washington about the allegations from a woman who says she was raped at a fraternity house in 2024.",
       "author": "",
-      "published": "Thu, 01 Oct 2026 00:43:24 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Wed, 30 Sep 2026 23:58:27 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Japan raises residency fee for foreign nationals by twenty-fold",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+      "title": "Employers should teach primary-age children about work, says Milburn",
+      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+      "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
       "author": "",
-      "published": "Thu, 01 Oct 2026 02:57:43 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 07:07:08 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-      "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 22:01:16 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 07:08:22 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Vape prices to rise as new tax takes effect",
+      "title": "Vape tax comes into effect - but prices won't rise yet",
       "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Vaping is about to becoming more expensive due to a new tax on products.",
       "author": "",
       "published": "Wed, 30 Sep 2026 23:02:11 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two dead in Canada after vehicle hits pedestrians taking part in First Nations event",
-      "link": "https://www.bbc.co.uk/news/articles/c3kg8gwzqnvko?at_medium=RSS&at_campaign=rss",
+      "title": "MPs recommend BBC charter renewal is scrapped and licence fee is extended beyond TV",
+      "link": "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Police said the driver \"may have been experiencing a medical emergency\" before hitting four people in British Columbia.",
+      "summary": "An parliamentary committee has published a new report as debate about the BBC's future continues.",
       "author": "",
-      "published": "Thu, 01 Oct 2026 02:26:18 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 00:20:51 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dame Esther Rantzen: A presenter who campaigned for change",
-      "link": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss",
+      "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
+      "link": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions.",
+      "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 19:00:50 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 10:33:07 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK believes Iran involved in RAF Fairford incident, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+      "title": "Tributes paid to 'inspirational' presenter and campaigner Esther Rantzen",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wjwxg3e74o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Iran's foreign minister has responded, saying the PM was \"barking up the wrong tree\".",
+      "summary": "Dame Esther Rantzen was \"an inspirational individual\", the director of her Childline helpline says.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 21:26:59 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 08:41:09 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sussexes condemn 'reckless intrusion' after photographer spotted near Archie and Lilibet's school",
-      "link": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "One of two men seen outside the UK school attended by the children is understood to be an international press photographer.",
+      "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 12:50:51 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 00:08:23 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
@@ -301,27 +271,47 @@
       "summary": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
       "author": "",
       "published": "Thu, 17 Sep 2026 23:01:00 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Punish Man City this season, say other club chiefs",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss",
+      "title": "Ranking the best British football exports this century",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqx2zejdk5x0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
+      "summary": "From David Beckham and Gareth Bale to Jude Bellingham and Harry Kane, who are the best British exports this century?",
       "author": "",
-      "published": "Wed, 30 Sep 2026 20:38:22 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 09:04:58 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
-      "link": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
+      "title": "Nine scandals that rocked the sporting world",
+      "link": "https://www.bbc.co.uk/sport/articles/ck62m2n3yezno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister compares the allegations against Manchester City to the plight of his own club Everton.",
+      "summary": "Manchester City are far from the first. The lure of glory and riches on the biggest stages have tempted plenty of other sports stars to break the rules.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 16:01:16 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 11:32:37 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England call up Crane and rest Archer for Pakistan series",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pakistan.",
+      "author": "",
+      "published": "Thu, 01 Oct 2026 10:00:08 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russell says his 'confidence is back and growing'",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cv1j4jn5nxxlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "George Russell says he \"doesn't feel lost any more\" as he seeks to end a difficult season on a high and chase down team-mate Kimi Antonelli's championship lead.",
+      "author": "",
+      "published": "Thu, 01 Oct 2026 11:07:36 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
@@ -331,47 +321,27 @@
       "summary": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player.",
       "author": "",
       "published": "Wed, 30 Sep 2026 19:33:07 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Respect and laughs as Fury and Joshua face off",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cme8x7rey9dlo?at_medium=RSS&at_campaign=rss",
+      "title": "Why penalty for Williamson handball was correct call",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw07l7pk2gp4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "After more than a decade of public feuding and false starts, Tyson Fury and Anthony Joshua exchange pleasantries, trade jokes and even discuss going for a pint at a news conference in London.",
+      "summary": "Arsenal defender Leah Williamson was at the heart of a bizarre incident in their Women's Champions League draw with Paris FC.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 19:37:32 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Thu, 01 Oct 2026 11:29:54 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arsenal let two-goal lead slip to draw with Paris FC",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwzdz9mzd3mvo?at_medium=RSS&at_campaign=rss",
+      "title": "Former Man Utd defender Smalling signs for Porto",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgy205kmmro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A miscommunication between Arsenal goalkeeper Misa Rodriguez and England captain Leah Williamson gifts Paris FC a late equaliser as the sides draw 2-2 in the Women's Champions League.",
+      "summary": "Former Manchester United and England defender Chris Smalling signs for Portuguese league leaders Porto.",
       "author": "",
-      "published": "Wed, 30 Sep 2026 18:55:13 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Infantino should have no place in future of football - Pinto",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm0rekrpxnl1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Gianni Infantino \"should have no place in the future of the game\".",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 19:47:40 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Saracens boss Venter skips more media duties",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmwyz9ypw3x2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Saracens director of rugby Brendan Venter misses a second pre-match media conference, as head coach Joe Shaw attends.",
-      "author": "",
-      "published": "Wed, 30 Sep 2026 17:46:17 GMT",
-      "fetched_at": "2026-10-01T03:07:31.295656+00:00"
+      "published": "Wed, 30 Sep 2026 14:07:18 GMT",
+      "fetched_at": "2026-10-01T12:03:45.386005+00:00"
     }
   ]
 }
