@@ -1,217 +1,67 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-02T17:02:48.605595+00:00",
+  "fetched_at": "2026-10-02T21:35:13.752590+00:00",
   "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Widdecombe suspect charged with planning terror act against Farage",
+      "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 21:32:25 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 20:25:19 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 16:58:30 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Men charged over alleged plot to target Manchester Jewish community",
+      "link": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 21:10:14 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
     {
       "source": "bbc",
       "title": "Riot police clash with students as education protests rage in France",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
       "author": "",
-      "published": "Fri, 02 Oct 2026 16:26:09 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "published": "Fri, 02 Oct 2026 21:13:27 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Why students in France are protesting",
-      "link": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
+      "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
       "author": "",
-      "published": "Fri, 02 Oct 2026 15:02:15 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 16:38:22 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 14:01:09 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Dolly Parton sings Jolene in Welsh in recording released after her death",
-      "link": "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Parton's niece Jada Star and Welsh singer Bronwen Lewis say the country artist was proud to sing in Welsh.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 14:00:38 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 08:46:37 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Woman who killed abusive partner has murder conviction overturned",
-      "link": "https://www.bbc.co.uk/news/articles/cmz98wwklwz7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Court of Appeal ruled that jurors were misdirected on Julie Ann McIlwaine's loss of control defence to the killing of James Joseph Crossley.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 11:52:00 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Alison Hammond has heart check-up in hospital after leaving TV's This Morning",
-      "link": "https://www.bbc.co.uk/news/articles/c60rlwgx9n9go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The host says she is \"fine\" but getting checked after leaving midway through Friday's This Morning.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 16:00:18 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal with Scotland",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 15:40:31 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "London Fire Brigade named in Met's evidence file on Grenfell fire",
-      "link": "https://www.bbc.co.uk/news/articles/crz98wpqglkeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The brigade is among 20 organisations the police have compiled evidence against since 2017.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 15:09:18 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Greens can move Labour in the right direction, says Polanski",
-      "link": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 16:32:36 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-      "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-      "author": "",
-      "published": "Thu, 01 Oct 2026 23:00:06 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "School protests send shivers down French government's spine",
-      "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 12:43:02 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tories aim to be election-ready ahead of party conference",
-      "link": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 14:09:25 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 15:29:28 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What's really going on with the lymphatic drainage beauty trend videos?",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l6zvr9gdgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fans of these massages claim they \"depuff\" and \"define\" their stomach - but what's actually happening to their bodies?",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 11:34:09 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How to see the Orionid meteor shower this weekend",
-      "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 07:16:45 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-      "author": "",
-      "published": "Thu, 01 Oct 2026 23:32:59 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 15:30:12 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cornell students gather to voice anger over alleged gang rape investigation",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 10:00:24 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
-      "link": "https://www.bbc.co.uk/news/articles/c5398kkx27ewo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Stray Kids become the second major act to withdraw from the Grammys over the new best Asian Pop award.",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 12:28:59 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "published": "Fri, 02 Oct 2026 20:32:07 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
@@ -221,37 +71,197 @@
       "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
       "author": "",
       "published": "Fri, 02 Oct 2026 15:26:37 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
-      "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
-      "link": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The star's record label is sued over similarities between her song I've Seen It and  Withers' classic.",
+      "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
       "author": "",
-      "published": "Fri, 02 Oct 2026 09:51:23 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "published": "Fri, 02 Oct 2026 17:44:08 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
-      "title": "British paratrooper killed by explosion in Ukraine, coroner rules",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ydy1yk3yqo?at_medium=RSS&at_campaign=rss",
+      "title": "King's Caribbean tour will not shy away from 'darkest days of our past'",
+      "link": "https://www.bbc.co.uk/news/articles/cqn73lr17g5eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "L/Cpl George Hooley is the first UK service member to die in Ukraine since Russia's full-scale invasion in February 2022.",
+      "summary": "In recent years, the King has expressed his \"personal sorrow\" at the UK's role in slavery.",
       "author": "",
-      "published": "Fri, 02 Oct 2026 13:50:15 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "published": "Fri, 02 Oct 2026 21:05:20 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
-      "title": "Son of ex-Chelsea player died in 40C desert hike",
-      "link": "https://www.bbc.co.uk/news/articles/ckj06007g600o?at_medium=RSS&at_campaign=rss",
+      "title": "'Cult' priest guilty of rape and assault of women",
+      "link": "https://www.bbc.co.uk/news/articles/cmreydzjdrqeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Cassius Newton's wife urged him not to go on the hike, a coroner tells an inquest into his death.",
+      "summary": "The leader of Sheffield's former Nine O'Clock Service movement is facing prison for abusing 13 women.",
       "author": "",
-      "published": "Fri, 02 Oct 2026 10:17:29 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "published": "Fri, 02 Oct 2026 17:58:39 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Daniel Thomas in court accused of entering migrant site",
+      "link": "https://www.bbc.co.uk/news/articles/cqd095e5x127o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Thomas, also known as Danny Tommo, is accused of multiple offences in Dover in the spring.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 17:33:28 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Alison Hammond has heart check-up in hospital after rushing off This Morning while on air",
+      "link": "https://www.bbc.co.uk/news/articles/c60rlwgx9n9go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The host says she is \"fine\" but getting checked after leaving midway through Friday's This Morning.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 18:41:43 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 14:01:09 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "School protests send shivers down French government's spine",
+      "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 12:43:02 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tories aim to be election-ready ahead of party conference",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 14:09:25 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What we know about Cornell University frat house rape investigation",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 18:57:02 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How to see the Orionid meteor shower this weekend",
+      "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 07:16:45 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+      "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+      "author": "",
+      "published": "Thu, 01 Oct 2026 23:00:06 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 15:29:28 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 08:46:37 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 15:30:12 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Families remember teens who died in river",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1ld51338o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Luke Etheridge was kind and caring and Zara Shaw \"had a zest for life\", their families say.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 14:51:57 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "London Fire Brigade named in Met's evidence file on Grenfell fire",
+      "link": "https://www.bbc.co.uk/news/articles/crz98wpqglkeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police have sent files on the Kensington and Chelsea Tenants Management Organisation to prosecutors.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 19:48:32 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal to Scotland",
+      "link": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 15:40:31 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Greens can move Labour in the right direction, says Polanski",
+      "link": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 17:28:07 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Woman who killed abusive partner has murder conviction overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cmz98wwklwz7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Court of Appeal ruled that jurors were misdirected on Julie Ann McIlwaine's loss of control defence to the killing of James Joseph Crossley.",
+      "author": "",
+      "published": "Fri, 02 Oct 2026 11:52:00 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
@@ -270,38 +280,28 @@
       "full_text": "",
       "summary": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\".",
       "author": "",
-      "published": "Fri, 02 Oct 2026 08:50:24 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "published": "Fri, 02 Oct 2026 17:43:48 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
-      "title": "What does Man City guilty verdict mean for their squad?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
+      "title": "Man City whistleblower to lose witness protection",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.",
+      "summary": "Portuguese computer hacker who released documents which led to the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
       "author": "",
-      "published": "Fri, 02 Oct 2026 09:00:51 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "published": "Fri, 02 Oct 2026 19:26:13 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tuchel would never rule out players not in top flight",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqd095z49gjvo?at_medium=RSS&at_campaign=rss",
+      "title": "Bath gain revenge on Exeter to win 11-try thriller",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8r4vg227kvzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England boss Thomas Tuchel says he would \"never rule out\" selecting someone who is not playing in the top flight, should Manchester City be relegated.",
+      "summary": "After losing to Exeter at home in the Prem semi-final last season, Bath beat the Chiefs 40-34 in another thriller.",
       "author": "",
-      "published": "Fri, 02 Oct 2026 15:05:31 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Gordon became one of England's main men",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm9qrqelnd49o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Anthony Gordon has been England's in-form player since the World Cup knockout stage -  is the Barcelona forward now undroppable?",
-      "author": "",
-      "published": "Fri, 02 Oct 2026 13:15:44 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "published": "Fri, 02 Oct 2026 21:14:42 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +311,7 @@
       "summary": "Aryna Sabalenka says she is \"trying so hard to be easier on myself\" as she begins her China Open campaign with victory over Renata Zarazua.",
       "author": "",
       "published": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
@@ -321,17 +321,17 @@
       "summary": "Only five clubs have lifted the trophy in a Super League Grand Final - Warrington and Wakefield now have the chance to add their name to that list.",
       "author": "",
       "published": "Fri, 02 Oct 2026 15:48:57 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russell says Red Bull strongest after Bahrain practice",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckm2q2346zz9o?at_medium=RSS&at_campaign=rss",
+      "title": "How Gordon became one of England's main men",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm9qrqelnd49o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Red Bull are tipped by George Russell and Charles Leclerc as the team to beat after the first day at the Bahrain Grand Prix in Malaysia.",
+      "summary": "Anthony Gordon has been England's in-form player since the World Cup knockout stage -  is the Barcelona forward now undroppable?",
       "author": "",
-      "published": "Fri, 02 Oct 2026 11:15:54 GMT",
-      "fetched_at": "2026-10-02T17:02:40.214284+00:00"
+      "published": "Fri, 02 Oct 2026 13:15:44 GMT",
+      "fetched_at": "2026-10-02T21:35:10.618285+00:00"
     }
   ]
 }
