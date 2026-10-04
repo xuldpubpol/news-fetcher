@@ -1,37 +1,67 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-04T11:31:18.519965+00:00",
-  "count": 27,
+  "fetched_at": "2026-10-04T16:09:58.086809+00:00",
+  "count": 29,
   "articles": [
     {
       "source": "bbc",
-      "title": "Courts backlog will still fall despite scrapping of jury trial plan, minister says",
+      "title": "Green Party members back 'Zionism is racism' motion",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 15:45:28 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I'm a classic old school Conservative, says Kemi Badenoch",
+      "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 15:51:24 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 14:25:32 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
       "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Proposals to limit jury trials were first introduced by former justice secretary David Lammy last year.",
+      "summary": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
       "author": "",
       "published": "Sun, 04 Oct 2026 11:19:58 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+      "title": "British Museum announces changes to ease Bayeux Tapestry queues",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\".",
+      "summary": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 11:04:47 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "published": "Sun, 04 Oct 2026 13:45:24 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "summary": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 06:19:17 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "published": "Sun, 04 Oct 2026 11:59:35 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -41,37 +71,17 @@
       "summary": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
       "author": "",
       "published": "Sun, 04 Oct 2026 11:24:58 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "title": "Why Canada is preparing for an unlikely US invasion",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 11:25:35 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 00:11:25 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
-      "author": "",
-      "published": "Sat, 03 Oct 2026 21:07:59 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "published": "Sat, 03 Oct 2026 23:30:06 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -81,17 +91,7 @@
       "summary": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
       "author": "",
       "published": "Sun, 04 Oct 2026 01:31:32 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Gentle parenting, helicopter or snowplough – is there really a best way to be a parent?",
-      "link": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Many parents feel overwhelmed by the amount of parenting information available",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 01:24:05 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -101,47 +101,77 @@
       "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
       "author": "",
       "published": "Sun, 04 Oct 2026 11:03:20 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why Canada is preparing for a (long shot) US invasion",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "title": "Gentle parenting, helicopter or snowplough – is there really a best way to be a parent?",
+      "link": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "summary": "Many parents feel overwhelmed by the amount of parenting information available",
       "author": "",
-      "published": "Sat, 03 Oct 2026 23:30:06 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "published": "Sun, 04 Oct 2026 01:24:05 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rare tornado whips through small Australian town",
-      "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+      "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
+      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 04:15:36 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "published": "Sun, 04 Oct 2026 14:24:56 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 03:42:15 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "published": "Sun, 04 Oct 2026 14:36:57 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Autumn chill to arrive this week as temperatures set to drop",
-      "link": "https://www.bbc.co.uk/weather/articles/c6e3x8zg7wklo?at_medium=RSS&at_campaign=rss",
+      "title": "Verstappen wins Bahrain GP in Malaysia after long delays",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "After highs of 28C in the final week of September, cooler air will arrive this week with temperatures falling closer to the seasonal norm.",
+      "summary": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 00:29:22 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "published": "Sun, 04 Oct 2026 10:32:37 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 13:33:05 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 12:09:04 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 00:11:25 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +181,7 @@
       "summary": "Dutch champion Gina Saarberg took the coveted Golden Spurtle, while Australian champion maestro Rob Reid won the Speciality Porridge category at the finals in the Scottish Highlands.",
       "author": "",
       "published": "Sun, 04 Oct 2026 10:21:45 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -161,7 +191,7 @@
       "summary": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
       "author": "",
       "published": "Tue, 29 Sep 2026 07:02:07 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +201,7 @@
       "summary": "Keeleigh John says her pregnancy would not be possible without her childhood organ donor.",
       "author": "",
       "published": "Sat, 26 Sep 2026 06:18:33 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +211,7 @@
       "summary": "It's been home to north Wales' strongest man Dewi Arfon near Yr Wyddfa, also known as Snowdon.",
       "author": "",
       "published": "Mon, 28 Sep 2026 05:10:32 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +221,7 @@
       "summary": "Denise Lee was able to spend time with two ponies at a hospice after her daughter appealed for help.",
       "author": "",
       "published": "Sun, 27 Sep 2026 06:34:22 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -201,17 +231,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
-      "title": "A Make Or Break Week For Zack Polanski?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pd1ldg?at_medium=RSS&at_campaign=rss",
+      "title": "Are The Public Ready To Vote Tory Again?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pd1llg?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
       "summary": "The BBC’s daily news podcast with episodes Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +251,27 @@
       "summary": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
       "author": "",
       "published": "Sun, 04 Oct 2026 10:32:37 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 13:36:42 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Djokovic beats Zverev to reach China Open semis",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 14:47:14 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
@@ -231,47 +281,17 @@
       "summary": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
       "author": "",
       "published": "Sat, 03 Oct 2026 21:07:59 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bowie seizing Scotland shot after World Cup disappointment",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
+      "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
+      "link": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
+      "summary": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 07:59:10 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'An unbelievable story' - inside unfancied Wakefield's rapid ascent",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Wakefield's stars of yesteryear are remembered in sepia but now the class of 2026 has added glorious colour to their success after winning a previously unfathomable Super League title.",
-      "author": "",
-      "published": "Sat, 03 Oct 2026 21:39:45 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 10:35:47 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I clawed my way to the top but need a break - Azpilicueta",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 06:15:35 GMT",
-      "fetched_at": "2026-10-04T11:31:12.301846+00:00"
+      "published": "Sun, 04 Oct 2026 15:42:24 GMT",
+      "fetched_at": "2026-10-04T16:09:56.536416+00:00"
     }
   ]
 }
