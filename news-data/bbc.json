@@ -1,8 +1,38 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-03T20:20:38.944068+00:00",
-  "count": 26,
+  "fetched_at": "2026-10-04T03:25:23.802262+00:00",
+  "count": 27,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Burnham scraps controversial plans to curb jury trials",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sir Keir Starmer's government proposals to scrap many jury trials are to be scrapped.",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 03:07:30 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+      "author": "",
+      "published": "Sat, 03 Oct 2026 21:03:22 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 00:11:25 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
+    },
     {
       "source": "bbc",
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -11,27 +41,57 @@
       "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
       "author": "",
       "published": "Sat, 03 Oct 2026 14:27:33 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
-      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "title": "Man shot dead as families gather for memorial in London",
+      "link": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+      "summary": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
       "author": "",
-      "published": "Sat, 03 Oct 2026 10:58:51 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "published": "Sat, 03 Oct 2026 20:42:05 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "title": "The Celebrity Traitors connections that might surprise you",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "summary": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
       "author": "",
-      "published": "Sat, 03 Oct 2026 17:48:42 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "published": "Sun, 04 Oct 2026 01:31:32 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How to spot a psychopath at work - from a man who worried he could be one",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e3vjexj0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Geraint Anderson says some modern workplaces reward psychopathic traits.",
+      "author": "",
+      "published": "Sat, 03 Oct 2026 20:44:31 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "When parenting advice becomes too much",
+      "link": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Many parents feel overwhelmed by the amount of parenting information available",
+      "author": "",
+      "published": "Sun, 04 Oct 2026 01:24:05 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "author": "",
+      "published": "Sat, 03 Oct 2026 23:30:06 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
@@ -41,67 +101,47 @@
       "summary": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
       "author": "",
       "published": "Sat, 03 Oct 2026 10:27:57 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
       "author": "",
-      "published": "Sat, 03 Oct 2026 13:34:11 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "published": "Sun, 04 Oct 2026 02:04:11 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man shot dead as families gather for memorial in London",
-      "link": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Another tax bombshell?' and 'Terror plot targets'",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdmk479mr1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
+      "summary": "Several of today's papers feature Andy Burnham's latest plans as PM, including experts warning of a potential tax rise to help cover his social care plan.",
       "author": "",
-      "published": "Sat, 03 Oct 2026 17:06:15 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "published": "Sat, 03 Oct 2026 23:49:57 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
-      "title": "Spoiler alert! Is social media ruining big gig surprises?",
-      "link": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Big moments from headline acts are shared online long before many fans see their favourite artists.",
+      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
       "author": "",
-      "published": "Sat, 03 Oct 2026 02:26:42 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "published": "Sat, 03 Oct 2026 17:48:42 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
-      "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
+      "title": "Autumn chill to arrive this week as temperatures set to drop",
+      "link": "https://www.bbc.co.uk/weather/articles/c6e3x8zg7wklo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Motion sickness is caused by a mismatch in sensory cues and women and children are more susceptible, experts say.",
+      "summary": "After highs of 28C in the final week of September, cooler air will arrive this week with temperatures falling closer to the seasonal norm.",
       "author": "",
-      "published": "Sat, 03 Oct 2026 02:36:19 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-      "link": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
-      "author": "",
-      "published": "Sat, 03 Oct 2026 11:07:52 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why thousands of couples are choosing Scotland to say 'I do'",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0zdj8jlxeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A quarter of all marriages in Scotland involve couples who don't live here but see it as the ultimate wedding destination.",
-      "author": "",
-      "published": "Sat, 03 Oct 2026 01:43:20 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "published": "Sun, 04 Oct 2026 00:29:22 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
@@ -111,27 +151,17 @@
       "summary": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days.",
       "author": "",
       "published": "Sat, 03 Oct 2026 17:38:56 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
-      "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
-      "link": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
+      "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
+      "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
       "author": "",
-      "published": "Sat, 03 Oct 2026 12:51:08 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "author": "",
-      "published": "Sat, 03 Oct 2026 16:16:49 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "published": "Sat, 03 Oct 2026 10:58:51 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
@@ -141,37 +171,7 @@
       "summary": "Former heavyweight champion Tyson Fury plans to ask US president Donald Trump to lead his ring walk before fighting Anthony Joshua.",
       "author": "",
       "published": "Sat, 03 Oct 2026 19:43:48 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why has Brazil accused the US of election interference?",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "author": "",
-      "published": "Sat, 03 Oct 2026 13:52:13 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Alison Hammond returns home from hospital after rushing off This Morning",
-      "link": "https://www.bbc.co.uk/news/articles/cr20w7j8jd21o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The This Morning presenter said she believes she experienced a panic attack on Friday's show.",
-      "author": "",
-      "published": "Sat, 03 Oct 2026 13:21:40 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
-      "author": "",
-      "published": "Sat, 03 Oct 2026 12:26:30 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +181,7 @@
       "summary": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
       "author": "",
       "published": "Mon, 28 Sep 2026 08:21:54 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +191,7 @@
       "summary": "Katy is one of the springer spaniels who has now been rehomed after RSPCA investigation.",
       "author": "",
       "published": "Thu, 01 Oct 2026 14:19:14 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +201,7 @@
       "summary": "James Purcell and Andy Taeger are confident their friendship will survive the test.",
       "author": "",
       "published": "Sat, 26 Sep 2026 06:07:42 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +211,27 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+      "author": "",
+      "published": "Sat, 03 Oct 2026 21:07:59 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Two going on four, five or six on good night for new Scotland era",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
+      "author": "",
+      "published": "Sat, 03 Oct 2026 22:22:18 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +241,7 @@
       "summary": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
       "author": "",
       "published": "Sat, 03 Oct 2026 19:02:55 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +251,7 @@
       "summary": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
       "author": "",
       "published": "Sat, 03 Oct 2026 17:58:13 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
@@ -241,27 +261,17 @@
       "summary": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
       "author": "",
       "published": "Sat, 03 Oct 2026 12:25:57 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     },
     {
       "source": "bbc",
-      "title": "Gloucester thrash sorry Quins to go top of the Prem",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
+      "title": "Leicester hold off Newcastle for first Prem win",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+      "summary": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
       "author": "",
-      "published": "Sat, 03 Oct 2026 19:29:51 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Republic of Ireland news conference ends abruptly amid accusations",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
-      "author": "",
-      "published": "Sat, 03 Oct 2026 13:02:11 GMT",
-      "fetched_at": "2026-10-03T20:20:36.761740+00:00"
+      "published": "Sat, 03 Oct 2026 20:46:08 GMT",
+      "fetched_at": "2026-10-04T03:25:15.188670+00:00"
     }
   ]
 }
