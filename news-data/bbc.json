@@ -1,127 +1,127 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-05T03:03:35.867941+00:00",
+  "fetched_at": "2026-10-05T13:01:51.525846+00:00",
   "count": 34,
   "articles": [
     {
       "source": "bbc",
-      "title": "US removes all bombers from RAF Fairford base",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+      "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+      "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 21:57:32 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 12:48:01 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+      "title": "Andrew takes legal action over search warrants before his arrest",
+      "link": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+      "summary": "Mountbatten-Windsor's lawyers are challenging warrants used relating to his arrest in February on suspicion of misconduct in public office.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 20:51:36 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 10:34:13 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "title": "Spanish PM Sánchez calls early election after housing protests",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 10:18:47 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: How the eviction of an elderly resident in Madrid led to a snap election",
+      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 09:03:30 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Twelve arrests after protest over migrant boat arrival",
+      "link": "https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Flares were set off and there were a few scuffles with police during the stand-off in Gosport.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 12:57:18 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 11:34:59 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prefect of Pas-de-Calais says the teenager's life is \"not in danger\" after the \"very serious\" incident on Monday.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 12:29:45 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Average five-year mortgage rate hits 6% for first time in three years",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "A modern browser with JavaScript and a stable internet connection is required to view this interactive.",
+      "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 09:54:57 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
+      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 11:04:37 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The motion, which has divided senior party figures, backs a \"single democratic Palestinian state in all of historic Palestine\".",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 11:23:02 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
       "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 02:40:51 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 03:16:16 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+      "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
+      "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
+      "summary": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
       "author": "",
-      "published": "Sun, 04 Oct 2026 21:35:30 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 16:51:30 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-      "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 16:24:48 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 02:32:21 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Protesters gather as migrants brought ashore on south coast",
-      "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A dinghy was believed to be carrying 120 migrants, according to French media.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 21:37:03 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I'm a classic old school Conservative, says Kemi Badenoch",
-      "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 16:20:02 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "France to close up to 500 schools on Monday over student protests",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 18:52:36 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 18:25:50 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 13:45:24 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 10:25:36 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
@@ -131,47 +131,57 @@
       "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
       "author": "",
       "published": "Sun, 04 Oct 2026 23:22:07 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "⁠⁠Forced to call him 'Dad': The trial over sexual abuse in a disabled care home that has shocked South Korea",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
+      "title": "Why are data centres such a big deal in Scotland?",
+      "link": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member.",
+      "summary": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 22:11:33 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 10:04:08 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Money-grab' or celebration? NFL kicks off London series",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
+      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
+      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
+      "summary": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 20:36:03 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 11:10:28 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: Badenoch's 'bonfire of green laws' and 'Drop in global dealmaking'",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn30zn288o?at_medium=RSS&at_campaign=rss",
+      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Monday's front pages include stories about Kemi Badenoch at the start of the Tory conference, plus reports on global finance , abuse in schools and a BBC romance.",
+      "summary": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 00:18:06 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 08:08:02 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 22:46:03 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 04:51:24 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 08:22:41 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
@@ -181,87 +191,67 @@
       "summary": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
       "author": "",
       "published": "Mon, 05 Oct 2026 01:42:11 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why Canada is preparing for an unlikely US invasion",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "title": "Potty training scheme to roll out to 20 more areas",
+      "link": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "summary": "The government wants 75% of children to end their first year of school with a good level of development by 2028.",
       "author": "",
-      "published": "Sat, 03 Oct 2026 23:30:06 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 12:57:56 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens 'ripped off' in £500,000 building 'scam'",
+      "link": "https://www.bbc.co.uk/news/articles/c74kepepwklo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+      "summary": "Sian and Simon Romsey lost thousands after paying a deposit for extensive building work.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 14:25:32 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 05:06:43 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-      "link": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+      "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+      "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 11:24:58 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 10:44:51 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+      "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 14:36:57 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 10:03:38 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+      "title": "Radical change needed to cut Scottish child poverty, says charity",
+      "link": "https://www.bbc.co.uk/news/articles/cw073e915j93o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
+      "summary": "The Joseph Rowntree Foundation says Scotland is on course to miss legally-binding poverty targets \"by a wide margin\".",
       "author": "",
-      "published": "Sun, 04 Oct 2026 11:19:58 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 05:35:50 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Wales' Elfyn Evans wins his first World Rally Championship",
-      "link": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+      "title": "Summerlike warmth to give way to autumn chill this week",
+      "link": "https://www.bbc.co.uk/weather/articles/cw80zr55n2d9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
+      "summary": "Temperatures on Monday could reach 23C but chillier air will spread from the north making it feel much more autumnal by midweek.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 13:46:49 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 11:59:35 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 06:19:17 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 07:02:41 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
@@ -271,77 +261,87 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
       "title": "Are The Public Ready To Vote Tory Again?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pd1llg?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pd1llg?at_mid=GkoLu0UzhK&at_campaign=Newscast_Are_The_Public_Ready_To_Vote_Tory_Again_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Are_The_Public_Ready_To_Vote_Tory_Again_news_rail&at_bbc_team=BBC&at_creation=News",
       "full_text": "Find out how to listen to other BBC stations",
       "summary": "The BBC’s daily news podcast with episodes Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss",
+      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
+      "summary": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 16:58:56 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 08:08:02 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss",
+      "title": "Australia warm-up shows England have 'learned' from Ashes",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Republic of Ireland head coach Heimir Hallgrimsson says he felt Israel were \"trying to intimidate\" his team amid allegations of spitting during Sunday's Nations League draw.",
+      "summary": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 22:51:49 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 12:52:25 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Humphries wins Grand Prix to end barren spell",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss",
+      "title": "Bournemouth unhappy after Scott injured with England",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final.",
+      "summary": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 21:39:14 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 12:38:58 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bellamy bemoans new schedule after Denmark loss",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss",
+      "title": "F1 needs to have hard look at itself - Sainz",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.",
+      "summary": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 22:36:20 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 11:52:01 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
+      "title": "Salty celebrations, questionable signings and Test bolters - Prem talking points",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy4x3e7zwn9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.",
+      "summary": "Bristol set out their top-four aspirations with a statement win, while Gloucester's renaissance continues in the second round of Prem action.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 20:34:17 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 11:49:09 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Money-grab' or celebration? NFL kicks off London series",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
+      "title": "All the goals from the Women's Super League - matchweek five",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmx2d59jn021o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
+      "summary": "Watch every goal from matchweek five of the Women's Super League 2026-27 season.",
       "author": "",
-      "published": "Sun, 04 Oct 2026 20:36:03 GMT",
-      "fetched_at": "2026-10-05T03:03:13.715474+00:00"
+      "published": "Mon, 05 Oct 2026 08:55:39 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "London City gelling, Man City flying - takeaways from WSL start",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1l6rxypzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After five frantic weeks, the Women's Super League takes a two-week break, offering the perfect chance to take stock of a thrilling start to the season.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 11:59:42 GMT",
+      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
     }
   ]
 }
