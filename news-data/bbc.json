@@ -1,77 +1,207 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-05T13:01:51.525846+00:00",
-  "count": 34,
+  "fetched_at": "2026-10-05T23:29:02.554812+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-      "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+      "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 12:48:01 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 21:46:22 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
-      "title": "Andrew takes legal action over search warrants before his arrest",
-      "link": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss",
+      "title": "Author and former politician Jeffrey Archer dies aged 86",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mountbatten-Windsor's lawyers are challenging warrants used relating to his arrest in February on suspicion of misconduct in public office.",
+      "summary": "His last book, Adam and Eve, is set to release this month.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 10:34:13 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 21:41:53 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
-      "title": "Spanish PM Sánchez calls early election after housing protests",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+      "title": "King's funding for Andrew not to be used for legal action against police",
+      "link": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+      "summary": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 10:18:47 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 18:48:40 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: How the eviction of an elderly resident in Madrid led to a snap election",
-      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
+      "link": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
+      "summary": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 09:03:30 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Twelve arrests after protest over migrant boat arrival",
-      "link": "https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Flares were set off and there were a few scuffles with police during the stand-off in Gosport.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 12:57:18 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 11:34:59 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 13:09:42 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
       "title": "Teenager's hand blown off during confrontation between France school protesters and police",
       "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prefect of Pas-de-Calais says the teenager's life is \"not in danger\" after the \"very serious\" incident on Monday.",
+      "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 12:29:45 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 16:32:18 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
+      "link": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 17:21:42 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 17:08:11 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I won't accept exclusion, says Polanski after criticism of Zionism motion",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Labour MPs and the European Greens have demanded clarity from the Green Party over a \"Zionism is racism\" motion.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 22:51:19 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 22:39:20 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 16:13:21 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 22:58:25 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 21:33:49 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Jeffrey Archer: successful novelist, disgraced politician and convicted liar",
+      "link": "https://www.bbc.co.uk/news/articles/c80095q7p7jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Politician and best-selling author whose career was mired in scandal and disgrace.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 20:39:45 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Spain PM pins hopes on housing crisis to help win snap election",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 19:30:50 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Would the Conservatives' plan make new houses £50,000 cheaper?",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4n8yprglo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Verify looks into the shadow chancellor's plan to cut some building regulations to reduce construction costs.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 15:19:46 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Henry Zeffman: Tensions exposed among Greens by 'Zionism is racism' conference vote",
+      "link": "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 14:40:20 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The new director of news takes over from Deborah Turness, who resigned as CEO last year.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 14:16:06 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
+      "link": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 17:46:59 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pickford 'almost caused crash' with careless driving",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgd3j2qqnmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The goalkeeper was pulled over by police after ignoring a give way sign, forcing two cars to brake.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 14:42:28 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "BBC appoints Rachel Jupp as new director of news",
+      "link": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 13:05:13 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
@@ -81,177 +211,37 @@
       "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
       "author": "",
       "published": "Mon, 05 Oct 2026 09:54:57 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nobel Prize awarded for revealing inner workings of the brain",
-      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 11:04:37 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 15:17:23 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
-      "title": "Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
+      "title": "Twelve arrested for allegedly running cat trafficking ring in Vietnam",
+      "link": "https://www.bbc.co.uk/news/articles/c8x234k9epq5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The motion, which has divided senior party figures, backs a \"single democratic Palestinian state in all of historic Palestine\".",
+      "summary": "The men are accused of stealing around 2,700 cats in Ho Chi Minh City, allegedly to be slaughtered for food.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 11:23:02 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 15:10:35 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "title": "Failed asylum seeker jailed for life over knife attack attempt at Israeli embassy in London",
+      "link": "https://www.bbc.co.uk/news/articles/c63r5l04nejwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "summary": "Abdullah Albadri arrived in the UK on a small boat 16 days before trying to break into the embassy with two knives.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 03:16:16 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-      "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 10:25:36 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The job interview question you don't have to answer",
-      "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 23:22:07 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why are data centres such a big deal in Scotland?",
-      "link": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 10:04:08 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 11:10:28 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 08:08:02 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 04:51:24 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-      "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 08:22:41 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How India became dangerously addicted to Chinese imports",
-      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 01:42:11 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Potty training scheme to roll out to 20 more areas",
-      "link": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The government wants 75% of children to end their first year of school with a good level of development by 2028.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 12:57:56 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Dozens 'ripped off' in £500,000 building 'scam'",
-      "link": "https://www.bbc.co.uk/news/articles/c74kepepwklo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sian and Simon Romsey lost thousands after paying a deposit for extensive building work.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 05:06:43 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 10:44:51 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 10:03:38 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Radical change needed to cut Scottish child poverty, says charity",
-      "link": "https://www.bbc.co.uk/news/articles/cw073e915j93o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Joseph Rowntree Foundation says Scotland is on course to miss legally-binding poverty targets \"by a wide margin\".",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 05:35:50 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Summerlike warmth to give way to autumn chill this week",
-      "link": "https://www.bbc.co.uk/weather/articles/cw80zr55n2d9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Temperatures on Monday could reach 23C but chillier air will spread from the north making it feel much more autumnal by midweek.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 07:02:41 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 13:51:17 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +251,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
@@ -271,37 +261,17 @@
       "summary": "The BBC’s daily news podcast with episodes Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
-      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+      "title": "England's greatest international? Kane is now a serious contender",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
+      "summary": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
       "author": "",
-      "published": "Mon, 05 Oct 2026 08:08:02 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Australia warm-up shows England have 'learned' from Ashes",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 12:52:25 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Bournemouth unhappy after Scott injured with England",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 12:38:58 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 19:05:52 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
@@ -311,37 +281,47 @@
       "summary": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
       "author": "",
       "published": "Mon, 05 Oct 2026 11:52:01 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
-      "title": "Salty celebrations, questionable signings and Test bolters - Prem talking points",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy4x3e7zwn9o?at_medium=RSS&at_campaign=rss",
+      "title": "Player welfare, injury worries & boredom - has extended break worked?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bristol set out their top-four aspirations with a statement win, while Gloucester's renaissance continues in the second round of Prem action.",
+      "summary": "The extended international break was brought in with player welfare in mind, but has it been a success?",
       "author": "",
-      "published": "Mon, 05 Oct 2026 11:49:09 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 14:54:39 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
-      "title": "All the goals from the Women's Super League - matchweek five",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmx2d59jn021o?at_medium=RSS&at_campaign=rss",
+      "title": "Medvedev disqualified from Djokovic match for hitting spectator with ball",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Watch every goal from matchweek five of the Women's Super League 2026-27 season.",
+      "summary": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 08:55:39 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 14:44:45 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     },
     {
       "source": "bbc",
-      "title": "London City gelling, Man City flying - takeaways from WSL start",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1l6rxypzo?at_medium=RSS&at_campaign=rss",
+      "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "After five frantic weeks, the Women's Super League takes a two-week break, offering the perfect chance to take stock of a thrilling start to the season.",
+      "summary": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 11:59:42 GMT",
-      "fetched_at": "2026-10-05T13:01:49.824196+00:00"
+      "published": "Mon, 05 Oct 2026 19:13:15 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "ECB will 'look at' funding women's Windies Test if needed",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 17:00:17 GMT",
+      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
     }
   ]
 }
