@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-05T23:29:02.554812+00:00",
-  "count": 32,
+  "fetched_at": "2026-10-06T03:52:50.818448+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
@@ -11,77 +11,27 @@
       "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
       "author": "",
       "published": "Mon, 05 Oct 2026 21:46:22 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What prompted the US bombers to leave RAF Fairford?",
+      "link": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 21:57:26 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
       "title": "Author and former politician Jeffrey Archer dies aged 86",
       "link": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "His last book, Adam and Eve, is set to release this month.",
+      "summary": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 21:41:53 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "King's funding for Andrew not to be used for legal action against police",
-      "link": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 18:48:40 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
-      "link": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 13:09:42 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 16:32:18 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
-      "link": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 17:21:42 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 17:08:11 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I won't accept exclusion, says Polanski after criticism of Zionism motion",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Labour MPs and the European Greens have demanded clarity from the Green Party over a \"Zionism is racism\" motion.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 22:51:19 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "published": "Tue, 06 Oct 2026 03:19:57 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -91,27 +41,77 @@
       "summary": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
       "author": "",
       "published": "Mon, 05 Oct 2026 22:39:20 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "title": "France braces for national day of school protests after injuries and mass arrests",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 16:13:21 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "published": "Mon, 05 Oct 2026 21:18:10 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
-      "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
+      "title": "Temperatures set to fall as rain and cloud sweep across UK",
+      "link": "https://www.bbc.co.uk/weather/articles/cr20w62w7q3jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
+      "summary": "Tuesday will see cool air spread across the UK ahead of a noticeable drop in temperatures for all by Wednesday.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 22:58:25 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "published": "Tue, 06 Oct 2026 01:25:14 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The city's space boom raises questions about the role of the state in backing important industries.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 23:07:08 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "King's funding for Andrew not to be used for legal action against police",
+      "link": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 18:48:40 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 23:29:02 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I won't accept exclusion, says Polanski after criticism of Zionism motion",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Labour MPs and the European Greens have demanded clarity from the Green Party over a \"Zionism is racism\" motion.",
+      "author": "",
+      "published": "Tue, 06 Oct 2026 01:11:48 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
+      "link": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 17:21:42 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +121,7 @@
       "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
       "author": "",
       "published": "Mon, 05 Oct 2026 21:33:49 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -131,17 +131,57 @@
       "summary": "Politician and best-selling author whose career was mired in scandal and disgrace.",
       "author": "",
       "published": "Mon, 05 Oct 2026 20:39:45 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
-      "title": "Spain PM pins hopes on housing crisis to help win snap election",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+      "summary": "A growing number of parents are opening retirement funds for their children.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 19:30:50 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "published": "Mon, 05 Oct 2026 23:00:41 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+      "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 22:28:02 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dread presenting at work? Read these tips before your next meeting",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2r0vpn08xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Dani Payne would have panic attacks at the thought of presenting - now she does it most days.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 23:30:51 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: Badenoch's 'Britannia Dome' and 'King tells Andrew 'I won't fund court fight''",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m4l09mmr0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Several of Tuesday's papers lead on a Tory pledge to devote £10bn to an Iron Dome-style defence system.",
+      "author": "",
+      "published": "Tue, 06 Oct 2026 00:15:49 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "A simple guide to the US midterms",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
+      "author": "",
+      "published": "Mon, 05 Oct 2026 23:40:58 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -151,27 +191,37 @@
       "summary": "BBC Verify looks into the shadow chancellor's plan to cut some building regulations to reduce construction costs.",
       "author": "",
       "published": "Mon, 05 Oct 2026 15:19:46 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
-      "title": "Henry Zeffman: Tensions exposed among Greens by 'Zionism is racism' conference vote",
-      "link": "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o?at_medium=RSS&at_campaign=rss",
+      "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party.",
+      "summary": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 14:40:20 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "published": "Mon, 05 Oct 2026 22:58:25 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The new director of news takes over from Deborah Turness, who resigned as CEO last year.",
+      "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 14:16:06 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "published": "Tue, 06 Oct 2026 01:58:29 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+      "author": "",
+      "published": "Tue, 06 Oct 2026 01:05:00 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -181,67 +231,37 @@
       "summary": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle.",
       "author": "",
       "published": "Mon, 05 Oct 2026 17:46:59 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pickford 'almost caused crash' with careless driving",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd3j2qqnmo?at_medium=RSS&at_campaign=rss",
+      "title": "Major fire breaks out at Nottingham city centre property",
+      "link": "https://www.bbc.co.uk/news/articles/c5n49278l7kyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The goalkeeper was pulled over by police after ignoring a give way sign, forcing two cars to brake.",
+      "summary": "Nottinghamshire Fire and Rescue Service says on Monday night, it had 12 fire engines at the scene.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 14:42:28 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "published": "Tue, 06 Oct 2026 01:49:11 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC appoints Rachel Jupp as new director of news",
-      "link": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
+      "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
+      "link": "https://www.bbc.co.uk/news/articles/c862ylle91k7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
+      "summary": "Schmidt acknowledged that his actions \"were inappropriate and capable of causing offence and hurt\".",
       "author": "",
-      "published": "Mon, 05 Oct 2026 13:05:13 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "published": "Tue, 06 Oct 2026 02:36:21 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
-      "title": "Average five-year mortgage rate hits 6% for first time in three years",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "A modern browser with JavaScript and a stable internet connection is required to view this interactive.",
-      "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 09:54:57 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+      "title": "Australian soldier dies and five injured in training exercise",
+      "link": "https://www.bbc.co.uk/news/articles/cwn73mygmg0lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+      "summary": "The incident happened on Monday at the Mount Bundey training area, about 130km southeast of Darwin.",
       "author": "",
-      "published": "Mon, 05 Oct 2026 15:17:23 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Twelve arrested for allegedly running cat trafficking ring in Vietnam",
-      "link": "https://www.bbc.co.uk/news/articles/c8x234k9epq5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The men are accused of stealing around 2,700 cats in Ho Chi Minh City, allegedly to be slaughtered for food.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 15:10:35 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Failed asylum seeker jailed for life over knife attack attempt at Israeli embassy in London",
-      "link": "https://www.bbc.co.uk/news/articles/c63r5l04nejwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Abdullah Albadri arrived in the UK on a small boat 16 days before trying to break into the embassy with two knives.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 13:51:17 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "published": "Tue, 06 Oct 2026 03:06:57 GMT",
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +281,7 @@
       "summary": "The BBC’s daily news podcast with episodes Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +291,7 @@
       "summary": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
       "author": "",
       "published": "Mon, 05 Oct 2026 19:05:52 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +301,7 @@
       "summary": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
       "author": "",
       "published": "Mon, 05 Oct 2026 11:52:01 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +311,7 @@
       "summary": "The extended international break was brought in with player welfare in mind, but has it been a success?",
       "author": "",
       "published": "Mon, 05 Oct 2026 14:54:39 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +321,7 @@
       "summary": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
       "author": "",
       "published": "Mon, 05 Oct 2026 14:44:45 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +331,7 @@
       "summary": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
       "author": "",
       "published": "Mon, 05 Oct 2026 19:13:15 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     },
     {
       "source": "bbc",
@@ -321,7 +341,7 @@
       "summary": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
       "author": "",
       "published": "Mon, 05 Oct 2026 17:00:17 GMT",
-      "fetched_at": "2026-10-05T23:28:51.254966+00:00"
+      "fetched_at": "2026-10-06T03:52:22.694923+00:00"
     }
   ]
 }
