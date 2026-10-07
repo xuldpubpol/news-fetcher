@@ -1,8 +1,28 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-06T22:01:13.462632+00:00",
-  "count": 30,
+  "fetched_at": "2026-10-07T03:20:31.838263+00:00",
+  "count": 31,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "author": "",
+      "published": "Wed, 07 Oct 2026 00:56:59 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+      "link": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+      "author": "",
+      "published": "Tue, 06 Oct 2026 23:42:35 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
+    },
     {
       "source": "bbc",
       "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
@@ -11,37 +31,7 @@
       "summary": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.",
       "author": "",
       "published": "Tue, 06 Oct 2026 19:25:08 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Police raid on gang behind fake gay asylum claims",
-      "link": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.",
-      "author": "",
-      "published": "Tue, 06 Oct 2026 19:01:17 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
-      "author": "",
-      "published": "Tue, 06 Oct 2026 22:00:43 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-      "author": "",
-      "published": "Tue, 06 Oct 2026 18:03:19 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
@@ -51,7 +41,7 @@
       "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
       "author": "",
       "published": "Tue, 06 Oct 2026 21:18:45 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
@@ -61,47 +51,37 @@
       "summary": "Lubna Speitan offered to testify on behalf of Minh Quang Pham, who was jailed for 40 years after a Heathrow bomb plot investigation.",
       "author": "",
       "published": "Tue, 06 Oct 2026 21:41:58 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "What can I do to protect myself after 'Asos hacked' message?",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
+      "summary": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 19:17:23 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 21:22:22 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "British national arrested in connection with RAF Fairford incident",
-      "link": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
+      "title": "Incredible or catastrophe? Jaguar unveils its polarising electric car",
+      "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
+      "summary": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has unveiled its new electric car.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 15:03:58 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Wed, 07 Oct 2026 02:58:30 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns oil giant",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "summary": "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 18:42:58 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "PCs who used Taser and baton on amputee, 92, sacked",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A disciplinary hearing finds both officers used unnecessary force on Donald Burgess at his care home.",
-      "author": "",
-      "published": "Tue, 06 Oct 2026 18:31:12 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 23:01:13 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
@@ -111,87 +91,97 @@
       "summary": "A man is charged with the murder of a GP who was found dead at her home.",
       "author": "",
       "published": "Tue, 06 Oct 2026 19:29:51 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "What is pneumonic plague and how does it spread?",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Police raid on gang behind fake gay asylum claims",
+      "link": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+      "summary": "The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 15:35:22 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 19:01:17 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why Tories are talking about winning the next election",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
+      "title": "What can I do to protect myself after 'Asos hacked' message?",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kemi Badenoch is more popular than her party right now - Tories are hoping it will rub off on them.",
+      "summary": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 16:49:05 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 19:17:23 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "'We are terrified but we want to get an education', say Yemeni schoolgirls",
-      "link": "https://www.bbc.co.uk/news/videos/cqde873zjr1zo?at_medium=RSS&at_campaign=rss",
+      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
+      "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC reports from a school in Taiz, Yemen, where children are determined to keep learning despite the vicious civil war.",
+      "summary": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 14:49:23 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 23:01:31 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
-      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "title": "The ‘biggest puzzle game ever’ is being released – its creator explains why it took 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Why a growing number of parents are opening pensions for their children.",
+      "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
       "author": "",
-      "published": "Tue, 06 Oct 2026 08:16:11 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 23:01:22 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dread presenting at work? Read these tips before your next meeting",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2r0vpn08xo?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Badenoch promises tax cuts' and 'Asos hacker havoc'",
+      "link": "https://www.bbc.co.uk/news/articles/c317k0zqz5lzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dani Payne would have panic attacks at the thought of presenting - now she does it most days.",
+      "summary": "The Tories' financial plans and a hack at online shopping outlet Asos lead Wednesday's papers.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 10:56:45 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Wed, 07 Oct 2026 01:41:20 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "Roll-out begins for passport-free airport e-gates",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&at_campaign=rss",
+      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+      "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The system uses facial technology to check travellers against immigration and passport information.",
+      "summary": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 17:38:29 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 22:17:56 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK special forces could face prosecution as Afghanistan evidence referred to police",
-      "link": "https://www.bbc.co.uk/news/articles/cm87zxjrry37o?at_medium=RSS&at_campaign=rss",
+      "title": "'That nagging feeling of dread': Is 'hang-xiety' a real thing?",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Evidence relating to a number of detention operations carried out by British personnel between 2010 and 2013 is being examined.",
+      "summary": "For some, a hangover can start an anxious spiral. We spoke to experts about the reasons why.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 15:19:20 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 23:31:52 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-      "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+      "title": "UK set for coldest night of autumn so far",
+      "link": "https://www.bbc.co.uk/weather/articles/ckwy4xn3v5eqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+      "summary": "After a spell of unusually warm weather, temperatures across the UK are set to tumble.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 20:18:58 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 23:35:36 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "author": "",
+      "published": "Tue, 06 Oct 2026 18:42:58 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
@@ -201,27 +191,27 @@
       "summary": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal after head coach Jorge Jesus \"broke his word to me\".",
       "author": "",
       "published": "Tue, 06 Oct 2026 21:48:36 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: How Russia responded to US after plague researcher death",
-      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "title": "Roll-out begins for passport-free airport e-gates",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US and Russia have each offered to help each other tackling infectious diseases.",
+      "summary": "The system uses facial technology to check travellers against immigration and passport information.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 13:32:42 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 17:38:29 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
-      "title": "Afghan men jailed for rape of teenager after being caught fleeing UK by French police",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j4j6yd7n0o?at_medium=RSS&at_campaign=rss",
+      "title": "British national arrested in connection with RAF Fairford incident",
+      "link": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Three men tried to flee the UK in a lorry after their crimes, but were stopped by French police.",
+      "summary": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 17:07:42 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "published": "Tue, 06 Oct 2026 15:03:58 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +221,17 @@
       "summary": "Forensics student Benjamin William Day, 20, lured Maria Saceanu to an Airbnb to murder her.",
       "author": "",
       "published": "Tue, 06 Oct 2026 16:19:56 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "PCs who used Taser and baton on amputee, 92, sacked",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A disciplinary hearing finds both officers used unnecessary force on Donald Burgess at his care home.",
+      "author": "",
+      "published": "Tue, 06 Oct 2026 18:31:12 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +251,27 @@
       "summary": "The BBC’s daily news podcast with episodes Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Midfield options and a fab front four - what we've learned about England",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq62y431dj8vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned during this international window.",
+      "author": "",
+      "published": "Tue, 06 Oct 2026 22:34:46 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Honeymoon over as Pocognoli's Scotland suffer domestic disharmony",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5lye031jvgro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sebastien Pocognoli is left with questions to answer after an inert Scotland performance leaves him still searching for his first home win, writes Tom English.",
+      "author": "",
+      "published": "Tue, 06 Oct 2026 22:28:47 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +281,7 @@
       "summary": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal after head coach Jorge Jesus \"broke his word to me\".",
       "author": "",
       "published": "Tue, 06 Oct 2026 21:48:36 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
@@ -271,27 +291,7 @@
       "summary": "Senior football correspondent Sami Mokbel rates the England players after Tuesday's 3-0 win against the Czech Republic.",
       "author": "",
       "published": "Tue, 06 Oct 2026 20:42:24 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Kane's rise from childhood keeper to equalling England cap record",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Harry Kane reaches another significant England milestone by equalling Peter Shilton's record as the most-capped Three Lions player that he has held for 36 years.",
-      "author": "",
-      "published": "Tue, 06 Oct 2026 19:15:12 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rival clubs want retrospective and future punishments for Man City",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c623d8707k5lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A number of Premier League clubs want Manchester City to be hit with both retrospective punishments and sanctions in the future.",
-      "author": "",
-      "published": "Tue, 06 Oct 2026 19:30:20 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +301,17 @@
       "summary": "LIV Golf secures a possible $300m in financing from BC Partners Credit in order to emerge from restructuring before the 2027 season.",
       "author": "",
       "published": "Tue, 06 Oct 2026 07:02:33 GMT",
-      "fetched_at": "2026-10-06T22:01:01.747271+00:00"
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Kane's rise from childhood keeper to equalling England cap record",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Harry Kane reaches another significant England milestone by equalling Peter Shilton's record as the most-capped Three Lions player that he has held for 36 years.",
+      "author": "",
+      "published": "Tue, 06 Oct 2026 19:15:12 GMT",
+      "fetched_at": "2026-10-07T03:20:14.927856+00:00"
     }
   ]
 }
