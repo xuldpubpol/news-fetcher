@@ -1,8 +1,68 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-08T12:28:29.165634+00:00",
-  "count": 33,
+  "fetched_at": "2026-10-08T22:39:22.911657+00:00",
+  "count": 31,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+      "link": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
+      "author": "",
+      "published": "Thu, 08 Oct 2026 16:33:29 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: What does the ruling mean for the investigation into the former prince?",
+      "link": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.",
+      "author": "",
+      "published": "Thu, 08 Oct 2026 17:26:49 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham calls on Polanski to reverse Green Party's Zionism motion",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister has intervened in the row over the motion passed by members at Green Party conference.",
+      "author": "",
+      "published": "Thu, 08 Oct 2026 22:10:17 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.",
+      "author": "",
+      "published": "Thu, 08 Oct 2026 17:36:28 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+      "author": "",
+      "published": "Thu, 08 Oct 2026 22:21:56 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
+      "link": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.",
+      "author": "",
+      "published": "Thu, 08 Oct 2026 13:11:01 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
+    },
     {
       "source": "bbc",
       "title": "Royal Navy sailor in court accused of preparing to spy for Russia",
@@ -10,148 +70,58 @@
       "full_text": "",
       "summary": "The 24-year-old man appeared at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 11:58:08 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 12:44:03 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
-      "link": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
+      "title": "Death of 12-year-old girl prompts call for allergy management ratings",
+      "link": "https://www.bbc.co.uk/news/articles/c674p508lk78o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The bodies of Jane Adetoro, Christina Walters and Rebecca Walters were pulled from the sea in May.",
+      "summary": "Mia St Hilaire had a tree nut allergy and suffered an anaphylactic shock after drinking a milkshake.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 12:04:06 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 16:07:54 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\".",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 11:01:29 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 08:18:36 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
       "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 12:06:57 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 16:31:29 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "title": "Harry says he 'slipped into depression' after leaving UK",
+      "link": "https://www.bbc.co.uk/news/articles/c623dv9n93evo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+      "summary": "The Duke of Sussex says he had an \"adrenaline crash\" while visiting Vancouver Island to \"get some space\".",
       "author": "",
-      "published": "Thu, 08 Oct 2026 08:13:52 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 18:55:41 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 11:52:19 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Clubs fear political interference in Man City appeal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments.",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 09:16:56 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Come all the way' back to EU, French finance minister tells UK",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 04:02:26 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
-      "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 07:11:14 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK and Germany will face threats together, says Burnham in Berlin",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\".",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 12:14:51 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Shaun of the Dead and Mission: Impossible films star had previously put symptoms down to \"character fault\".",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 09:35:30 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I was blamed for my baby's death, now NHS needs to change'",
-      "link": "https://www.bbc.co.uk/news/articles/cxe8ry571z9eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Neil and Katie Russell are working with the hospital where their daughter died on the scheme.",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 05:42:43 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 18:17:28 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
       "title": "Gaten Matarazzo on life after Stranger Things as he makes West End debut",
       "link": "https://www.bbc.co.uk/news/articles/cwp8g197m5z8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The actor opens up about finding his way in the West End as he makes his debut in a revival of Rent.",
+      "summary": "The 25-year-old actor opens up about embracing his return to the stage as he stars in a revival of Rent.",
       "author": "",
       "published": "Thu, 08 Oct 2026 11:09:34 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Gazans face near-daily Israeli strikes a year into ceasefire",
-      "link": "https://www.bbc.co.uk/news/videos/c3gr8w4kllz7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The ceasefire saw thousands of Palestinians held by Israel released in return for the remaining hostages held in Gaza.",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 11:27:40 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
@@ -161,107 +131,107 @@
       "summary": "Killer Christa Pike has survived lethal injection, raising questions about whether Tennessee will try again.",
       "author": "",
       "published": "Thu, 08 Oct 2026 09:14:51 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-      "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
+      "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
+      "summary": "The Shaun of the Dead and Mission: Impossible films star had previously put symptoms down to \"character fault\".",
       "author": "",
-      "published": "Wed, 07 Oct 2026 23:00:55 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 09:35:30 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "France's school protests: What lies behind the anger",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
+      "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 03:38:46 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 19:10:06 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: The extreme motorsport where women keep winning",
-      "link": "https://www.bbc.co.uk/news/videos/c6kg59n70v75o?at_medium=RSS&at_campaign=rss",
+      "title": "'I was blamed for my baby's death, now NHS needs to change'",
+      "link": "https://www.bbc.co.uk/news/articles/cxe8ry571z9eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Swedish driver Susanne Callin has won the European Top Fuel championship for the second year in a row. Is drag racing the first gender-equal sport?",
+      "summary": "Neil and Katie Russell are working with the hospital where their daughter died on the scheme.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 05:26:21 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 05:42:43 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC to cut raft of Radio 4 programmes including You and Yours",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyknj8wj30o?at_medium=RSS&at_campaign=rss",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The corporation said it would be investing in a new consumer programme, while announcing more cuts.",
+      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\".",
       "author": "",
-      "published": "Thu, 08 Oct 2026 08:30:10 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 16:29:33 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Husband accused of GP murder appears at Crown Court",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2360e4kr5o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+      "link": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mark Cain is accused of murdering his wife Hannah Cain, who was found dead at home on Sunday.",
+      "summary": "The consulate, first established in 1838, was set to be closed by the Israeli government in retaliation for UK sanctions.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 10:29:07 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 12:01:55 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC revealed secret release",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "title": "Birmingham Airport announces £2bn expansion",
+      "link": "https://www.bbc.co.uk/news/articles/cm0ldg95j034o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mochamad Subchi Azal Tsani had been secretly released on parole in August 2025, after serving less than half his sentence.",
+      "summary": "The first stage of development, upgrading baggage systems and terminals, could start in 2027.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 12:04:25 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 15:01:15 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "title": "'Ominous signs' of winter pressures as NHS waiting list grows in England",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
+      "summary": "NHS winter pressures appear to be building already, with rises in waiting times for planned surgery.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 05:10:40 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 12:42:56 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Outspoken Indian actor Nana Patekar suddenly dies at 75",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "title": "Forty-five Scottish police officers suspended over alleged crimes against women, says chief constable",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9l0r105l8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "summary": "Chief Constable Jo Farrell says more officers are likely to face action as officers are re-vetted.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 03:41:34 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 16:12:40 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Premier League football shirts made by workers on £1 an hour",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2lggyz2wgo?at_medium=RSS&at_campaign=rss",
+      "title": "Woman told PC 'get off me' 300 times as he raped her",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqw1ed244ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A BBC Sport investigation traces official football shirt production to factories in Cambodia where workers are paid less than £1 an hour.",
+      "summary": "Ryan Theaker, 30, was secretly recorded by the victim as he subjected her to an 82 minute attack.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 05:48:17 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 17:55:22 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC",
-      "link": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
+      "title": "Body found in Colombia in search for missing British man Anton Green",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xp74q4n5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thomas Giuffra is representing a woman, known in legal documents as Jane Doe, who alleges she was raped at a frat house on campus in 2024.",
+      "summary": "Anton Green's family are told a body found in Colombia is believed to be the missing 43-year-old.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 00:46:36 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 16:24:19 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +241,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Maresca says 'feeling is fantastic' among Man City squad",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6n4ex2lgg2ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Enzo Maresca says his players \"don't care too much about the noise\" surrounding Manchester City over the 115 Premier League charges.",
+      "author": "",
+      "published": "Thu, 08 Oct 2026 20:40:15 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +261,37 @@
       "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments.",
       "author": "",
       "published": "Thu, 08 Oct 2026 09:16:56 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Cummins not worried about potential Khawaja revelations",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations.",
+      "author": "",
+      "published": "Thu, 08 Oct 2026 14:38:18 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ticket rises and more TV packages - why is price of sport increasing?",
+      "link": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The price of sports tickets and TV subscriptions are on the rise - so what is behind the increases and how are they justified?",
+      "author": "",
+      "published": "Thu, 08 Oct 2026 18:57:13 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Infantino given re-election boost as Montagliani seeks final Concacaf term",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmn4ex2y53l8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Gianni Infantino's chances of being re-elected as Fifa president appear to have been given a major boost as Victor Montagliani wants to remain as Concacaf chief.",
+      "author": "",
+      "published": "Thu, 08 Oct 2026 20:09:46 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
@@ -291,47 +301,17 @@
       "summary": "Top Fuel drag racing is the only elite motorsport class where women frequently beat men to major titles.",
       "author": "",
       "published": "Thu, 08 Oct 2026 05:41:20 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     },
     {
       "source": "bbc",
-      "title": "Snakes and jungle mind games as Bottas cycles to Singapore GP",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cjr4yr3lv24lo?at_medium=RSS&at_campaign=rss",
+      "title": "Russell to take further grid penalty this season",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6y8lyj1pemko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Cadillac driver Valtteri Bottas says he was chased by dogs, saw snakes and leapt over a lizard as he cycled from Malaysia to Singapore for this weekend's Grand Prix.",
+      "summary": "George Russell says he will be taking a further grid penalty this season in addition to the one he has been hit with for the Singapore Grand Prix.",
       "author": "",
-      "published": "Thu, 08 Oct 2026 10:34:19 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Brighton attract and develop the best young players ahead of their rivals",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm0e35gzgdqeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Brighton sporting director Mike Cave discusses Brighton's transfer policy and how the club signs and nurtures the best young talent in the game.",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 10:37:14 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Engine size limits and working with Iraola - the Liverpool academy approach",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2z9z10wezo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Liverpool academy director Alex Inglethorpe talks to BBC Sport about the value and future of Liverpool's academy.",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 07:04:50 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Wakefield top as all 14 Super League clubs stay for 2027",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cxdd86mgpq68o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 14 Super League clubs will remain in place for 2027 with Grand Final winners Wakefield Trinity topping the IMG ratings.",
-      "author": "",
-      "published": "Thu, 08 Oct 2026 10:54:00 GMT",
-      "fetched_at": "2026-10-08T12:28:16.808684+00:00"
+      "published": "Thu, 08 Oct 2026 13:48:17 GMT",
+      "fetched_at": "2026-10-08T22:39:18.404508+00:00"
     }
   ]
 }
