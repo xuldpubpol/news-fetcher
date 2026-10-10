@@ -1,17 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-09T22:00:50.006927+00:00",
-  "count": 32,
+  "fetched_at": "2026-10-10T03:22:38.260860+00:00",
+  "count": 30,
   "articles": [
     {
       "source": "bbc",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "author": "",
-      "published": "Fri, 09 Oct 2026 21:54:28 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Sat, 10 Oct 2026 00:45:51 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "author": "",
+      "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -21,37 +31,7 @@
       "summary": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
       "author": "",
       "published": "Fri, 09 Oct 2026 21:46:19 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "author": "",
-      "published": "Fri, 09 Oct 2026 18:40:10 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
-      "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
-      "author": "",
-      "published": "Fri, 09 Oct 2026 19:26:53 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
-      "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
-      "author": "",
-      "published": "Fri, 09 Oct 2026 12:29:02 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -61,47 +41,77 @@
       "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
       "author": "",
       "published": "Fri, 09 Oct 2026 21:50:47 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-      "link": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
+      "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
+      "summary": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 14:35:31 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Fri, 09 Oct 2026 22:51:57 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
+      "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
+      "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
+      "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 17:14:16 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Fri, 09 Oct 2026 19:26:53 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
+      "link": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+      "summary": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 21:08:04 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Fri, 09 Oct 2026 23:00:53 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-      "link": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
+      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 15:26:33 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Sat, 10 Oct 2026 01:58:56 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+      "author": "",
+      "published": "Fri, 09 Oct 2026 23:02:07 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found  at the bottom of a well.",
+      "author": "",
+      "published": "Fri, 09 Oct 2026 21:55:51 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+      "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
+      "author": "",
+      "published": "Fri, 09 Oct 2026 12:29:02 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -111,17 +121,7 @@
       "summary": "Michael Bogle had said outside prison last week that \"people like me\" should not be jailed \"for a long time\".",
       "author": "",
       "published": "Fri, 09 Oct 2026 20:11:36 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US immigration officials defend ICE agents who shot man in same car as child",
-      "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-      "author": "",
-      "published": "Fri, 09 Oct 2026 17:36:09 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -131,117 +131,97 @@
       "summary": "Rules on the recording and filming of executions differ between state, federal and military regulations.",
       "author": "",
       "published": "Fri, 09 Oct 2026 19:34:17 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Autism, ADHD and mental health review: What you need to know",
-      "link": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&at_campaign=rss",
+      "title": "Ashe was too scared to cancel her wedding - the story became a hit song",
+      "link": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It contains big lessons for the NHS, welfare, education and employment policies. What are the key takeaways?",
+      "summary": "US singer-songwriter Ashe reveals the story behind her international smash hit, Stop The Wedding.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 12:16:11 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Fri, 09 Oct 2026 23:01:22 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: 'This has never happened before!' Olivia Colman on viral Wicker memes",
-      "link": "https://www.bbc.co.uk/news/videos/c6m2477r45e0o?at_medium=RSS&at_campaign=rss",
+      "title": "Boots has a new owner: Three ways it could affect you",
+      "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Olivia Colman stars alongside Alexander Skarsgård in the upcoming film Wicker which has prompted many memes.",
+      "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
       "author": "",
-      "published": "Fri, 09 Oct 2026 16:06:57 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Fri, 09 Oct 2026 23:01:14 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "I've been with my boyfriend for two years and don't know his salary",
-      "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+      "summary": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 09:37:38 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Fri, 09 Oct 2026 23:24:33 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "From the workplace to pop culture - why how we view women's anger is changing",
-      "link": "https://www.bbc.co.uk/news/articles/cmg47lx1pqlko?at_medium=RSS&at_campaign=rss",
+      "title": "'Airlines sound alarm on costs crisis' and 'King's £1.5m bailout'",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0el6r7lzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Studies suggest women are getting angrier, but are they just more open about it?",
+      "summary": "The weekend edition of the Financial Times highlights what it is calling a \"mounting crisis\" for airlines.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 11:40:22 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Sat, 10 Oct 2026 00:04:09 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bank cashier outed by holiday photos after stealing £13k is ordered to pay back money",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmy7287njko?at_medium=RSS&at_campaign=rss",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kelly Kershaw stole from vulnerable customers to fund a safari in Africa and a trip to Paris.",
+      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 15:14:30 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Fri, 09 Oct 2026 18:40:10 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 12:34:27 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Sat, 10 Oct 2026 00:13:12 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-      "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 15:32:30 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Fri, 09 Oct 2026 14:35:31 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dad and son remain critical after masked men attack",
-      "link": "https://www.bbc.co.uk/news/articles/cj040n79wk94o?at_medium=RSS&at_campaign=rss",
+      "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Leicestershire Police say the attack at the family home appeared \"completely unprovoked\".",
+      "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
       "author": "",
-      "published": "Fri, 09 Oct 2026 15:07:32 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Fri, 09 Oct 2026 17:14:16 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
-      "title": "Survivor of US Army shooting supports gunman's execution but questions livestream",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+      "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show",
+      "link": "https://www.bbc.co.uk/news/articles/crvg9pl3zd5zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+      "summary": "The Nigerian star will become the first African artist to headline the show at an international NFL game.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 09:43:22 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
-      "link": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Protests against sexual violence took place across more than 40 US states on 8 October.",
-      "author": "",
-      "published": "Fri, 09 Oct 2026 16:19:36 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tornado rips through Sicilian town and city",
-      "link": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Dramatic footage shows huge tornado moving through Marsala and Petrosino, causing damage to buildings and cars.",
-      "author": "",
-      "published": "Fri, 09 Oct 2026 16:25:00 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "published": "Fri, 09 Oct 2026 23:01:04 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +241,7 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +251,7 @@
       "summary": "Film following a battle-hardened US tank crew taking on the enemy’s brutal rearguard action",
       "author": "",
       "published": "Tue, 22 Sep 2026 23:46:03 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +261,7 @@
       "summary": "England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?",
       "author": "",
       "published": "Fri, 09 Oct 2026 21:15:24 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +271,7 @@
       "summary": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
       "author": "",
       "published": "Fri, 09 Oct 2026 21:30:52 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +281,17 @@
       "summary": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
       "author": "",
       "published": "Fri, 09 Oct 2026 14:02:46 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man City whistleblower to remain in witness protection",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
+      "author": "",
+      "published": "Fri, 09 Oct 2026 22:59:32 GMT",
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     },
     {
       "source": "bbc",
@@ -311,17 +301,7 @@
       "summary": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
       "author": "",
       "published": "Fri, 09 Oct 2026 15:48:28 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I've got my own questions on Man City case - Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
-      "author": "",
-      "published": "Fri, 09 Oct 2026 14:30:38 GMT",
-      "fetched_at": "2026-10-09T22:00:38.836873+00:00"
+      "fetched_at": "2026-10-10T03:22:36.337266+00:00"
     }
   ]
 }
