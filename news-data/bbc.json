@@ -1,8 +1,28 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-10T11:35:17.629901+00:00",
-  "count": 29,
+  "fetched_at": "2026-10-10T16:36:05.936947+00:00",
+  "count": 27,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "author": "",
+      "published": "Sat, 10 Oct 2026 16:30:21 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man attacked by tiger at Yorkshire Wildlife Park",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrw8g1123vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The attraction near Doncaster says emergency response procedures were \"immediately activated\".",
+      "author": "",
+      "published": "Sat, 10 Oct 2026 16:32:25 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
+    },
     {
       "source": "bbc",
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
@@ -10,78 +30,58 @@
       "full_text": "",
       "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "author": "",
-      "published": "Sat, 10 Oct 2026 04:38:20 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 14:24:14 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "author": "",
-      "published": "Fri, 09 Oct 2026 22:30:22 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.",
-      "author": "",
-      "published": "Sat, 10 Oct 2026 11:17:15 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Green Party wants to make sure it is 'not vulnerable to extremists'",
-      "link": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.",
-      "author": "",
-      "published": "Sat, 10 Oct 2026 11:09:16 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Met's Special Constabulary head fired after AI tool found deleted intimate images on work phone",
+      "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
       "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.",
       "author": "",
       "published": "Sat, 10 Oct 2026 09:19:53 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 10:06:23 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 14:13:13 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "France's school protests are about more than broken classrooms",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+      "title": "King warns malicious online actors are evolving tactics",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Students taking to the streets have become a focal point in the country's increasingly polarised politics.",
+      "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 23:24:33 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 15:56:32 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "What happens when you grow up not knowing your family medical history?",
+      "title": "Ashe was too scared to cancel her wedding, then her story became a hit song",
+      "link": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US singer-songwriter reveals the story behind her international smash hit, Stop The Wedding.",
+      "author": "",
+      "published": "Fri, 09 Oct 2026 23:01:22 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I couldn't access my family's medical history - not knowing was terrifying",
       "link": "https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "People who have been adopted or are in care sometimes struggle to access family medical history which could be crucial to their own health.",
       "author": "",
       "published": "Sat, 10 Oct 2026 05:00:22 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
@@ -91,17 +91,17 @@
       "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
       "author": "",
       "published": "Sat, 10 Oct 2026 09:17:36 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ashe was too scared to cancel her wedding, then her story became a hit song",
-      "link": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
+      "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show in London",
+      "link": "https://www.bbc.co.uk/news/articles/crvg9pl3zd5zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "US singer-songwriter Ashe reveals the story behind her international smash hit, Stop The Wedding.",
+      "summary": "The Nigerian star will become the first African artist to headline the show at an international NFL game.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 23:01:22 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Fri, 09 Oct 2026 23:01:04 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
@@ -111,67 +111,77 @@
       "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
       "author": "",
       "published": "Fri, 09 Oct 2026 23:01:14 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Drumcree parade ban was in interests of peace, says Bryant",
-      "link": "https://www.bbc.co.uk/news/articles/c6z0vlg3xvz3o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The decision followed a warning from the chief constable that allowing the procession to go ahead could lead to serious injury, disorder and wider unrest across Northern Ireland.",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 11:21:28 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 14:16:50 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Four murder arrests after teenagers attacked",
-      "link": "https://www.bbc.co.uk/news/articles/cm93zlvgvw2po?at_medium=RSS&at_campaign=rss",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A murder investigation is launched in Stoke-on-Trent after a man dies and another is seriously hurt.",
+      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "author": "",
-      "published": "Sat, 10 Oct 2026 09:20:38 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 15:23:47 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Conspiracy theories about daughter's death are torture, say parents",
-      "link": "https://www.bbc.co.uk/news/articles/cr62y9dd33peo?at_medium=RSS&at_campaign=rss",
+      "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The family of Leah Croucher, whose body was found in 2022, say the evidence pointing to her killer is overwhelming.",
+      "summary": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 05:34:43 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 14:27:43 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+      "title": "Rogue Anthropic AI agent gave US police fake tip in unsolved murder case",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 04:51:57 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 10:06:23 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pee7l57do?at_medium=RSS&at_campaign=rss",
+      "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
+      "link": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In BBC documentary The Book That Changed My Life, the Queen speaks about memorable moments in her own reading.",
+      "summary": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 05:00:18 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 11:09:16 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss",
+      "title": "Several injured as Saudi capital airport reportedly hit again",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.",
+      "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
       "author": "",
-      "published": "Fri, 09 Oct 2026 22:51:57 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 16:05:18 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "author": "",
+      "published": "Sat, 10 Oct 2026 12:28:51 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +191,7 @@
       "summary": "Christian Wilson wanted help not to \"sound like a character from Star Wars or a cyborg from Doctor Who\".",
       "author": "",
       "published": "Thu, 08 Oct 2026 12:32:16 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +201,17 @@
       "summary": "Why a growing number of parents are opening pensions for their children.",
       "author": "",
       "published": "Tue, 06 Oct 2026 08:16:11 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Scotland's 'Chornobyl' housing scheme takes starring role in new horror film",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished.",
+      "author": "",
+      "published": "Tue, 06 Oct 2026 04:57:00 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
@@ -201,17 +221,7 @@
       "summary": "A Birmingham student in the Channel 4 show taught himself after \"stumbling across a YouTube video\".",
       "author": "",
       "published": "Wed, 07 Oct 2026 05:08:54 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Scotland's 'Chernobyl' housing scheme takes starring role in new horror film",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished.",
-      "author": "",
-      "published": "Tue, 06 Oct 2026 04:57:00 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +241,7 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
@@ -241,57 +251,27 @@
       "summary": "Film following a battle-hardened US tank crew taking on the enemy’s brutal rearguard action",
       "author": "",
       "published": "Tue, 22 Sep 2026 23:46:03 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Centurion Renshaw puts Australia on top against South Africa - scorecard",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+      "title": "Verstappen beats Ferraris to Singapore pole",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
+      "summary": "Red Bull's Max Verstappen beats the Ferraris of Charles Leclerc and Lewis Hamilton to pole position in qualifying at the Singapore Grand Prix.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 15:29:12 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     },
     {
       "source": "bbc",
-      "title": "Verstappen wins sprint after Russell crashes out",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
+      "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead.",
+      "summary": "Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 10:53:03 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Time to rise? Ranking European football's sleeping giants",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
-      "author": "",
-      "published": "Sat, 10 Oct 2026 05:14:17 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Palmer signs new Chelsea contract until 2034",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Cole Palmer signs a new Chelsea contract on improved terms until 2034, one of the longest active deals in the Premier League.",
-      "author": "",
-      "published": "Sat, 10 Oct 2026 09:51:09 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "All Blacks power past Australia to retain Bledisloe Cup",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c9zrdl4028mko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "New Zealand retain the Bledisloe Cup for a 23rd straight year as they power past Australia to extend their remarkable unbeaten run at Eden Park.",
-      "author": "",
-      "published": "Sat, 10 Oct 2026 09:21:28 GMT",
-      "fetched_at": "2026-10-10T11:35:15.900318+00:00"
+      "published": "Sat, 10 Oct 2026 15:44:14 GMT",
+      "fetched_at": "2026-10-10T16:36:00.950692+00:00"
     }
   ]
 }
