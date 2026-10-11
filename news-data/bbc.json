@@ -1,17 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-11T11:48:51.355063+00:00",
+  "fetched_at": "2026-10-11T17:01:11.214637+00:00",
   "count": 25,
   "articles": [
     {
       "source": "bbc",
-      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Yemeni group says it carried out attacks that killed 13 people over the weekend and targeted two airports and oil facilities.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 16:41:37 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
       "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 11:32:50 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "published": "Sun, 11 Oct 2026 15:32:32 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -21,27 +31,17 @@
       "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
       "author": "",
       "published": "Sun, 11 Oct 2026 10:34:02 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
       "title": "Wildlife park remains closed after fatal tiger attack",
       "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A wildlife park is closed after a man entered the tiger enclosure and was fatally attacked.",
+      "summary": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 11:22:28 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK does not support Trump's Russia diesel deal, says Streeting",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The defence secretary says the US and its allies need to increase pressure on Vladimir Putin to end the war with Ukraine.",
-      "author": "",
-      "published": "Sun, 11 Oct 2026 11:00:49 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "published": "Sun, 11 Oct 2026 12:38:02 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -50,18 +50,48 @@
       "full_text": "",
       "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
       "author": "",
-      "published": "Sun, 11 Oct 2026 11:27:51 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "published": "Sun, 11 Oct 2026 13:38:55 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
-      "title": "Northern Lights dazzles skies across the UK",
-      "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
+      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 09:18:05 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "published": "Sun, 11 Oct 2026 15:32:23 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 14:38:10 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 15:18:52 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Verstappen dominates for first Singapore Grand Prix win",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Red Bull's Max Verstappen secures his first win in the Singapore Grand Prix, ahead of Charles Leclerc and Kimi Antonelli.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 14:46:06 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -71,7 +101,7 @@
       "summary": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
       "author": "",
       "published": "Sat, 10 Oct 2026 23:17:03 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +111,7 @@
       "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
       "author": "",
       "published": "Sat, 10 Oct 2026 23:31:35 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -91,7 +121,7 @@
       "summary": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
       "author": "",
       "published": "Sat, 10 Oct 2026 23:18:16 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +131,7 @@
       "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
       "author": "",
       "published": "Sat, 10 Oct 2026 22:13:08 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -111,37 +141,27 @@
       "summary": "Kimberley Atkinson assumed her symptoms were depression until her behaviour started to change dramatically.",
       "author": "",
       "published": "Sat, 10 Oct 2026 23:40:25 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "title": "Northern Lights dazzle skies across the UK",
+      "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "summary": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 05:05:43 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "published": "Sun, 11 Oct 2026 09:18:05 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
-      "title": "MPs seek to overturn ruling that stops police being sued for failings",
-      "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
+      "title": "Russo named England player of the year",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
+      "summary": "Arsenal forward Alessia Russo is named England women's player of the year after scoring five goals in 10 games.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 23:04:37 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Toxicity and uncertainty await Man City as they prepare to take on Liverpool",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
-      "author": "",
-      "published": "Sun, 11 Oct 2026 05:27:03 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "published": "Sun, 11 Oct 2026 10:35:31 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +171,7 @@
       "summary": "A third of school starters in the West Midlands last year were not toilet-trained, a survey suggests.",
       "author": "",
       "published": "Sun, 11 Oct 2026 02:33:35 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -161,47 +181,17 @@
       "summary": "Junior Ajose, 36, and Cheriff Tall, 21, were gunned down at a lockdown party six years ago.",
       "author": "",
       "published": "Sun, 11 Oct 2026 09:52:43 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
-      "title": "'That nagging feeling of dread': Is 'hang-xiety' a real thing?",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko?at_medium=RSS&at_campaign=rss",
+      "title": "Swinney backs Flynn in ferry gas leak row and says 'nobody's perfect'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yn75jr75ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "For some, a hangover can start an anxious spiral. We spoke to experts about the reasons why.",
+      "summary": "The first minister says he has confidence in his transport secretary, who denies being briefed about the ferry incident.",
       "author": "",
-      "published": "Tue, 06 Oct 2026 23:31:52 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Young people are taking up bell-ringing to make connections",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7zl1k2zgko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Katie Anderson says making music with others is an antidote to screens and scrolling.",
-      "author": "",
-      "published": "Sun, 04 Oct 2026 06:23:09 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Historic cathedral introduces £12 fee for visitors from outside Scotland",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxw88ndzjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "St Giles' Cathedral now charges an entrance fee for visitors from outside Scotland.",
-      "author": "",
-      "published": "Mon, 05 Oct 2026 14:09:13 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
-      "link": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
-      "author": "",
-      "published": "Fri, 09 Oct 2026 13:01:57 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "published": "Sun, 11 Oct 2026 11:43:39 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +201,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +211,7 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
@@ -231,27 +221,37 @@
       "summary": "Film following a battle-hardened US tank crew taking on the enemy’s brutal rearguard action",
       "author": "",
       "published": "Tue, 22 Sep 2026 23:46:03 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
-      "title": "Toxicity and uncertainty await Man City - will their season even matter?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
+      "title": "Verstappen dominates for first Singapore Grand Prix win",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
+      "summary": "Red Bull's Max Verstappen secures his first win in the Singapore Grand Prix, ahead of Charles Leclerc and Kimi Antonelli.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 05:27:03 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "published": "Sun, 11 Oct 2026 14:46:06 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australia bowlers take control of first Test v South Africa - scorecard",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+      "title": "Sensational Smith, relentless quicks - Australia veterans serve reminder",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
+      "summary": "The fearsome pace quartet and Steve Smith's brilliance serves as a reminder of Australia's quality as the tourists take charge against South Africa.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-11T11:48:46.657231+00:00"
+      "published": "Sun, 11 Oct 2026 15:59:42 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 08:19:52 GMT",
+      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
     }
   ]
 }
