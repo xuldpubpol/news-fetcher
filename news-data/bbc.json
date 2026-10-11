@@ -1,37 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-11T17:01:11.214637+00:00",
-  "count": 25,
+  "fetched_at": "2026-10-11T21:13:49.111660+00:00",
+  "count": 29,
   "articles": [
     {
       "source": "bbc",
-      "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Yemeni group says it carried out attacks that killed 13 people over the weekend and targeted two airports and oil facilities.",
+      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
       "author": "",
       "published": "Sun, 11 Oct 2026 16:41:37 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 15:32:32 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Buildings swept away as flash floods hit central Nepal",
-      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
-      "author": "",
-      "published": "Sun, 11 Oct 2026 10:34:02 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 18:00:30 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
@@ -41,17 +31,37 @@
       "summary": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
       "author": "",
       "published": "Sun, 11 Oct 2026 12:38:02 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 13:38:55 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 17:27:24 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
+      "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 10:43:17 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 19:08:04 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
@@ -61,37 +71,57 @@
       "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
       "author": "",
       "published": "Sun, 11 Oct 2026 15:32:23 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham to release details of Man City meetings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "summary": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 14:38:10 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 18:01:13 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "title": "Buildings swept away as flash floods hit central Nepal",
+      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 15:18:52 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 10:34:02 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "Verstappen dominates for first Singapore Grand Prix win",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o?at_medium=RSS&at_campaign=rss",
+      "title": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Red Bull's Max Verstappen secures his first win in the Singapore Grand Prix, ahead of Charles Leclerc and Kimi Antonelli.",
+      "summary": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 14:46:06 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 18:32:19 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 15:32:32 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 20:02:27 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
@@ -101,17 +131,17 @@
       "summary": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
       "author": "",
       "published": "Sat, 10 Oct 2026 23:17:03 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "title": "Citroen revives the 2CV for an electric age",
+      "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "summary": "The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 23:31:35 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 17:00:05 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
@@ -121,57 +151,47 @@
       "summary": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
       "author": "",
       "published": "Sat, 10 Oct 2026 23:18:16 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 22:13:08 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 14:38:10 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "I was told I had depression for 14 years until I got sectioned - it was bipolar",
-      "link": "https://www.bbc.co.uk/news/articles/ck3rer7e4rngo?at_medium=RSS&at_campaign=rss",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kimberley Atkinson assumed her symptoms were depression until her behaviour started to change dramatically.",
+      "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
       "author": "",
-      "published": "Sat, 10 Oct 2026 23:40:25 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 15:18:52 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "Northern Lights dazzle skies across the UK",
-      "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+      "title": "Legoland Windsor evacuated over burst water main",
+      "link": "https://www.bbc.co.uk/news/articles/crx2d83pjn0qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
+      "summary": "Some customers were forced to leave the theme park halfway through their visit on Sunday.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 09:18:05 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 20:00:32 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russo named England player of the year",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Arsenal forward Alessia Russo is named England women's player of the year after scoring five goals in 10 games.",
+      "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
       "author": "",
-      "published": "Sun, 11 Oct 2026 10:35:31 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why are so many four-year-olds not potty-trained before school?",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vnp4jrkdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A third of school starters in the West Midlands last year were not toilet-trained, a survey suggests.",
-      "author": "",
-      "published": "Sun, 11 Oct 2026 02:33:35 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 13:38:55 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
@@ -181,17 +201,7 @@
       "summary": "Junior Ajose, 36, and Cheriff Tall, 21, were gunned down at a lockdown party six years ago.",
       "author": "",
       "published": "Sun, 11 Oct 2026 09:52:43 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Swinney backs Flynn in ferry gas leak row and says 'nobody's perfect'",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yn75jr75ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The first minister says he has confidence in his transport secretary, who denies being briefed about the ferry incident.",
-      "author": "",
-      "published": "Sun, 11 Oct 2026 11:43:39 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +211,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +221,7 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
@@ -221,17 +231,57 @@
       "summary": "Film following a battle-hardened US tank crew taking on the enemy’s brutal rearguard action",
       "author": "",
       "published": "Tue, 22 Sep 2026 23:46:03 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
-      "title": "Verstappen dominates for first Singapore Grand Prix win",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o?at_medium=RSS&at_campaign=rss",
+      "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Red Bull's Max Verstappen secures his first win in the Singapore Grand Prix, ahead of Charles Leclerc and Kimi Antonelli.",
+      "summary": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
       "author": "",
-      "published": "Sun, 11 Oct 2026 14:46:06 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 20:02:27 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Doku delights as Manchester City cruise past 10-man Liverpool",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 18:59:19 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 19:41:17 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 18:32:19 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham to release details of Man City meetings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.",
+      "author": "",
+      "published": "Sun, 11 Oct 2026 18:01:13 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     },
     {
       "source": "bbc",
@@ -240,18 +290,8 @@
       "full_text": "",
       "summary": "The fearsome pace quartet and Steve Smith's brilliance serves as a reminder of Australia's quality as the tourists take charge against South Africa.",
       "author": "",
-      "published": "Sun, 11 Oct 2026 15:59:42 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
-      "author": "",
-      "published": "Sun, 11 Oct 2026 08:19:52 GMT",
-      "fetched_at": "2026-10-11T17:00:59.564535+00:00"
+      "published": "Sun, 11 Oct 2026 17:52:45 GMT",
+      "fetched_at": "2026-10-11T21:13:44.704208+00:00"
     }
   ]
 }
