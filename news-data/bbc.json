@@ -1,8 +1,28 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-14T16:10:51.925572+00:00",
-  "count": 35,
+  "fetched_at": "2026-10-14T21:06:39.726951+00:00",
+  "count": 30,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 20:55:24 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "We are behind you and that will not change, PM tells Zelensky",
+      "link": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 19:22:28 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
+    },
     {
       "source": "bbc",
       "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
@@ -10,38 +30,8 @@
       "full_text": "",
       "summary": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 13:42:43 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 13:11:17 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham careful as he meets Zelensky but promises Ukraine won't leave 'empty handed'",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 14:30:48 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-      "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 12:44:17 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 17:55:53 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -50,8 +40,18 @@
       "full_text": "",
       "summary": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 16:00:06 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 16:56:21 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 17:46:30 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -61,17 +61,17 @@
       "summary": "The Pope is recovering in hospital after a successful surgery to remove part of his right lung.",
       "author": "",
       "published": "Wed, 14 Oct 2026 12:37:33 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+      "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 13:35:29 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 12:44:17 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +81,7 @@
       "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
       "author": "",
       "published": "Wed, 14 Oct 2026 15:34:19 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -91,7 +91,37 @@
       "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
       "author": "",
       "published": "Wed, 14 Oct 2026 15:26:14 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 16:47:32 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 13:35:29 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 19:52:04 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -101,47 +131,7 @@
       "summary": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
       "author": "",
       "published": "Wed, 14 Oct 2026 05:01:07 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-      "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 12:47:43 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 11:57:22 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 22:00:20 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
-      "link": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "With few details so far, it is unclear what might need to change for a Pope who has been focused on stability.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 12:22:17 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +141,37 @@
       "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
       "author": "",
       "published": "Wed, 14 Oct 2026 08:27:17 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What if you could turn off your algorithm? Australia is about to try",
+      "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 18:00:54 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 15:54:04 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
+      "link": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "With few details so far, it is unclear what might need to change for a Pope who has been focused on stability.",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 12:22:17 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -161,37 +181,7 @@
       "summary": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
       "author": "",
       "published": "Tue, 13 Oct 2026 23:26:54 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 11:04:12 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "More tea? How Scotland's crops of the future could be set to change",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 05:02:27 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "A cemetery felt too far away, so we created our own memorial garden at home",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Emma Moore shares how creating a special place at home has helped her family.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 10:53:46 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +191,7 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -211,67 +201,67 @@
       "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
       "author": "",
       "published": "Wed, 14 Oct 2026 05:00:35 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
-      "title": "Davina McCall says memory loss after brain surgery was like 'advanced Alzheimer's'",
-      "link": "https://www.bbc.co.uk/news/articles/cky93v98x7jjo?at_medium=RSS&at_campaign=rss",
+      "title": "I do not have confidence UK is safe from Russian threats, says Swinney",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The TV presenter says she suffered memory loss following her operation to remove a benign tumour.",
+      "summary": "The first minister speaks to BBC Scotland News ahead of the SNP's annual conference in Aberdeen.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 10:48:29 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 16:57:21 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
-      "title": "Driving test waits fall to two-year low - but still average 20 weeks",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
+      "title": "Swimmer Archie Goodburn thanks prime minister as brain cancer review announced",
+      "link": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
+      "summary": "The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 13:45:34 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 19:04:46 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mechanic who falsified MOT before crash that killed three given community order",
-      "link": "https://www.bbc.co.uk/news/articles/cvlydwygdkz4o?at_medium=RSS&at_campaign=rss",
+      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Eve Smith, Darcy Ross and Rafel Jeanne died when the car crashed into woodland in Cardiff in 2023.",
+      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 10:57:28 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 11:57:22 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
-      "title": "Wayfair among firms fined millions for misleading sales tactics",
-      "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+      "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\".",
       "author": "",
-      "published": "Wed, 14 Oct 2026 12:09:45 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 16:37:59 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 13:41:51 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 12:47:43 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Dark day for Lewis' as one fisherman dead and two missing",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgx720r577o?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The alarm was raised after the men's fishing boat failed to return as planned to Lewis.",
+      "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 15:19:19 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 17:23:01 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
@@ -291,67 +281,27 @@
       "summary": "As the Bayeux Tapestry travels to the UK for the first time in 950 years, historians and experts unravel its secrets",
       "author": "",
       "published": "Thu, 10 Sep 2026 05:00:00 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
-      "title": "Wilcox the target again in another damaging Man Utd fallout",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+      "title": "On night of mayhem for Liverpool, Barcola arrives in style",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
+      "summary": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK. The French forward's Champions League hat-trick was the perfect answer.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 15:30:03 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 20:46:35 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fifa to offer extra £2.6bn for football development",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&at_campaign=rss",
+      "title": "Barcola shines as Liverpool score six to beat LASK",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.",
+      "summary": "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 15:59:59 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Struijk red card shown after VAR intervention is overturned",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 10:18:45 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Quiz: Do you remember the big names who took aim at football club chiefs?",
-      "link": "https://www.bbc.co.uk/sport/articles/cqvgr7530085o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out leadership figures?",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 12:13:38 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 13:25:56 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "GB men 'on back foot' after Richardson withdrawal, but women take silver",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/ck5ynexjgdyno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Great Britain's Joe Truman admits Matt Richardson's withdrawal is \"not ideal\" as they exit the men's team sprint.",
-      "author": "",
-      "published": "Wed, 14 Oct 2026 15:01:53 GMT",
-      "fetched_at": "2026-10-14T16:10:45.656127+00:00"
+      "published": "Wed, 14 Oct 2026 21:00:24 GMT",
+      "fetched_at": "2026-10-14T21:06:35.898666+00:00"
     }
   ]
 }

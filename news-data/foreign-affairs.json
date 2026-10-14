@@ -1,6 +1,6 @@
 {
   "source": "foreign-affairs",
-  "fetched_at": "2026-10-14T16:10:44.187438+00:00",
+  "fetched_at": "2026-10-14T21:06:34.688994+00:00",
   "count": 20,
   "articles": [
     {
@@ -11,7 +11,7 @@
       "summary": "How a true “energy cease-Fire” can curb Putin.",
       "author": "",
       "published": "Wed, 14 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -21,17 +21,7 @@
       "summary": "Technology experts Kathleen Curlee and Sam Bresnick argue that China is catching up to the United States in space, commercially and militarily. This poses a threat to U.S. military operations, which rely on space-based capabilities. Washington must invest in space defense and also reduce its reliance on the domain.",
       "author": "",
       "published": "Wed, 14 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
-    },
-    {
-      "source": "foreign-affairs",
-      "title": "The Global AI Bust",
-      "link": "https://www.foreignaffairs.com/united-states/global-ai-bust-ruchir-sharma",
-      "full_text": "Since its founding in 1922, Foreign Affairs has been the leading forum for serious discussion of American foreign policy and global affairs. The magazine has featured contributions from many leading international affairs experts.\nFew people doubt that AI is among the most transformative technologies to emerge in the past century. By many measures, it is spreading faster and more widely than any innovation since the dawn of the Industrial Revolution. Steam engines came into common use in the nineteenth century and electricity in the early twentieth, but their full potential was not realized before the completion of railways, highways, and power grids decades later. Computers for business use emerged in the 1950s, but they gave no visible lift to the economy before the Internet connected them in the 1990s.\nCommercial artificial intelligence, by contrast, appeared almost overnight on screens worldwide, at a moment when the overwhelming majority of humans already had access to a computer or smartphone. Less than four years after the release of ChatGPT, roughly 30 percent of Americans are now using AI, five times the share of Americans who were using smartphones, the Internet, or electricity at comparable stages of development. Revenue for AI companies is three times what previous digital technologies, including the Internet, cloud computing, and early mobile apps, generated in their early years.\nPolicymakers, investors, and business leaders are counting on AI to be a miracle cure for everything from runaway public debt to the costs associated with aging populations. Among investors, even some of the world’s most successful contrarians—who make their fortunes betting against conventional wisdom—are embracing the idea that AI could yield bigger benefits more rapidly than any past technological advance.\nThe euphoria is not universal, however. An ever-lonelier minority of skeptics argue that AI’s rise may seem unusually fast but is in fact following a centuries-old script. Major technology revolutions have always triggered dramatic boom-bust cycles. People get overexcited about the latest breakthrough and begin investing indiscriminately in the companies driving the innovation. As a team of researchers from Texas Tech University, Texas A&amp;M University, and the Vlerick Business School in Belgium found in 2018, all of the most revolutionary technological innovations of the last two centuries inflated a major market bubble—a rapid increase in stock prices, followed by a precipitous decline.\nThe word “bubble” tends to conjure an idea as thin as air. But as with all previous tech bubbles, the innovations of the current AI boom are real, the hype born of genuine promise. That promise, however, is exactly what is inflating the bubble. Once the mania begins to crack, as it inevitably will, the shock will ripple back through financial markets into a global economy increasingly dependent on AI for growth. The damage will be felt worldwide, not only in the countries leading AI’s development but in the many now battling to supply them with inputs, as well. The weakest players will be wiped out, and the survivors will consolidate their lead. And from the rubble, a more stable AI ecosystem will emerge.\nThe AI competition is already reshaping the economic world order. At the top of this order stand the United States, where the foundational AI model, ChatGPT, reached consumers in late 2022, and China, where DeepSeek made its debut around a year later. Since then, the race for supremacy has come to drive both countries’ economies. In the United States, growth has been fueled primarily by the hundreds of billions of dollars of Big Tech investment in AI projects and by consumer spending energized by gains in a stock market dominated by AI. The top ten stocks in the benchmark S&amp;P 500 are all big AI players and together account for nearly 40 percent of the index and around half of its returns this year.\nChina is spending far less on AI but would be lost without it. After falling in the last decade, net exports—mainly of AI-related goods—now account for a third of China’s growth. The domestic economy is otherwise moribund, hampered by bad debts and a shrinking labor force. Beijing is also heavily supporting the export of its homegrown AI models, which are catching on because they are cheaper than American frontier models but perform nearly as well.\nThe AI rage now extends beyond Washington and Beijing. Investors are plowing funds into companies that supply American tech giants with the computing power, semiconductors, and other building blocks they need, fueling stock market booms worldwide. In Asia, for example, three major semiconductor companies have reaped the benefits: TSMC in Taiwan and SK Hynix and Samsung in South Korea, which comprise an even larger share of their local stock indexes than big American tech firms account for in the U.S. index. In these relatively small economies, the global frenzy for AI has generated even greater shocks than in the United States. The total value of South Korea’s market exploded from $1.5 trillion at the start of 2025 to over $5 trillion this summer. Individual investors saw bigger gains in stock wealth over 18 months than they had in a lifetime. Chip exports have driven real growth in Taiwan toward double digits in some recent quarters, a pace rarely approached in any economy.\nOther countries at this level of the so-called AI stack of computing infrastructure have benefited similarly from the global market tilt toward builders of AI hardware, or “picks and shovels.” High tech now accounts for as much as half of all economic growth in Israel, owing in part to the country’s expertise in the high-speed networks needed to train AI. In Japan, firms that specialize in AI-related equipment, materials, robots, and semiconductors have become market darlings; after Kioxia, a pioneer in memory chips, became a major supplier to U.S. tech companies, its share price spiked to more than 45 times what it had been a year earlier, briefly becoming Japan’s most valuable stock.\nAll five of these leading tech powers—China, Japan, South Korea, Taiwan, and the United States—spend, on average, much more than other countries on R &amp; D and technology as a percentage of GDP. But they are far from the only countries racing to secure footholds in the AI stack.\nBelow them, secondary suppliers are forging ties to the leaders. U.S. and Chinese AI giants are spending billions on data centers in Singapore and Malaysia. Firms are investing heavily in AI server production in Mexico, which is emerging as an important exporter of AI-related hardware, as well. At least half a dozen tech companies have launched AI projects in Vietnam, including a major R &amp; D center and training facilities to develop the country’s talent pool.\nIn turn, the worldwide AI construction project is expected to provide years of steady demand for the raw materials required to wire and store energy for data centers: nickel from Indonesia, lithium from Australia, copper from Chile, Peru, and the Democratic Republic of Congo. And the large cloud-service providers known as hyperscalers are looking far and wide for that energy. Amazon, Google, Meta, and Microsoft accounted for half of all clean energy deals signed across the globe in 2025.\nNot all countries have joined the bonanza. Those outside the stack struggle to attract investment and credit as the overwhelming focus on AI sucks money away from their industries. Much of Europe finds itself excluded. So do countries with emerging economies such as India and the Philippines, doubly shunned because their thriving back-office service sectors are particularly at risk of displacement by artificial intelligence.\nIt’s hard to think of any period in history when the markets were so obsessed with—and so dependent on the success of—a single sector. The Internet era saw money spill out of the booming sector and into other industries. Today, AI, and little else, is hot. Private spending on data center construction is up by roughly 50 percent from a year ago, while spending on all other building projects in the United States is down by five percent.\nSo far, the lift from AI has been strong enough to shield the global economy from the geopolitical shocks of the last two years, including U.S. President Donald Trump’s tariffs and the U.S.-Israeli war against Iran. Gains in advanced manufacturing and stock market–driven consumer spending continue to power growth in the United States, and AI-related exports are propping up countries further down the stack. Tech exports from Mexico and Thailand, for example, are rising fast enough to offset slack domestic demand in both economies.\nThe question is whether AI can sustain the world economy or is a bubble waiting to pop. A bubble can be characterized as a good idea taken too far. And there is mounting evidence that markets have begun to push the tantalizing idea of AI beyond its limits.\nGoing back centuries, pioneering innovations have spawned remarkably consistent patterns of human behavior. Firms spend heavily on developing a new technology in the hope of dominating a burgeoning industry. Investors follow, with professionals leading the way and amateurs jumping in later. The firms borrow to build; investors borrow to buy more stock in those firms. Trading reaches manic intensity. Prices rise beyond a point that potential profits from the innovation can support. As the peak nears, price increases both accelerate and become more volatile as doubt begins to gnaw at the edges of the frenzy.\nThis basic dynamic has driven bubbles in everything from tulips to housing since at least the 1600s. In short, the object of desire becomes overvalued, overowned, overinvested, and overleveraged—what I have elsewhere called the “Four O’s” of a bubble.\nHistorical evidence suggests that the most impressive innovations generate the biggest bubbles. The scale of the bubble also depends on how far and fast word of the hot new thing travels. In the 1870s, a series of bubbles, including one in railroad stocks, moved quickly between Europe and the United States via the new transatlantic telegraph. In the 1920s, electricity and electric gadgets were promoted over the airwaves on one of those gadgets, the radio. Today, hype for AI is spreading on smartphones and social media, digital products that did not yet exist when the Internet bubble popped, in 2000.\nTaken together, these phenomena should raise concerns over just how far the mania will go. If AI is indeed the most transformative and most rapidly diffused new technology ever, the bubble it creates could be the most dramatic yet.\nIn the major bubbles of the past half century, prices have typically risen tenfold, adjusted for inflation, over a period of 15 years. U.S. tech stocks crossed that threshold in 2025. The AI bulls argue that unlike the dot-coms of the Internet boom, today’s marquee tech firms are generating strong earnings and will continue to do so, and their escalating stock prices are therefore justified.\nBut the excitement about tech bubbles is always stirred by genuine progress, not mere marketing. Although the dot-com era, for instance, is linked in the popular imagination with profitless startups such as Pets.com, these were minor players. The giants of the late 1990s, including Qualcomm, Oracle, and Cisco, logged earnings on par with Amazon, Google, and Microsoft today. The tech sector posted the same annual rate of earnings growth in the late 1990s as it has in the current decade: 22 percent.\nThe assumption that a boom can’t be a bubble if corporate earnings are strong is belied by history. It is in fact not uncommon in a bubble for earnings to be artificially inflated as well. This twin risk was only partly evident in the dot-com period, but it was clear when the craze for housing and commodities took off in the early 2000s.\nWhat is more, earnings may not be as solid as they appear. They are propped up in part by “circular funding,” in which a hyperscaler invests in a frontier AI lab such as OpenAI or Anthropic. The lab then uses the money in part to buy services from—and thus pump up the earnings of—the hyperscaler. Hyperscalers also revalue their stake in an AI lab and report the increase as “other income,” a category that has accounted for a quarter of their earnings growth this year.\nAI labs are among the many U.S. companies that have been choosing to remain private for as long as possible to avoid public scrutiny of their earnings. Now, many of these firms are planning to go public, but they are far less profitable than their predecessors in the late 1990s were. The two biggest names in the pipeline for an initial public offering of stock are Anthropic and OpenAI. To gain customers and market share, both companies are charging their subscribers less than it costs to train and run their AI models. Analysts have already estimated each company’s value at well over a trillion dollars, even with no profits, based on rapid revenue growth alone.\nAmericans, meanwhile, are investing in stocks as they never have before. The United States is the only country in which families hold more wealth in stocks than in their homes. The typical U.S. household holds more than 30 percent of its wealth in stocks, surpassing the prior peak of 27 percent in 2000. Since much of this money is held in “passive” funds that simply track the S&amp;P 500 index, the bulk of it goes into the AI stocks that dominate the index.\nProfessional money managers aim to beat the market by being different, but they are finding it difficult to buck the crowd. Their holdings look increasingly like those of the retail investors they once dismissed as “dumb money.” Nearly a third of the stocks held by amateur traders are also held by hedge funds and other quintessentially aggressive pros, a record share.\nOver the last five years, the number of shares traded each day in the United States has surged by 50 percent to around 18 billion. Retail investors have surpassed the pros as the most active traders and are aggressively “buying the dips”; in 2026, trading on down days has surged to more than three times the average for all days. Foreigners are betting big on American AI, too; their holdings of U.S. stocks have mushroomed from under $2 trillion to more than $20 trillion since the dot-com bust, with most of that increase coming since the launch of ChatGPT, in November 2022.\nAI is thus already overowned by all players in the market. The zeal among retail investors has spread to other AI-driven markets, including South Korea, which in the past has been a bellwether of global stock market movements. Sharp drops in big semiconductor stocks pushed the Korean index down this summer, before locals once again started “buying the dips.” This kind of stop-and-go volatility often signals that a market rally is in its last stages.",
-      "summary": "What will survive when the boom ends.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -41,7 +31,17 @@
       "summary": "When airpower wins, and when it doesn’t.",
       "author": "",
       "published": "Tue, 13 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
+    },
+    {
+      "source": "foreign-affairs",
+      "title": "The Global AI Bust",
+      "link": "https://www.foreignaffairs.com/united-states/global-ai-bust-ruchir-sharma",
+      "full_text": "Since its founding in 1922, Foreign Affairs has been the leading forum for serious discussion of American foreign policy and global affairs. The magazine has featured contributions from many leading international affairs experts.\nFew people doubt that AI is among the most transformative technologies to emerge in the past century. By many measures, it is spreading faster and more widely than any innovation since the dawn of the Industrial Revolution. Steam engines came into common use in the nineteenth century and electricity in the early twentieth, but their full potential was not realized before the completion of railways, highways, and power grids decades later. Computers for business use emerged in the 1950s, but they gave no visible lift to the economy before the Internet connected them in the 1990s.\nCommercial artificial intelligence, by contrast, appeared almost overnight on screens worldwide, at a moment when the overwhelming majority of humans already had access to a computer or smartphone. Less than four years after the release of ChatGPT, roughly 30 percent of Americans are now using AI, five times the share of Americans who were using smartphones, the Internet, or electricity at comparable stages of development. Revenue for AI companies is three times what previous digital technologies, including the Internet, cloud computing, and early mobile apps, generated in their early years.\nPolicymakers, investors, and business leaders are counting on AI to be a miracle cure for everything from runaway public debt to the costs associated with aging populations. Among investors, even some of the world’s most successful contrarians—who make their fortunes betting against conventional wisdom—are embracing the idea that AI could yield bigger benefits more rapidly than any past technological advance.\nThe euphoria is not universal, however. An ever-lonelier minority of skeptics argue that AI’s rise may seem unusually fast but is in fact following a centuries-old script. Major technology revolutions have always triggered dramatic boom-bust cycles. People get overexcited about the latest breakthrough and begin investing indiscriminately in the companies driving the innovation. As a team of researchers from Texas Tech University, Texas A&amp;M University, and the Vlerick Business School in Belgium found in 2018, all of the most revolutionary technological innovations of the last two centuries inflated a major market bubble—a rapid increase in stock prices, followed by a precipitous decline.\nThe word “bubble” tends to conjure an idea as thin as air. But as with all previous tech bubbles, the innovations of the current AI boom are real, the hype born of genuine promise. That promise, however, is exactly what is inflating the bubble. Once the mania begins to crack, as it inevitably will, the shock will ripple back through financial markets into a global economy increasingly dependent on AI for growth. The damage will be felt worldwide, not only in the countries leading AI’s development but in the many now battling to supply them with inputs, as well. The weakest players will be wiped out, and the survivors will consolidate their lead. And from the rubble, a more stable AI ecosystem will emerge.\nThe AI competition is already reshaping the economic world order. At the top of this order stand the United States, where the foundational AI model, ChatGPT, reached consumers in late 2022, and China, where DeepSeek made its debut around a year later. Since then, the race for supremacy has come to drive both countries’ economies. In the United States, growth has been fueled primarily by the hundreds of billions of dollars of Big Tech investment in AI projects and by consumer spending energized by gains in a stock market dominated by AI. The top ten stocks in the benchmark S&amp;P 500 are all big AI players and together account for nearly 40 percent of the index and around half of its returns this year.\nChina is spending far less on AI but would be lost without it. After falling in the last decade, net exports—mainly of AI-related goods—now account for a third of China’s growth. The domestic economy is otherwise moribund, hampered by bad debts and a shrinking labor force. Beijing is also heavily supporting the export of its homegrown AI models, which are catching on because they are cheaper than American frontier models but perform nearly as well.\nThe AI rage now extends beyond Washington and Beijing. Investors are plowing funds into companies that supply American tech giants with the computing power, semiconductors, and other building blocks they need, fueling stock market booms worldwide. In Asia, for example, three major semiconductor companies have reaped the benefits: TSMC in Taiwan and SK Hynix and Samsung in South Korea, which comprise an even larger share of their local stock indexes than big American tech firms account for in the U.S. index. In these relatively small economies, the global frenzy for AI has generated even greater shocks than in the United States. The total value of South Korea’s market exploded from $1.5 trillion at the start of 2025 to over $5 trillion this summer. Individual investors saw bigger gains in stock wealth over 18 months than they had in a lifetime. Chip exports have driven real growth in Taiwan toward double digits in some recent quarters, a pace rarely approached in any economy.\nOther countries at this level of the so-called AI stack of computing infrastructure have benefited similarly from the global market tilt toward builders of AI hardware, or “picks and shovels.” High tech now accounts for as much as half of all economic growth in Israel, owing in part to the country’s expertise in the high-speed networks needed to train AI. In Japan, firms that specialize in AI-related equipment, materials, robots, and semiconductors have become market darlings; after Kioxia, a pioneer in memory chips, became a major supplier to U.S. tech companies, its share price spiked to more than 45 times what it had been a year earlier, briefly becoming Japan’s most valuable stock.\nAll five of these leading tech powers—China, Japan, South Korea, Taiwan, and the United States—spend, on average, much more than other countries on R &amp; D and technology as a percentage of GDP. But they are far from the only countries racing to secure footholds in the AI stack.\nBelow them, secondary suppliers are forging ties to the leaders. U.S. and Chinese AI giants are spending billions on data centers in Singapore and Malaysia. Firms are investing heavily in AI server production in Mexico, which is emerging as an important exporter of AI-related hardware, as well. At least half a dozen tech companies have launched AI projects in Vietnam, including a major R &amp; D center and training facilities to develop the country’s talent pool.\nIn turn, the worldwide AI construction project is expected to provide years of steady demand for the raw materials required to wire and store energy for data centers: nickel from Indonesia, lithium from Australia, copper from Chile, Peru, and the Democratic Republic of Congo. And the large cloud-service providers known as hyperscalers are looking far and wide for that energy. Amazon, Google, Meta, and Microsoft accounted for half of all clean energy deals signed across the globe in 2025.\nNot all countries have joined the bonanza. Those outside the stack struggle to attract investment and credit as the overwhelming focus on AI sucks money away from their industries. Much of Europe finds itself excluded. So do countries with emerging economies such as India and the Philippines, doubly shunned because their thriving back-office service sectors are particularly at risk of displacement by artificial intelligence.\nIt’s hard to think of any period in history when the markets were so obsessed with—and so dependent on the success of—a single sector. The Internet era saw money spill out of the booming sector and into other industries. Today, AI, and little else, is hot. Private spending on data center construction is up by roughly 50 percent from a year ago, while spending on all other building projects in the United States is down by five percent.\nSo far, the lift from AI has been strong enough to shield the global economy from the geopolitical shocks of the last two years, including U.S. President Donald Trump’s tariffs and the U.S.-Israeli war against Iran. Gains in advanced manufacturing and stock market–driven consumer spending continue to power growth in the United States, and AI-related exports are propping up countries further down the stack. Tech exports from Mexico and Thailand, for example, are rising fast enough to offset slack domestic demand in both economies.\nThe question is whether AI can sustain the world economy or is a bubble waiting to pop. A bubble can be characterized as a good idea taken too far. And there is mounting evidence that markets have begun to push the tantalizing idea of AI beyond its limits.\nGoing back centuries, pioneering innovations have spawned remarkably consistent patterns of human behavior. Firms spend heavily on developing a new technology in the hope of dominating a burgeoning industry. Investors follow, with professionals leading the way and amateurs jumping in later. The firms borrow to build; investors borrow to buy more stock in those firms. Trading reaches manic intensity. Prices rise beyond a point that potential profits from the innovation can support. As the peak nears, price increases both accelerate and become more volatile as doubt begins to gnaw at the edges of the frenzy.\nThis basic dynamic has driven bubbles in everything from tulips to housing since at least the 1600s. In short, the object of desire becomes overvalued, overowned, overinvested, and overleveraged—what I have elsewhere called the “Four O’s” of a bubble.\nHistorical evidence suggests that the most impressive innovations generate the biggest bubbles. The scale of the bubble also depends on how far and fast word of the hot new thing travels. In the 1870s, a series of bubbles, including one in railroad stocks, moved quickly between Europe and the United States via the new transatlantic telegraph. In the 1920s, electricity and electric gadgets were promoted over the airwaves on one of those gadgets, the radio. Today, hype for AI is spreading on smartphones and social media, digital products that did not yet exist when the Internet bubble popped, in 2000.\nTaken together, these phenomena should raise concerns over just how far the mania will go. If AI is indeed the most transformative and most rapidly diffused new technology ever, the bubble it creates could be the most dramatic yet.\nIn the major bubbles of the past half century, prices have typically risen tenfold, adjusted for inflation, over a period of 15 years. U.S. tech stocks crossed that threshold in 2025. The AI bulls argue that unlike the dot-coms of the Internet boom, today’s marquee tech firms are generating strong earnings and will continue to do so, and their escalating stock prices are therefore justified.\nBut the excitement about tech bubbles is always stirred by genuine progress, not mere marketing. Although the dot-com era, for instance, is linked in the popular imagination with profitless startups such as Pets.com, these were minor players. The giants of the late 1990s, including Qualcomm, Oracle, and Cisco, logged earnings on par with Amazon, Google, and Microsoft today. The tech sector posted the same annual rate of earnings growth in the late 1990s as it has in the current decade: 22 percent.\nThe assumption that a boom can’t be a bubble if corporate earnings are strong is belied by history. It is in fact not uncommon in a bubble for earnings to be artificially inflated as well. This twin risk was only partly evident in the dot-com period, but it was clear when the craze for housing and commodities took off in the early 2000s.\nWhat is more, earnings may not be as solid as they appear. They are propped up in part by “circular funding,” in which a hyperscaler invests in a frontier AI lab such as OpenAI or Anthropic. The lab then uses the money in part to buy services from—and thus pump up the earnings of—the hyperscaler. Hyperscalers also revalue their stake in an AI lab and report the increase as “other income,” a category that has accounted for a quarter of their earnings growth this year.\nAI labs are among the many U.S. companies that have been choosing to remain private for as long as possible to avoid public scrutiny of their earnings. Now, many of these firms are planning to go public, but they are far less profitable than their predecessors in the late 1990s were. The two biggest names in the pipeline for an initial public offering of stock are Anthropic and OpenAI. To gain customers and market share, both companies are charging their subscribers less than it costs to train and run their AI models. Analysts have already estimated each company’s value at well over a trillion dollars, even with no profits, based on rapid revenue growth alone.\nAmericans, meanwhile, are investing in stocks as they never have before. The United States is the only country in which families hold more wealth in stocks than in their homes. The typical U.S. household holds more than 30 percent of its wealth in stocks, surpassing the prior peak of 27 percent in 2000. Since much of this money is held in “passive” funds that simply track the S&amp;P 500 index, the bulk of it goes into the AI stocks that dominate the index.\nProfessional money managers aim to beat the market by being different, but they are finding it difficult to buck the crowd. Their holdings look increasingly like those of the retail investors they once dismissed as “dumb money.” Nearly a third of the stocks held by amateur traders are also held by hedge funds and other quintessentially aggressive pros, a record share.\nOver the last five years, the number of shares traded each day in the United States has surged by 50 percent to around 18 billion. Retail investors have surpassed the pros as the most active traders and are aggressively “buying the dips”; in 2026, trading on down days has surged to more than three times the average for all days. Foreigners are betting big on American AI, too; their holdings of U.S. stocks have mushroomed from under $2 trillion to more than $20 trillion since the dot-com bust, with most of that increase coming since the launch of ChatGPT, in November 2022.\nAI is thus already overowned by all players in the market. The zeal among retail investors has spread to other AI-driven markets, including South Korea, which in the past has been a bellwether of global stock market movements. Sharp drops in big semiconductor stocks pushed the Korean index down this summer, before locals once again started “buying the dips.” This kind of stop-and-go volatility often signals that a market rally is in its last stages.",
+      "summary": "What will survive when the boom ends.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 04:00:00 -0400",
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -51,7 +51,7 @@
       "summary": "Why disengagement is not the answer.",
       "author": "",
       "published": "Mon, 12 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -61,7 +61,7 @@
       "summary": "Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie’s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Silicon Valley risk falling behind.",
       "author": "",
       "published": "Mon, 12 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -71,7 +71,7 @@
       "summary": "Tehran’s fight for great-power status in the post-American Middle East.",
       "author": "",
       "published": "Fri, 09 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -81,7 +81,7 @@
       "summary": "Robert Zoellick, an expert on the global economy who served as U.S. trade representative and World Bank president, makes the authoritative case that President Donald Trump’s antagonism toward Canada and Mexico is destroying an economic and security partnership that that enables the United States to project power globally.",
       "author": "",
       "published": "Fri, 09 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -91,7 +91,7 @@
       "summary": "America should spy on foreign companies to help its own.",
       "author": "",
       "published": "Thu, 08 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -101,7 +101,7 @@
       "summary": "A failing peace process leads to only one outcome.",
       "author": "",
       "published": "Thu, 08 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -111,7 +111,7 @@
       "summary": "Julianne Smith, who represented the United States at NATO during the Biden administration, argues that Russian hybrid warfare in Europe is escalating quickly, and NATO is not doing enough to deter it. Putin is attempting to discourage support for Ukraine and undermine faith in Article 5, and NATO is responding with an outdated playbook.",
       "author": "",
       "published": "Wed, 07 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -121,7 +121,7 @@
       "summary": "Who will benefit from the continent's investment boom?",
       "author": "",
       "published": "Wed, 07 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -131,7 +131,7 @@
       "summary": "Conflicts in the Middle East and the Horn of Africa have become inseparable.",
       "author": "",
       "published": "Tue, 06 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -141,7 +141,7 @@
       "summary": "The dangerous idea driving today’s wars of choice.",
       "author": "",
       "published": "Tue, 06 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -151,7 +151,7 @@
       "summary": "America isn’t ready for the next wave of foreign influence operations.",
       "author": "",
       "published": "Mon, 05 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -161,7 +161,7 @@
       "summary": "Demographic decline, political paralysis, and the fate of great powers.",
       "author": "",
       "published": "Mon, 05 Oct 2026 04:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -171,7 +171,7 @@
       "summary": "Reckoning with the country’s real crisis.",
       "author": "",
       "published": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -181,7 +181,7 @@
       "summary": "A new majority—even in Gaza—support compromise with Israel.",
       "author": "",
       "published": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -191,7 +191,7 @@
       "summary": "How technology empowers—and imperils—dictators.",
       "author": "",
       "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     },
     {
       "source": "foreign-affairs",
@@ -201,7 +201,7 @@
       "summary": "Tehran’s strategy to drive America out of the Middle East.",
       "author": "",
       "published": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "fetched_at": "2026-10-14T16:10:40.727587+00:00"
+      "fetched_at": "2026-10-14T21:06:23.759112+00:00"
     }
   ]
 }
