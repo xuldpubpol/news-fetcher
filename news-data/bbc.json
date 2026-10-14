@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-13T22:05:05.006414+00:00",
-  "count": 29,
+  "fetched_at": "2026-10-14T02:43:32.289933+00:00",
+  "count": 31,
   "articles": [
     {
       "source": "bbc",
@@ -10,8 +10,8 @@
       "full_text": "",
       "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
       "author": "",
-      "published": "Tue, 13 Oct 2026 21:41:19 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "published": "Tue, 13 Oct 2026 23:58:56 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
@@ -20,8 +20,8 @@
       "full_text": "",
       "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
       "author": "",
-      "published": "Tue, 13 Oct 2026 20:46:06 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "published": "Wed, 14 Oct 2026 00:17:00 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
@@ -31,7 +31,7 @@
       "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
       "author": "",
       "published": "Tue, 13 Oct 2026 21:42:49 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
@@ -41,67 +41,7 @@
       "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
       "author": "",
       "published": "Tue, 13 Oct 2026 15:52:15 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 18:25:28 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 19:51:14 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-      "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 18:23:22 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 19:23:28 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Football regulator says he would quit over any political interference in Man City case",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 16:00:18 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia did try to interfere with Brexit vote but had little impact, MI5 chief says",
-      "link": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 17:06:18 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
@@ -111,17 +51,127 @@
       "summary": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
       "author": "",
       "published": "Tue, 13 Oct 2026 21:31:30 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "title": "Royal Mail losing 400 postal workers a week, says union",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
+      "summary": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
       "author": "",
-      "published": "Tue, 13 Oct 2026 15:59:07 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "published": "Tue, 13 Oct 2026 23:03:59 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 19:51:14 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 18:25:28 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 18:23:22 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
+      "link": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 22:59:37 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 23:42:22 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+      "link": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 23:55:49 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 23:26:54 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 00:59:16 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 23:04:39 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Our memorial garden helps us grieve - a cemetery felt too far away",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Emma Moore shares how creating a special place at home has helped her family.",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 00:06:15 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'Spy chief's grim warning' and 'tiger victim was child actor'",
+      "link": "https://www.bbc.co.uk/news/articles/cmze41x6l116o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Wednesday's papers are dominated by coverage of a speech given by the MI5 chief and the death of a man in a tiger enclosure.",
+      "author": "",
+      "published": "Wed, 14 Oct 2026 01:26:20 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +181,7 @@
       "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
       "author": "",
       "published": "Tue, 13 Oct 2026 11:58:43 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
@@ -141,57 +191,67 @@
       "summary": "The star, who has died at the age of 34, fought for better representation of disabilities on screen.",
       "author": "",
       "published": "Tue, 13 Oct 2026 14:07:33 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+      "title": "Robot seized by German police after allegedly groping teenage girl",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
+      "summary": "Police have launched an investigation on suspicion of sexual harassment after the robot's owner, 16, and his companion are said to have streamed the incident.",
       "author": "",
-      "published": "Tue, 13 Oct 2026 13:27:31 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "published": "Tue, 13 Oct 2026 23:50:23 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
-      "title": "I lost my hair to chemo - now my wigs are worn by A-list stars",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo?at_medium=RSS&at_campaign=rss",
+      "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Antonia Okonma Shittu's wig business was launched after a shock diagnosis, and she now wants to help other women feel their best.",
+      "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
       "author": "",
-      "published": "Tue, 13 Oct 2026 00:14:20 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "published": "Tue, 13 Oct 2026 15:59:07 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
-      "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
-      "link": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+      "title": "Football regulator says he would quit over any political interference in Man City case",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
+      "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
       "author": "",
-      "published": "Tue, 13 Oct 2026 17:04:37 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "published": "Tue, 13 Oct 2026 16:00:18 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
-      "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
       "author": "",
-      "published": "Tue, 13 Oct 2026 01:27:59 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "published": "Tue, 13 Oct 2026 19:23:28 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Sabrina Carpenter clip which helped a 22-year-old make £120,000 a year",
-      "link": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+      "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
+      "summary": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
       "author": "",
-      "published": "Tue, 13 Oct 2026 15:12:38 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "published": "Tue, 13 Oct 2026 21:43:09 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russia did try to interfere with Brexit vote but had little impact, MI5 chief says",
+      "link": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 17:06:18 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
@@ -201,67 +261,7 @@
       "summary": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
       "author": "",
       "published": "Tue, 13 Oct 2026 16:00:11 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 05:02:34 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 17:36:43 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at US amusement park",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 17:10:50 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Couple and two children killed in arson attack named locally",
-      "link": "https://www.bbc.co.uk/news/articles/cq073814llkjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A \"multiple murder\" investigation has been launched by gardaí (Irish police) following the blaze.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 21:02:54 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 20:02:15 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "BA flight forced to turn back over cracked window",
-      "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
-      "author": "",
-      "published": "Tue, 13 Oct 2026 11:48:07 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
@@ -271,17 +271,37 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
-      "title": "Martinez issues blistering criticism of Man Utd board after loss",
+      "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
       "link": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
       "author": "",
       "published": "Tue, 13 Oct 2026 21:43:09 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 22:15:44 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Saka responds to Arteta's challenge with 'huge impact'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.",
+      "author": "",
+      "published": "Tue, 13 Oct 2026 23:03:04 GMT",
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +311,7 @@
       "summary": "How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.",
       "author": "",
       "published": "Tue, 13 Oct 2026 15:01:17 GMT",
-      "fetched_at": "2026-10-13T22:05:02.684165+00:00"
+      "fetched_at": "2026-10-14T02:43:29.852724+00:00"
     }
   ]
 }
