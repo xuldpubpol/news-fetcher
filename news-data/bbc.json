@@ -1,8 +1,78 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-15T10:33:56.799683+00:00",
-  "count": 30,
+  "fetched_at": "2026-10-15T15:58:41.111312+00:00",
+  "count": 46,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 15:55:14 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 15:52:10 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
+      "link": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 15:30:43 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 13:32:56 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Severe drought declared in parts of southern England",
+      "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 15:55:10 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Meghan makes first official public appearance since moving back to UK",
+      "link": "https://www.bbc.co.uk/news/articles/c6gelgd1lxv2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Duke and Duchess of Sussex are taking part in a series of events linked to their charitable work in Nottingham.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 12:06:51 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Swimmer's emotional TV plea for cancer research leads to meeting with PM",
+      "link": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Scottish athlete, Archie Goodburn, who was diagnosed with three inoperable brain tumours two years ago, met Andy Burnham after an appeal for more investment into brain cancer research.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 10:56:25 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
     {
       "source": "bbc",
       "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
@@ -10,58 +80,48 @@
       "full_text": "",
       "summary": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 10:30:13 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 12:45:22 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+      "title": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 14:46:09 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
       "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 10:27:26 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 15:09:15 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why Starlink internet is so important on the battlefield in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
+      "link": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 10:14:31 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 15:26:21 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK threatens to ban Eritreans over migrant return policy",
-      "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-      "full_text": "The government requires people who are in the UK, but no longer have permission to live or work in the country, to leave.\nThis is called a return and can happen voluntarily or involuntarily.\nPeople can lose the right to be in the UK for different reasons, such as a visa expiring, an asylum claim being refused, or by receiving a criminal conviction that results in deportation.\nThere were 40,605 returns from July 2025 to June 2026. This was up by 8% on the same period the previous year.\nThat number of returns is equivalent to about 6% of total emigration from the UK from January 2025 to December 2025.\nOf all returns from July 2025 to June 2026:\n5,962 had been convicted of a criminal offence12,568 had lodged an asylum claim at some point3,310 had arrived in the UK by small boat\nPeople from India made up 27% of all returns from July 2025 to June 2026.\nUp until September the UK was trialing a scheme with France to return people who arrived in the country on a small boat.\nFor every person the UK sent back to France, the UK accepted a number of asylum seekers.\nThis was called the \"one in, one out\" deal. As of 30 June 2026, 1,087 people were returned through this arrangement.\nReturns can happen in different ways. \"Enforced returns\", which includes deportations, means the government arranges transport to return people to a different country. In some cases, people are escorted by officers.\nAll other returns are \"voluntary\". This means a person has agreed to leave and may receive government help with travel and other costs to help facilitate the return.\nSome people classed as leaving the country voluntarily do so completely independently and without any government knowledge or involvement.\nIndependent returns made up 34% of the total from July 2025 to June 2026.",
-      "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 09:17:57 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+      "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 09:29:54 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Reform faces criticism after councillors filmed making racist comments",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 10:20:51 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 15:00:05 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
@@ -71,27 +131,17 @@
       "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
       "author": "",
       "published": "Thu, 15 Oct 2026 05:00:23 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "White House defends new press secretary after questions about her legal credentials",
-      "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "title": "Why Starlink internet is so important on the battlefield in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 08:41:04 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tiny critically endangered puddle frogs hatch at London Zoo",
-      "link": "https://www.bbc.co.uk/news/articles/cr2keqxggx0wo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Afia Birago’s puddle frogs are a recently identified species from a single Ghanaian forest.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 05:03:03 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 11:25:19 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
@@ -101,27 +151,27 @@
       "summary": "Are protein supplements recommended for pre-teens and teenagers or is a big, juicy steak just as good?",
       "author": "",
       "published": "Thu, 15 Oct 2026 00:00:35 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "How backlash against data centres could shape the US midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
+      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+      "summary": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 23:02:57 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 15:42:37 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "Inside the Brooklyn store at the centre of a row over an expensive mechanical bird",
-      "link": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Everton's Thierno Barry on the emotional video he was scared to post",
+      "link": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Since U Been Gone singer claims she was \"looked at as if I couldn't afford\" an item in the store.",
+      "summary": "The Everton striker explains why he chose to post an emotional video from a training session.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 08:19:00 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 11:27:07 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
@@ -131,37 +181,17 @@
       "summary": "Wales scores poorly on international test results but it is not clear a new curriculum will help.",
       "author": "",
       "published": "Thu, 15 Oct 2026 00:01:46 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "How West Midlands shed its gun crime capital label",
-      "link": "https://www.bbc.co.uk/news/articles/c6x23dlk31ejo?at_medium=RSS&at_campaign=rss",
+      "title": "Professor shares 'most important thing to do' when someone is grieving",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06xr871g1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Firearms discharges drop by more than half in the past six years in the force area.",
+      "summary": "Dr Lesel Dawson, co-director of Good Grief Weston, says avoiding grief is not a good way to cope.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 00:02:34 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Could Wenger really take on Infantino and run for Fifa presidency?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Senior figures in European football tell BBC Sport they want former Arsenal manager Arsene Wenger to run as a surprise candidate against Gianni Infantino.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 06:35:39 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'Zelenskyy blames Trump' and Brand a 'sex predator'",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyq67e64pdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Volodymyr Zelensky's visit to London and the first day of Russell Brand's rape trial dominate Thursday's front pages.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 00:41:45 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 05:11:16 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
@@ -171,67 +201,197 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK temperatures to rise to 23C before autumn chill sets in",
-      "link": "https://www.bbc.co.uk/weather/articles/c6d7qv73nldgo?at_medium=RSS&at_campaign=rss",
+      "title": "Another man admits raping woman drugged by husband over 20 years",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdn1164v1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Warm air will bring unseasonable warmth to the south and east of the UK on Thursday but chillier conditions are set to spread to all areas by the weekend.",
+      "summary": "The husband is accused of inviting 13 other men to abuse her at their family home in Stockport.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 04:27:23 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 14:56:46 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "Crew in Lewis fishing boat tragedy named by police",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv012jy04eo?at_medium=RSS&at_campaign=rss",
+      "title": "Arrests made after couple and two children killed in arson attack in Waterford",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0658znkxpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The alarm was raised after the men's fishing boat failed to return as planned to Lewis on Tuesday.",
+      "summary": "Gardaí (Irish police) have arrested a man and a woman in connection with a suspected arson attack which killed four family members.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 10:30:51 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 14:33:32 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "What if you could turn off your algorithm? Australia is about to try",
-      "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+      "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
+      "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 18:00:54 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 14:55:21 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "PM launches brain cancer review after meeting 'inspirational' patient",
-      "link": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.",
+      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 19:04:46 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 15:26:16 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
+      "title": "Man with suitcase full of snakes stopped at German airport",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r2lpm992o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest.",
+      "summary": "The man, a Mexican firefighter, looked \"nervous\" as he tried to leave Cologne Airport, officials say.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 23:35:40 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 15:21:32 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "Warning to women after shortages of some HRT products in Northern Ireland",
-      "link": "https://www.bbc.co.uk/news/articles/cwr7yz5x7pj0o?at_medium=RSS&at_campaign=rss",
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Two brands of HRT patches, including Estradot transdermal and FemSeven Conti patches, have been affected.",
+      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 23:01:00 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 13:25:17 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "King Charles praises Welsh 'sense of belonging' as he opens Senedd",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld0lgw4x8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The monarch and Queen Camilla officially open the Senedd's seventh term on their visit to Cardiff.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 13:21:21 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Twice homeless millionaire tops UK black power list",
+      "link": "https://www.bbc.co.uk/news/articles/c4g2eplxgklo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The now multimillionaire began his career in a call centre after failing to become a professional footballer.",
+      "author": "",
+      "published": "Fri, 25 Oct 2024 11:07:10 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The gaming releases to look out for",
+      "link": "https://www.bbc.co.uk/news/articles/cg5mennm6p2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Next year could be hugely significant for video games - here are the big things to keep an eye on.",
+      "author": "",
+      "published": "Wed, 31 Dec 2025 01:08:12 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The paper review - it's always there",
+      "link": "https://www.bbc.co.uk/news/articles/c72vgq6y83po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Monday's papers focus on GPs threatening industrial action and Adam Peaty narrowly missing a gold medal.",
+      "author": "",
+      "published": "Mon, 29 Jul 2024 03:39:40 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ros Atkins on... unanswered Andrew questions",
+      "link": "https://www.bbc.co.uk/news/videos/cpqw2p1z19vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC's Analysis Editor Ros Atkins looks at the questions around the way Buckingham Palace has responded to the various accusations against the King's brother.",
+      "author": "",
+      "published": "Tue, 17 Feb 2026 20:52:00 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The big acts with new music on the way",
+      "link": "https://www.bbc.co.uk/news/articles/cz68944djpqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Music correspondent Mark Savage previews the biggest albums, tours and festivals of the coming year.",
+      "author": "",
+      "published": "Tue, 30 Dec 2025 00:05:40 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Wuthering Heights and other stand out films",
+      "link": "https://www.bbc.co.uk/news/articles/cp8z60j7438o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "We look ahead to 20 notable films to watch for in 2026, from Oscar hopefuls to potential blockbusters.",
+      "author": "",
+      "published": "Sun, 28 Dec 2025 00:45:45 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hotly anticipated books to see you through the year",
+      "link": "https://www.bbc.co.uk/news/articles/cx2e6nw1w40o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Fictional gems, debut thillers, cracking biographies and everything in between.",
+      "author": "",
+      "published": "Thu, 25 Dec 2025 01:14:43 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Some of the best TV in years is to come",
+      "link": "https://www.bbc.co.uk/news/articles/c9qedx5wj45o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "We look ahead to 18 notable shows and events to look out for in 2026, from drama to sport.",
+      "author": "",
+      "published": "Mon, 29 Dec 2025 04:27:06 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Drivers face severe delays after lorry fire",
+      "link": "https://www.bbc.co.uk/news/articles/cly23g9448go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The M5 in Somerset has reopened after an earlier lorry fire closed all lanes.",
+      "author": "",
+      "published": "Fri, 25 Oct 2024 18:23:05 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: How Andrew's BBC interview compares to what Epstein emails tell us now",
+      "link": "https://www.bbc.co.uk/news/videos/c20jepq911zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Following the latest release of the Epstein files, claims made by the then Prince Andrew in 2019 are under fresh scrutiny.",
+      "author": "",
+      "published": "Fri, 13 Feb 2026 11:31:06 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "More embarrassing Epstein exchanges to come, says Mandelson",
+      "link": "https://www.bbc.co.uk/news/articles/c5yevwvvneyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The UK's ambassador to the US likens his past association with the convicted paedophile to \"an albatross around my neck\".",
+      "author": "",
+      "published": "Wed, 10 Sep 2025 14:38:16 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Six of Sarah Ferguson's companies winding down",
+      "link": "https://www.bbc.co.uk/news/articles/cd9g28yzy0no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The move follows further revelations over her friendship with the convicted paedophile Jeffrey Epstein.",
+      "author": "",
+      "published": "Mon, 16 Feb 2026 19:22:44 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
@@ -241,37 +401,37 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "Unravel the secrets of a priceless piece of British history",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m00303gc?at_mid=DEZSuyo6Vd&at_campaign=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00303gc&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_bbc_team=BBC",
+      "title": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As the Bayeux Tapestry travels to the UK for the first time in 950 years, historians and experts unravel its secrets",
+      "summary": "President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.",
       "author": "",
-      "published": "Thu, 10 Sep 2026 05:00:00 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 14:46:09 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "Guardiola's return, Man City's defiance - and a game of glorious chaos",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&at_campaign=rss",
+      "title": "Walsh vomit & Ponga pain - the physical toll of World Cup opener",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c574pn7j0yp3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester City put on a show of defiance on their return to Etihad Stadium - even in the face of a PSG masterclass, writes Phil McNulty.",
+      "summary": "Australia's Reece Walsh exerted himself to the point of throwing up, while New Zealand's Kalyn Ponga tried to play on with a suspected broken arm in a dramatic Men's Rugby League World Cup opener.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 22:57:23 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 15:07:28 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "Could Wenger really take on Infantino and run for Fifa presidency?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Man Utd a circus after Martinez comments - Keane",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Senior figures in European football tell BBC Sport they want former Arsenal manager Arsene Wenger to run as a surprise candidate against Gianni Infantino.",
+      "summary": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 06:35:39 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 10:57:15 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
@@ -281,27 +441,27 @@
       "summary": "How an F1 pit stop inspired changes to hospital care that have helped save lives ever since.",
       "author": "",
       "published": "Thu, 15 Oct 2026 05:56:53 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "Southgate does not see return to Premier League management",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go?at_medium=RSS&at_campaign=rss",
+      "title": "Kartal wins again as impressive comeback continues",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c85ynx5vwq35o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Former England manager Gareth Southgate says he does not see himself returning to club management in the Premier League.",
+      "summary": "Britain's Sonay Kartal beats former Wimbledon finalist Jasmine Paolini in straight sets to reach the Wuhan Open quarter-finals.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 05:39:10 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 12:02:14 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     },
     {
       "source": "bbc",
-      "title": "On night of mayhem for Liverpool, Barcola arrives in style",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&at_campaign=rss",
+      "title": "GB win two golds at Track World Championships",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/cm75p3eqg2rpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK - but the France forward's Champions League hat-trick was the perfect answer.",
+      "summary": "Great Britain claim gold in the women's team pursuit and the men's scratch race at the World Track Cycling Championships.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 20:46:35 GMT",
-      "fetched_at": "2026-10-15T10:33:51.074268+00:00"
+      "published": "Thu, 15 Oct 2026 13:50:52 GMT",
+      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
     }
   ]
 }
