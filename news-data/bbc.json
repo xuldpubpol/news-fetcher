@@ -1,18 +1,8 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-15T15:58:41.111312+00:00",
-  "count": 46,
+  "fetched_at": "2026-10-15T20:42:53.762431+00:00",
+  "count": 31,
   "articles": [
-    {
-      "source": "bbc",
-      "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-      "link": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 15:55:14 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
     {
       "source": "bbc",
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
@@ -20,8 +10,8 @@
       "full_text": "",
       "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 15:52:10 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
@@ -30,38 +20,48 @@
       "full_text": "",
       "summary": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 15:30:43 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 16:07:26 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
+      "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
       "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 13:32:56 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 16:35:05 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
-      "title": "Severe drought declared in parts of southern England",
-      "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+      "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+      "summary": "The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 15:55:10 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 20:24:32 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
-      "title": "Meghan makes first official public appearance since moving back to UK",
-      "link": "https://www.bbc.co.uk/news/articles/c6gelgd1lxv2o?at_medium=RSS&at_campaign=rss",
+      "title": "Banks say Healey is planning Budget tax raid on their profits",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Duke and Duchess of Sussex are taking part in a series of events linked to their charitable work in Nottingham.",
+      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 12:06:51 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 17:14:36 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "This 75,000-year-old wound suggests Neanderthal life was more violent than we thought",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 15:00:05 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
@@ -71,7 +71,27 @@
       "summary": "Scottish athlete, Archie Goodburn, who was diagnosed with three inoperable brain tumours two years ago, met Andy Burnham after an appeal for more investment into brain cancer research.",
       "author": "",
       "published": "Thu, 15 Oct 2026 10:56:25 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "London housing project wins top architecture award",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 20:36:32 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 15:55:14 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
@@ -80,18 +100,8 @@
       "full_text": "",
       "summary": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 12:45:22 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 14:46:09 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 16:00:26 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
@@ -100,88 +110,8 @@
       "full_text": "",
       "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 15:09:15 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
-      "link": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 15:26:21 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 15:00:05 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-      "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 05:00:23 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why Starlink internet is so important on the battlefield in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 11:25:19 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "My son wants to try protein powders - I asked experts how safe it was",
-      "link": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Are protein supplements recommended for pre-teens and teenagers or is a big, juicy steak just as good?",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 00:00:35 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
-      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 15:42:37 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Everton's Thierno Barry on the emotional video he was scared to post",
-      "link": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Everton striker explains why he chose to post an emotional video from a training session.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 11:27:07 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Wales has an education crisis. Can it be fixed?",
-      "link": "https://www.bbc.co.uk/news/articles/cw240qv4ygzmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Wales scores poorly on international test results but it is not clear a new curriculum will help.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 00:01:46 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 16:50:18 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +121,67 @@
       "summary": "Dr Lesel Dawson, co-director of Good Grief Weston, says avoiding grief is not a good way to cope.",
       "author": "",
       "published": "Thu, 15 Oct 2026 05:11:16 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+      "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 05:00:23 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+      "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 17:31:37 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
+      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 15:42:37 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What we know about the criminal investigation into US Congresswoman Ilhan Omar",
+      "link": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The nature of the investigation is unclear but comes after officials cast doubt on her US citizenship.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 16:59:31 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "My son wants to try protein powders - I asked experts how safe it was",
+      "link": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Are protein supplements recommended for pre-teens and teenagers or is a big, juicy steak just as good?",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 00:00:35 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Everton's Thierno Barry on the emotional video he was scared to post",
+      "link": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Everton striker explains why he chose to post an emotional video from a training session.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 11:27:07 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +191,17 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Severe drought declared in parts of southern England",
+      "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 19:26:13 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
@@ -211,17 +211,27 @@
       "summary": "The husband is accused of inviting 13 other men to abuse her at their family home in Stockport.",
       "author": "",
       "published": "Thu, 15 Oct 2026 14:56:46 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arrests made after couple and two children killed in arson attack in Waterford",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0658znkxpo?at_medium=RSS&at_campaign=rss",
+      "title": "Letters with 'suspicious substances' sent to US election offices",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Gardaí (Irish police) have arrested a man and a woman in connection with a suspected arson attack which killed four family members.",
+      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 14:33:32 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 19:13:09 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Mother of Henry Nowak killer could be deported",
+      "link": "https://www.bbc.co.uk/news/articles/cqze4l9l2eywo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Kiran Kaur was found guilty of assisting an offender and was jailed for three years in July.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 19:43:07 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
@@ -231,187 +241,57 @@
       "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
       "author": "",
       "published": "Thu, 15 Oct 2026 14:55:21 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
-      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "title": "Arrests made after couple and two children killed in arson attack in Waterford",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0658znkxpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "summary": "Gardaí (Irish police) have arrested a man and a woman in connection with a suspected arson attack which killed four family members.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 15:26:16 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 14:33:32 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man with suitcase full of snakes stopped at German airport",
-      "link": "https://www.bbc.co.uk/news/articles/cke8r2lpm992o?at_medium=RSS&at_campaign=rss",
+      "title": "Katie Price 'coached' alleged victim, court told",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq6l04gzyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The man, a Mexican firefighter, looked \"nervous\" as he tried to leave Cologne Airport, officials say.",
+      "summary": "Kieran Hayler says claims were fabricated amid the breakdown of his marriage.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 15:21:32 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 17:37:43 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
-      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 13:25:17 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "King Charles praises Welsh 'sense of belonging' as he opens Senedd",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ld0lgw4x8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The monarch and Queen Camilla officially open the Senedd's seventh term on their visit to Cardiff.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 13:21:21 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Twice homeless millionaire tops UK black power list",
-      "link": "https://www.bbc.co.uk/news/articles/c4g2eplxgklo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The now multimillionaire began his career in a call centre after failing to become a professional footballer.",
-      "author": "",
-      "published": "Fri, 25 Oct 2024 11:07:10 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The gaming releases to look out for",
-      "link": "https://www.bbc.co.uk/news/articles/cg5mennm6p2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Next year could be hugely significant for video games - here are the big things to keep an eye on.",
-      "author": "",
-      "published": "Wed, 31 Dec 2025 01:08:12 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The paper review - it's always there",
-      "link": "https://www.bbc.co.uk/news/articles/c72vgq6y83po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Monday's papers focus on GPs threatening industrial action and Adam Peaty narrowly missing a gold medal.",
-      "author": "",
-      "published": "Mon, 29 Jul 2024 03:39:40 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ros Atkins on... unanswered Andrew questions",
-      "link": "https://www.bbc.co.uk/news/videos/cpqw2p1z19vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC's Analysis Editor Ros Atkins looks at the questions around the way Buckingham Palace has responded to the various accusations against the King's brother.",
-      "author": "",
-      "published": "Tue, 17 Feb 2026 20:52:00 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The big acts with new music on the way",
-      "link": "https://www.bbc.co.uk/news/articles/cz68944djpqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Music correspondent Mark Savage previews the biggest albums, tours and festivals of the coming year.",
-      "author": "",
-      "published": "Tue, 30 Dec 2025 00:05:40 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Wuthering Heights and other stand out films",
-      "link": "https://www.bbc.co.uk/news/articles/cp8z60j7438o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "We look ahead to 20 notable films to watch for in 2026, from Oscar hopefuls to potential blockbusters.",
-      "author": "",
-      "published": "Sun, 28 Dec 2025 00:45:45 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hotly anticipated books to see you through the year",
-      "link": "https://www.bbc.co.uk/news/articles/cx2e6nw1w40o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fictional gems, debut thillers, cracking biographies and everything in between.",
-      "author": "",
-      "published": "Thu, 25 Dec 2025 01:14:43 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Some of the best TV in years is to come",
-      "link": "https://www.bbc.co.uk/news/articles/c9qedx5wj45o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "We look ahead to 18 notable shows and events to look out for in 2026, from drama to sport.",
-      "author": "",
-      "published": "Mon, 29 Dec 2025 04:27:06 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Drivers face severe delays after lorry fire",
-      "link": "https://www.bbc.co.uk/news/articles/cly23g9448go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The M5 in Somerset has reopened after an earlier lorry fire closed all lanes.",
-      "author": "",
-      "published": "Fri, 25 Oct 2024 18:23:05 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: How Andrew's BBC interview compares to what Epstein emails tell us now",
-      "link": "https://www.bbc.co.uk/news/videos/c20jepq911zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Following the latest release of the Epstein files, claims made by the then Prince Andrew in 2019 are under fresh scrutiny.",
-      "author": "",
-      "published": "Fri, 13 Feb 2026 11:31:06 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "More embarrassing Epstein exchanges to come, says Mandelson",
-      "link": "https://www.bbc.co.uk/news/articles/c5yevwvvneyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The UK's ambassador to the US likens his past association with the convicted paedophile to \"an albatross around my neck\".",
-      "author": "",
-      "published": "Wed, 10 Sep 2025 14:38:16 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Six of Sarah Ferguson's companies winding down",
-      "link": "https://www.bbc.co.uk/news/articles/cd9g28yzy0no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The move follows further revelations over her friendship with the convicted paedophile Jeffrey Epstein.",
-      "author": "",
-      "published": "Mon, 16 Feb 2026 19:22:44 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "BBC News app",
+      "title": "Download now",
       "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
-      "title": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&at_campaign=rss",
+      "title": "Martinez apologises for outburst and fined by Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.",
+      "summary": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 14:46:09 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 18:03:28 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Australia clinch thrilling World Cup opener against New Zealand",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cmn4eqpvw1ppo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Australia beat New Zealand 24-22 in a dramatic Rugby League World Cup opener in Sydney, with debutant Jack Bostock scoring a hat-trick to see the hosts snatch victory late on.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 17:00:06 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
@@ -421,47 +301,17 @@
       "summary": "Australia's Reece Walsh exerted himself to the point of throwing up, while New Zealand's Kalyn Ponga tried to play on with a suspected broken arm in a dramatic Men's Rugby League World Cup opener.",
       "author": "",
       "published": "Thu, 15 Oct 2026 15:07:28 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man Utd a circus after Martinez comments - Keane",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&at_campaign=rss",
+      "title": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
+      "summary": "President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 10:57:15 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The F1 pit stop that helped save lives",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6ly0q00gj5do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "How an F1 pit stop inspired changes to hospital care that have helped save lives ever since.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 05:56:53 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Kartal wins again as impressive comeback continues",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c85ynx5vwq35o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Britain's Sonay Kartal beats former Wimbledon finalist Jasmine Paolini in straight sets to reach the Wuhan Open quarter-finals.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 12:02:14 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "GB win two golds at Track World Championships",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/cm75p3eqg2rpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Great Britain claim gold in the women's team pursuit and the men's scratch race at the World Track Cycling Championships.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 13:50:52 GMT",
-      "fetched_at": "2026-10-15T15:58:35.244372+00:00"
+      "published": "Thu, 15 Oct 2026 14:46:09 GMT",
+      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
     }
   ]
 }
