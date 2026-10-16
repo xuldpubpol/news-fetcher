@@ -1,8 +1,28 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-15T20:42:53.762431+00:00",
-  "count": 31,
+  "fetched_at": "2026-10-16T02:16:45.491829+00:00",
+  "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 22:37:21 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+      "author": "",
+      "published": "Fri, 16 Oct 2026 00:34:45 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
+    },
     {
       "source": "bbc",
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
@@ -11,37 +31,27 @@
       "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
       "author": "",
       "published": "Thu, 15 Oct 2026 17:47:22 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
-      "link": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
+      "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
+      "summary": "The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 16:07:26 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Thu, 15 Oct 2026 23:01:49 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
+      "title": "Porn showing choking or incest to be banned from early November, government says",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
       "author": "",
-      "published": "Thu, 15 Oct 2026 16:35:05 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 20:24:32 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Thu, 15 Oct 2026 23:27:57 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -51,27 +61,17 @@
       "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
       "author": "",
       "published": "Thu, 15 Oct 2026 17:14:36 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "This 75,000-year-old wound suggests Neanderthal life was more violent than we thought",
-      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+      "title": "Reform faces questions over candidate vetting after undercover filming",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+      "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
       "author": "",
-      "published": "Thu, 15 Oct 2026 15:00:05 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Swimmer's emotional TV plea for cancer research leads to meeting with PM",
-      "link": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Scottish athlete, Archie Goodburn, who was diagnosed with three inoperable brain tumours two years ago, met Andy Burnham after an appeal for more investment into brain cancer research.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 10:56:25 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Thu, 15 Oct 2026 23:52:27 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +81,27 @@
       "summary": "Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.",
       "author": "",
       "published": "Thu, 15 Oct 2026 20:36:32 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
+      "link": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 16:07:26 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "India's 'cockroach' protesters set to return despite police crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The youth-led movement plans a fresh Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 23:30:29 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -91,97 +111,77 @@
       "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
       "author": "",
       "published": "Thu, 15 Oct 2026 15:55:14 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
+      "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 16:00:26 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Thu, 15 Oct 2026 23:25:06 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "title": "Your child wasn't invited to the party - here's how to handle the disappointment",
+      "link": "https://www.bbc.co.uk/news/articles/cr86zjee80p9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "summary": "This very common scenario can be sad for little ones but there are ways you can help them.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 16:50:18 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Fri, 16 Oct 2026 00:46:10 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "Professor shares 'most important thing to do' when someone is grieving",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06xr871g1o?at_medium=RSS&at_campaign=rss",
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dr Lesel Dawson, co-director of Good Grief Weston, says avoiding grief is not a good way to cope.",
+      "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 05:11:16 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Fri, 16 Oct 2026 01:36:45 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-      "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+      "title": "Weekly quiz: Which star is lending his voice to Gromit?",
+      "link": "https://www.bbc.co.uk/news/articles/c3gr85dl78y4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "author": "",
-      "published": "Thu, 15 Oct 2026 05:00:23 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Thu, 15 Oct 2026 17:52:33 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-      "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: Healey's 'tax raid on banks' and Brand 'topless monster'",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg0dx2y1j5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
+      "summary": "The chancellor's possible plan to tax banks and new evidence in Russell Brand's rape trial dominate Friday's papers.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 17:31:37 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Fri, 16 Oct 2026 00:16:10 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
-      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "title": "I find it quite demoralising in store - why I do all my shopping online",
+      "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
+      "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 15:42:37 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Thu, 15 Oct 2026 23:16:12 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "What we know about the criminal investigation into US Congresswoman Ilhan Omar",
-      "link": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
+      "title": "'We got penalised for saying 'pregnancy' on Instagram'",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The nature of the investigation is unclear but comes after officials cast doubt on her US citizenship.",
+      "summary": "Creators say women's health content is getting them shadowbanned on social media. So what's really happening?",
       "author": "",
-      "published": "Thu, 15 Oct 2026 16:59:31 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "My son wants to try protein powders - I asked experts how safe it was",
-      "link": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Are protein supplements recommended for pre-teens and teenagers or is a big, juicy steak just as good?",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 00:00:35 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Everton's Thierno Barry on the emotional video he was scared to post",
-      "link": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Everton striker explains why he chose to post an emotional video from a training session.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 11:27:07 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Fri, 16 Oct 2026 00:53:58 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +191,27 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 16:35:05 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "This 75,000-year-old wound suggests Neanderthal life was more violent than we thought",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 15:00:05 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +221,7 @@
       "summary": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
       "author": "",
       "published": "Thu, 15 Oct 2026 19:26:13 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -211,17 +231,17 @@
       "summary": "The husband is accused of inviting 13 other men to abuse her at their family home in Stockport.",
       "author": "",
       "published": "Thu, 15 Oct 2026 14:56:46 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
-      "title": "Letters with 'suspicious substances' sent to US election offices",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+      "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
+      "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+      "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
       "author": "",
-      "published": "Thu, 15 Oct 2026 19:13:09 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "published": "Thu, 15 Oct 2026 18:09:58 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +251,7 @@
       "summary": "Kiran Kaur was found guilty of assisting an offender and was jailed for three years in July.",
       "author": "",
       "published": "Thu, 15 Oct 2026 19:43:07 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -241,27 +261,7 @@
       "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
       "author": "",
       "published": "Thu, 15 Oct 2026 14:55:21 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Arrests made after couple and two children killed in arson attack in Waterford",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0658znkxpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Gardaí (Irish police) have arrested a man and a woman in connection with a suspected arson attack which killed four family members.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 14:33:32 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Katie Price 'coached' alleged victim, court told",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq6l04gzyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Kieran Hayler says claims were fabricated amid the breakdown of his marriage.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 17:37:43 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +271,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +281,17 @@
       "summary": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy.",
       "author": "",
       "published": "Thu, 15 Oct 2026 18:03:28 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 23:04:37 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +301,17 @@
       "summary": "Australia beat New Zealand 24-22 in a dramatic Rugby League World Cup opener in Sydney, with debutant Jack Bostock scoring a hat-trick to see the hosts snatch victory late on.",
       "author": "",
       "published": "Thu, 15 Oct 2026 17:00:06 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Minus 17 to European dreams as Bournemouth fairytale continues",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6lyez88m1n2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It was a night 127 years in the making as Bournemouth added another chapter to their fairytale with victory in their first-ever European home game.",
+      "author": "",
+      "published": "Thu, 15 Oct 2026 22:42:26 GMT",
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +321,7 @@
       "summary": "Australia's Reece Walsh exerted himself to the point of throwing up, while New Zealand's Kalyn Ponga tried to play on with a suspected broken arm in a dramatic Men's Rugby League World Cup opener.",
       "author": "",
       "published": "Thu, 15 Oct 2026 15:07:28 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +331,7 @@
       "summary": "President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.",
       "author": "",
       "published": "Thu, 15 Oct 2026 14:46:09 GMT",
-      "fetched_at": "2026-10-15T20:42:48.994021+00:00"
+      "fetched_at": "2026-10-16T02:16:15.754558+00:00"
     }
   ]
 }
