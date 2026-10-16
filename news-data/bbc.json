@@ -1,17 +1,37 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-16T15:46:36.088536+00:00",
-  "count": 35,
+  "fetched_at": "2026-10-16T20:15:31.836887+00:00",
+  "count": 31,
   "articles": [
     {
       "source": "bbc",
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 15:22:12 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 15:45:10 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "author": "",
+      "published": "Fri, 16 Oct 2026 16:00:30 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man killed by tiger may have had medical records breached by NHS staff",
+      "link": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
+      "author": "",
+      "published": "Fri, 16 Oct 2026 16:53:07 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -21,27 +41,17 @@
       "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
       "author": "",
       "published": "Fri, 16 Oct 2026 14:31:04 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tiger attack medical records in potential breach, trust says",
-      "link": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
+      "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park on Saturday.",
+      "summary": "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 15:42:54 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
-      "author": "",
-      "published": "Fri, 16 Oct 2026 14:21:32 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 16:07:37 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -51,27 +61,37 @@
       "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
       "author": "",
       "published": "Fri, 16 Oct 2026 12:32:31 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "title": "Police feared Andrew would delay search by saying King owned his home, documents show",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrk0gxlw2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "summary": "Legal records have emerged which show why police wanted to search the royal's home and what they were looking for.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 14:36:39 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 18:37:26 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "Norwegian teen 'hitman' detained for UK murder plot",
+      "title": "'Well-known' man asks court to stop publication of sexual offence allegation",
+      "link": "https://www.bbc.co.uk/news/articles/c674pz3l0e73o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The unnamed individual asks London's High Court to prevent the publication of \"serious allegations\".",
+      "author": "",
+      "published": "Fri, 16 Oct 2026 18:46:14 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Norwegian teen 'hitman' jailed over UK murder plot",
       "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
       "author": "",
       "published": "Fri, 16 Oct 2026 13:43:21 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -81,37 +101,17 @@
       "summary": "The 51-year-old faces three counts of rape, three of sexual assault and one of indecent assault, all of which he denies.",
       "author": "",
       "published": "Fri, 16 Oct 2026 14:06:59 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "Catherine says nature can help children's emotional growth",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0n4nzq5qo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline",
+      "link": "https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Princess of Wales launches a project encouraging a greater emphasis on children learning from nature.",
+      "summary": "Kyiv says it has recaptured 277 sq km (106 square miles) of territory in the eastern Donbas region in recent months",
       "author": "",
-      "published": "Fri, 16 Oct 2026 12:06:22 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
-      "link": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "On his first substantive trip to Scotland since becoming PM, he says politicians should focus on solutions \"right now\" and move beyond the issue of Scottish independence.",
-      "author": "",
-      "published": "Fri, 16 Oct 2026 14:36:27 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "We must save water as drought becomes new normal, says minister",
-      "link": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Severe drought was declared across parts of southern England after months of low rainfall.",
-      "author": "",
-      "published": "Fri, 16 Oct 2026 12:15:15 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 17:41:53 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +121,17 @@
       "summary": "Beth Dobbin ran for Great Britain at the Tokyo Olympics in 2021. Five years on, she is largely bedbound after being diagnosed with ME, a devastating illness for which there is no cure.",
       "author": "",
       "published": "Fri, 16 Oct 2026 05:31:22 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Street Fighter movie is 'made by fans for fans' - but can it KO the critics?",
+      "link": "https://www.bbc.co.uk/news/articles/cj040z4ngnz1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Cast members Noah Centineo, Andrew Koji and Callina Liang discuss the latest video game adaptation.",
+      "author": "",
+      "published": "Fri, 16 Oct 2026 12:06:04 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -131,7 +141,7 @@
       "summary": "Concerns about the use of smart glasses are having an affect on visually-impaired users.",
       "author": "",
       "published": "Fri, 16 Oct 2026 05:23:00 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +151,7 @@
       "summary": "This very common scenario can be sad for little ones but there are ways you can help them.",
       "author": "",
       "published": "Fri, 16 Oct 2026 11:17:28 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -151,27 +161,7 @@
       "summary": "As coal slurry engulfed the school, the dinner lady threw her body on five children, protecting them.",
       "author": "",
       "published": "Fri, 16 Oct 2026 05:11:56 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I find it quite demoralising in store - why I do all my shopping online",
-      "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
-      "author": "",
-      "published": "Thu, 15 Oct 2026 23:16:12 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "They fled Russia, but the West sent them back",
-      "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
-      "author": "",
-      "published": "Fri, 16 Oct 2026 04:57:28 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +171,7 @@
       "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "author": "",
       "published": "Thu, 15 Oct 2026 17:52:33 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -191,27 +181,47 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ten-year-old Willow among children to benefit from pioneering same-day test to spot infections",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope pictured for first time since surgery as he says Mass at makeshift altar in hospital",
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 00:34:45 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 14:36:39 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mother of Henry Nowak's killer could be released early",
-      "link": "https://www.bbc.co.uk/news/articles/cqze4l9l2eywo?at_medium=RSS&at_campaign=rss",
+      "title": "Catherine says nature can help children's emotional growth",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0n4nzq5qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kiran Kaur, 53, was found guilty of assisting an offender and was jailed for three years in July.",
+      "summary": "The Princess of Wales launches a project encouraging a greater emphasis on children learning from nature.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 09:40:37 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 12:06:22 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Police assess Palestine Action post by national security adviser's wife",
+      "link": "https://www.bbc.co.uk/news/articles/crn4el88y7p2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Downing Street says Sarah Helm, the wife of Jonathan Powell, \"does not represent the government in any capacity\".",
+      "author": "",
+      "published": "Fri, 16 Oct 2026 18:58:05 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+      "author": "",
+      "published": "Fri, 16 Oct 2026 14:21:32 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -221,47 +231,27 @@
       "summary": "Hyron Andrews dies at his Johannesburg Lions' team hotel before their Champions Cup match at La Rochelle on Saturday.",
       "author": "",
       "published": "Fri, 16 Oct 2026 14:33:04 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "Police officer who raped two women jailed for 12 years",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg53v29005o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-top official Robbins reaches settlement with government over sacking",
+      "link": "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Campbell Petrie was found guilty of physical and sexual abuse towards the women between 2006 and 2023.",
+      "summary": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 10:54:24 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 16:38:18 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "Doctor regrets not going to police earlier about Lucy Letby",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7x1prldedo?at_medium=RSS&at_campaign=rss",
+      "title": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
+      "link": "https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dr Stephen Brearey was the lead neonatal consultant at the hospital where the nurse worked.",
+      "summary": "Ministers promise to reform the scheme that provides financial support for those injured or bereaved by vaccines in the UK.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 08:28:22 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Banks expect to be hit with higher taxes in Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-      "author": "",
-      "published": "Fri, 16 Oct 2026 10:16:27 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Wildlife park reopens after man killed by tiger",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk8djj27po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Yorkshire Wildlife Park says the decision was made after 'engagement with the relevant authorities'.",
-      "author": "",
-      "published": "Fri, 16 Oct 2026 12:48:20 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 15:02:46 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +271,7 @@
       "summary": "What can we learn from wildfires that destroyed 38 homes in the Midlands in August 2026?",
       "author": "",
       "published": "Fri, 16 Oct 2026 05:00:00 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
@@ -291,67 +281,37 @@
       "summary": "Hyron Andrews dies at his Johannesburg Lions' team hotel before their Champions Cup match at La Rochelle on Saturday.",
       "author": "",
       "published": "Fri, 16 Oct 2026 14:33:04 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I am telling you the truth' - Carrick on Martinez fallout",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&at_campaign=rss",
+      "title": "Do Manchester City have any grounds to win their appeal?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.",
+      "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 13:59:12 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 16:17:01 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arteta told Arsenal job cuts will help create success",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&at_campaign=rss",
+      "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Arsenal boss Mikel Arteta says he was told the club's decision to cut 60 jobs had been made to \"achieve the success we want to create\".",
+      "summary": "Alex Scott's sudden departure from her Disney+ presenter role reveals a pressing challenge for broadcasters of women's football.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 15:31:54 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 15:49:55 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Olympic sprinter now bedbound for 22 hours a day",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/crd6dj26v4e4o?at_medium=RSS&at_campaign=rss",
+      "title": "Rahm sacrifices £75m to secure exit from LIV Golf",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cq80zpk1xgxpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Beth Dobbin ran for Great Britain at the Tokyo Olympics in 2021. Five years on, she is largely bedbound after being diagnosed with ME, a devastating illness for which there is no cure.",
+      "summary": "Jon Rahm sacrifices a reported $100m (£75m) still owed to him by LIV Golf to secure his exit from the league.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 05:31:22 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "NRL gap a factor in France's heavy defeat by Samoa, says boss",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c50me81r74n7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "France boss Laurent Frayssinous suggests the gap between the NRL and Super League was a huge factor in their 78-4 defeat by Samoa at the Men's Rugby League World Cup.",
-      "author": "",
-      "published": "Fri, 16 Oct 2026 12:28:55 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The rapid rise of a former art dealer to Europe's hottest young manager",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmde8l07569no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "How Brighton's Fabian Hurzeler has gone from Germany's fifth tier to being reportedly of interest to Manchester United.",
-      "author": "",
-      "published": "Fri, 16 Oct 2026 06:28:10 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Stewart and Morris add to GB gold tally at Worlds",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/cwdd8z932nq2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mark Stewart and Anna Morris add to Great Britain's gold medal tally on day three of the Track Cycling World Championships in Shanghai.",
-      "author": "",
-      "published": "Fri, 16 Oct 2026 14:22:42 GMT",
-      "fetched_at": "2026-10-16T15:46:34.023407+00:00"
+      "published": "Fri, 16 Oct 2026 17:52:10 GMT",
+      "fetched_at": "2026-10-16T20:15:26.778477+00:00"
     }
   ]
 }
