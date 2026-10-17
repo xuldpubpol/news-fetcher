@@ -1,77 +1,47 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-17T09:53:51.860207+00:00",
-  "count": 31,
+  "fetched_at": "2026-10-17T14:39:22.394785+00:00",
+  "count": 24,
   "articles": [
     {
       "source": "bbc",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+      "link": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "summary": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
       "author": "",
-      "published": "Sat, 17 Oct 2026 09:42:13 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 12:14:52 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "title": "More NHS staff sacked over attacks victims' records",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
       "author": "",
-      "published": "Sat, 17 Oct 2026 06:49:48 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 13:18:32 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
-      "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
+      "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+      "link": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
+      "summary": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
       "author": "",
-      "published": "Sat, 17 Oct 2026 09:39:25 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 12:56:09 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
+      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 21:02:18 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-      "author": "",
-      "published": "Sat, 17 Oct 2026 01:59:48 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Swinney insists 'stars are aligning' for Scottish independence",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's \"journey to nationhood\".",
-      "author": "",
-      "published": "Sat, 17 Oct 2026 08:17:18 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-      "link": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday.",
-      "author": "",
-      "published": "Sat, 17 Oct 2026 01:34:52 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 13:51:36 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
@@ -81,17 +51,17 @@
       "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
       "author": "",
       "published": "Fri, 16 Oct 2026 18:11:29 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Vapes were meant to help people quit cigarettes. Now non-smokers are taking up vaping",
+      "title": "Why people who have never smoked are getting hooked on vapes",
       "link": "https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "More than one million people now vape who have never been smokers, according to the ONS.",
       "author": "",
       "published": "Fri, 16 Oct 2026 23:49:16 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +71,7 @@
       "summary": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
       "author": "",
       "published": "Fri, 16 Oct 2026 23:27:01 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
@@ -111,7 +81,7 @@
       "summary": "Parents are divided, with some struggling to arrange childcare while others eye cheaper holidays.",
       "author": "",
       "published": "Fri, 16 Oct 2026 23:26:45 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
@@ -121,87 +91,87 @@
       "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
       "author": "",
       "published": "Fri, 16 Oct 2026 23:07:18 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man jailed for Starmer-linked arson attacks is deported",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2vk44dv1xo?at_medium=RSS&at_campaign=rss",
+      "title": "Violent clashes between police and protesters in Albania",
+      "link": "https://www.bbc.co.uk/news/videos/c8040dk1rnq4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Romanian national Stanislav Carpiuc was sentenced in June over arson attacks targeting the former prime minister's car and property.",
+      "summary": "Police in Albania's capital Tirana have fired tear gas and water cannons onto crowds gathered outside the Ministry of Education where students are among those protesting.",
       "author": "",
-      "published": "Sat, 17 Oct 2026 07:38:36 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 13:11:20 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+      "title": "Harry Styles debuts new track in memory of Liam Payne",
+      "link": "https://www.bbc.co.uk/news/articles/c34g180knv91o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
+      "summary": "The pop star performed the song on the second anniversary of Liam Payne's death.",
       "author": "",
-      "published": "Sat, 17 Oct 2026 05:01:40 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 11:57:19 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+      "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+      "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It comes after the prime minister refused to say whether he backed expansion.",
+      "summary": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
       "author": "",
-      "published": "Sat, 17 Oct 2026 03:57:16 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 11:57:27 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 23:54:35 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 09:58:17 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "author": "",
-      "published": "Sat, 17 Oct 2026 02:33:09 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 11:56:06 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Mystery drones over UK' and 'Troops heading to Poland for war games'",
-      "link": "https://www.bbc.co.uk/news/articles/ckq5n381j7w1o?at_medium=RSS&at_campaign=rss",
+      "title": "DIY SOS to be 'rested' next year to save money, BBC says",
+      "link": "https://www.bbc.co.uk/news/articles/cr15jw22v50qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Daily Telegraph leads with reports that RAF jets had two close encounters with unidentified drones earlier this year.",
+      "summary": "The long-running programme will be replaced by a \"more cost-effective\" spin-off show revisiting past projects.",
       "author": "",
-      "published": "Fri, 16 Oct 2026 23:50:59 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 10:52:17 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why hasn't the UK had any named storms yet?",
-      "link": "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss",
+      "title": "Recovery driver sentenced after runaway car crush",
+      "link": "https://www.bbc.co.uk/news/articles/c9ly08pm8jz7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "So far this autumn wet and windy weather patterns have been steered away from the UK. When could we see that change?",
+      "summary": "CCTV footage captured the vehicle rolling down the road, dragging driver Sean Baker along.",
       "author": "",
-      "published": "Sat, 17 Oct 2026 01:53:34 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 11:10:35 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "Obama receives honorary degree from Queen's University Belfast",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqwvk399xlo?at_medium=RSS&at_campaign=rss",
+      "title": "'Taking in my great-grandkids at 74 saved me'",
+      "link": "https://www.bbc.co.uk/news/articles/c5lyev4e2m9zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Receiving his doctorate, the 44th US president praised Northern Ireland's progress and challenged the next generation to continue building a peaceful and inclusive future.",
+      "summary": "A Somerset great-grandmother talks about becoming a kinship carer after her daughter died.",
       "author": "",
-      "published": "Tue, 13 Oct 2026 21:17:33 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 10 Oct 2026 06:11:22 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +181,7 @@
       "summary": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
       "author": "",
       "published": "Tue, 13 Oct 2026 15:12:38 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
@@ -221,17 +191,17 @@
       "summary": "Invictibellatrix would have been up to four metres long with feathers and had 20cm claws.",
       "author": "",
       "published": "Wed, 14 Oct 2026 05:09:46 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
+      "title": "Poodle party reunites rescued dogs",
+      "link": "https://www.bbc.co.uk/news/videos/cm2kevzevp1lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
+      "summary": "The eight dogs were found alongside more than 250 poodle-cross breeds at a property in Norfolk.",
       "author": "",
-      "published": "Wed, 14 Oct 2026 22:19:13 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Tue, 13 Oct 2026 11:17:19 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +211,7 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +221,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
@@ -261,57 +231,17 @@
       "summary": "What can we learn from wildfires that destroyed 38 homes in the Midlands in August 2026?",
       "author": "",
       "published": "Fri, 16 Oct 2026 05:00:00 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     },
     {
       "source": "bbc",
-      "title": "England's 41-match unbeaten run ended by Canada",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+      "title": "McDermott seeks fix as England fight to save their World Cup",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
+      "summary": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
       "author": "",
-      "published": "Sat, 17 Oct 2026 07:25:54 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "England crush Women's World Cup debutants Wales",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6djvxmx0z1po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "England scored seven tries before the break, and 13 in total on their way to a comprehensive victory over Wales in their Group A opener.",
-      "author": "",
-      "published": "Sat, 17 Oct 2026 08:39:22 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ranking the Premier League's all-time greatest super subs",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-      "author": "",
-      "published": "Fri, 16 Oct 2026 21:15:47 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Dubois v Wardley 2 - heavyweight title fight predictions",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cwz0vdmyvrx8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Figures from the boxing world give their predictions for Saturday's heavyweight world title rematch between Fabio Wardley and Daniel Dubois.",
-      "author": "",
-      "published": "Sat, 17 Oct 2026 06:28:03 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Eight-try Australia send Scotland to eighth straight defeat",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cxg5jz4epr1po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Scotland suffer a chastening eight-try defeat by Australia in their WXV Global Series match in Sydney.",
-      "author": "",
-      "published": "Sat, 17 Oct 2026 08:13:13 GMT",
-      "fetched_at": "2026-10-17T09:53:43.295038+00:00"
+      "published": "Sat, 17 Oct 2026 14:12:33 GMT",
+      "fetched_at": "2026-10-17T14:39:20.932584+00:00"
     }
   ]
 }
