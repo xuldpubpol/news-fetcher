@@ -1,37 +1,107 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-20T10:39:15.870154+00:00",
-  "count": 27,
+  "fetched_at": "2026-10-20T16:02:03.011633+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 10:06:34 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 15:32:36 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "How the attack on an Australian MP unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss",
+      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC's Katy Watson is in Wangaratta visiting the scene of the incident and the church where the community has held a vigil for the independent MP.",
+      "summary": "The closurse are announced as the corporation continues to try to save £500m over two years.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 06:02:05 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 13:10:43 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "We asked teens what schools should teach them about work. This is what they said",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss",
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Teenagers say they want more work experience at school and opportunities to improve their communication skills.",
+      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 05:00:14 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 11:45:49 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Harry says he wants to 'reconcile' with his family",
+      "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 15:49:54 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Student who stabbed housemate 30 times admits murder",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Zack Coughlan changes his plea and admits murdering Jamie Collins (pictured) near their Bristol home.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 14:35:14 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Huge setback for Alberta's separatist movement after decisive defeat",
+      "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 13:39:11 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 13:54:35 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 11:25:35 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Woman describes alleged assault by Russell Brand as 'frenzied' and 'violent'",
+      "link": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 13:46:33 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 15:39:04 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
@@ -41,47 +111,47 @@
       "summary": "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday.",
       "author": "",
       "published": "Tue, 20 Oct 2026 09:42:56 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Three children injured after school bus roof ripped off in crash",
-      "link": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o?at_medium=RSS&at_campaign=rss",
+      "title": "We asked teens what schools should teach them about work. This is what they said",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Three children receive hospital treatment after a bus on its way to Ysgol Gyfun Gwent Is Coed crashes.",
+      "summary": "Teenagers say they want more work experience at school and opportunities to improve their communication skills.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 10:37:21 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 11:47:04 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Criminals detained in hospital set to lose benefits",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+      "title": "No 'protective ring' and visiting rules too strict - key points from Covid report on care homes",
+      "link": "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+      "summary": "From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 07:35:38 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 12:16:38 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+      "title": "Race, illness, injury, repeat - the devastating syndrome threatening athletic careers",
+      "link": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
+      "summary": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 08:55:02 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 05:45:34 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Can a simple photo of your face reveal how ill you are?",
-      "link": "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo?at_medium=RSS&at_campaign=rss",
+      "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
+      "link": "https://www.bbc.co.uk/news/articles/c63eln34yle3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers.",
+      "summary": "The BBC announced it will close its BBC Three, BBC Scotland and Radio 4 Extra broadcast channels.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 07:29:01 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 15:14:58 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
@@ -91,7 +161,7 @@
       "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
       "author": "",
       "published": "Tue, 20 Oct 2026 00:02:32 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +171,7 @@
       "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
       "author": "",
       "published": "Tue, 20 Oct 2026 05:00:45 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
@@ -111,47 +181,7 @@
       "summary": "For the last two years Megan has been in agony and unable to stand straight because of her ketamine use.",
       "author": "",
       "published": "Tue, 20 Oct 2026 05:13:05 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Israel's far right find fertile ground among first-time voters",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
-      "author": "",
-      "published": "Tue, 20 Oct 2026 08:53:06 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I have a condition people are too embarrassed to talk about",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgr43l7pdpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Women share their experience of lichen sclerosus.",
-      "author": "",
-      "published": "Mon, 19 Oct 2026 23:11:13 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "author": "",
-      "published": "Mon, 19 Oct 2026 23:08:25 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The singles choosing in-person dating events over apps",
-      "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC hears from people who think dating events are better value for money than dating apps.",
-      "author": "",
-      "published": "Tue, 20 Oct 2026 10:28:36 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
@@ -161,57 +191,77 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Suspect arrested after historic town hall set alight during disorder - French media",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "title": "Royals roll out red carpet for visiting Sultan",
+      "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "summary": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 08:58:26 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 13:34:11 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
       "author": "",
-      "published": "Mon, 19 Oct 2026 20:49:00 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 10:06:34 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Ukraine says it carried out first drone airlift of wounded soldier from front line",
-      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+      "title": "Three children injured after school bus roof ripped off in crash",
+      "link": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+      "summary": "Three children receive hospital treatment after a bus on its way to Ysgol Gyfun Gwent Is Coed crashes.",
       "author": "",
-      "published": "Mon, 19 Oct 2026 20:00:43 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 12:56:56 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Jobless rate falls but small firms cut back hiring",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 09:31:29 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 12:08:06 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rantzen felt 'deprived of choice' over her own death",
-      "link": "https://www.bbc.co.uk/news/articles/cky93njxlwjjo?at_medium=RSS&at_campaign=rss",
+      "title": "Christina Applegate says she was wrongfully diagnosed with MS",
+      "link": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A note written by Dame Esther Rantzen is released by her family following a private funeral.",
+      "summary": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
       "author": "",
-      "published": "Tue, 20 Oct 2026 05:01:51 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 15:16:38 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Criminals detained in hospital set to lose benefits",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 07:35:38 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 15:53:13 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
@@ -221,27 +271,37 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Maddison's magic moment for Spurs - 18 months in the making",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&at_campaign=rss",
+      "title": "How a shattered village rose from unimaginable grief to demand justice",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m003375t?at_mid=3BHJ0bPWP2&at_campaign=Aberfan_The_Village_That_Fought_Back&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m003375t&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Aberfan_The_Village_That_Fought_Back&at_bbc_team=BBC",
       "full_text": "",
-      "summary": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
+      "summary": "A community’s powerful fight for justice after the tragedy of the Aberfan disaster.",
       "author": "",
-      "published": "Mon, 19 Oct 2026 22:35:55 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Mon, 19 Oct 2026 05:00:00 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
-      "title": "Uncapped Dragons get Wales Nations Championship call",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjn5vqq974epo?at_medium=RSS&at_campaign=rss",
+      "title": "Sloppy England start winter with Pakistan defeat",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Wales include uncapped Dragons backs Aneurin Owen and Che Hope in the squad for November Nations Championship Tests but Taulupe Faletau misses out.",
+      "summary": "England begin their wandering winter with a sloppy loss to Pakistan in the one-day tri-series in Rawalpindi.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 10:13:30 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 15:43:23 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ronaldo let Manchester United down - Ten Hag",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 12:12:51 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
@@ -250,18 +310,8 @@
       "full_text": "",
       "summary": "England's Brad O'Neill has dismissed the suggestion they were underprepared for their Rugby League World Cup campaign as they bid to start salvaging it with an unchanged team against France.",
       "author": "",
-      "published": "Tue, 20 Oct 2026 09:15:53 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the United States Grand Prix.",
-      "author": "",
-      "published": "Tue, 20 Oct 2026 06:59:17 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "published": "Tue, 20 Oct 2026 11:00:25 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +321,27 @@
       "summary": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
       "author": "",
       "published": "Tue, 20 Oct 2026 05:45:34 GMT",
-      "fetched_at": "2026-10-20T10:39:12.061970+00:00"
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why O'Sullivan faces battle to stay in world's top 16",
+      "link": "https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Snooker's World Championship without Ronnie O'Sullivan is hard to conceive, after years of him being so often the central figure at the Crucible. But it may not be far away.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 13:45:51 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Boulter produces emphatic win at Japan Open",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c9vgrnnnz014o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Britain's Katie Boulter claims a dominant win in her rain-affected first-round match against Himeno Sakatsume in the Japan Open.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 09:24:43 GMT",
+      "fetched_at": "2026-10-20T16:01:56.231776+00:00"
     }
   ]
 }
