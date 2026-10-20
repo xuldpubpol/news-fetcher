@@ -1,6 +1,6 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-19T21:58:23.062966+00:00",
+  "fetched_at": "2026-10-20T02:38:29.130764+00:00",
   "count": 31,
   "articles": [
     {
@@ -11,7 +11,7 @@
       "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
       "author": "",
       "published": "Mon, 19 Oct 2026 21:14:53 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -21,17 +21,7 @@
       "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
       "author": "",
       "published": "Mon, 19 Oct 2026 21:30:08 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-      "author": "",
-      "published": "Mon, 19 Oct 2026 14:09:54 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -41,7 +31,17 @@
       "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
       "author": "",
       "published": "Mon, 19 Oct 2026 20:49:00 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "author": "",
+      "published": "Tue, 20 Oct 2026 01:31:09 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -51,7 +51,7 @@
       "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
       "author": "",
       "published": "Mon, 19 Oct 2026 21:30:06 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -61,37 +61,27 @@
       "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
       "author": "",
       "published": "Mon, 19 Oct 2026 18:22:06 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "title": "Criminals detained in hospital set to lose benefits",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
       "author": "",
-      "published": "Mon, 19 Oct 2026 19:45:46 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "published": "Mon, 19 Oct 2026 23:21:38 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "author": "",
-      "published": "Mon, 19 Oct 2026 17:18:04 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US Church on frontline of battle against drug known as 'tranq'",
+      "title": "US church on frontline of battle against drug known as 'tranq'",
       "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
       "author": "",
-      "published": "Mon, 19 Oct 2026 21:05:54 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "published": "Tue, 20 Oct 2026 00:02:32 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -101,17 +91,37 @@
       "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
       "author": "",
       "published": "Mon, 19 Oct 2026 21:12:30 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
-      "title": "Apu returns to The Simpsons with new voice after race row",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o?at_medium=RSS&at_campaign=rss",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The much-loved shopkeeper has been seen but not heard around Springfield for eight years, until now.",
+      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
       "author": "",
-      "published": "Mon, 19 Oct 2026 13:22:24 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "published": "Mon, 19 Oct 2026 23:08:25 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The singles choosing in-person dating events over apps",
+      "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC hears from people who think dating events are better value for money than dating apps.",
+      "author": "",
+      "published": "Mon, 19 Oct 2026 23:00:21 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I have a condition people are too embarrassed to talk about",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgr43l7pdpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Women share their experience of lichen sclerosus.",
+      "author": "",
+      "published": "Mon, 19 Oct 2026 23:11:13 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -121,47 +131,27 @@
       "summary": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
       "author": "",
       "published": "Mon, 19 Oct 2026 20:00:43 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
-      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
       "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In the apparent attack on MP Helen Haines, the worst fears of politicians and public figures appear to have been realised.",
+      "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
       "author": "",
-      "published": "Mon, 19 Oct 2026 16:32:47 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "published": "Tue, 20 Oct 2026 01:24:59 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "title": "'The French correction' and 'Labour cuts £2bn from Army'",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7y0vkz2yno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "summary": "Violent unrest in France continues and Defence drops funding for frontline military vehicles lead Tuesday's papers.",
       "author": "",
-      "published": "Mon, 19 Oct 2026 00:06:25 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The portraits that helped bring the lost Aberfan children home",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5y832v8ddo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "An artist living hundreds of miles away felt compelled to help the village that lost its children.",
-      "author": "",
-      "published": "Mon, 19 Oct 2026 05:28:02 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Are free-scoring Brighton genuine Premier League contenders?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwn8d48je057o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Brighton's start to the season has surprised many outsiders. But how high could they finish?",
-      "author": "",
-      "published": "Mon, 19 Oct 2026 14:52:01 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "published": "Mon, 19 Oct 2026 23:35:32 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +161,27 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "author": "",
+      "published": "Mon, 19 Oct 2026 19:45:46 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "author": "",
+      "published": "Mon, 19 Oct 2026 17:18:04 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +191,17 @@
       "summary": "The two top tennis pros married in 2021 and have one child together.",
       "author": "",
       "published": "Mon, 19 Oct 2026 21:02:33 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Apu returns to The Simpsons with new voice after race row",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The much-loved shopkeeper has been seen but not heard around Springfield for eight years, until now.",
+      "author": "",
+      "published": "Mon, 19 Oct 2026 13:22:24 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +211,7 @@
       "summary": "The activist is accused of \"bully-boy tactics\" and denies harassment causing fear of violence.",
       "author": "",
       "published": "Mon, 19 Oct 2026 17:24:27 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -201,17 +221,7 @@
       "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
       "author": "",
       "published": "Mon, 19 Oct 2026 18:21:54 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Uefa gives Infantino two-week deadline to release key documents",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
-      "author": "",
-      "published": "Mon, 19 Oct 2026 18:20:39 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -221,27 +231,7 @@
       "summary": "The reality star's surprise appearance on the runway in the diamond encrusted piece has sparked mixed reaction.",
       "author": "",
       "published": "Mon, 19 Oct 2026 13:16:22 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "author": "",
-      "published": "Mon, 19 Oct 2026 16:20:51 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
-      "author": "",
-      "published": "Mon, 19 Oct 2026 16:16:51 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +241,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Maddison's magic moment for Spurs - 18 months in the making",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
+      "author": "",
+      "published": "Mon, 19 Oct 2026 22:35:55 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +261,17 @@
       "summary": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
       "author": "",
       "published": "Mon, 19 Oct 2026 21:34:06 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England coach should be English, suggests Fleming",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+      "author": "",
+      "published": "Mon, 19 Oct 2026 23:29:19 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +281,7 @@
       "summary": "How Spurs and Coventry City's players rated following their Premier League match.",
       "author": "",
       "published": "Mon, 19 Oct 2026 21:05:28 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -281,27 +291,17 @@
       "summary": "England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?",
       "author": "",
       "published": "Mon, 19 Oct 2026 20:15:48 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
-      "title": "Uefa gives Infantino two-week deadline to release key documents",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
       "author": "",
-      "published": "Mon, 19 Oct 2026 18:20:39 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Palace manager Sage facing fight to keep his job",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
-      "author": "",
-      "published": "Mon, 19 Oct 2026 19:32:56 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "published": "Mon, 19 Oct 2026 23:22:24 GMT",
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +311,7 @@
       "summary": "Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.",
       "author": "",
       "published": "Mon, 19 Oct 2026 21:33:07 GMT",
-      "fetched_at": "2026-10-19T21:58:10.263996+00:00"
+      "fetched_at": "2026-10-20T02:38:19.496634+00:00"
     }
   ]
 }
