@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-21T16:18:52.288982+00:00",
-  "count": 34,
+  "fetched_at": "2026-10-21T21:01:47.698299+00:00",
+  "count": 35,
   "articles": [
     {
       "source": "bbc",
@@ -11,37 +11,47 @@
       "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
       "author": "",
       "published": "Wed, 21 Oct 2026 15:36:31 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Google experiences resignation backlash over AI military contracts",
-      "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 15:41:25 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 19:54:57 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 14:26:24 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia ready to resume talks with Ukraine and US to end war",
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 15:56:21 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 17:42:34 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
+      "author": "",
+      "published": "Wed, 21 Oct 2026 19:58:06 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+      "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+      "author": "",
+      "published": "Wed, 21 Oct 2026 18:10:42 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
@@ -51,77 +61,97 @@
       "summary": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
       "author": "",
       "published": "Wed, 21 Oct 2026 15:56:03 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster",
-      "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 11:21:58 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Don't Stop Believin' - high school musical Glee set for reboot",
+      "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
       "link": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
       "author": "",
       "published": "Wed, 21 Oct 2026 14:38:22 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "summary": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 16:07:19 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 15:41:25 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
-      "link": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
+      "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+      "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust.",
+      "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 15:24:23 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 14:26:24 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Teenage boy guilty of trying to murder girl, 15, in school",
-      "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham proposes plan to cut standing charges from gas bills",
+      "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The school went into lockdown and parents gathered at the gates as they waited for news about their children.",
+      "summary": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 15:47:51 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 17:06:16 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Glastonbury coach tickets oversold in admin error",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynqkgwr69o?at_medium=RSS&at_campaign=rss",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bookings will automatically be converted into a general admission ticket and coach fare refunded.",
+      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 15:30:57 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 14:04:28 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
-      "link": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope does not need further treatment after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
+      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 05:00:35 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 20:09:10 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Will it bring down your energy bills?",
+      "link": "https://www.bbc.co.uk/news/videos/cqvg0ke2v9njo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Verify's Ben Chu explains why energy prices are so high, and what Jackdaw could mean for your bills.",
+      "author": "",
+      "published": "Wed, 21 Oct 2026 16:17:49 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How the project will work and the difference it will make",
+      "link": "https://www.bbc.co.uk/news/videos/c6wy4pdqx0w5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Business editor Simon Jack explains how the project will work, and the impact it could have on energy supply and security.",
+      "author": "",
+      "published": "Wed, 21 Oct 2026 16:45:50 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why Jackdaw decision ignites row over climate and costs",
+      "link": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "How Jackdaw ignites arguments over climate and costs",
+      "author": "",
+      "published": "Wed, 21 Oct 2026 13:46:34 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
@@ -131,17 +161,17 @@
       "summary": "It was one of Wales' darkest days that changed a mining community forever.",
       "author": "",
       "published": "Wed, 21 Oct 2026 05:22:15 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
-      "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
+      "title": "Chip muffin? Bacon and egg soda? How Just Eat's AI struggled to depict Britain's regional dishes",
+      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
+      "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 05:00:54 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 17:04:13 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
@@ -151,27 +181,27 @@
       "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
       "author": "",
       "published": "Wed, 21 Oct 2026 11:57:49 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "I left state secrets on the train - I'm proof you can recover from the biggest mistake of your life",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyz4g4ln4no?at_medium=RSS&at_campaign=rss",
+      "title": "'Mindset shift' needed within government on No10 North, says deputy",
+      "link": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Top civil servant Richard Jackson recounts that fateful day and how he recovered in the aftermath.",
+      "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\".",
       "author": "",
-      "published": "Tue, 20 Oct 2026 23:05:05 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 17:05:09 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "title": "Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
+      "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+      "summary": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 10:20:15 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 05:00:54 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
@@ -181,17 +211,17 @@
       "summary": "Borat and Bruno creator Sacha Baron Cohen returns as Ali G, more than two decades after the release of Ali G Indahouse.",
       "author": "",
       "published": "Wed, 21 Oct 2026 06:43:31 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump's deportation drive is reshaping the town where he claimed migrants were eating pets",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
+      "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
+      "summary": "Early on Thursday morning local time, South Korea's oceans ministry said the shark had been successfully guided out of the canal.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 02:37:13 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 20:31:47 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
@@ -201,47 +231,57 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
+      "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
+      "link": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
+      "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 13:47:51 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 15:24:23 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-      "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
+      "title": "Glastonbury coach tickets oversold in admin error",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynqkgwr69o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
+      "summary": "Bookings will automatically be converted into a general admission ticket and coach fare refunded.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 08:19:32 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 15:30:57 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australian MP loses both legs after alleged car attack, husband says",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "title": "Teenage boy guilty of trying to murder girl, 15, in school",
+      "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+      "summary": "The school went into lockdown and parents gathered at the gates as they waited for news about their children.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 07:56:30 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 15:47:51 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hackers steal children's data after company used 'Password1' to protect old account",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7y03e9m3ro?at_medium=RSS&at_campaign=rss",
+      "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
+      "link": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The data watchdog reprimanded Ogi Networks Limited and Data Cymru after the 2024 ransomware attack.",
+      "summary": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 10:56:47 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 05:00:35 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "author": "",
+      "published": "Wed, 21 Oct 2026 19:54:16 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
@@ -251,27 +291,17 @@
       "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
       "author": "",
       "published": "Wed, 21 Oct 2026 15:58:05 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
-      "link": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
+      "title": "MP harassed for 'being English' by man who took axe to pub",
+      "link": "https://www.bbc.co.uk/news/articles/cvde8glk94neo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
+      "summary": "Michael Glover left a note on MP Henry Tufnell's office door and claimed he knew where he lived.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 10:55:32 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Crystal Palace urged to retire bald eagle mascot",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\".",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 07:24:35 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 18:46:37 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
@@ -281,67 +311,47 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anderson, 44, not offered new Lancashire contract",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
+      "title": "Europe's next great coach? How Fabregas led Como into Champions League",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
+      "summary": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 15:35:42 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Tue, 08 Sep 2026 07:35:25 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Andrews died of tear in artery around heart - autopsy",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
+      "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Former Sale player Hyron Andrews - who was found dead at his new team's hotel base before a Champions Cup match - died of natural causes, an autopsy finds.",
+      "summary": "Manchester United skipper Bruno Fernandes has blamed head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 14:39:26 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 19:59:30 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "F1 races to return to standard distance in 2028",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c69wzvr14xlxo?at_medium=RSS&at_campaign=rss",
+      "title": "Paz, Fabregas and Como teach Man Utd a lesson",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season.",
+      "summary": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 11:41:56 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Wed, 21 Oct 2026 20:46:40 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why do Man City fans boo pre-match anthems?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvx28yk1j6z0o?at_medium=RSS&at_campaign=rss",
+      "title": "The highs and lows of GB's fourth-placed finish at Worlds",
+      "link": "https://www.bbc.co.uk/sport/gymnastics/videos/c60qk7vlvvwvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The cacophony of boos that greet the Premier League and Champions League anthems before kick-off have now become a fixture at Etihad Stadium.",
+      "summary": "Great Britain narrowly miss out on a podium finish, finishing fourth in the men's team final at the 2026 Artistic World Championships. The British squad led the competition after four rotations before costly slips on the final apparatuses cost them a medal. Japan went on to claim gold. Britain will have another chance to qualify for the LA28 Olympics at the World Championships in Chengdu next year.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 13:57:59 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Kildunne drops to bench as England ring changes",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 12:47:48 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Allen reveals mental health clinic stay before return",
-      "link": "https://www.bbc.co.uk/sport/snooker/articles/c3ewe41dd0g5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mark Allen says he is working to \"turn things around\" and reveals he spent time in a mental health clinic before returning to snooker.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 10:56:37 GMT",
-      "fetched_at": "2026-10-21T16:18:46.465785+00:00"
+      "published": "Tue, 20 Oct 2026 22:59:45 GMT",
+      "fetched_at": "2026-10-21T21:01:45.429932+00:00"
     }
   ]
 }
