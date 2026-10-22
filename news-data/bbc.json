@@ -1,107 +1,77 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-22T02:29:16.910626+00:00",
-  "count": 37,
+  "fetched_at": "2026-10-22T10:51:44.944925+00:00",
+  "count": 30,
   "articles": [
     {
       "source": "bbc",
-      "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+      "title": "What is PHP and why did it spark an international cyber-security alert?",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 15:36:31 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 06:24:59 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 19:54:57 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 09:37:58 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 21:27:41 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
       "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
       "author": "",
       "published": "Wed, 21 Oct 2026 19:58:06 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+      "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
       "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+      "summary": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim.",
       "author": "",
-      "published": "Thu, 22 Oct 2026 01:17:25 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 09:28:04 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
-      "link": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+      "summary": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
       "author": "",
-      "published": "Wed, 21 Oct 2026 23:02:30 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 09:47:54 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
-      "link": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
+      "title": "Dame Judi Dench: 'I can't do a play, a film or read any more'",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region.",
+      "summary": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
       "author": "",
-      "published": "Thu, 22 Oct 2026 02:09:21 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 06:41:29 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+      "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 23:27:05 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The real reasons US politicians are getting older",
-      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 23:52:12 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Four locations in the running to be UK City of Culture 2029",
-      "link": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 23:02:37 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 05:30:22 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
@@ -111,137 +81,17 @@
       "summary": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications.",
       "author": "",
       "published": "Wed, 21 Oct 2026 23:02:45 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pope does not need further treatment after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+      "title": "Two storms in two days as Austen and Boelo target UK",
+      "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+      "summary": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 20:09:10 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Will it bring down your energy bills?",
-      "link": "https://www.bbc.co.uk/news/videos/cqvg0ke2v9njo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Verify's Ben Chu explains why energy prices are so high, and what Jackdaw could mean for your bills.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 16:17:49 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How the project will work and the difference it will make",
-      "link": "https://www.bbc.co.uk/news/videos/c6wy4pdqx0w5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Business editor Simon Jack explains how the project will work, and the impact it could have on energy supply and security.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 16:45:50 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why Jackdaw decision ignites row over climate and costs",
-      "link": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "How Jackdaw ignites arguments over climate and costs",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 13:46:34 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The grads ditching the UK for a fresh start abroad",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 23:12:06 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
-      "link": "https://www.bbc.co.uk/news/articles/cwly3g0g371go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 23:03:59 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
-      "link": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 22:00:58 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Chip muffin? Bacon and egg soda? How Just Eat's AI struggled to depict Britain's regional dishes",
-      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 17:04:13 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'Drill, Andy Drill!' and a Budget for 'bloody-minded entrepreneurs'",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn4mmypko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Several of today's papers continue to follow the \"storm\" surrounding Andy Burnham's decision to approve a new gas field and what that will mean for future ones.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 00:18:52 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 11:57:49 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-      "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It is thought the shark may have been drawn to the canal by unusually warm water and plenty of fish.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 20:31:47 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sign up now",
-      "link": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
-      "author": "",
-      "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Fernandes rounds on Carrick after Man Utd humiliation",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 19:59:30 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 10:34:17 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
@@ -251,57 +101,147 @@
       "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
       "author": "",
       "published": "Wed, 21 Oct 2026 22:54:58 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
+      "title": "Retired decorator's Pokémon cards sell for £1.5m",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
+      "summary": "He says he found treasure in his attic where the collection had been stored for 15 years.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 14:38:22 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 10:13:49 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "US State Department orders some staff to leave Saudi Arabia as attacks escalate",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "title": "The real reasons there are so few young politicians in the US",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
       "author": "",
-      "published": "Thu, 22 Oct 2026 01:07:34 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Wed, 21 Oct 2026 23:52:12 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-      "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+      "title": "Chronic UTIs affect millions in the UK - these women are out to end the stigma",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3g0g371go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+      "summary": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 18:10:42 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Wed, 21 Oct 2026 23:03:59 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+      "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 14:04:28 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 10:17:26 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+      "title": "Better weather, pay, more opportunities: Why graduates are ditching the UK to move abroad",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+      "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 14:26:24 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Wed, 21 Oct 2026 23:12:06 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Is the UK set to green-light a huge untapped oil field in the North Atlantic?",
+      "link": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 06:09:44 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 09:06:48 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
+      "link": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
+      "author": "",
+      "published": "Wed, 21 Oct 2026 22:00:58 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sign up now",
+      "link": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
+      "author": "",
+      "published": "Wed, 09 Sep 2026 10:24:59 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "MI5 spied on Nye Bevan for more than 20 years, newly released files show",
+      "link": "https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "He came to its attention in the 1930s when he was considered a left-wing firebrand.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 09:35:34 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Four locations in the running to be UK City of Culture 2029",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities.",
+      "author": "",
+      "published": "Wed, 21 Oct 2026 23:02:37 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+      "link": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+      "author": "",
+      "published": "Wed, 21 Oct 2026 23:02:30 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Legendary video game studio BioWare closed after 31 years",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzrxlkmwmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The influential studio that made Mass Effect and Dragon Age announces it is closing its doors.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 10:25:33 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+      "link": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 02:09:21 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +251,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Vickery's journey from World Cup winner to bodybuilder at 50",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckdd8re793zdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Why England Rugby World Cup winner Phil Vickery has started entering bodybuilding competitions at the age of 50.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 05:14:22 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
@@ -321,27 +271,7 @@
       "summary": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
       "author": "",
       "published": "Wed, 21 Oct 2026 19:59:30 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester United suffer a heavy defeat to a Como side playing just their third ever game of Champions League football, as Nico Paz stars for the hosts to pile the pressure on Michael Carrick.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 20:59:43 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 22:51:56 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
@@ -351,27 +281,27 @@
       "summary": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
       "author": "",
       "published": "Wed, 21 Oct 2026 23:11:06 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rice strikes to earn Arsenal draw at Bayern",
-      "link": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
+      "title": "Leicester hit their lowest ebb - but is Martin turning things around?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq073zrgv8vvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining draw in the league phase of the Champions League while Bukayo Saka limps off with an early injury.",
+      "summary": "Leicester are 10th in League One, 10 years after winning the Premier League. After hitting their lowest ebb, are there now grounds for optimism?",
       "author": "",
-      "published": "Wed, 21 Oct 2026 21:09:36 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 06:01:48 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Playing for their careers' - Australia reeling after extraordinary day",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
+      "title": "Head hits century as Australia try to deny South Africa - scorecard",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
+      "summary": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
       "author": "",
-      "published": "Wed, 21 Oct 2026 19:46:45 GMT",
-      "fetched_at": "2026-10-22T02:29:08.820847+00:00"
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "fetched_at": "2026-10-22T10:51:14.093678+00:00"
     }
   ]
 }
