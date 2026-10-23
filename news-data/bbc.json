@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-22T20:58:45.490764+00:00",
-  "count": 29,
+  "fetched_at": "2026-10-23T02:33:42.771000+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
@@ -10,8 +10,8 @@
       "full_text": "",
       "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
       "author": "",
-      "published": "Thu, 22 Oct 2026 17:46:58 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "published": "Thu, 22 Oct 2026 21:29:44 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
@@ -21,7 +21,137 @@
       "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
       "author": "",
       "published": "Thu, 22 Oct 2026 17:12:51 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 21:42:39 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+      "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
+      "author": "",
+      "published": "Fri, 23 Oct 2026 00:14:08 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Amber warning in place as Storm Austen hits parts of UK",
+      "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
+      "author": "",
+      "published": "Fri, 23 Oct 2026 00:08:43 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Celebrity Traitors - paranoia deepens as traitor behaviour splits opinion",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxn3133rdwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The murder in plain sight victim was revealed ahead of another difficult round table.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 22:48:44 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "author": "",
+      "published": "Fri, 23 Oct 2026 01:38:44 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Grid operator says lights will stay on this winter after concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 23:04:38 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 23:16:16 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Give more people weight-loss jabs on the NHS, say MPs",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Current plans for 6% of eligible patients to get Mounjaro by 2028 unambitious, say MPs.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 23:06:04 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Prince William makes surprise appearance on Graham Norton Show",
+      "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 21:21:22 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I thought I was dying but it was health anxiety - here's how to recognise the signs",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yez87qwvdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Hollie Sharman shares her experience of health anxiety and a doctor advises on how to manage symptoms.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 23:20:31 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 23:16:20 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 23:20:38 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 23:55:39 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
@@ -31,127 +161,27 @@
       "summary": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
       "author": "",
       "published": "Thu, 22 Oct 2026 12:17:44 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Prepare for the worst' and 'Covid report fallout'",
+      "link": "https://www.bbc.co.uk/news/articles/cwly393mj7y3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "summary": "Defence Secretary Wes Streeting's national campaign on preparedness for cyber or climate emergencies dominates today's papers.",
       "author": "",
-      "published": "Thu, 22 Oct 2026 17:14:04 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "published": "Fri, 23 Oct 2026 01:55:03 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
+      "title": "Call of Duty promises a return to form - but can it compete with GTA?",
+      "link": "https://www.bbc.co.uk/news/articles/cm369kkg92x6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The friend of a woman claiming to have been raped by Russell Brand says she said he was  \"quite aggressive\".",
+      "summary": "Modern Warfare 4 faces an uphill battle after last year's Call of Duty missed the mark with fans.",
       "author": "",
-      "published": "Thu, 22 Oct 2026 16:45:09 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "See the Pokémon cards that made a retired decorator a millionaire",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg9v932z5vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A man from Surrey is now a millionaire after selling a collection of Pokémon cards at auction.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 20:13:24 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Woman charged after police officer injured in shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The officer was injured after approaching two people at a bus stop in Nottingham city centre.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 19:52:40 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Two storms in two days as Austen and Boelo head for UK",
-      "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 10:34:17 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Ukraine hit by strikes after Russia agrees to new peace talks",
-      "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 17:49:13 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Caroline Flack's brother 'never recovered' from her death, inquest hears",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdm095d89yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Paul Flack was \"everyone's favourite person\" but this \"took its toll\", an inquest hears.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 15:32:27 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Dame Judi Dench: 'I can't do a play, a film or read anymore'",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The actress tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 06:41:29 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The real reasons there are so few young politicians in the US",
-      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 23:52:12 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 15:56:36 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Chronic UTIs affect millions in the UK - these women are out to end the stigma",
-      "link": "https://www.bbc.co.uk/news/articles/cwly3g0g371go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
-      "author": "",
-      "published": "Wed, 21 Oct 2026 23:03:59 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Arab parties could hold critical balance of power in Israeli election",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 05:30:22 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "published": "Thu, 22 Oct 2026 23:20:48 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
@@ -161,77 +191,67 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bruno Fernandes has home burgled while in Italy with Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq9vz19p41x8o?at_medium=RSS&at_campaign=rss",
+      "title": "Private care home investors a risk to public sector, regulator says",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r6543gplo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United captain Bruno Fernandes had his home burgled on Wednesday while he was in Italy for his club's Champions League game against Como.",
+      "summary": "US investors are buying up UK care homes - a situation regulators say they are \"watching carefully\" in case it threatens plans for a National Care Service.",
       "author": "",
-      "published": "Thu, 22 Oct 2026 18:04:21 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "published": "Thu, 22 Oct 2026 23:20:05 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump says NBA star LeBron James disrespected US anthem and demands apology",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o?at_medium=RSS&at_campaign=rss",
+      "title": "Items recovered in search for missing fishing boat and crew",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed.",
+      "summary": "Tam Murray, 40 and Murdo Morrison, 23 remain missing after their vessel disappeared off Lewis and the body of crewmate Douglas Craigie was found at sea.",
       "author": "",
-      "published": "Thu, 22 Oct 2026 20:04:27 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "published": "Thu, 22 Oct 2026 20:54:02 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Retired decorator's Pokémon cards sell for £1.5m after years in attic",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo?at_medium=RSS&at_campaign=rss",
+      "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "He says he found treasure in his attic where the collection had been stored for 15 years.",
+      "summary": "The prime minister is hosting the UK's first wildfire summit to prepare for future blazes after a record summer 2026.",
       "author": "",
-      "published": "Thu, 22 Oct 2026 13:31:04 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "published": "Thu, 22 Oct 2026 21:35:21 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
-      "title": "US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
+      "title": "Woman charged after police officer injured in shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The actor died on Wednesday of natural causes, his family said.",
+      "summary": "The officer was injured after approaching two people at a bus stop in Nottingham city centre.",
       "author": "",
-      "published": "Thu, 22 Oct 2026 20:33:31 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "published": "Thu, 22 Oct 2026 19:52:40 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
-      "title": "Lockerbie bombing accused loses bid to have case thrown out",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l3q1z8358o?at_medium=RSS&at_campaign=rss",
+      "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Abu Agila Mas'ud al-Marimi had claimed he was victim of an illegal rendition when he was transferred into US custody.",
+      "summary": "The friend of a woman claiming to have been raped by Russell Brand says she said he was  \"quite aggressive\".",
       "author": "",
-      "published": "Thu, 22 Oct 2026 18:30:56 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "published": "Thu, 22 Oct 2026 16:45:09 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
+      "title": "Caroline Flack's brother 'never recovered' from her death, inquest hears",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdm095d89yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
+      "summary": "Paul Flack was \"everyone's favourite person\" but this \"took its toll\", an inquest hears.",
       "author": "",
-      "published": "Thu, 22 Oct 2026 17:21:42 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Fahnbulleh says she backs home secretary on migration after comments to journalists",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 17:54:51 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "published": "Thu, 22 Oct 2026 15:32:27 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +261,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 21:30:31 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +281,7 @@
       "summary": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
       "author": "",
       "published": "Thu, 22 Oct 2026 17:52:45 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +291,27 @@
       "summary": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his post-match criticism of Michael Carrick after the 4-1 Champions League defeat by Como.",
       "author": "",
       "published": "Thu, 22 Oct 2026 16:19:30 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 22:52:52 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Austin track bumps out of control - Verstappen",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Max Verstappen says the bumps on the track that hosts this weekend's United States Grand Prix are \"unacceptable\" and \"out of control\".",
+      "author": "",
+      "published": "Thu, 22 Oct 2026 22:28:55 GMT",
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     },
     {
       "source": "bbc",
@@ -271,27 +321,7 @@
       "summary": "Felix Balshaw is the son of an English Rugby World Cup winner - but is representing France as he climbs the world tennis rankings.",
       "author": "",
       "published": "Thu, 22 Oct 2026 16:21:57 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What next for Australia after chastening defeat by South Africa?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Problems mounting up for Australia after their humbling against South Africa in second Test.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 17:25:22 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sherrock one of 24 'amateurs' taking on Littler",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special.",
-      "author": "",
-      "published": "Thu, 22 Oct 2026 16:45:14 GMT",
-      "fetched_at": "2026-10-22T20:58:37.848271+00:00"
+      "fetched_at": "2026-10-23T02:33:41.194073+00:00"
     }
   ]
 }
