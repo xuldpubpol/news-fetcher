@@ -1,37 +1,167 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-24T19:58:28.245909+00:00",
-  "count": 32,
+  "fetched_at": "2026-10-25T02:19:38.050325+00:00",
+  "count": 36,
   "articles": [
     {
       "source": "bbc",
-      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
-      "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
+      "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
       "author": "",
-      "published": "Sat, 24 Oct 2026 12:59:49 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "published": "Sat, 24 Oct 2026 21:09:27 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+      "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 19:37:35 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
       "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
       "author": "",
-      "published": "Sat, 24 Oct 2026 18:56:46 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "published": "Sun, 25 Oct 2026 01:32:00 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
-      "title": "Between quick wins and big dreams lies Burnham's biggest test",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+      "title": "Meghan broke contact with father in letter citing abuse claims",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+      "summary": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
       "author": "",
-      "published": "Sat, 24 Oct 2026 11:03:57 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "published": "Sun, 25 Oct 2026 01:44:19 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham open to 'honest discussion' on EU free movement",
+      "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 00:33:19 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ukraine depends on Starlink - can Europe plug the gap?",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 23:00:08 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Flávio Bolsonaro, the son of Brazil's jailed former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 23:50:02 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 23:15:18 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 23:03:09 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The bitter row over military service that could shape Israel's future",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 23:03:21 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 22:58:43 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why the charts are full of old songs - and so are your playlists",
+      "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The chart is full is full of old music and classic songs are dominating streaming services. But why?",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 23:05:41 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
+      "link": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 01:35:40 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'Cops didn't share letter' and Burnham 'open' to EU free movement",
+      "link": "https://www.bbc.co.uk/news/articles/cmqln4vq1dn1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The latest on claims agianst the father of the Duchess of Sussex and comments from the PM on EU free movement feature on Sunday's front pages.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 22:31:41 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 23:02:51 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "\"This election is our last best chance to at least rein in some of the foolishness of this administration,\" Obama said.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 01:16:33 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -41,7 +171,7 @@
       "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
       "author": "",
       "published": "Sat, 24 Oct 2026 17:11:56 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -50,128 +180,8 @@
       "full_text": "",
       "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
       "author": "",
-      "published": "Sat, 24 Oct 2026 17:21:42 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 10:30:08 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
-      "author": "",
-      "published": "Fri, 23 Oct 2026 23:50:45 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
-      "author": "",
-      "published": "Fri, 23 Oct 2026 23:15:47 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "California considers imposing 'world's first' tax on billionaires",
-      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-      "author": "",
-      "published": "Fri, 23 Oct 2026 23:11:31 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The artist dropping her debut album after a billion streams",
-      "link": "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.",
-      "author": "",
-      "published": "Fri, 23 Oct 2026 23:08:55 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How the UK state pension compares with other countries",
-      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Do British pensioners have it better or worse than those in other countries?",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 00:09:12 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 15:56:48 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 15:45:46 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sam Fender calls out ticket prices ahead of tour",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Geordie singer says on Instagram he is \"not happy\" with the reported ticket prices.",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 12:15:29 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Fireworks and tear gas as protesters and riot police clash in Paris",
-      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 19:37:35 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The convicted £33m tax fraudster evading justice and living it up in Dubai",
-      "link": "https://www.bbc.co.uk/news/articles/cmy83v286571o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Arif Patel \"should not be beyond the reach of the justice system,\" says the PM’s anti-corruption champion.",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 06:32:35 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How Brazil's changing working class is reshaping the presidential race",
-      "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 05:05:44 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "published": "Sat, 24 Oct 2026 23:02:06 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +191,7 @@
       "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
       "author": "",
       "published": "Sun, 18 Oct 2026 23:24:59 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +201,7 @@
       "summary": "British Summer Time will soon comes to an end as the clocks go back an hour to Greenwich Mean Time.",
       "author": "",
       "published": "Mon, 19 Oct 2026 12:12:55 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +211,7 @@
       "summary": "Ethan gives CPR to a 75-year-old man he found collapsed on the street in cardiac arrest.",
       "author": "",
       "published": "Mon, 19 Oct 2026 05:02:15 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +221,7 @@
       "summary": "Videographer Rhys Morgan captured footage of the worlds second largest whale  lunge feeding on his drone.",
       "author": "",
       "published": "Tue, 20 Oct 2026 12:03:28 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +231,7 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -241,17 +251,57 @@
       "summary": "Every wave has a story. Experience the wonder waiting beneath the surface",
       "author": "",
       "published": "Fri, 08 May 2026 21:02:30 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
-      "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
-      "summary": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+      "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
       "author": "",
-      "published": "Sat, 24 Oct 2026 18:26:29 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "published": "Sat, 24 Oct 2026 21:14:42 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Antonelli stands on brink of history in Austin",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 00:40:56 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man Utd not an unmanageable club - Carrick",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 21:34:19 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'A massive storage of images' - Arteta has technical area receipts",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 17:59:48 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Britain's Smith retains title in split-decision win over Puello",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 21:44:12 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -261,37 +311,17 @@
       "summary": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
       "author": "",
       "published": "Sat, 24 Oct 2026 15:05:45 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
-      "title": "'A massive storage of images': Arteta has technical area receipts",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 17:59:48 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hayen sacked by Burnley after just 14 games",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 19:01:03 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Spurs pick up rare Stamford Bridge win as Palmer sent off",
+      "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
       "link": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Tottenham picked up just their second victory over Chelsea at Stamford Bridge in 36 years with a 2-0 victory, as the host finished with 10-men after a record card for Cole Palmer.",
+      "summary": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
       "author": "",
       "published": "Sat, 24 Oct 2026 19:17:06 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +331,7 @@
       "summary": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
       "author": "",
       "published": "Sat, 24 Oct 2026 18:59:30 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +341,7 @@
       "summary": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
       "author": "",
       "published": "Sat, 24 Oct 2026 18:59:27 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     },
     {
       "source": "bbc",
@@ -321,7 +351,17 @@
       "summary": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
       "author": "",
       "published": "Sat, 24 Oct 2026 18:59:22 GMT",
-      "fetched_at": "2026-10-24T19:58:18.386857+00:00"
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch Match of the Day on iPlayer",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0033jlx?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
+      "author": "",
+      "published": "Sat, 24 Oct 2026 22:40:55 GMT",
+      "fetched_at": "2026-10-25T02:19:31.125835+00:00"
     }
   ]
 }
