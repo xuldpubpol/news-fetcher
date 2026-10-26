@@ -1,27 +1,77 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-25T20:09:14.015358+00:00",
-  "count": 34,
+  "fetched_at": "2026-10-26T02:19:53.696430+00:00",
+  "count": 39,
   "articles": [
     {
       "source": "bbc",
-      "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+      "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+      "summary": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 20:08:09 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Mon, 26 Oct 2026 00:45:10 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham open to 'honest discussion' on EU free movement",
-      "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+      "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 12:11:23 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Mon, 26 Oct 2026 02:01:29 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "author": "",
+      "published": "Mon, 26 Oct 2026 01:07:05 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+      "author": "",
+      "published": "Mon, 26 Oct 2026 00:26:49 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+      "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 22:37:36 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 22:11:13 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 23:33:14 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -31,27 +81,7 @@
       "summary": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
       "author": "",
       "published": "Sun, 25 Oct 2026 18:38:17 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "author": "",
-      "published": "Sun, 25 Oct 2026 18:29:00 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Carrick future under major threat - can he survive?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-      "author": "",
-      "published": "Sun, 25 Oct 2026 16:51:48 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -61,97 +91,77 @@
       "summary": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
       "author": "",
       "published": "Sun, 25 Oct 2026 18:05:17 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "Couple were celebrating anniversary before Bahamas tragedy",
-      "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+      "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
+      "link": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+      "summary": "The single is the second posthumous release from Parton - who was of Welsh descent.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 14:38:51 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Sun, 25 Oct 2026 21:58:00 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "summary": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 19:55:15 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Sun, 25 Oct 2026 21:24:21 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "Long queues after power surge at Stansted Airport",
-      "link": "https://www.bbc.co.uk/news/articles/c64g14481n7qo?at_medium=RSS&at_campaign=rss",
+      "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
+      "link": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A passenger says she was trapped in a corridor at the airport for 90 minutes.",
+      "summary": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 18:35:57 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Mon, 26 Oct 2026 01:40:39 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "title": "How a movement of students brought down Serbia's Vučić",
+      "link": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
+      "summary": "In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 14:34:33 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Mon, 26 Oct 2026 00:31:51 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
+      "link": "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+      "summary": "Videos in which people claim to spot the signs of low iron have attracted millions of views online.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 06:00:15 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Mon, 26 Oct 2026 01:43:55 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Budget tax reprieve for pensioners' and 'Meghan dad net to widen'",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn28nd58no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "summary": "Stories about the Budget and the investigation into the father of the Duchess of Sussex  feature on Monday's front pages.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 07:15:38 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Mon, 26 Oct 2026 00:50:51 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why the charts are full of old songs - and so are your playlists",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The chart is full of old music and classic songs are dominating streaming services. But why?",
+      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
       "author": "",
-      "published": "Sat, 24 Oct 2026 23:05:41 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
-      "author": "",
-      "published": "Sun, 25 Oct 2026 05:45:31 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-      "author": "",
-      "published": "Sat, 24 Oct 2026 23:03:09 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Sun, 25 Oct 2026 23:44:34 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -161,7 +171,17 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 23:33:19 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +191,17 @@
       "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
       "author": "",
       "published": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Couple were celebrating anniversary before Bahamas tragedy",
+      "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 14:38:51 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -181,27 +211,17 @@
       "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
       "author": "",
       "published": "Sun, 25 Oct 2026 19:14:27 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March.",
+      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 09:59:50 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "England lose to Pakistan after stunning Shadab ton",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
-      "author": "",
-      "published": "Sun, 25 Oct 2026 16:34:17 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Sun, 25 Oct 2026 14:34:33 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +231,7 @@
       "summary": "Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say.",
       "author": "",
       "published": "Sun, 25 Oct 2026 14:00:37 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +241,7 @@
       "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
       "author": "",
       "published": "Sun, 25 Oct 2026 15:32:51 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +251,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +261,7 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -251,37 +271,37 @@
       "summary": "Every wave has a story. Experience the wonder waiting beneath the surface",
       "author": "",
       "published": "Fri, 08 May 2026 21:02:30 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "Carrick future under major threat - can he survive?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
+      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
+      "summary": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 16:51:48 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Sun, 25 Oct 2026 21:24:21 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli delivers 'the race of a champion who isn't the champion yet'",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6wyvnlx0erxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick.",
+      "summary": "Kimi Antonelli's Austin win was \"the best he has delivered\", according to Mercedes boss Toto Wolff, even if it wasn't quite enough to give him the title.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 13:26:13 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Mon, 26 Oct 2026 01:24:51 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
-      "title": "England lose to Pakistan after improbable last-wicket stand",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
+      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
+      "summary": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
       "author": "",
-      "published": "Sun, 25 Oct 2026 16:34:17 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "published": "Mon, 26 Oct 2026 00:07:16 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -291,17 +311,47 @@
       "summary": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
       "author": "",
       "published": "Sun, 25 Oct 2026 18:13:55 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pressure grows on Sage as fans turn on Palace boss",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 18:36:12 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England lose to Pakistan after improbable last-wicket stand",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 16:34:17 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What have Man Utd changed to turn around WSL form?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 21:38:59 GMT",
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
       "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
       "link": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+      "summary": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
       "author": "",
       "published": "Sun, 25 Oct 2026 20:00:19 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -311,17 +361,17 @@
       "summary": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
       "author": "",
       "published": "Sun, 25 Oct 2026 20:00:09 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
       "title": "Sage continues to struggle as Palace lose at home to Newcastle",
       "link": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+      "summary": "Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
       "author": "",
       "published": "Sun, 25 Oct 2026 19:59:46 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -331,7 +381,7 @@
       "summary": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
       "author": "",
       "published": "Sun, 25 Oct 2026 19:59:29 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     },
     {
       "source": "bbc",
@@ -341,7 +391,7 @@
       "summary": "Sunderland remain bottom of the Premier League after a goalless draw with Leeds in difficult conditions at the Stadium of Light.",
       "author": "",
       "published": "Sun, 25 Oct 2026 19:59:07 GMT",
-      "fetched_at": "2026-10-25T20:08:58.043312+00:00"
+      "fetched_at": "2026-10-26T02:19:47.625987+00:00"
     }
   ]
 }
