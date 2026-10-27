@@ -1,17 +1,37 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-26T22:06:15.024136+00:00",
-  "count": 34,
+  "fetched_at": "2026-10-27T02:55:30.843820+00:00",
+  "count": 36,
   "articles": [
     {
       "source": "bbc",
-      "title": "Independent review announced into murder of student Henry Nowak",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+      "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+      "summary": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 16:15:16 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Mon, 26 Oct 2026 23:10:59 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+      "author": "",
+      "published": "Mon, 26 Oct 2026 23:03:14 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "author": "",
+      "published": "Tue, 27 Oct 2026 01:57:48 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -21,87 +41,77 @@
       "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
       "author": "",
       "published": "Mon, 26 Oct 2026 16:30:34 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "Drivers who killed mum and girl while racing jailed",
-      "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 15:39:39 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Mon, 26 Oct 2026 19:27:21 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
       "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
       "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+      "summary": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 17:22:51 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Mon, 26 Oct 2026 22:43:44 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
+      "summary": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 15:37:33 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Tue, 27 Oct 2026 02:43:25 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 16:27:17 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Tue, 27 Oct 2026 01:48:04 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "What is walking down the newly pedestrianised Oxford Street like?",
-      "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss",
+      "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The first phase of the overhaul is expected to be finished by spring 2027.",
+      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 11:50:34 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Tue, 27 Oct 2026 02:40:17 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "Healey to shield low-income pensioners from income tax in the Budget",
-      "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 10:28:12 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Mon, 26 Oct 2026 15:46:31 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
-      "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
+      "title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
+      "link": "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.",
+      "summary": "The guitarist says doctors had given him \"a few years left to live\", but is now recovering well.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 17:50:00 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Oscar-winning producer says BBC gave her £400,000 payout after she raised antisemitism concerns",
-      "link": "https://www.bbc.co.uk/news/articles/crwydxw0we8yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC says it did not uphold any of the allegations of antisemitism but accepted there were \"shortcomings\" in how it treated Lucie Kon.",
-      "author": "",
-      "published": "Mon, 26 Oct 2026 20:16:45 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Mon, 26 Oct 2026 22:07:26 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -110,8 +120,28 @@
       "full_text": "",
       "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 21:53:05 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Tue, 27 Oct 2026 00:11:27 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "author": "",
+      "published": "Tue, 27 Oct 2026 00:01:00 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "My husband's death was hard enough - then came the admin",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g19vvmp59o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Louisa says her experience of dealing with household bills after her husband John died left her feeling \"frustrated and angry\".",
+      "author": "",
+      "published": "Tue, 27 Oct 2026 01:26:18 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -121,37 +151,37 @@
       "summary": "This complicated - and developing - story could prove to be a turning point for Meghan.",
       "author": "",
       "published": "Mon, 26 Oct 2026 20:03:05 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "Surprising things we have learnt from Anthropic's blockbuster share listing",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 19:57:23 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Tue, 27 Oct 2026 00:31:11 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "Faisal Islam: Healey's Budget needs to sustain the stronger economy through gathering clouds",
-      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'England's golden boy' Kane and 'Time to pay fair'",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dw6rn024vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+      "summary": "Many of the papers consider what will be in the Budget and praise Harry Kane for his Ballon d'Or win.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 00:26:49 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Tue, 27 Oct 2026 01:00:02 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "Five ways Trump has changed immigration in the US",
-      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
+      "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 11:29:02 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Mon, 26 Oct 2026 15:37:33 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -161,27 +191,7 @@
       "summary": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
       "author": "",
       "published": "Mon, 26 Oct 2026 18:00:10 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The movement of students that brought down Serbia's Vučić",
-      "link": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.",
-      "author": "",
-      "published": "Mon, 26 Oct 2026 14:29:31 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Stunning photos capture October's Hunter's Moon around the world",
-      "link": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
-      "author": "",
-      "published": "Mon, 26 Oct 2026 11:27:39 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +201,17 @@
       "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
       "author": "",
       "published": "Wed, 09 Sep 2026 10:24:59 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Independent review announced into murder of student Henry Nowak",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+      "author": "",
+      "published": "Mon, 26 Oct 2026 16:15:16 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -201,27 +221,47 @@
       "summary": "Richard Baines was the long-serving curator of Logan Botanic Garden near Stranraer.",
       "author": "",
       "published": "Mon, 26 Oct 2026 18:03:53 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "Daughter wins £127k claim for caring for mum at home",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zp78g580o?at_medium=RSS&at_campaign=rss",
+      "title": "Oscar-winning producer says BBC gave her £400,000 payout after she raised antisemitism concerns",
+      "link": "https://www.bbc.co.uk/news/articles/crwydxw0we8yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bern Rogers says the row with her siblings since her elderly mother died was \"harrowing and deeply sad\".",
+      "summary": "The BBC says it did not uphold any of the allegations of antisemitism but accepted there were \"shortcomings\" in how it treated Lucie Kon.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 06:23:01 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Mon, 26 Oct 2026 20:16:45 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump faces backlash after invoking 9/11 in verbal assault on Michigan's Senate candidate",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryxlkq5qro?at_medium=RSS&at_campaign=rss",
+      "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
+      "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Democrat himself has hit back, as has Senator Bernie Sanders and a key Trump supporter from 2024.",
+      "summary": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 20:41:43 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Mon, 26 Oct 2026 17:50:00 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Drivers who killed mum and girl while racing jailed",
+      "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
+      "author": "",
+      "published": "Mon, 26 Oct 2026 15:39:39 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "author": "",
+      "published": "Mon, 26 Oct 2026 16:27:17 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -231,37 +271,7 @@
       "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
       "author": "",
       "published": "Mon, 26 Oct 2026 21:31:53 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russell Brand asked assistant for female fan phone numbers, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cwly02l45ny3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Helen Berger said she left her job working for Brand after she became \"sick of him.\"",
-      "author": "",
-      "published": "Mon, 26 Oct 2026 14:57:11 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Keir Starmer's government discussed moving out of 10 Downing Street",
-      "link": "https://www.bbc.co.uk/news/articles/cqd093gk1rjeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The building has been described as a \"gloomy, mice-infested, bomb-curtained rabbit warren\".",
-      "author": "",
-      "published": "Mon, 26 Oct 2026 18:33:31 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "He played the eager Russian crewman in the original Star Trek series and later appeared in Babylon 5.",
-      "author": "",
-      "published": "Mon, 26 Oct 2026 18:34:15 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +281,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -281,27 +291,47 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss",
+      "title": "Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Harry Kane's dream of winning the Ballon d'Or seemed as if it had come true on Monday when the organisers released an article claiming he had won the award.",
+      "summary": "Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.",
       "author": "",
-      "published": "Mon, 26 Oct 2026 18:10:26 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "published": "Mon, 26 Oct 2026 23:10:59 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ballon d'Or winner? Kane's best Bundesliga goals",
+      "title": "London City's Putellas wins record-equalling third Ballon d'Or",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+      "author": "",
+      "published": "Mon, 26 Oct 2026 23:14:39 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ballon d'Or winner Kane's best Bundesliga goals",
       "link": "https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "With the 2026 Ballon d'Or just around the corner, BBC Sport looks back at some of Harry Kane's best goals in a Bayern Munich shirt.",
+      "summary": "Watch Harry Kane's best goals from the 2025/26 Bundesliga season with Bayern, as the England striker is crowned the men's 2026 Ballon d'Or winner.",
       "author": "",
       "published": "Mon, 26 Oct 2026 19:29:35 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Lancashire consider Anderson farewell amid fan unrest",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
+      "author": "",
+      "published": "Mon, 26 Oct 2026 22:58:14 GMT",
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -311,7 +341,7 @@
       "summary": "BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked.",
       "author": "",
       "published": "Mon, 26 Oct 2026 15:34:23 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -321,7 +351,7 @@
       "summary": "Bristol Bears have signed 21-year-old Samoan forward Totoa Auvaa, two weeks after he was sacked by Saracens.",
       "author": "",
       "published": "Mon, 26 Oct 2026 19:03:22 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     },
     {
       "source": "bbc",
@@ -331,17 +361,7 @@
       "summary": "Northern Ireland's Graeme McDowell becomes the latest major champion to exit LIV Golf.",
       "author": "",
       "published": "Mon, 26 Oct 2026 17:17:31 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "England-Republic of Ireland U15 World Cup game ends over alleged racism",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmn8wzldd7q0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Under-15 World Cup Group C match between England and Republic of Ireland is abandoned after England allege an opposition player made a racist comment.",
-      "author": "",
-      "published": "Mon, 26 Oct 2026 18:17:25 GMT",
-      "fetched_at": "2026-10-26T22:06:09.349916+00:00"
+      "fetched_at": "2026-10-27T02:55:23.436663+00:00"
     }
   ]
 }
