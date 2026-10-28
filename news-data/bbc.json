@@ -1,17 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-27T21:36:39.312939+00:00",
-  "count": 28,
+  "fetched_at": "2026-10-28T03:04:16.614287+00:00",
+  "count": 34,
   "articles": [
     {
       "source": "bbc",
-      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+      "summary": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 15:01:27 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Wed, 28 Oct 2026 02:09:11 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 00:04:29 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
@@ -20,28 +30,18 @@
       "full_text": "",
       "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 19:41:05 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Tue, 27 Oct 2026 22:30:09 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
-      "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+      "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+      "summary": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 18:32:54 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "author": "",
-      "published": "Tue, 27 Oct 2026 20:19:53 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Wed, 28 Oct 2026 02:47:45 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
@@ -50,18 +50,18 @@
       "full_text": "",
       "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 20:14:59 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Tue, 27 Oct 2026 22:34:02 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "Men abused woman after her husband drugged and advertised her online, court told",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss",
+      "title": "Thick fog to create dangerous driving conditions for UK commuters",
+      "link": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her.",
+      "summary": "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 17:34:27 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Wed, 28 Oct 2026 01:09:35 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
@@ -71,77 +71,127 @@
       "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
       "author": "",
       "published": "Tue, 27 Oct 2026 20:54:48 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 18:28:23 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Wed, 28 Oct 2026 02:20:25 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
-      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 19:30:37 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Tue, 27 Oct 2026 22:11:08 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump vs Obama - which president has the star power to get out the vote?",
-      "link": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
+      "title": "Manhunt under way for Tennessee killer who escaped prison through a fence",
+      "link": "https://www.bbc.co.uk/news/articles/c64g17jqy5ddo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.",
+      "summary": "Morley was given a life sentence for the 2022 killing of his co-worker Cody Birchfield.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 13:59:22 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Tue, 27 Oct 2026 19:20:13 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "I'm a single mum and limit my weekly shop to £40 - here's what I want from the Budget",
+      "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
+      "link": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed.",
+      "author": "",
+      "published": "Tue, 27 Oct 2026 19:56:02 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
       "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 13:08:26 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Wed, 28 Oct 2026 00:03:05 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "My husband's death was hard enough - then came the admin",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g19vvmp59o?at_medium=RSS&at_campaign=rss",
+      "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
+      "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Louisa says her experience of dealing with household bills after her husband John died left her feeling \"frustrated and angry\".",
+      "summary": "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 01:26:18 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Thu, 22 Oct 2026 09:35:25 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man Utd stick with Carrick: Inside a turbulent 48 hours at Old Trafford",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss",
+      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
+      "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 18:56:36 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Sun, 25 Oct 2026 06:00:15 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
+      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+      "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
+      "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
       "author": "",
-      "published": "Tue, 27 Oct 2026 17:11:27 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Wed, 28 Oct 2026 01:01:02 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+      "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
+      "author": "",
+      "published": "Tue, 27 Oct 2026 21:46:43 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "China's families are now supporting more old people than kids",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+      "author": "",
+      "published": "Tue, 27 Oct 2026 23:16:08 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The Papers: 'Budget for a difficult moment' and Netanyahu's 'fate in balance'",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7y3dyv382o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Most of the papers focus on the Budget, ahead of its delivery at lunchtime on Wednesday.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 00:42:03 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
+      "author": "",
+      "published": "Tue, 27 Oct 2026 23:35:11 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
@@ -151,27 +201,37 @@
       "summary": "The Conservatives doubt whether women and girls will feel safer as a result of the funding.",
       "author": "",
       "published": "Tue, 27 Oct 2026 18:23:09 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Living next door to anti-social behaviour has been hell'",
-      "link": "https://www.bbc.co.uk/news/articles/cewr4j0qqwpo?at_medium=RSS&at_campaign=rss",
+      "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Man calls for better support after seven years of anti-social behaviour from neighbours.",
+      "summary": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 06:58:40 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Tue, 27 Oct 2026 18:32:54 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russell Brand told police he never had non-consensual sex",
-      "link": "https://www.bbc.co.uk/news/articles/cm74p7w4dwpko?at_medium=RSS&at_campaign=rss",
+      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "His trial hears statements he gave to police between 2023 and 2025, denying allegations against him.",
+      "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 16:46:03 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Tue, 27 Oct 2026 15:01:27 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Men abused woman after her husband drugged and advertised her online, court told",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her.",
+      "author": "",
+      "published": "Tue, 27 Oct 2026 17:34:27 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
@@ -181,27 +241,17 @@
       "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month.",
       "author": "",
       "published": "Tue, 27 Oct 2026 17:20:40 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ex-Met officer from Couzens unit guilty of rape",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qgjd0w3no?at_medium=RSS&at_campaign=rss",
+      "title": "Dutch zookeeper dies after being mauled by leopard",
+      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mark Tyrell is also convicted of sexual assault and trying to delete messages he sent the woman.",
+      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 21:35:52 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
-      "author": "",
-      "published": "Tue, 27 Oct 2026 17:10:15 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Tue, 27 Oct 2026 19:30:37 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +261,7 @@
       "summary": "The man is asking the High Court to prevent two news organisations from publishing the allegations.",
       "author": "",
       "published": "Tue, 27 Oct 2026 16:59:23 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +271,37 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Biggest night in the club's history' for fearless Fleetwood",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 00:39:30 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 00:34:31 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
+      "author": "",
+      "published": "Tue, 27 Oct 2026 23:35:11 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +311,7 @@
       "summary": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
       "author": "",
       "published": "Tue, 27 Oct 2026 18:56:36 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
@@ -241,37 +321,17 @@
       "summary": "Australia fight back in afternoon and evening against South Africa to spare the blushes of captain Pat Cummins in third Test.",
       "author": "",
       "published": "Tue, 27 Oct 2026 17:10:04 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
+      "title": "Barcelona fined £503 over approach for Alvarez",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+      "summary": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
       "author": "",
-      "published": "Tue, 27 Oct 2026 20:26:31 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ballon d'Or in London - the most chaotic ever?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night.",
-      "author": "",
-      "published": "Tue, 27 Oct 2026 19:06:02 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lancashire treatment of Anderson disrespectful - Broad",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Lancashire have been \"pretty disrespectful\" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.",
-      "author": "",
-      "published": "Tue, 27 Oct 2026 17:47:58 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "published": "Tue, 27 Oct 2026 21:38:20 GMT",
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     },
     {
       "source": "bbc",
@@ -281,7 +341,7 @@
       "summary": "Former world number one Venus Williams, 46, loses for the 16th match in a row as she is beaten by an opponent 28 years younger.",
       "author": "",
       "published": "Tue, 27 Oct 2026 13:40:56 GMT",
-      "fetched_at": "2026-10-27T21:36:36.039889+00:00"
+      "fetched_at": "2026-10-28T03:04:14.205548+00:00"
     }
   ]
 }
