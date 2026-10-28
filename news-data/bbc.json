@@ -1,8 +1,18 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-28T17:39:01.039327+00:00",
+  "fetched_at": "2026-10-28T22:00:14.889498+00:00",
   "count": 35,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 18:45:09 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
     {
       "source": "bbc",
       "title": "Key points at a glance",
@@ -11,7 +21,7 @@
       "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
       "author": "",
       "published": "Wed, 28 Oct 2026 16:55:27 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
@@ -21,27 +31,7 @@
       "summary": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
       "author": "",
       "published": "Wed, 28 Oct 2026 16:52:16 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Here is what you need to know about the payment that millions will receive from January.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 17:22:00 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How the Budget affects you",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 16:43:35 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
@@ -51,7 +41,37 @@
       "summary": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
       "author": "",
       "published": "Wed, 28 Oct 2026 16:12:57 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How the Budget affects you",
+      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 16:43:35 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What the Budget offers for under 25s - and what it leaves out",
+      "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 20:02:38 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 21:38:54 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
@@ -61,17 +81,27 @@
       "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
       "author": "",
       "published": "Wed, 28 Oct 2026 16:45:16 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
-      "title": "What we know about the crash so far",
+      "title": "What we know so far about deadly crash",
       "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
       "author": "",
       "published": "Wed, 28 Oct 2026 15:36:11 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 21:07:06 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
@@ -80,148 +110,18 @@
       "full_text": "",
       "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
       "author": "",
-      "published": "Wed, 28 Oct 2026 16:59:47 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "published": "Wed, 28 Oct 2026 20:24:39 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
       "author": "",
-      "published": "Wed, 28 Oct 2026 14:30:31 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tommy Robinson guilty of harassing two Daily Mail journalists",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 43-year-old is convicted after a week-long trial at Southwark Crown Court.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 15:53:16 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Clock ticks down for Canada lotto winner to claim massive prize",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg039x08g2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It's rare for such a large lottery jackpot to go unclaimed - this one is worth C$40m (£21.4m).",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 17:05:44 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russell Brand tells court allegations have been 'deeply traumatic'",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The entertainer gives evidence at his trial on charges including rape and assault, which he denies.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 17:22:05 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Blindfolded wife 'felt stranger's hand' during sex with husband, court told",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxlr570xgro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Four men are currently on trial accused of sexual offences against Joanne Young, which they deny.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 16:07:13 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Dissident republicans may be responsible' for hotel explosive device, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c6lykg0nkll0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The package was discovered at about 15:20 GMT on Tuesday at Ebrington Square in the Waterside.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 15:19:24 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US civil rights leader Dolores Huerta dies aged 96",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Huerta fought for farm workers' rights in the 1960s and 1970s and had continued to work addressing immigration and voting issues.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 17:16:45 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 17:16:03 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'An annoying buzz': The search for stealthier drones",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 00:01:10 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-      "link": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 16:30:29 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-      "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 01:01:02 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Israel's election result is messy - here's why",
-      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 14:26:24 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "You may get the right to find out what your colleagues earn - here's why",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 10:42:39 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Four investigations Democrats could launch if they win control of Congress",
-      "link": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Democrats have promised a wave of probes into the Trump administration if they win back the House.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 11:00:12 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "published": "Wed, 28 Oct 2026 21:16:30 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
@@ -231,57 +131,197 @@
       "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
       "author": "",
       "published": "Wed, 28 Oct 2026 10:31:22 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
-      "title": "Multiple sclerosis patient living in 'horrific pain' due to UK-wide drugs shortage",
-      "link": "https://www.bbc.co.uk/news/articles/cr20w5vx39peo?at_medium=RSS&at_campaign=rss",
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jill Kenning says she has been unable to get a drug she uses to manage her condition.",
+      "summary": "Here is what you need to know about the payment that millions will receive from January.",
       "author": "",
-      "published": "Wed, 28 Oct 2026 12:39:42 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "published": "Wed, 28 Oct 2026 17:47:37 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
-      "title": "Legal bid to overturn Drumcree march ban fails",
-      "link": "https://www.bbc.co.uk/news/articles/c674p7v91wx8o?at_medium=RSS&at_campaign=rss",
+      "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+      "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The High Court in Belfast has ruled that Sir Chris Bryant's decision made on 9 October was lawful.",
+      "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
       "author": "",
-      "published": "Wed, 28 Oct 2026 15:56:21 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "published": "Wed, 28 Oct 2026 18:12:24 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
-      "title": "Serrano to end career in Puerto Rico in January",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o?at_medium=RSS&at_campaign=rss",
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.",
+      "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
       "author": "",
-      "published": "Wed, 28 Oct 2026 11:11:53 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "published": "Wed, 28 Oct 2026 19:51:01 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "title": "What we now know about the UK economy in four charts",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
       "author": "",
-      "published": "Wed, 28 Oct 2026 10:17:54 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "published": "Wed, 28 Oct 2026 20:08:45 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bonfire Night policing in Scotland will be 'largest operation since Trump visit'",
-      "link": "https://www.bbc.co.uk/news/articles/cmgqwgpjpjngo?at_medium=RSS&at_campaign=rss",
+      "title": "Healey tells departments to make 1% cuts to fund defence",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As many as 1,700 officers could be deployed to deal with fireworks-related disorder, a European football match and potential protests in Glasgow.",
+      "summary": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
       "author": "",
-      "published": "Wed, 28 Oct 2026 06:15:15 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "published": "Wed, 28 Oct 2026 19:01:34 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 20:53:02 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 21:24:41 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: How did Flávio Bolsonaro end up in Miami?",
+      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 18:51:05 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Babydoll singer says life will 'never be the same again' after UK number one",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 18:30:13 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+      "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 01:01:02 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "You may get the right to find out what your colleagues earn - here's why",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 10:42:39 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Four investigations Democrats could launch if they win control of Congress",
+      "link": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Democrats have promised a wave of probes into the Trump administration if they win back the House.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 11:00:12 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 19:15:58 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Train attacker asked man 'do you want to die?', trial hears",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz185z4nno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Anthony Williams denies 14 counts of attempted murder, including 10 on a train in Cambridgeshire.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 15:52:14 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russell Brand tells trial sexual consent is 'fundamental'",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The entertainer gives evidence at his trial on charges including rape and assault, which he denies.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 17:42:10 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 20:44:10 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Blindfolded wife 'felt stranger's hand' during sex with husband, court told",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxlr570xgro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Four men are currently on trial accused of sexual offences against Joanne Young, which they deny.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 16:07:13 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US civil rights leader Dolores Huerta dies aged 96",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Huerta fought for farm workers' rights in the 1960s and 1970s and had continued to work addressing immigration and voting issues.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 18:48:15 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tommy Robinson guilty of harassing two Daily Mail journalists",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 43-year-old is convicted after a week-long trial at Southwark Crown Court.",
+      "author": "",
+      "published": "Wed, 28 Oct 2026 15:53:16 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
@@ -291,17 +331,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Carrick and Fernandes hold clear-the-air talks",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 11:48:28 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
@@ -311,47 +341,17 @@
       "summary": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
       "author": "",
       "published": "Wed, 28 Oct 2026 17:33:41 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arsenal to appeal against Dowman red card",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+      "title": "Red Roses make six changes but Kildunne on bench again",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
+      "summary": "Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.",
       "author": "",
-      "published": "Wed, 28 Oct 2026 11:55:21 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 12:13:23 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Perez signs multi-year extension with Cadillac",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sergio Perez will remain with Cadillac until 2029 after signing a multi-year contract extension.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 16:10:07 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Scottish side to play two cup ties simultaneously after schedule clash",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
-      "author": "",
-      "published": "Wed, 28 Oct 2026 15:34:02 GMT",
-      "fetched_at": "2026-10-28T17:38:54.599906+00:00"
+      "published": "Wed, 28 Oct 2026 19:00:51 GMT",
+      "fetched_at": "2026-10-28T22:00:12.370996+00:00"
     }
   ]
 }
