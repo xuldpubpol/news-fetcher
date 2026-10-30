@@ -1,57 +1,57 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-30T03:33:34.626825+00:00",
-  "count": 32,
+  "fetched_at": "2026-10-30T11:52:16.997536+00:00",
+  "count": 35,
   "articles": [
     {
       "source": "bbc",
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about Binance's $6.3bn hack",
+      "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "summary": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 22:17:52 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 08:02:02 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australian mushroom murderer loses appeal to overturn convictions",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+      "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+      "link": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
+      "summary": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 01:35:40 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 10:52:07 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Binance says crypto worth $6.3bn impacted in suspected hack",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Iconic moments from Sir Patrick Stewart's career",
+      "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The firm said roughly $3bn in assets have been frozen and that it will 'cover all losses'.",
+      "summary": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 03:12:53 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 08:59:45 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hyrox athlete who soiled herself in race says she put others at risk",
-      "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
+      "title": "Streeting denies 'kicking can down the road' in defence spending row",
+      "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash.",
+      "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 23:03:39 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 11:23:38 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Democrats have an identity crisis - it won't be an easy fix",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.",
+      "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 02:14:41 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 11:17:32 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
@@ -61,67 +61,97 @@
       "summary": "Could the faithfuls finally come good in Thursday's penultimate episode?",
       "author": "",
       "published": "Fri, 30 Oct 2026 00:16:59 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
-      "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
+      "summary": "Speaking exclusively to the BBC, Joanna Wietrzyk says her determination to win the Hyrox race in September had clouded her judgement.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 20:50:25 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 07:33:27 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "What are the government's options for reducing welfare spending?",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
+      "title": "Google value plunges by $500bn as AI search hits ad sales",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it.",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 17:59:57 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Thu, 29 Oct 2026 22:17:52 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 20:21:54 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 06:02:23 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Student-backed election winners demand sweeping resignations in Serbia",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+      "title": "Footage of Seoul crush to be removed from Call of Duty after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
+      "summary": "Bereaved families say they were appalled to see footage of the Itaewon disaster included in Modern Warfare 4.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 00:17:28 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 11:27:25 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Biggest fibre boost could be scraps in your bin, experts say",
-      "link": "https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&at_campaign=rss",
+      "title": "Yorkshire Water boss resigns after firm downgraded",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.",
+      "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 00:40:30 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 07:54:08 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+      "title": "From watching Star Trek to knighthood - Sir Patrick Stewart on the BBC",
+      "link": "https://www.bbc.co.uk/news/videos/c83vq2klqrd7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The actor was a familiar face across the BBC over the years, appearing on programmes like The Graham Norton Show and HARDTalk.",
+      "author": "",
+      "published": "Thu, 29 Oct 2026 22:52:45 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Actor who moved effortlessly between Star Trek and Shakespeare",
       "link": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 03:00:39 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 03:57:06 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "A life in pictures",
+      "link": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
+      "author": "",
+      "published": "Fri, 30 Oct 2026 03:54:39 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Democrats in the US are united against Trump - but divided on their future",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.",
+      "author": "",
+      "published": "Fri, 30 Oct 2026 02:14:41 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
@@ -130,18 +160,8 @@
       "full_text": "",
       "summary": "Rachel Stone tells how her parents swapped partners, the chaos it caused and how she came to forgive them.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 00:57:45 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I didn't know I was lacking in vitamin D until I collapsed at work",
-      "link": "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Doctors are finding vitamin D deficiency is increasingly widespread in the UK, especially in young people. But the symptoms are difficult to spot and can be missed.",
-      "author": "",
-      "published": "Fri, 30 Oct 2026 00:29:05 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 06:21:28 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
@@ -151,27 +171,27 @@
       "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "author": "",
       "published": "Thu, 29 Oct 2026 17:46:50 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'No welfare cuts before election' and 'Police probe Epstein's Balmoral stay'",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg5p2l5d2jo?at_medium=RSS&at_campaign=rss",
+      "title": "China made Mbappé apologise - but many don't know exactly what he said",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Healey's budget fallout and fresh police probe into Epstein's stay at Balmoral with ex-Prince Andrew lead Friday's papers.",
+      "summary": "His comment about Chinese leader Mao sparked anger but censorship left many wondering what exactly happened.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 01:00:49 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Thu, 29 Oct 2026 23:03:15 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "From workshops to the catwalk - why mended clothes are going mainstream",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "title": "I didn't know I was lacking in vitamin D until I collapsed at work",
+      "link": "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A new generation is embracing eye-catching patching and visible mends.",
+      "summary": "Doctors are finding vitamin D deficiency is increasingly widespread in the UK, especially in young people. But the symptoms are difficult to spot and can be missed.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 00:00:35 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 00:29:05 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
@@ -181,77 +201,87 @@
       "summary": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
       "author": "",
       "published": "Fri, 30 Oct 2026 00:43:04 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Three dead after two helicopters collide midair near Oregon airport",
-      "link": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
+      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway.",
+      "summary": "A new generation is embracing eye-catching patching and visible mends.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 03:05:17 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 00:00:35 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hundreds of GP practices lose online services after collapse of tech firm",
-      "link": "https://www.bbc.co.uk/news/articles/cq146562ld3no?at_medium=RSS&at_campaign=rss",
+      "title": "Biggest fibre boost could be scraps in your bin, experts say",
+      "link": "https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It will cause huge disruption in some parts of England and Wales, say GP leaders.",
+      "summary": "Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 17:13:40 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 00:40:30 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: What leaked audio reveals about Spain train crash",
+      "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A train crew member shows \"sheer courage and bravery in seeking to save lives\", a court hears.",
+      "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 20:02:27 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Thu, 29 Oct 2026 20:50:25 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7qjq13prpo?at_medium=RSS&at_campaign=rss",
+      "title": "Student-backed election winners demand sweeping resignations in Serbia",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kevin T has been charged with murder and attempted murder in connection with a terrorist enterprise.",
+      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 19:19:23 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 00:17:28 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Met refers itself to police watchdog over letter about Meghan's father",
-      "link": "https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&at_campaign=rss",
+      "title": "Scottish police to target sadistic online gangs forcing children to self-harm",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg03xl0751o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father.",
+      "summary": "Officers are hunting members of loose online networks of sadists who mainly targets girls on gaming platforms and social media.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 17:58:18 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 06:17:09 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
-      "link": "https://www.bbc.co.uk/news/articles/c893zev54341o?at_medium=RSS&at_campaign=rss",
+      "title": "'I run a spotless kitchen', says Michelin-star restaurant chef in wake of food hygiene debacle",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8g19r66y4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As the King left the Bahamas his spokesman said the islands had \"a special place in the King's heart\".",
+      "summary": "Chef Gareth Ward defends how he operates in documentary after Ynyshir got a one-star hygiene rating.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 20:35:05 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 06:08:16 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Grealish dropped over 'breach of club discipline' - what now?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss",
+      "title": "England on brink of Rugby League World Cup exit after failing to notch big enough win over PNG",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cx30e28vn5r4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\".",
+      "summary": "England edge towards a World Cup exit after their points chase against Papua New Guinea descends into a chaotic and error-strewn 34-12 victory that will almost certainly prove insufficient.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 19:31:36 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 11:17:27 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Attenborough-backed appeal secures £30m estate",
+      "link": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The purchase of the vast Rothbury Estate by wildlife groups is hailed as \"something very special\".",
+      "author": "",
+      "published": "Fri, 30 Oct 2026 06:16:43 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +291,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England edge towards World Cup exit despite PNG win",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cx30e28vn5r4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England edge towards a World Cup exit after their points chase against Papua New Guinea descends into a chaotic and error-strewn 34-12 victory that will almost certainly prove insufficient.",
+      "author": "",
+      "published": "Fri, 30 Oct 2026 11:17:27 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
@@ -271,57 +311,47 @@
       "summary": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\".",
       "author": "",
       "published": "Thu, 29 Oct 2026 19:31:36 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Is the double drop from the Premier League becoming more common?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+      "title": "How talking about Man Utd's cycle of doom became an industry",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
+      "summary": "Manchester United's struggles are pored over more than ever before - not least by former players.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 13:19:52 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 06:14:19 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Careless dismissals give Australia route to series win in South Africa",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
+      "title": "Why managers must put their own health first - Pulis",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
+      "summary": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
       "author": "",
-      "published": "Thu, 29 Oct 2026 16:53:40 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 07:41:38 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Zverev seals world number one spot after win",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o?at_medium=RSS&at_campaign=rss",
+      "title": "F1 has never had anyone like me - Hamilton",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals.",
+      "summary": "Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 20:25:37 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Fri, 30 Oct 2026 07:25:41 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     },
     {
       "source": "bbc",
-      "title": "Duckett and Dawson deliver in England's consolation win",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss",
+      "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.",
+      "summary": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
       "author": "",
-      "published": "Thu, 29 Oct 2026 16:37:15 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "PSG score late to hold struggling Man City",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
-      "author": "",
-      "published": "Thu, 29 Oct 2026 22:40:17 GMT",
-      "fetched_at": "2026-10-30T03:33:24.640779+00:00"
+      "published": "Thu, 29 Oct 2026 19:55:24 GMT",
+      "fetched_at": "2026-10-30T11:52:11.650468+00:00"
     }
   ]
 }
