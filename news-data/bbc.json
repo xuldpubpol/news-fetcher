@@ -1,7 +1,7 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-10-31T11:25:41.970666+00:00",
-  "count": 29,
+  "fetched_at": "2026-10-31T16:31:29.332049+00:00",
+  "count": 26,
   "articles": [
     {
       "source": "bbc",
@@ -10,18 +10,18 @@
       "full_text": "",
       "summary": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
       "author": "",
-      "published": "Sat, 31 Oct 2026 09:52:52 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "published": "Sat, 31 Oct 2026 13:28:40 GMT",
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "summary": "Many residents left Oleshky on Friday following a ceasefire brokered by US First Lady Melania Trump.",
       "author": "",
-      "published": "Sat, 31 Oct 2026 00:40:43 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "published": "Sat, 31 Oct 2026 15:50:41 GMT",
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -31,7 +31,7 @@
       "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
       "author": "",
       "published": "Sat, 31 Oct 2026 02:12:19 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -41,7 +41,7 @@
       "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
       "author": "",
       "published": "Sat, 31 Oct 2026 10:54:56 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -51,27 +51,17 @@
       "summary": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
       "author": "",
       "published": "Sat, 31 Oct 2026 02:20:46 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
-      "link": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.",
-      "author": "",
-      "published": "Sat, 31 Oct 2026 05:16:01 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+      "title": "After 28 years and 36,000 miles, Karl Bushby is almost home",
       "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
       "author": "",
       "published": "Sat, 31 Oct 2026 00:04:06 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +71,7 @@
       "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
       "author": "",
       "published": "Sat, 31 Oct 2026 01:32:33 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -91,7 +81,7 @@
       "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
       "author": "",
       "published": "Fri, 30 Oct 2026 23:26:16 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -101,7 +91,7 @@
       "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
       "author": "",
       "published": "Sat, 31 Oct 2026 00:16:03 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -111,57 +101,67 @@
       "summary": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
       "author": "",
       "published": "Sat, 31 Oct 2026 00:00:15 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "title": "The fight to save Canadian town threatened by Trump's tariffs",
       "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
       "author": "",
       "published": "Sat, 31 Oct 2026 02:39:25 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 22:11:52 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "published": "Sat, 31 Oct 2026 15:16:20 GMT",
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK has 'no authority' over death of woman shot in US",
+      "title": "UK police cannot 'intervene' over woman killed by father in US, despite 'unlawful' ruling",
       "link": "https://www.bbc.co.uk/news/articles/cm9dz48g24yzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Jane Coates wrote to Cheshire police urging them to gather evidence into Lucy Harrison's killing.",
       "author": "",
       "published": "Sat, 31 Oct 2026 07:19:00 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Rush to recover stolen $6bn' and 'War on wind farms'",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnp91pzv8o?at_medium=RSS&at_campaign=rss",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The theft of billions of dollars from Binance, the world's largest cryptocurrency exchange, makes Saturday's front pages.",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
       "author": "",
-      "published": "Sat, 31 Oct 2026 05:24:22 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "published": "Sat, 31 Oct 2026 12:21:25 GMT",
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK could see 10 days without rain after 'wettest week in two years'",
-      "link": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+      "title": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
+      "summary": "Sir Keir warns that \"things will not go back to the way they were\" as he says the US makes it clear it will no longer \"bankroll\" its allies.",
       "author": "",
-      "published": "Sat, 31 Oct 2026 00:06:31 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "published": "Sat, 31 Oct 2026 13:20:39 GMT",
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
+      "link": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.",
+      "author": "",
+      "published": "Sat, 31 Oct 2026 05:16:01 GMT",
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +171,7 @@
       "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
       "author": "",
       "published": "Sat, 31 Oct 2026 05:44:21 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -181,17 +181,7 @@
       "summary": "Bridget Devaney turned to the internet with a proposal that sounded equal parts hopeful and improbable - come to Ireland and celebrate the wedding that never happened.",
       "author": "",
       "published": "Sat, 31 Oct 2026 00:05:19 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Global nature talks reach deal but money remains an issue",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "author": "",
-      "published": "Sat, 31 Oct 2026 01:27:05 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +191,7 @@
       "summary": "Dr Richard Naylor has about 50,000 bedbugs at his laboratory in the Forest of Dean.",
       "author": "",
       "published": "Fri, 30 Oct 2026 06:15:26 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +201,7 @@
       "summary": "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes.",
       "author": "",
       "published": "Tue, 27 Oct 2026 16:50:13 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +211,7 @@
       "summary": "Author Ursula Wills says the story was inspired by a camping trip in Cornwall 20 years ago.",
       "author": "",
       "published": "Sun, 25 Oct 2026 07:15:56 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +221,7 @@
       "summary": "American Cameron Laird introduced pumpkin-picking to her husband John's farm 28 years ago.",
       "author": "",
       "published": "Sat, 24 Oct 2026 22:26:49 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
@@ -241,57 +231,37 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
-      "title": "Shearer on trials of MOTD & the manager's job that never was",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss",
+      "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.",
+      "summary": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
       "author": "",
-      "published": "Sat, 31 Oct 2026 06:23:58 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "published": "Sat, 31 Oct 2026 13:23:15 GMT",
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sherrock happy to overcome 'hate' in beating Littler for £501,000",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000.",
+      "title": "A 3/10 that might be generous - player ratings for Chelsea v Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
+      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
+      "summary": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 23:38:06 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "published": "Sat, 31 Oct 2026 14:35:50 GMT",
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     },
     {
       "source": "bbc",
-      "title": "Villa to sue Carragher over 'unacceptable insults'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss",
+      "title": "Carragher apologises to Villa for 'wrong' language",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as \"unacceptable insults\".",
+      "summary": "Jamie Carragher apologises for \"clumsy and wrong\" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him.",
       "author": "",
-      "published": "Fri, 30 Oct 2026 23:05:45 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Verstappen and Lawson given grid penalties for Mexico practice collision",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Max Verstappen accuses Liam Lawson of \"not very smart behaviour\" after the two collided in Friday practice at the Mexico City Grand Prix.",
-      "author": "",
-      "published": "Sat, 31 Oct 2026 03:18:06 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "AC Milan v Inter and the tale of an iconic image",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image.",
-      "author": "",
-      "published": "Sat, 31 Oct 2026 06:44:38 GMT",
-      "fetched_at": "2026-10-31T11:25:37.434236+00:00"
+      "published": "Sat, 31 Oct 2026 13:51:00 GMT",
+      "fetched_at": "2026-10-31T16:31:22.696389+00:00"
     }
   ]
 }
