@@ -1,18 +1,8 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-01T21:29:19.461897+00:00",
-  "count": 30,
+  "fetched_at": "2026-11-02T03:26:13.894717+00:00",
+  "count": 36,
   "articles": [
-    {
-      "source": "bbc",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "author": "",
-      "published": "Sun, 01 Nov 2026 21:01:58 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
-    },
     {
       "source": "bbc",
       "title": "Five teenagers stabbed at Halloween party",
@@ -21,7 +11,17 @@
       "summary": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
       "author": "",
       "published": "Sun, 01 Nov 2026 15:01:31 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "author": "",
+      "published": "Mon, 02 Nov 2026 02:59:02 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -31,17 +31,47 @@
       "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
       "author": "",
       "published": "Sun, 01 Nov 2026 16:57:14 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
-      "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "His family describe the night police told them of his death, and watching him being handcuffed.",
+      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 17:53:55 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Mon, 02 Nov 2026 01:45:42 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "author": "",
+      "published": "Mon, 02 Nov 2026 00:25:12 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
+      "author": "",
+      "published": "Sun, 01 Nov 2026 23:20:54 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "A&E warning system to flag sick children deteriorating quickly",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The initiative, in England, will help busy staff identify children who are deteriorating quickly as they wait for emergency care.",
+      "author": "",
+      "published": "Mon, 02 Nov 2026 00:51:24 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -50,8 +80,8 @@
       "full_text": "",
       "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 21:18:12 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Mon, 02 Nov 2026 02:46:55 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -60,8 +90,8 @@
       "full_text": "",
       "summary": "The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 20:33:11 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Sun, 01 Nov 2026 23:31:31 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -71,57 +101,57 @@
       "summary": "The British adventurer is due to complete his 31,000-mile challenge in Hull on Monday.",
       "author": "",
       "published": "Sun, 01 Nov 2026 17:18:16 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
-      "title": "Peaceful protests in Germany spiral into violence and looting",
-      "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
+      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 18:51:56 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Mon, 02 Nov 2026 01:15:25 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 17:56:47 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Sun, 01 Nov 2026 23:34:49 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
-      "title": "Reeves says UK's future should be inside the EU",
-      "link": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: King Charles III caught in torrential downpour at Antigua and Barbuda parade",
+      "link": "https://www.bbc.co.uk/news/videos/cxnv090q9qelo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
+      "summary": "King Charles III and Queen Camilla were standing in an open-air stadium when the rain came on.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 10:47:03 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Mon, 02 Nov 2026 02:43:54 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
-      "title": "Who are the real winners of Celebrity Traitors?",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'A family's pain' and 'EU students in return for trade'",
+      "link": "https://www.bbc.co.uk/news/articles/cm79py0q2wqwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show.",
+      "summary": "The parents of Henry Nowak speaking for the first time about the moment they learnt he had been murdered leads Monday's Daily Mirror.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 00:06:01 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Mon, 02 Nov 2026 01:59:50 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
-      "title": "Lindsay Clancy is back in court - where will her case go next?",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
+      "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
+      "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
+      "summary": "His family describe the night police told them of his death, and watching him being handcuffed.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 17:29:08 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Sun, 01 Nov 2026 17:53:55 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -131,37 +161,47 @@
       "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
       "author": "",
       "published": "Sun, 01 Nov 2026 00:17:05 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
-      "title": "I've been stuck on a tiny Pacific island for years because of visa rules",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "title": "A simple guide to the midterms",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+      "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
       "author": "",
-      "published": "Sat, 31 Oct 2026 23:06:13 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Mon, 26 Oct 2026 16:53:37 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
-      "title": "A severed hand and The Shining twins: The best celebrity Halloween costumes",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exyj525d9o?at_medium=RSS&at_campaign=rss",
+      "title": "What's at stake for Trump in the US midterms?",
+      "link": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.",
+      "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 08:09:26 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Fri, 30 Oct 2026 10:19:48 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "title": "‘My vote still matters’ - Americans weigh in on the power of their ballot",
+      "link": "https://www.bbc.co.uk/news/videos/cw62yd964e55o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The supermodel and TV host provided a gory new shock at her New York event.",
+      "summary": "The BBC asked voters from across the United States what voting means to them and whether they think it matters in the midterm elections.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 05:26:02 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Sun, 01 Nov 2026 16:08:19 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+      "author": "",
+      "published": "Sun, 01 Nov 2026 06:03:57 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +211,17 @@
       "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
       "author": "",
       "published": "Sun, 01 Nov 2026 17:05:18 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "author": "",
+      "published": "Sun, 01 Nov 2026 21:55:01 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +231,7 @@
       "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
       "author": "",
       "published": "Sun, 01 Nov 2026 11:05:40 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -191,7 +241,7 @@
       "summary": "A video which shows an officer hitting a youth is a \"small part of the incident\", police say.",
       "author": "",
       "published": "Sun, 01 Nov 2026 13:48:45 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -201,7 +251,7 @@
       "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
       "author": "",
       "published": "Sun, 01 Nov 2026 17:06:32 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -211,7 +261,7 @@
       "summary": "More than 4,000 people have been arrested for supporting the group since it was proscribed in July 2025.",
       "author": "",
       "published": "Sun, 01 Nov 2026 13:41:00 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +271,7 @@
       "summary": "Cate McHugh was congratulated by her coach Sir Tom Jones after she was crowned winner on Saturday.",
       "author": "",
       "published": "Sun, 01 Nov 2026 11:46:17 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +281,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -241,7 +291,37 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How Antonelli 'blew everyone away' to make Formula 1 history",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Kimi Antonelli seems destined for Formula 1 greatness after winning his first world title, writes Andrew Benson.",
+      "author": "",
+      "published": "Mon, 02 Nov 2026 01:47:30 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lewis Hamilton says Ferrari need \"some serious talks behind closed doors\" after fighting between their two drivers in Mexico.",
+      "author": "",
+      "published": "Mon, 02 Nov 2026 00:28:28 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Antonelli - the boy 'born in a garage' who became world champion",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
+      "author": "",
+      "published": "Sun, 01 Nov 2026 22:25:01 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +331,7 @@
       "summary": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.",
       "author": "",
       "published": "Sun, 01 Nov 2026 21:00:26 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -261,37 +341,17 @@
       "summary": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.",
       "author": "",
       "published": "Sun, 01 Nov 2026 20:16:46 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arsenal move clear at the top with a rare win at Liverpool",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
+      "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
       "author": "",
-      "published": "Sun, 01 Nov 2026 20:00:18 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Are Celtic club in regression amid run of six defeats in 10?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
-      "author": "",
-      "published": "Sun, 01 Nov 2026 17:34:12 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Boy, 14, hands himself into police over Bradley Lowery video",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.",
-      "author": "",
-      "published": "Sun, 01 Nov 2026 20:15:52 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "published": "Mon, 02 Nov 2026 00:00:03 GMT",
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     },
     {
       "source": "bbc",
@@ -301,7 +361,7 @@
       "summary": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career.",
       "author": "",
       "published": "Sun, 01 Nov 2026 15:55:46 GMT",
-      "fetched_at": "2026-11-01T21:29:15.976438+00:00"
+      "fetched_at": "2026-11-02T03:26:08.255791+00:00"
     }
   ]
 }
