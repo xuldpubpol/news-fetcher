@@ -1,117 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-06T13:27:22.431324+00:00",
+  "fetched_at": "2026-11-06T22:31:39.756853+00:00",
   "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss",
+      "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to \"victim blaming\".",
+      "summary": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 11:01:58 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 21:26:56 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvrr686lzqo?at_medium=RSS&at_campaign=rss",
+      "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The comedian had previously spoken about an unnamed \"predator\" in the entertainment industry.",
+      "summary": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 13:12:20 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Did a data centre revolt affect the US midterm election results?",
-      "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 06:01:13 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Misleading' student loans information left out examples of higher-salary repayments",
-      "link": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 06:06:36 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
-      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 13:19:07 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Two Gloucester schools in lockdown after boy hurt in incident",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Armed police are on the scene in Tuffley - police say pupils are safe within school grounds.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 13:10:59 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How unprecedented changes to the polar vortex may impact the UK's weather",
-      "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 01:22:39 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tube drivers to stage strikes in Christmas run-up",
-      "link": "https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The union is in dispute with London Underground over working arrangements for drivers.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 12:42:46 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump signs order to preserve Oval Office as national monument",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 09:19:57 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Train worker recalls repelling Huntingdon attacker with frying pan",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Samir Zitouni used a frying pan against train attacker Anthony Williams, jurors hear.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 13:19:15 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Clicky Ponting' cheating scandal cricketer banned from sport for two years",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 12:00:21 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 16:49:31 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
@@ -121,67 +31,177 @@
       "summary": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
       "author": "",
       "published": "Fri, 06 Nov 2026 12:16:44 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Thatcher's Right to Buy created a generation of homeowners - did it also fuel the housing crisis?",
-      "link": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?",
+      "summary": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 00:09:56 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 20:11:45 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+      "title": "New wave of bomb threats hit European airlines",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
       "author": "",
-      "published": "Thu, 05 Nov 2026 19:08:48 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 15:25:35 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Weekly quiz: How did Rice Krispies lose their snap, crackle and pop?",
-      "link": "https://www.bbc.co.uk/news/articles/cqy0rzz0w9wlo?at_medium=RSS&at_campaign=rss",
+      "title": "Harry and five others seek to challenge Mail publisher privacy ruling",
+      "link": "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "summary": "The Duke of Sussex and other public figures lost a High Court case against the publisher of the Daily Mail and Mail on Sunday.",
       "author": "",
-      "published": "Thu, 05 Nov 2026 19:38:58 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 19:51:48 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
+      "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 07:33:41 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 15:02:03 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
-      "link": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
+      "title": "Child, 6, dies weeks after Waterford arson attack",
+      "link": "https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
+      "summary": "The attack happened last month at the family home on the outskirts of Waterford in the Republic of Ireland.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 00:42:05 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 21:53:38 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+      "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+      "summary": "Two schools went into lockdown following the incident and one woman has been arrested.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 00:02:52 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 18:58:39 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 15:30:42 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 21:06:25 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 17:44:02 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Met Police boss 'wouldn't be surprised' if more allegations made about Brand",
+      "link": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to \"victim blaming\".",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 16:43:07 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvrr686lzqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The comedian had previously spoken about an unnamed \"predator\" in the entertainment industry.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 13:12:20 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham responds to BBC question over Labour's past links to Brand",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgee4yw3xno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister says that Labour politicians courting the comedian a decade ago had not been aware of his crimes.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 16:14:40 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'A beautiful story' as Bellingham brothers called up",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 14:16:34 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Huntingdon train attack victim thought 'this is what it feels like to die', court told",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Scott Bletcher says he found police and told them 'am I glad to see you, I've been stabbed\".",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 19:23:47 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How unprecedented changes to the polar vortex may impact the UK's weather",
+      "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 01:22:39 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 16:12:22 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Spate of bomb threats poses serious challenge to airline industry",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After a week of disruption, airlines are facing both safety and financial concerns.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 16:18:44 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
@@ -191,47 +211,17 @@
       "summary": "The teenager was eventually rescued on Zugspitze and has since been discharged from hospital.",
       "author": "",
       "published": "Fri, 06 Nov 2026 12:31:34 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Homes and temples glow across India as Diwali celebrations begin",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
+      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets",
+      "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 10:21:30 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Some media outlets evacuated after bomb threats",
-      "link": "https://www.bbc.co.uk/news/articles/cme8rr30n55ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Gardaí say they are \"aware of a threat made against media organisations here and in Europe\".",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 13:00:43 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Childminder who left more than 20 children alone in her home jailed",
-      "link": "https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Amanda Mathewson was caught neglecting children at her home in Dunfermline after being spied on by parents.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 12:31:11 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 09:57:04 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 15:25:43 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
@@ -240,8 +230,28 @@
       "full_text": "",
       "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 12:27:33 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 15:33:52 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tube drivers to stage strikes in Christmas run-up",
+      "link": "https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The union is in dispute with London Underground over working arrangements for drivers.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 16:50:22 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Childminder who left more than 20 children alone in her home jailed",
+      "link": "https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Amanda Mathewson was caught neglecting children at her home in Dunfermline after being spied on by parents.",
+      "author": "",
+      "published": "Fri, 06 Nov 2026 14:19:50 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
@@ -251,17 +261,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russell Brand Guilty Of Rape",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pkvz13?at_mid=rzZfkAcwGA&at_campaign=Newscast_Russell_Brand_Guilty_Of_Rape_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Russell_Brand_Guilty_Of_Rape_news_rail&at_bbc_team=BBC&at_creation=News",
+      "title": "What Trump's Midterms Defeat Means For Everyone Else",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pkvz4v?at_mid=yhF6v4viux&at_campaign=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_bbc_team=BBC&at_creation=News",
       "full_text": "Find out how to listen to other BBC stations",
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
@@ -271,67 +281,57 @@
       "summary": "Elinor and Marianne Dashwood are thrown into sudden hardship on the death of their father.",
       "author": "",
       "published": "Sat, 31 Oct 2026 15:35:30 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Palmer misses too many chances to impress - Tuchel",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+      "title": "Whole Australia team knew of sandpaper use on 2018 tour of SA - Khawaja",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
+      "summary": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 11:59:37 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 22:06:57 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "'It would be pretty special' - Chessum on England captaincy links",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8kgeeq5vyxdo?at_medium=RSS&at_campaign=rss",
+      "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ollie Chessum says that he relishes being an on-pitch leader after being tipped as a long-term successor to England skipper Maro Itoje.",
+      "summary": "This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 12:55:49 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 20:52:24 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
+      "title": "Barry scores twice as Everton fight back to beat Coventry",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
+      "summary": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 11:16:07 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 22:30:12 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "Has Anderson lived up to the hype after Man City move?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
+      "title": "Is Palmer's England career over under Tuchel?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
+      "summary": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 12:00:18 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 16:30:03 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     },
     {
       "source": "bbc",
-      "title": "McIlroy fires 63 to move into Abu Dhabi contention",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cq78ppmj0zm3o?at_medium=RSS&at_campaign=rss",
+      "title": "Player-coach rift report will only galvanise England - George",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Rory McIlroy recovers from the setback of being penalised two shots in his opening round at the Abu Dhabi Championship by firing 11 birdies in a nine-under-par 63 in round two on Friday.",
+      "summary": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 11:40:03 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Two-year ban for 'Clicky Ponting' cricketer",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 12:00:21 GMT",
-      "fetched_at": "2026-11-06T13:27:16.674794+00:00"
+      "published": "Fri, 06 Nov 2026 18:30:57 GMT",
+      "fetched_at": "2026-11-06T22:31:32.467204+00:00"
     }
   ]
 }
