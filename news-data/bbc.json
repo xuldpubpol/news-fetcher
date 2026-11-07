@@ -1,47 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-07T03:45:21.310213+00:00",
-  "count": 34,
+  "fetched_at": "2026-11-07T12:06:18.362067+00:00",
+  "count": 28,
   "articles": [
     {
       "source": "bbc",
-      "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+      "link": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "summary": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
       "author": "",
-      "published": "Fri, 06 Nov 2026 21:26:56 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 11:04:28 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "title": "Two men arrested after boy injured in sword attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "summary": "Police say a 17-year-old suffered a wound \"believed to have been caused by a sword\" in Gloucester on Friday.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 23:24:15 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 18:32:16 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 16:49:31 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 10:38:21 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
@@ -51,107 +31,47 @@
       "summary": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
       "author": "",
       "published": "Sat, 07 Nov 2026 00:31:54 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
+      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 15:02:03 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 07:27:44 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+      "summary": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 23:53:06 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 10:44:38 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "Gladiator II stuntman sues over injuries from on-set explosion",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
+      "title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
+      "summary": "The pop superstar's appearances at NBA games were deemed \"a little performative\" by New York Knicks point guards Tyler Kolek and Miles McBride.",
       "author": "",
-      "published": "Sat, 07 Nov 2026 01:38:49 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 10:09:07 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dutch launch shows smugglers are adapting, says MP",
-      "link": "https://www.bbc.co.uk/news/articles/c689zzvl5yp8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "Between 1 January and 31 October 2026, a total of 22,128 people crossed the English Channel by small boat from France. This was down by 40% on the same period the previous year.\nThese crossings have become the most common way for people to be detected entering the UK illegally since 2020.\nNearly all those who arrive by small boat claim asylum. Under international law, this means they are allowed to stay in the country while their asylum application is considered.\nSmall boat arrivals made up 40% of asylum applications between July 2025 to June 2026.\nBoats that arrived in the UK from 1 November 2025 to 31 October 2026 carried an average of 68 people. This has more than doubled since 2021.\nExperts say overcrowding in boats makes crossings riskier. At least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).\nWhen looking at the scale of small boats crossings, the number of these arrivals is about 5% of the size of total immigration into the UK from January 2025 to December 2025.\nThe government has pledged to “smash the gangs” behind these crossings in order to reduce the numbers.\nPeople from Eritrea accounted for 18% of all arrivals from July 2025 to June 2026.\nIn the latest figures covering January 2025 to December 2025, at least 2,335 people who arrived by small boat were found to be potential victims of human trafficking or other forms of modern slavery, according to the Home Office.\nAnother 4,712 people were detected entering the UK without permission via other methods including hiding in vehicles, travelling on ferries or through airports from July 2025 to June 2026. This was down by 17% on the same period the previous year.\nThere are also individuals who arrive legally, for example via a work or study visa, and then overstay their limit.\nThe total number of people who live in the UK illegally after arriving legally is not known.",
-      "summary": "Dover MP Mike Tapp says smugglers will find new launch locations and methods due to disruptions.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 18:29:29 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Paraguay's president impeached after collapse of bank",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+      "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "summary": "It was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
       "author": "",
-      "published": "Sat, 07 Nov 2026 03:25:00 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Police said a vehicle in Morriston, Swansea, sustained damage \"consistent with a firearms discharge\".",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 22:50:53 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 12:16:44 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvrr686lzqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The comedian had previously spoken about an unnamed \"predator\" in the entertainment industry.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 13:12:20 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Burnham responds to BBC question over Labour's past links to Brand",
-      "link": "https://www.bbc.co.uk/news/articles/cjkgee4yw3xno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister says that Labour politicians courting the comedian a decade ago had not been aware of his crimes.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 16:14:40 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
-      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-      "author": "",
-      "published": "Sat, 07 Nov 2026 01:41:36 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 11:31:10 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
@@ -161,17 +81,17 @@
       "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
       "author": "",
       "published": "Sat, 07 Nov 2026 01:27:47 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Meghan's father charged' and 'Brand investigation widens'",
-      "link": "https://www.bbc.co.uk/news/articles/cqly00plnegdo?at_medium=RSS&at_campaign=rss",
+      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Thomas Markle's arrest leads a number of Saturday's front pages, while Russell Brand continues to feature prominently.",
+      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
       "author": "",
-      "published": "Sat, 07 Nov 2026 00:51:09 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 01:41:36 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
@@ -181,67 +101,107 @@
       "summary": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
       "author": "",
       "published": "Sat, 07 Nov 2026 02:03:28 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "From young offender to junior doctor: 'I wrote a plan and stuck to it'",
+      "title": "Paraguay's president impeached after collapse of bank",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "author": "",
+      "published": "Sat, 07 Nov 2026 07:20:00 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "From young offender to resident doctor: 'I wrote a plan and stuck to it'",
       "link": "https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Steven Beattie left Scotland's most violent prison 20 years ago vowing to turn his life around.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 23:01:04 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 09:23:39 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Two schools went into lockdown following the incident and one woman has been arrested.",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 18:58:39 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 06:59:48 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "Skepta: 'I'm what it looks like if you give an immigrant child a chance'",
-      "link": "https://www.bbc.co.uk/news/articles/c6n499d3ykgwo?at_medium=RSS&at_campaign=rss",
+      "title": "Parliament restoration delays 'frustrating', says Commons Speaker",
+      "link": "https://www.bbc.co.uk/news/articles/cm89zznj21ylo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The grime artist, widely considered to be one of the UK's best, returns with his first album in seven years.",
+      "summary": "Sir Lindsay Hoyle urges action after a committee warns it is \"crunch time\" for the ailing building.",
       "author": "",
-      "published": "Sat, 07 Nov 2026 01:58:00 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 06:04:32 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "Meet Fu Shuang and Ping Ping: New giant pandas in Atlanta",
-      "link": "https://www.bbc.co.uk/news/videos/cwm244x9dzy2o?at_medium=RSS&at_campaign=rss",
+      "title": "Gladiator II stuntman sues over injuries from on-set explosion",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The newest residents of Zoo Atlanta are on loan from China as part of a six-year agreement.",
+      "summary": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 18:27:21 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 01:38:49 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "Harry and five others seek to challenge Mail publisher privacy ruling",
-      "link": "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss",
+      "title": "Boy, 4, dies after Range Rover crashes on country road",
+      "link": "https://www.bbc.co.uk/news/articles/cr3ellge7qwjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Duke of Sussex and other public figures lost a High Court case against the publisher of the Daily Mail and Mail on Sunday.",
+      "summary": "A 28-year-old man was driving the car when it crashed near Bathgate in West Lothian.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 19:51:48 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 08:45:15 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "Child, 6, dies weeks after Waterford arson attack",
-      "link": "https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss",
+      "title": "Secondary school teacher to crofter - life on the UK's most remote island",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgepq3dv3no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The attack happened last month at the family home on the outskirts of Waterford in the Republic of Ireland.",
+      "summary": "Katy Phenix relocated to Fair Isle from Redcar in North Yorkshire with her partner Josh Moore and their children Teddy, 11, and Hetty, six.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 21:53:38 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Tue, 03 Nov 2026 06:08:05 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Knitalian: Artist uses yarn to create Italian deli",
+      "link": "https://www.bbc.co.uk/news/articles/cvze4zy3ng10o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "From spaghetti to Parma ham, everything at a new Soho exhibition is knitted, crocheted or embroidered.",
+      "author": "",
+      "published": "Thu, 05 Nov 2026 05:58:21 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
+      "author": "",
+      "published": "Tue, 03 Nov 2026 07:50:14 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "New pictures released ahead of The Other Bennet Sister Christmas special",
+      "link": "https://www.bbc.co.uk/news/articles/c670pvxyp2pko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Little has been shared about the plot of the upcoming The Other Bennet Sister Christmas special.",
+      "author": "",
+      "published": "Tue, 03 Nov 2026 06:13:17 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +211,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +221,7 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
@@ -271,27 +231,17 @@
       "summary": "Elinor and Marianne Dashwood are thrown into sudden hardship on the death of their father.",
       "author": "",
       "published": "Sat, 31 Oct 2026 15:35:30 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+      "title": "I left Man City for my mental wellbeing - Trafford",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+      "summary": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 23:53:06 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lampard feels hair pull should have led to Coventry penalty",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 23:22:21 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 07:16:37 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
@@ -301,47 +251,37 @@
       "summary": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
       "author": "",
       "published": "Fri, 06 Nov 2026 23:11:56 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
+      "title": "Ponga-inspired New Zealand reach World Cup final",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmvgx2e78xrro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.",
+      "summary": "Kalyn Ponga returns from a broken arm to inspire New Zealand to victory in a pulsating encounter with Tonga as they reach their first World Cup final since 2013.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 20:52:24 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 11:45:11 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "Six tries and a big win - but were Ireland ruthless?",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&at_campaign=rss",
+      "title": "New Zealand sweep aside Samoa to reach Women's World Cup final",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c680zz8k3nvvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
+      "summary": "New Zealand's women will hope it is fourth time lucky after defeating Samoa 32-0 to reach next Sunday's Rugby League World Cup final.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 23:57:05 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 08:32:15 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     },
     {
       "source": "bbc",
-      "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&at_campaign=rss",
+      "title": "Non-league's greatest giant-killers eye another scalp",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed.",
+      "summary": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
       "author": "",
-      "published": "Fri, 06 Nov 2026 22:28:43 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Barry scores twice as Everton fight back to beat Coventry",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 22:30:12 GMT",
-      "fetched_at": "2026-11-07T03:45:10.447997+00:00"
+      "published": "Sat, 07 Nov 2026 06:45:56 GMT",
+      "fetched_at": "2026-11-07T12:06:13.452188+00:00"
     }
   ]
 }
