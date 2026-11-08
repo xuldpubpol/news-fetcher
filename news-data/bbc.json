@@ -1,57 +1,117 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-08T12:27:19.636810+00:00",
-  "count": 29,
+  "fetched_at": "2026-11-08T21:28:51.078775+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "How the deadly shooting in Krakow unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "summary": "Jensen Huang also admitted to having been \"unfaithful \"to his wife and apologised for hurting her and their children.",
       "author": "",
-      "published": "Sun, 08 Nov 2026 09:29:24 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 21:10:23 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Abuse in media industry probably still happening, minister warns in wake of Brand case",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 18:22:53 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 18:20:53 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Maya Jama steps down as host of reality TV show Love Island",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 21:19:48 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 19:58:02 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "White House vows to keep up immigration crackdown after midterms defeat",
+      "link": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Department of Homeland Security also insists it is not backing away on the round-up.",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 20:23:58 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
       "link": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lisa Nandy told Laura Kuenssberg that 'many people' in the media industry had opened up to her.",
+      "summary": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
       "author": "",
-      "published": "Sun, 08 Nov 2026 11:40:56 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 15:37:57 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 13:05:30 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 13:37:50 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Government looking at banning under-16s from Vinted and eBay",
       "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
       "author": "",
-      "published": "Sun, 08 Nov 2026 11:25:32 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 15:37:25 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!'",
-      "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+      "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.",
+      "summary": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow.",
       "author": "",
-      "published": "Sun, 08 Nov 2026 00:31:53 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "My parents chose to die together and I was left to grieve alone",
-      "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Els and Jan sought medical intervention to end their lives after 50 happy years of marriage, leaving behind their only child.",
-      "author": "",
-      "published": "Sun, 08 Nov 2026 01:10:21 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 17:42:28 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
@@ -61,17 +121,17 @@
       "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
       "author": "",
       "published": "Sun, 08 Nov 2026 00:52:39 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is fading",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "title": "My parents chose to die together and I was left to grieve alone",
+      "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "summary": "Els and Jan sought medical intervention to end their lives after 50 happy years of marriage, leaving behind their only child.",
       "author": "",
-      "published": "Sat, 07 Nov 2026 23:02:35 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 01:10:21 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +141,17 @@
       "summary": "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.",
       "author": "",
       "published": "Sun, 08 Nov 2026 00:49:00 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "author": "",
+      "published": "Sat, 07 Nov 2026 23:02:35 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
@@ -91,27 +161,7 @@
       "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
       "author": "",
       "published": "Sun, 08 Nov 2026 00:37:45 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Soap operas on steroids': Microdramas are going mainstream",
-      "link": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK.",
-      "author": "",
-      "published": "Sun, 08 Nov 2026 00:45:45 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
-      "author": "",
-      "published": "Sun, 08 Nov 2026 03:34:22 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
@@ -121,17 +171,7 @@
       "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
       "author": "",
       "published": "Sun, 08 Nov 2026 00:48:59 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "author": "",
-      "published": "Sat, 07 Nov 2026 22:19:59 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
@@ -141,17 +181,57 @@
       "summary": "Sara Payne says she found out her eight-year-old had died as it was being reported in the news.",
       "author": "",
       "published": "Sun, 08 Nov 2026 07:17:04 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
-      "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss",
+      "title": "Secondary schools told to stop teaching GCSEs before Year 10",
+      "link": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.",
+      "summary": "The government says pupils in Year 7 to 9 should have \"richer, more engaging\" learning than preparing for GCSEs.",
       "author": "",
-      "published": "Sun, 08 Nov 2026 04:09:21 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 19:00:32 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dense fog threatens Monday morning rush-hour disruption",
+      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Fog could disrupt Monday morning’s commute",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 20:01:04 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "We face paying £9,000 tax even though our second home is in a war zone",
+      "link": "https://www.bbc.co.uk/news/articles/c674pk4klp7no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A Ukrainian woman who fled to Scotland is told she and her partner could face a £9,000 property tax charge because she still owns a flat in Kyiv.",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 08:04:59 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Microdramas: The 'snackable' shows made for the scrolling age",
+      "link": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK.",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 00:45:45 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "School Street fines at one location exceed £1m",
+      "link": "https://www.bbc.co.uk/news/articles/c68xzzvgl7reo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The council issues penalty charges totalling £1.15m over the scheme near Manor School in Kensal Rise.",
+      "author": "",
+      "published": "Sun, 08 Nov 2026 08:01:55 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
@@ -161,57 +241,17 @@
       "summary": "The dementia treatment for children is available in the US, with funding for UK children unclear.",
       "author": "",
       "published": "Sun, 08 Nov 2026 07:04:36 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "No one was thrown under the bus by ball-tampering revelations, says cricketer Khawaja",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
       "author": "",
-      "published": "Sun, 08 Nov 2026 10:04:01 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'We have our own fair playing field': 1Xtra launches first ever UK rap chart",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyymd3533o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The top 20 best selling UK rap tracks will be celebrated each week on Radio 1Xtra with DJ Kenny Allstar.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 12:37:58 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
-      "link": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 00:42:05 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Town crier crowned one of the world's loudest women",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0ky9ykn7o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Brenda Willison breaks two Guinness World Records for the volume of her voice.",
-      "author": "",
-      "published": "Wed, 04 Nov 2026 05:56:31 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Turtle returns to sea after 22 years recovering in Irish aquarium",
-      "link": "https://www.bbc.co.uk/news/articles/ckgxkekxer4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "After two decades in the care of Dingle Oceanworld Aquarium the turtle rescued in 2004 is finally well enough to return to the wild.",
-      "author": "",
-      "published": "Fri, 06 Nov 2026 12:40:48 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 14:42:09 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
@@ -221,17 +261,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "What Trump's Midterms Defeat Means For Everyone Else",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pkvz4v?at_mid=yhF6v4viux&at_campaign=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_bbc_team=BBC&at_creation=News",
+      "title": "Are There More Russell Brands In The Media Industry?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pkvzl8?at_medium=RSS&at_campaign=rss",
       "full_text": "Find out how to listen to other BBC stations",
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
@@ -241,57 +281,57 @@
       "summary": "Elinor and Marianne Dashwood are thrown into sudden hardship on the death of their father.",
       "author": "",
       "published": "Sat, 31 Oct 2026 15:35:30 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "Walsh-inspired Australia crush irate Samoa to reach World Cup final",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cqd0914z959do?at_medium=RSS&at_campaign=rss",
+      "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Reece Walsh scores a hat-trick as Australia reach the Men's Rugby League World Cup final by overwhelming a Samoa side left fuming by a series of refereeing calls against them.",
+      "summary": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
       "author": "",
-      "published": "Sun, 08 Nov 2026 11:45:42 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 19:52:48 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "I haven't thrown anyone under the bus - Khawaja",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+      "title": "Norris wins gripping race after Antonelli and Russell errors",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
+      "summary": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
       "author": "",
-      "published": "Sun, 08 Nov 2026 10:04:01 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 19:13:53 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
+      "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
+      "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
       "author": "",
-      "published": "Sun, 08 Nov 2026 07:30:01 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 18:20:56 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "The oldest club in London making FA Cup history",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
+      "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
+      "summary": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
       "author": "",
-      "published": "Sun, 08 Nov 2026 06:28:56 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 19:24:36 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     },
     {
       "source": "bbc",
-      "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
+      "title": "Alcaraz takes revenge on Shelton to win first Paris Masters title",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
+      "summary": "Carlos Alcaraz takes revenge on Ben Shelton as the Spaniard's remarkable comeback from injury continues with victory in the final of the Paris Masters.",
       "author": "",
-      "published": "Sun, 08 Nov 2026 00:17:56 GMT",
-      "fetched_at": "2026-11-08T12:27:15.313747+00:00"
+      "published": "Sun, 08 Nov 2026 17:56:35 GMT",
+      "fetched_at": "2026-11-08T21:28:43.914028+00:00"
     }
   ]
 }
