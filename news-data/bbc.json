@@ -1,47 +1,97 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-10T00:58:42.226326+00:00",
-  "count": 33,
+  "fetched_at": "2026-11-10T13:57:39.541764+00:00",
+  "count": 29,
   "articles": [
     {
       "source": "bbc",
-      "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
+      "title": "US military aircraft leave second UK base",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
+      "summary": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 17:31:08 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 12:43:59 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+      "title": "Met Police investigate several reports on Russell Brand following his conviction",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "She accuses the disgraced performer of \"violence, coercive control and abuse\" while the two were together.",
+      "summary": "Det Supt Andy Furphy says the force had received \"several reports in during the trial and since the trial\".",
       "author": "",
-      "published": "Mon, 09 Nov 2026 22:06:29 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 11:44:31 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "What happened inside court as Brand was sentenced",
-      "link": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
+      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.",
+      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 20:13:41 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 11:43:06 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
-      "link": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Meghan's first public appearance since father arrested",
+      "link": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
+      "summary": "Meghan arrived at the European Parliament in Brussels with her husband, Prince Harry, who delivered a speech about online child safety.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 22:16:37 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 11:57:14 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "author": "",
+      "published": "Tue, 10 Nov 2026 12:25:48 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "author": "",
+      "published": "Tue, 10 Nov 2026 13:45:13 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+      "author": "",
+      "published": "Tue, 10 Nov 2026 09:57:49 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "author": "",
+      "published": "Tue, 10 Nov 2026 13:45:36 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Man smashes Chinese government building with excavator",
+      "link": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident.",
+      "author": "",
+      "published": "Tue, 10 Nov 2026 09:37:15 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
@@ -51,57 +101,27 @@
       "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
       "author": "",
       "published": "Tue, 10 Nov 2026 00:08:28 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
       "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
       "author": "",
       "published": "Tue, 10 Nov 2026 00:14:03 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+      "title": "How did Mildenhall become crucial to the US Air Force?",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynyr33r0xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
+      "summary": "RAF Mildenhall is the main European refuelling tanker base for US forces in Europe.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 22:51:09 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "author": "",
-      "published": "Tue, 10 Nov 2026 00:34:53 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How a civil servant got away with juggling five jobs for so long",
-      "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
-      "author": "",
-      "published": "Mon, 09 Nov 2026 18:40:31 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-      "author": "",
-      "published": "Tue, 10 Nov 2026 00:09:49 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 12:44:12 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
@@ -111,137 +131,97 @@
       "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
       "author": "",
       "published": "Tue, 10 Nov 2026 00:27:37 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man Utd expected to sack head coach Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
+      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 23:13:31 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 09:23:55 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "My life as the UK's youngest lighthouse keeper",
-      "link": "https://www.bbc.co.uk/news/videos/cr3elxyq7x3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Football Manager series shines a light on video game representation",
+      "link": "https://www.bbc.co.uk/news/articles/cw33xl43xgdpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jeri Cormack, 28, looks after three historic lighthouses in Caithness on the edge of the British mainland.",
+      "summary": "The popular series now allows fans to play as a wheelchair user - something that is still rare in games.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 00:24:30 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 10:55:50 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
-      "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
+      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
+      "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 16:59:46 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 06:24:50 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+      "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "summary": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 21:52:28 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Doing these things now will help you save money at Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+      "link": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+      "summary": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 00:09:14 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 09:35:15 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "What we know so far about the next James Bond film",
-      "link": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
+      "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 06:47:09 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 09:07:00 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "title": "Edinburgh Academy pupils suffered decades of 'dreadful abuse'",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7pjpy7do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "summary": "A report from the Scottish Child Abuse Inquiry says the school focused on protecting its reputation and ignored complaints.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 23:45:14 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 11:21:19 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Prince William wants more protection from harassment for service women",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8g85pxe9ro?at_medium=RSS&at_campaign=rss",
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Prince of Wales says he wants to stop sexual harassment against women in the armed forces.",
+      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 00:41:24 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 13:23:54 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Drone delivers food to chimpanzee cut off by flooding",
-      "link": "https://www.bbc.co.uk/news/videos/c6wyrykl9vl7o?at_medium=RSS&at_campaign=rss",
+      "title": "At least 11 dead after motorway pile-ups in Bulgaria fog",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Drone video shows the animal retrieving food from a paper bag dropped nearby after flooding blocked access to a Florida chimpanzee sanctuary.",
+      "summary": "A further 46 people were injured in the pile-ups that occurred in both directions along a section of the Trakia motorway, officials have said.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 18:03:07 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-      "author": "",
-      "published": "Mon, 09 Nov 2026 18:08:07 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e0elq4ndpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The building and DIY expert also appeared on TV shows like Challenge Tommy Walsh and Clean It, Fix It.",
-      "author": "",
-      "published": "Mon, 09 Nov 2026 15:27:00 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "author": "",
-      "published": "Mon, 09 Nov 2026 20:20:08 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Poundland unable to buy new stock as fears over collapse grow",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-      "author": "",
-      "published": "Mon, 09 Nov 2026 16:46:40 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 12:41:46 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
@@ -261,77 +241,57 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man Utd expected to sack head coach Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+      "title": "Hill gets first England call-up as Konsa cover",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
+      "summary": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 23:13:31 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 11:41:27 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Kane and Bellingham air strong views in England World Cup review",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
+      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+      "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 17:30:23 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 06:24:50 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "People don't know full story behind England exile - White",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+      "title": "Australia fans 'can't trust what's real' - Clarke wants ball-tampering investigation reopened",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
+      "summary": "Former Australia captain Michael Clarke says fans of the national side \"can't trust what's real\" and has called for the investigation into the 2018 Australia ball-tampering scandal to be reopened.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 19:00:10 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 08:34:25 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
+      "title": "Wenger considers standing against Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
+      "summary": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 14:34:19 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 08:53:26 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     },
     {
       "source": "bbc",
-      "title": "Brady ends association with Birmingham City",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
+      "title": "Jockey Neale, 22, dies after fall during race",
+      "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c933x3yjk530o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
+      "summary": "Australian jockey Izzy Neale passes away following a fall during a race in Australia on Sunday.",
       "author": "",
-      "published": "Mon, 09 Nov 2026 22:18:17 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sabalenka wins WTA Finals opener despite wayward serve",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cr20w0q8lgy1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Aryna Sabalenka grapples with a misfiring serve as she begins her WTA Finals campaign with a tight victory over Karolina Muchova.",
-      "author": "",
-      "published": "Mon, 09 Nov 2026 23:51:09 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "England wing Feyi-Waboso out of Nations Championship",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5yny20m7jzo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "England wing Immanuel Feyi-Waboso is ruled out of the rest of the Nations Championship as his injury misfortune continues.",
-      "author": "",
-      "published": "Mon, 09 Nov 2026 18:33:37 GMT",
-      "fetched_at": "2026-11-10T00:58:38.700880+00:00"
+      "published": "Tue, 10 Nov 2026 11:34:41 GMT",
+      "fetched_at": "2026-11-10T13:57:35.170447+00:00"
     }
   ]
 }
