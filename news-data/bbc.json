@@ -1,6 +1,6 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-11T03:46:24.975823+00:00",
+  "fetched_at": "2026-11-11T13:12:29.153360+00:00",
   "count": 31,
   "articles": [
     {
@@ -8,20 +8,40 @@
       "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
       "link": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"genuinely unaware of their conduct\".",
+      "summary": "The TV presenter says he was once \"friendly\" with David Walliams and Russell Brand, but was \"genuinely unaware\" of their conduct.",
       "author": "",
-      "published": "Wed, 11 Nov 2026 03:13:07 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 10:14:22 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+      "title": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
+      "link": "https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
+      "summary": "Lilly Creightmore, who has alleged Walliams \"groomed\" her as a teenager, has told BBC Newsnight that she was \"angry\" at his behaviour.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 22:41:01 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 09:29:45 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK falls silent to mark Armistice Day",
+      "link": "https://www.bbc.co.uk/news/articles/c68j4lez4x4no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Services are being held across the UK to mark Armistice Day, commemorating the end of World War One.",
+      "author": "",
+      "published": "Wed, 11 Nov 2026 13:10:48 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Police told Russell Brand to leave Jemima Goldsmith's house in 2014",
+      "link": "https://www.bbc.co.uk/news/articles/cqde1yddwk17o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police confirm they asked Brand to leave his ex-girlfriend's house after she reported an alleged assault.",
+      "author": "",
+      "published": "Wed, 11 Nov 2026 10:26:25 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
@@ -31,27 +51,17 @@
       "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
       "author": "",
       "published": "Wed, 11 Nov 2026 01:01:20 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "title": "Acquitted 'China spy' tells BBC: I was fall guy for security services but also naive",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "summary": "Thousands of messages seen by BBC show how a Chinese official sought details of sensitive political matters.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 20:20:04 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "author": "",
-      "published": "Wed, 11 Nov 2026 02:41:16 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 06:00:21 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
@@ -60,38 +70,18 @@
       "full_text": "",
       "summary": "The Prince of Wales features his 13-year-old son's drawing of a bird as part of a special edition of the magazine.",
       "author": "",
-      "published": "Wed, 11 Nov 2026 00:46:28 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 07:30:58 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
-      "link": "https://www.bbc.co.uk/news/articles/cm20w093y3gqo?at_medium=RSS&at_campaign=rss",
+      "title": "Governments 'asleep at the wheel' over social care, says head of review",
+      "link": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The inquiry's lead barrister says photos of people lying on their backs with shots to the head may be evidence of possible war crimes.",
+      "summary": "Baroness Casey criticises variability of services and fees charged to self-funders in England.",
       "author": "",
-      "published": "Wed, 11 Nov 2026 01:11:30 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "author": "",
-      "published": "Wed, 11 Nov 2026 03:26:42 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
-      "author": "",
-      "published": "Wed, 11 Nov 2026 00:17:42 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 09:08:48 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
@@ -101,37 +91,27 @@
       "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
       "author": "",
       "published": "Wed, 11 Nov 2026 01:18:09 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "Students passing university assessments in minutes using AI, regulator warns",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+      "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Office for Students says students can frequently use AI \"in ways that cannot be reliably detected\".",
+      "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
       "author": "",
-      "published": "Wed, 11 Nov 2026 00:21:21 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 10:34:01 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-      "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "summary": "The football star will be joined by Gavin and Stacey star Joanna Page and YouTuber Sharky among others.",
       "author": "",
-      "published": "Wed, 11 Nov 2026 00:16:44 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "David Walliams' career and controversies including Britain's Got Talent and Little Britain",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q98z1yz3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The entertainer shot to fame on Little Britain and also has best-selling series of children's books.",
-      "author": "",
-      "published": "Tue, 10 Nov 2026 14:53:28 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 10:17:09 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
@@ -141,107 +121,117 @@
       "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
       "author": "",
       "published": "Tue, 10 Nov 2026 21:17:00 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-      "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
-      "author": "",
-      "published": "Tue, 10 Nov 2026 17:00:11 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-      "author": "",
-      "published": "Wed, 11 Nov 2026 00:18:07 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'David Walliams accused' and 'Named & shamed'",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg233enxjro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sexual misconduct allegations against actor David Walliams, which he denies, dominate Wednesday's front pages.",
-      "author": "",
-      "published": "Wed, 11 Nov 2026 02:14:18 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-      "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
-      "author": "",
-      "published": "Wed, 11 Nov 2026 00:35:14 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Train attack driver's '10 seconds' to change line",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\".",
-      "author": "",
-      "published": "Tue, 10 Nov 2026 18:54:35 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: What we know about the allegations against Walliams",
+      "title": "What we know about the allegations against David Walliams",
       "link": "https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The author and comedian recently lost a court battle trying to block publication of the allegations.",
       "author": "",
       "published": "Tue, 10 Nov 2026 19:35:17 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "title": "Why is Scotland's housing shortage getting worse?",
+      "link": "https://www.bbc.co.uk/news/articles/cr5yn4x5q3jxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "summary": "Homelessness has hit record levels and the cost of renting or buying property has continued to rise.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 22:52:15 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 06:11:51 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+      "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
+      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+      "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 16:19:48 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Tue, 10 Nov 2026 18:35:35 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "Census should include black English and Asian English options, says MP",
-      "link": "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&at_campaign=rss",
+      "title": "In Mississippi, voters await cliffhanger Senate result with hope and frustration",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0y8r54pqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Josh Babarinde's proposal is also supported by other MPs, including David Lammy and Sir James Cleverly.",
+      "summary": "Democratic voters tell the BBC their candidate is on the brink of history, while Republicans vent disappointment.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 22:04:54 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 02:53:57 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "More than 12 US military aircraft leave second UK base",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
+      "title": "Temperatures to dip to -5C as first cold health alerts of season issued",
+      "link": "https://www.bbc.co.uk/weather/articles/crq5n5148p7po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
+      "summary": "The most widespread frost of the season so far is forecast for many parts of the country. BBC Weather's Tomasz Schafernaker reports.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 17:22:14 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 07:08:32 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Richmond upon Thames is happiest place to live in Britain, survey finds",
+      "link": "https://www.bbc.co.uk/news/articles/cmy565dpwy62o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Richmond upon Thames ranked highly in several quality of life indicators in a Rightmove survey.",
+      "author": "",
+      "published": "Wed, 11 Nov 2026 06:15:11 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Senior doctors call off two-day strike planned this month",
+      "link": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
+      "author": "",
+      "published": "Wed, 11 Nov 2026 12:42:05 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
+      "link": "https://www.bbc.co.uk/news/articles/cm20w093y3gqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The inquiry's lead barrister says photos of people lying on their backs with shots to the head may be evidence of possible war crimes.",
+      "author": "",
+      "published": "Wed, 11 Nov 2026 01:11:30 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Vinícius Jr's message to Sudan boy who received prosthetic legs after BBC report sparked appeal",
+      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
+      "author": "",
+      "published": "Wed, 11 Nov 2026 09:28:36 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sales of traditional toys rise as public debate around screen time grows",
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "author": "",
+      "published": "Wed, 11 Nov 2026 07:52:05 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dua Lipa to become first female British headliner at Coachella 2027",
+      "link": "https://www.bbc.co.uk/news/articles/cjr4g0n9d1g5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tame Impala and SZA join the top of the bill for the US festival, which also features Madonna and Diljit Dosanjh.",
+      "author": "",
+      "published": "Wed, 11 Nov 2026 10:53:47 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +241,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
@@ -261,57 +251,67 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
+      "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
+      "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 18:12:02 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 12:58:17 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
+      "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
+      "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 16:17:10 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 10:34:01 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "Brilliant Noskova dismantles Gauff to reach WTA Finals last four",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cvglwllpxddro?at_medium=RSS&at_campaign=rss",
+      "title": "Bethell out of Australia trip and doubt for SA",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Wimbledon champion Linda Noskova dismantles Coco Gauff to become the first player to reach the last four at the WTA Finals.",
+      "summary": "Jacob Bethell is ruled out of England’s white-ball tour of Australia and is a huge doubt for the Test tour of South Africa following the recurrence of a knee injury.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 23:59:03 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 10:00:23 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "McTominay reveals heart treatment at World Cup",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
+      "title": "Khawaja refuses to name Aussie ball tamperers",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8dx16vzvr3ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
+      "summary": "The publisher of Usman Khawaja's autobiography denies his promotional tour has been cancelled but says there have been \"adjustments\" to the schedule.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 16:46:31 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 09:41:04 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     },
     {
       "source": "bbc",
-      "title": "Injured Feyi-Waboso is our Robinson - Sinfield",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq9vw88v8p80o?at_medium=RSS&at_campaign=rss",
+      "title": "Welsh Grand National-winning jockey O'Brien dies aged 39",
+      "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c3pw48qyjz2ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Immanuel Feyi-Waboso is the 2026 team's equivalent of Rugby World Cup winner Jason Robinson says assistant coach Kevin Sinfield.",
+      "summary": "Tom O'Brien, the nephew of trainer Aidan, rode more than 1,000 winners and won the Welsh Grand National twice.",
       "author": "",
-      "published": "Tue, 10 Nov 2026 22:32:41 GMT",
-      "fetched_at": "2026-11-11T03:46:23.048348+00:00"
+      "published": "Wed, 11 Nov 2026 11:58:47 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Does Pickford finally face serious competition for his England place?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
+      "author": "",
+      "published": "Wed, 11 Nov 2026 06:24:28 GMT",
+      "fetched_at": "2026-11-11T13:12:19.402763+00:00"
     }
   ]
 }
