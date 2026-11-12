@@ -1,17 +1,87 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-12T14:16:04.099820+00:00",
-  "count": 32,
+  "fetched_at": "2026-11-12T22:58:32.321338+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+      "author": "",
+      "published": "Thu, 12 Nov 2026 16:43:36 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "author": "",
+      "published": "Thu, 12 Nov 2026 20:09:16 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
       "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 12:14:51 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 21:00:42 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
+      "author": "",
+      "published": "Thu, 12 Nov 2026 20:25:29 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Can Burnham avoid another Labour welfare rebellion?",
+      "link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
+      "author": "",
+      "published": "Thu, 12 Nov 2026 18:21:38 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What we know about Brooklyn building collapse that killed eight people",
+      "link": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
+      "author": "",
+      "published": "Thu, 12 Nov 2026 19:09:25 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Military base asylum plans granted planning approval",
+      "link": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+      "author": "",
+      "published": "Thu, 12 Nov 2026 22:16:34 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+      "author": "",
+      "published": "Thu, 12 Nov 2026 18:47:35 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
@@ -21,27 +91,17 @@
       "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
       "author": "",
       "published": "Thu, 12 Nov 2026 13:02:46 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "title": "Duran Duran drummer quits band due to tinnitus",
+      "link": "https://www.bbc.co.uk/news/articles/crwy499k504do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "summary": "Roger Taylor says his condition has been getting steadily worse, and he must now \"listen to my body and my doctors\".",
       "author": "",
-      "published": "Thu, 12 Nov 2026 13:16:59 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
-      "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 13:06:12 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 19:00:15 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
@@ -51,97 +111,27 @@
       "summary": "The UK is seeing impressive growth, but will it last?",
       "author": "",
       "published": "Thu, 12 Nov 2026 13:27:09 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Teenage girl admits murder in row over boy",
-      "link": "https://www.bbc.co.uk/news/articles/c6x28e243gg9o?at_medium=RSS&at_campaign=rss",
+      "title": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Kayla Smith, 18, pleads guilty to the murder of Chloe Watson Dransfield, who she stabbed to death.",
+      "summary": "The accident rattled the usually calm immigrant neighbourhood of Flatbush, New York. At least eight residents, including two children, died in the rubble.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 12:49:46 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 18:36:15 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "title": "How Pochettino came on Man Utd's radar - and what sacked manager Carrick was told",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "summary": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 12:26:01 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel",
-      "link": "https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Activist Danny Tommo pleads guilty to criminal damage at Portsmouth Crown Court.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 10:48:24 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: 'Life-changing moment' boy turns on Tourette syndrome device to help stop tics",
-      "link": "https://www.bbc.co.uk/news/videos/c94gnv5e31gno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The wrist device, which has been developed by researchers in Nottingham, has been described as \"life-changing\".",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 08:27:02 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Schools, libraries and parents face 'difficult decision' over David Walliams books",
-      "link": "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some schools remove the children's author's books from their libraries after allegations against him.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 12:42:43 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "As the chief executive steps down, some names have emerged as potential successors.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 14:11:51 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 10:21:29 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Are max strength cold and flu pills worth the money?",
-      "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 00:12:28 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Was Delhi pollution data during Diwali misleading?",
-      "link": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 09:01:56 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 16:12:39 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
@@ -151,87 +141,107 @@
       "summary": "Words most often heard in the therapist's chair have made their way into day-to-day conversation - here's a parents' guide to understanding it.",
       "author": "",
       "published": "Thu, 12 Nov 2026 10:16:54 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham's push for closer EU ties causes ripples in his party and others",
-      "link": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ahead of a week which will focus minds on the UK's relationship with the bloc, the prime minister's stance on Europe is causing MPs to think about their leaders' individual strategy.",
+      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 00:30:48 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 17:11:48 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+      "title": "Schools, libraries and parents face 'difficult decision' over David Walliams books",
+      "link": "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
+      "summary": "Some schools remove the children's author's books from their libraries after allegations against him.",
       "author": "",
-      "published": "Wed, 11 Nov 2026 21:43:35 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 12:42:43 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russell Brand's social media accounts disabled by Meta",
-      "link": "https://www.bbc.co.uk/news/articles/ckedq1dxwylxo?at_medium=RSS&at_campaign=rss",
+      "title": "Drugs running was like 'a paper round' for exploited son, mum says",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl78y523lzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It comes after the 51-year-old disgraced entertainer was sentenced to 10-and-a-half-years in prison.",
+      "summary": "More younger children are targeted by gangs as exploitation jumps by 85% in five years, BBC finds.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 13:35:26 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 06:03:10 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership' in COP31 speech",
-      "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+      "title": "Police identify gunman in Washington DC shooting that left one dead and four injured",
+      "link": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
+      "summary": "One victim is in a critical condition and three others have non life-threatening injuries, officials say.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 11:03:53 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 21:52:58 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "King Charles appears on Elton John's radio show in secretly recorded birthday episode",
-      "link": "https://www.bbc.co.uk/news/articles/c3qj5lnee5n0o?at_medium=RSS&at_campaign=rss",
+      "title": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The latest episode of Rocket Hour will air on the monarch's 78th birthday on Saturday.",
+      "summary": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 11:30:31 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 18:54:00 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "DJ Tim Westwood denies two more sexual offences",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1635xkkdo?at_medium=RSS&at_campaign=rss",
+      "title": "Some childhood offenders may no longer have to reveal convictions to employers",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "His latest pleas of not guilty mean he now denies a total of 17 charges concerning allegations from 1983 to 2016.",
+      "summary": "The proposals would change how crimes committed by children are disclosed to bosses in England and Wales.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 11:12:17 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 17:24:48 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Resident Evil Requiem sweeps Golden Joystick Awards",
-      "link": "https://www.bbc.co.uk/news/articles/cmg46y76kz5no?at_medium=RSS&at_campaign=rss",
+      "title": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
+      "link": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The latest instalment in the franchise, which is marking 30 years, bagged the top prize.",
+      "summary": "Authorities say the driver lost control and collided with 23 vehicles including five trucks in the traffic.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 12:35:14 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 16:56:31 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "title": "Teenage girl admits murder in row over boy",
+      "link": "https://www.bbc.co.uk/news/articles/c6x28e243gg9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "summary": "Kayla Smith, 18, pleads guilty to the murder of Chloe Watson Dransfield, who she stabbed to death.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 12:56:55 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 17:54:50 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man jailed for 'appalling' catalogue of coercive control and abuse against partner",
+      "link": "https://www.bbc.co.uk/news/articles/ckd71x39zyr4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "John Gizzi, 55, frequently assaulted Natasha Farah, 32, and sent her abusive messages.",
+      "author": "",
+      "published": "Thu, 12 Nov 2026 18:58:27 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "author": "",
+      "published": "Thu, 12 Nov 2026 22:51:18 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
@@ -241,17 +251,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "What Are The Risks In Andy Burnham's EU Strategy?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pm3s7l?at_mid=AAd4kPVjob&at_campaign=Newscast_What_Are_The_Risks_In_Andy_Burnhams_EU_Strategy_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_What_Are_The_Risks_In_Andy_Burnhams_EU_Strategy_news_rail&at_bbc_team=BBC&at_creation=News",
+      "title": "Are Under-25s About to Lose Sickness Benefits?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pm3s8y?at_mid=8p9AcX1WWS&at_campaign=Newscast_Are_Under_25s_About_to_Lose_Sickness_Benefits_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Are_Under_25s_About_to_Lose_Sickness_Benefits_news_rail&at_bbc_team=BBC&at_creation=News",
       "full_text": "Find out how to listen to other BBC stations",
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
@@ -261,67 +271,67 @@
       "summary": "Film following the team racing to entomb the ruins of the Chernobyl nuclear power plant.",
       "author": "",
       "published": "Wed, 07 Jan 2026 22:00:23 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Palace sack Sage after 16 games with Frank in advanced talks",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
+      "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
+      "summary": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 12:23:47 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 16:12:39 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
+      "title": "Where does Kane rank among all-time England greats?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+      "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
       "author": "",
-      "published": "Thu, 12 Nov 2026 10:21:29 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 22:09:59 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Pollock starts alongside Ojomoh and Joseph in bold England side",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqkg727741xvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Free-scoring back row Henry Pollock will make only his second start for England in Saturday's Nations Championship meeting with Japan.",
+      "title": "Kane scores winner but who else made an impression? England player ratings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
+      "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 12:00:28 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 21:47:36 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "England legend Anderson, 44, joins Surrey",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo?at_medium=RSS&at_campaign=rss",
+      "title": "Grealish apologises for absence after breach of discipline",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
+      "summary": "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 09:32:22 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 22:10:13 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "Robertson set to make history but his hero Dalglish will always be King",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o?at_medium=RSS&at_campaign=rss",
+      "title": "Gritty Arsenal show different side in Barcelona draw",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English.",
+      "summary": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
       "author": "",
-      "published": "Thu, 12 Nov 2026 07:19:57 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 21:50:59 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Thursday is a deserved occasion to celebrate' - how Kane's fairytale came true",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
+      "title": "Gauff battles through back injury to keep WTA Finals hopes alive",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "From the 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
+      "summary": "Coco Gauff shows all of her battling qualities as she fights through a back injury to beat Marta Kostyuk and keep her WTA Finals last-four hopes alive.",
       "author": "",
-      "published": "Wed, 11 Nov 2026 16:44:58 GMT",
-      "fetched_at": "2026-11-12T14:16:00.905522+00:00"
+      "published": "Thu, 12 Nov 2026 22:27:18 GMT",
+      "fetched_at": "2026-11-12T22:58:23.902416+00:00"
     }
   ]
 }
