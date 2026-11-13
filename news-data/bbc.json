@@ -1,47 +1,137 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-13T04:07:29.345893+00:00",
-  "count": 33,
+  "fetched_at": "2026-11-13T13:38:55.511666+00:00",
+  "count": 35,
   "articles": [
     {
       "source": "bbc",
-      "title": "Military base asylum plans granted planning approval",
-      "link": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about the global outage",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 02:31:02 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 13:34:53 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 11:43:27 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Suspected Hamas member guilty of UK knife attack",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 13:27:53 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 06:00:44 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "More women make allegations against Russell Brand",
+      "link": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 12:14:17 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Piddington to bring legal challenge over asylum base plans",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Up to 1,256 men could be housed at the site near Piddington in Oxfordshire under the plans.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 13:15:45 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russia hit by second car bomb in as many days as peace talks continue",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A former adviser to Ukraine's pro-Putin ex-prime minister Mykola Azarov was seriously hurt, Russia says.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 13:11:23 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Water firm pleads guilty after four killed in blast",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0l0jp150o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Wessex Water admits failing to ensure employee safety over an explosion at its Bristol site.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 10:44:00 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Doctor burnout putting maternity patients at risk, says regulator",
       "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
       "author": "",
       "published": "Fri, 13 Nov 2026 00:55:31 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "title": "'It's been amazing' - Owain Wyn Evans completes four-nation Children in Need ride",
+      "link": "https://www.bbc.co.uk/news/articles/cr86895201y9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "US lawmakers want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "summary": "Owain Wyn Evans cycled almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 03:57:01 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 13:24:31 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 02:01:35 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 13:19:51 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 12:43:27 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I feel it's a sign of what's to come': Office workers on Microsoft outage",
+      "link": "https://www.bbc.co.uk/news/videos/cmge3y5rxg5jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Insurance brokers tell Nicky Campbell how their jobs are completely disrupted by the Microsoft outage.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 10:16:29 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
@@ -51,97 +141,37 @@
       "summary": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity",
       "author": "",
       "published": "Fri, 13 Nov 2026 00:53:49 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
-      "link": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+      "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
       "author": "",
-      "published": "Fri, 13 Nov 2026 00:54:04 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 06:12:20 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-      "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 01:17:58 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 20:09:16 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How could the Nvidia CEO’s affair threaten US national security?",
-      "link": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC's Asma Khalid explains how the Nvidia affair could threaten US national security and risk sensitive US technology getting into China.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 02:15:59 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cricket sandpaper scandal claims '100% wrong', Australia captain says",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 03:19:22 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
-      "link": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 00:15:27 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 16:43:36 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "title": "The rise of 'housefishing': How AI-enhanced property listings are taking off",
       "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
       "author": "",
       "published": "Fri, 13 Nov 2026 00:13:35 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
+      "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "She is the first British female solo singer to play a five-gig residency at the venue.",
+      "summary": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\".",
       "author": "",
-      "published": "Fri, 13 Nov 2026 00:24:11 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 06:22:12 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
@@ -151,7 +181,17 @@
       "summary": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after your ankles.",
       "author": "",
       "published": "Fri, 13 Nov 2026 00:14:12 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "She is the first British female solo singer to play a five-gig residency at the venue.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 00:24:11 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
@@ -161,17 +201,57 @@
       "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "author": "",
       "published": "Thu, 12 Nov 2026 20:22:21 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Nvidia chief quits' and 'Six women say they too were preyed on by Brand'",
-      "link": "https://www.bbc.co.uk/news/articles/cm702zql1l0lo?at_medium=RSS&at_campaign=rss",
+      "title": "Boy died from multiple injuries in Cyprus hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x30q9z9wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The resignation of Jensen Huang following reports he had an affair with a suspected spy leads a number Friday's papers.",
+      "summary": "An Essex coroner describes Jaxon Foster's death as \"particularly tragic\" as he opens an inquest.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 01:10:49 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 10:05:50 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 02:01:35 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 12:28:28 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 11:38:54 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man charged over multiple sex assaults at university",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1jp7p5yko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sophan Akbash, 29, from Huddersfield, is due to appear before Leeds Magistrates Court later.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 10:14:02 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
@@ -181,67 +261,17 @@
       "summary": "The BBC exposed how the security service had lied to three courts concerning Agent X.",
       "author": "",
       "published": "Fri, 13 Nov 2026 00:54:50 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "Can the Eurovision Song Contest succeed in Asia?",
-      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+      "title": "Blink-182 to make Download debut as 2027 festival headliners",
+      "link": "https://www.bbc.co.uk/news/articles/cm62pd078kk7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+      "summary": "Evanescence and Bring Me The Horizon will also top the bill at the rock and metal festival.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 02:24:11 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US doctor kills building manager after long-running dispute over mould, police say",
-      "link": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Authorities say the shooting in Washington DC left four people injured, with the suspect dying of a self-inflicted gunshot wound.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 02:35:34 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Can Burnham avoid another Labour welfare rebellion?",
-      "link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 18:21:38 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 18:47:35 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
-      "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 18:54:00 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Teenage girl admits murder in row over boy",
-      "link": "https://www.bbc.co.uk/news/articles/c6x28e243gg9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Kayla Smith, 18, pleads guilty to the murder of Chloe Watson Dransfield, who she stabbed to death.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 17:54:50 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 12:55:53 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +281,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
@@ -261,47 +291,57 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "The mammoth effort to entomb the ruins of the Chernobyl nuclear power plant",
-      "link": "https://www.bbc.co.uk/iplayer/episode/b08650s6?at_mid=gEXl0ndPjx&at_campaign=Inside_Chernobyls_Mega_Tomb&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b08650s6&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Inside_Chernobyls_Mega_Tomb&at_bbc_team=BBC",
+      "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Film following the team racing to entomb the ruins of the Chernobyl nuclear power plant.",
+      "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
       "author": "",
-      "published": "Wed, 07 Jan 2026 22:00:23 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 12:09:48 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+      "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+      "summary": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 16:12:39 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 11:39:43 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "Where does Kane rank among all-time England greats?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
+      "title": "Fernandes rejects second Man Utd contract offer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
+      "summary": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
       "author": "",
-      "published": "Thu, 12 Nov 2026 22:09:59 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 09:55:01 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
-      "title": "'A lie' - Palmer committed to England, says Rogers",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+      "title": "Whatever happened to the diamond that went missing in F1 crash?",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+      "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
       "author": "",
-      "published": "Thu, 12 Nov 2026 23:09:07 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 06:12:20 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The driving-maul try machine - why rugby's steamroller gained traction",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy0egy6zkk0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A kick to the corner is now a no-brainer for captains, with the driving maul a more potent weapon than ever.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 11:09:41 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     },
     {
       "source": "bbc",
@@ -310,28 +350,8 @@
       "full_text": "",
       "summary": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 03:19:22 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Grealish apologises for absence after breach of discipline",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 22:10:13 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Gritty Arsenal show different side in Barcelona draw",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
-      "author": "",
-      "published": "Thu, 12 Nov 2026 21:50:59 GMT",
-      "fetched_at": "2026-11-13T04:07:26.105892+00:00"
+      "published": "Fri, 13 Nov 2026 04:26:57 GMT",
+      "fetched_at": "2026-11-13T13:38:33.765358+00:00"
     }
   ]
 }
