@@ -1,137 +1,67 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-14T04:04:16.209880+00:00",
-  "count": 32,
+  "fetched_at": "2026-11-14T12:42:49.849094+00:00",
+  "count": 30,
   "articles": [
     {
       "source": "bbc",
-      "title": "What we know about the longest US nationwide flight ground stop since 9/11",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+      "summary": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
       "author": "",
-      "published": "Sat, 14 Nov 2026 03:45:21 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 12:39:41 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+      "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "summary": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 23:40:45 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 12:22:43 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-      "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 22:12:33 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 11:41:20 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans,  Louisiana on Friday.",
       "author": "",
-      "published": "Sat, 14 Nov 2026 02:47:24 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 11:30:10 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+      "title": "King jokes with Elton John as he marks 78th birthday with radio show",
+      "link": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
+      "summary": "The monarch appears on a special episode to coincide with his 78th birthday on Saturday.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 16:53:50 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 10:02:59 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "author": "",
-      "published": "Sat, 14 Nov 2026 00:01:01 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 22:37:30 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 21:14:22 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 16:40:31 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
-      "link": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
-      "author": "",
-      "published": "Sat, 14 Nov 2026 00:12:55 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Children in Need 2026... in 90 seconds",
-      "link": "https://www.bbc.co.uk/news/videos/cqdr1jvylv1xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some of the key moments from Children In Need 2026, which raised nearly £40m by the end of Friday night's live programme.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 22:57:51 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+      "title": "Brand, Walliams and Married at First Sight: Is this a reckoning for the entertainment industry?",
       "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
       "author": "",
       "published": "Sat, 14 Nov 2026 00:29:38 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-      "author": "",
-      "published": "Sat, 14 Nov 2026 00:03:56 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
@@ -141,7 +71,27 @@
       "summary": "The next title in the series is expected to be the biggest video game release ever.",
       "author": "",
       "published": "Sat, 14 Nov 2026 00:37:01 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The search to find a friend for Jojo the gorilla after a lifetime of being alone",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 00:03:56 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "What we know about the US ground stop and what to do if your flight is affected",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 07:42:11 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
@@ -151,47 +101,37 @@
       "summary": "Supermarkets have started selling Christmas trees - six weeks out from the big day.",
       "author": "",
       "published": "Sat, 14 Nov 2026 00:41:16 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 23:00:31 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 00:01:01 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Police launch investigation' into Walliams and Piddington asylum 'betrayal'",
-      "link": "https://www.bbc.co.uk/news/articles/cx4gn4y1q906o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An investigation into David Walliams over reports of \"alleged serious sexual offences\" leads a number of Saturday's papers.",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "author": "",
-      "published": "Sat, 14 Nov 2026 00:09:02 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 05:52:31 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+      "summary": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 19:01:36 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames colleague's cabinet",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 19:53:57 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Fri, 13 Nov 2026 16:53:50 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
@@ -201,47 +141,77 @@
       "summary": "How the parents of Keaton Slater, 12, battled to bring the man who killed him to justice.",
       "author": "",
       "published": "Sat, 14 Nov 2026 00:35:59 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "Former Hamas bodyguard guilty of UK knife attack",
-      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham says Welsh Labour lost sight of devolution as review criticises ex-first minister",
+      "link": "https://www.bbc.co.uk/news/articles/cmgj340w6g8yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
+      "summary": "The prime minister said it was \"hard\" to accept the party was no longer in power after 27 years of running the Welsh government.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 15:51:24 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 12:06:36 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "New campaign against EU membership launches ahead of UK-EU summit",
-      "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
+      "title": "Widespread frost and freezing fog as cold health alerts continue",
+      "link": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
+      "summary": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 21:39:46 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 08:28:50 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Children in Need 2026... in 90 seconds",
+      "link": "https://www.bbc.co.uk/news/videos/cqdr1jvylv1xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+      "summary": "Some of the key moments from Children In Need 2026, which raised nearly £40m by the end of Friday night's live programme.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 22:53:17 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Fri, 13 Nov 2026 22:57:51 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "Probation officers to take industrial action over pay and early release scheme",
-      "link": "https://www.bbc.co.uk/news/articles/c6pv92pl02kpo?at_medium=RSS&at_campaign=rss",
+      "title": "Intelligence officer's rare Aston Martin to be sold",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmgwg4dndro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It comes as prisons prepare to free more inmates early in the coming months.",
+      "summary": "The Aston Martin DB5, a model made famous by James Bond films, will be sold in Esher in December.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 22:39:33 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Thu, 12 Nov 2026 11:51:31 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Handwritten 200-year-old dismissal letter found on roof tile",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The tile informs a worker that he is no longer needed and was signed by Thomas Austin.",
+      "author": "",
+      "published": "Thu, 12 Nov 2026 06:14:34 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I took Vinted to court to get my money back",
+      "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+      "author": "",
+      "published": "Tue, 10 Nov 2026 00:27:37 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why are these purple flowers shutting down streets in Sydney?",
+      "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+      "author": "",
+      "published": "Tue, 10 Nov 2026 18:03:52 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
@@ -251,7 +221,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +231,7 @@
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
@@ -271,7 +241,7 @@
       "summary": "The fairy tale is ogre. Fooled by Rumpelstiltskin, Shrek's world is turned upside down",
       "author": "",
       "published": "Sun, 18 Oct 2026 14:25:10 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
@@ -281,47 +251,57 @@
       "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
       "author": "",
       "published": "Fri, 13 Nov 2026 22:53:17 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "France hold nerve to edge past South Africa in thriller",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
+      "title": "Tuchel to remind England of anti-racism protocols before Spain game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
+      "summary": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 23:03:36 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 09:13:30 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+      "title": "Warner accuses Cricket Australia of 'cover-up'",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+      "summary": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 22:37:30 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 07:20:24 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sabalenka's season ended by Svitolina at WTA Finals",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o?at_medium=RSS&at_campaign=rss",
+      "title": "England boxer missed Worlds over sex-test mix-up",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c9ly4lerj8m3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
+      "summary": "George Francis was left “broken” after he was banned from competing at the Under-19 World Championships because his team did not organise a sex verification test to prove he is male.",
       "author": "",
-      "published": "Sat, 14 Nov 2026 00:51:25 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 07:43:44 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+      "title": "Japan's unlikely leader who turned down the All Blacks",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq74297dvnygo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
+      "summary": "Warner Dearns did not want to go to Japan as a teenager. Now he is determined to stay and do his adopted country proud.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 15:28:06 GMT",
-      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+      "published": "Sat, 14 Nov 2026 08:22:15 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 07:49:46 GMT",
+      "fetched_at": "2026-11-14T12:42:43.905248+00:00"
     }
   ]
 }
