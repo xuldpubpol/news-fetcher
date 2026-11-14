@@ -1,17 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-13T23:01:21.685150+00:00",
-  "count": 35,
+  "fetched_at": "2026-11-14T04:04:16.209880+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 16:53:50 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
+      "published": "Sat, 14 Nov 2026 03:45:21 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
     },
     {
       "source": "bbc",
@@ -21,317 +31,37 @@
       "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
       "author": "",
       "published": "Fri, 13 Nov 2026 22:12:33 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
     },
     {
       "source": "bbc",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 21:14:22 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
+      "published": "Sat, 14 Nov 2026 02:47:24 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
     },
     {
       "source": "bbc",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "summary": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 16:40:31 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
+      "published": "Fri, 13 Nov 2026 16:53:50 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
     },
     {
       "source": "bbc",
-      "title": "Former Hamas bodyguard guilty of UK knife attack",
-      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 15:51:24 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "New campaign against EU membership launches ahead of UK-EU summit",
-      "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 21:39:46 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man jailed for grooming at least 70 girls online",
-      "link": "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Bilal Kazi targeted his victims - aged between 10 and 17 - using Snapchat, Wink and Roblox.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 17:10:27 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
-      "link": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 14:34:21 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
       "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
       "author": "",
-      "published": "Fri, 13 Nov 2026 20:12:02 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Children in Need 2026... in 90 seconds",
-      "link": "https://www.bbc.co.uk/news/videos/cqdr1jvylv1xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Some of the key moments from Children In Need 2026, which raised nearly £40m by the end of Friday night's live programme.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 22:57:51 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 18:36:57 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 11:43:27 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 17:34:58 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I feel it's a sign of what's to come': Office workers on Microsoft outage",
-      "link": "https://www.bbc.co.uk/news/videos/cmge3y5rxg5jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Insurance brokers tell Nicky Campbell how their jobs are completely disrupted by the Microsoft outage.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 10:16:29 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 21:15:41 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
-      "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Companies are offering to help migrants pose as talented artists to make fraudulent UK visa applications, the BBC has found.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 14:45:19 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 18:34:45 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 12:22:30 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 06:12:20 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\".",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 06:22:12 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The rise of 'housefishing': How AI-enhanced property listings are taking off",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 00:13:35 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tories pay artist for Burnham images after legal threat",
-      "link": "https://www.bbc.co.uk/news/articles/cr5y139wplppo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Stanley Chow had threatened to sue the Conservative Party for using his illustrations of the PM.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 18:41:13 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "More women make allegations against Russell Brand",
-      "link": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 12:14:17 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Dept Q crew member dies after being  injured at Edinburgh film studio",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 21:23:46 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 15:42:52 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Driver who fled to Latvia after killing schoolboy jailed",
-      "link": "https://www.bbc.co.uk/news/articles/c84gn943kne1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Aleksanders Dolars is brought to justice after fleeing the UK when he hit Keaton Slater at 70mph.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 20:53:14 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 13:11:23 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 19:01:36 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Download now",
-      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-      "author": "",
-      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Welfare Plans and EU Deals",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pm3sfz?at_mid=i6Gf40TZKZ&at_campaign=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_bbc_team=BBC&at_creation=News",
-      "full_text": "Find out how to listen to other BBC stations",
-      "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
-      "author": "",
-      "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rumpelstiltskin fools Shrek into being erased from existence",
-      "link": "https://www.bbc.co.uk/iplayer/episode/p01191m5/shrek-forever-after?at_mid=TlzQpz1XYq&at_campaign=Shrek_Forever_After&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p01191m5&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Shrek_Forever_After&at_bbc_team=BBC",
-      "full_text": "",
-      "summary": "The fairy tale is ogre. Fooled by Rumpelstiltskin, Shrek's world is turned upside down",
-      "author": "",
-      "published": "Sun, 18 Oct 2026 14:25:10 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 22:53:17 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "France hold nerve to edge past South Africa in thriller",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
-      "author": "",
-      "published": "Fri, 13 Nov 2026 22:47:44 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
+      "published": "Sat, 14 Nov 2026 00:01:01 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
     },
     {
       "source": "bbc",
@@ -341,7 +71,247 @@
       "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
       "author": "",
       "published": "Fri, 13 Nov 2026 22:37:30 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 21:14:22 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 16:40:31 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
+      "link": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 00:12:55 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Children in Need 2026... in 90 seconds",
+      "link": "https://www.bbc.co.uk/news/videos/cqdr1jvylv1xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Some of the key moments from Children In Need 2026, which raised nearly £40m by the end of Friday night's live programme.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 22:57:51 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 00:29:38 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 00:03:56 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The next title in the series is expected to be the biggest video game release ever.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 00:37:01 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "When to put up a real Christmas tree - according to an expert",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k48k2v7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Supermarkets have started selling Christmas trees - six weeks out from the big day.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 00:41:16 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 23:00:31 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Police launch investigation' into Walliams and Piddington asylum 'betrayal'",
+      "link": "https://www.bbc.co.uk/news/articles/cx4gn4y1q906o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "An investigation into David Walliams over reports of \"alleged serious sexual offences\" leads a number of Saturday's papers.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 00:09:02 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 19:01:36 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames colleague's cabinet",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 19:53:57 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Family's two-year fight to bring killer driver back from Latvia",
+      "link": "https://www.bbc.co.uk/news/articles/c6dxwxn71gx0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "How the parents of Keaton Slater, 12, battled to bring the man who killed him to justice.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 00:35:59 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Former Hamas bodyguard guilty of UK knife attack",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 15:51:24 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "New campaign against EU membership launches ahead of UK-EU summit",
+      "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 21:39:46 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 22:53:17 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Probation officers to take industrial action over pay and early release scheme",
+      "link": "https://www.bbc.co.uk/news/articles/c6pv92pl02kpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "It comes as prisons prepare to free more inmates early in the coming months.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 22:39:33 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Download now",
+      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "author": "",
+      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Welfare Plans and EU Deals",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pm3sfz?at_mid=i6Gf40TZKZ&at_campaign=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_bbc_team=BBC&at_creation=News",
+      "full_text": "Find out how to listen to other BBC stations",
+      "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+      "author": "",
+      "published": "Sun, 25 Oct 2026 00:00:00 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rumpelstiltskin fools Shrek into being erased from existence",
+      "link": "https://www.bbc.co.uk/iplayer/episode/p01191m5/shrek-forever-after?at_mid=TlzQpz1XYq&at_campaign=Shrek_Forever_After&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p01191m5&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Shrek_Forever_After&at_bbc_team=BBC",
+      "full_text": "",
+      "summary": "The fairy tale is ogre. Fooled by Rumpelstiltskin, Shrek's world is turned upside down",
+      "author": "",
+      "published": "Sun, 18 Oct 2026 14:25:10 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 22:53:17 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "France hold nerve to edge past South Africa in thriller",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 23:03:36 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+      "author": "",
+      "published": "Fri, 13 Nov 2026 22:37:30 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 00:51:25 GMT",
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
     },
     {
       "source": "bbc",
@@ -351,7 +321,7 @@
       "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
       "author": "",
       "published": "Fri, 13 Nov 2026 15:28:06 GMT",
-      "fetched_at": "2026-11-13T23:01:18.614981+00:00"
+      "fetched_at": "2026-11-14T04:04:04.745796+00:00"
     }
   ]
 }
