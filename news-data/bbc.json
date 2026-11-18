@@ -1,27 +1,117 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-17T15:10:30.128854+00:00",
-  "count": 33,
+  "fetched_at": "2026-11-18T00:13:04.390523+00:00",
+  "count": 35,
   "articles": [
     {
       "source": "bbc",
-      "title": "Watch: What's in the Milburn review?",
-      "link": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The government-backed review proposes changes to tax, welfare and education to help get young people into work.",
+      "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 11:30:06 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 18:43:05 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "At a glance: Key proposals from Milburn's Neets report",
-      "link": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss",
+      "title": "'It's hard to keep going': Neets speak to BBC about struggling to get a job",
+      "link": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A major review proposes widespread changes to help get young people into work across the UK.",
+      "summary": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
       "author": "",
-      "published": "Tue, 17 Nov 2026 11:31:40 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 22:51:15 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 23:03:39 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 22:46:30 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 21:24:35 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 15:54:15 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rooney says he considered taking his own life at Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 14:09:19 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US National Security Agency's classified internal network reportedly goes offline",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2mg8g0pyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The National Security Agency says a \"temporary degradation\" affected some internal systems but that \"mission-critical capabilities\" were not affected.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 21:59:53 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Markle is being held in prison in the US on one charge and has previously denied all of the allegations.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 22:44:15 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 18:20:36 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+      "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 15:56:04 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
@@ -31,7 +121,7 @@
       "summary": "Milburn's plan to help young people promises to save money from the UK's welfare bill. BBC Verify has taken a look at the numbers.",
       "author": "",
       "published": "Tue, 17 Nov 2026 13:15:59 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
@@ -41,77 +131,27 @@
       "summary": "The government-backed report says its recommendations could help 440,000 young people into work by 2036.",
       "author": "",
       "published": "Tue, 17 Nov 2026 14:43:05 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "title": "At a glance: Key proposals from Milburn's Neets report",
+      "link": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "summary": "A major review proposes widespread changes to help get young people into work across the UK.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 13:01:11 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 11:31:40 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "How Met failed to stop rape-unit detective who abused women",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgq8d779lro?at_medium=RSS&at_campaign=rss",
+      "title": "How the attack on Putin's prized Crimean Bridge unfolded",
+      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Warren Arter used his position - running a team investigating sexual assaults - to target women.",
+      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 06:02:28 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-      "link": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama has found.",
-      "author": "",
-      "published": "Tue, 17 Nov 2026 07:10:08 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
-      "author": "",
-      "published": "Tue, 17 Nov 2026 10:11:00 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rooney says he considered taking his own life at Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
-      "author": "",
-      "published": "Tue, 17 Nov 2026 14:09:19 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Henry Nowak killer applies to appeal conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cm93080xj8xgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Vicrum Digwa, who fatally stabbed Nowak in Southampton in 2015, is also seeking a sentence review.",
-      "author": "",
-      "published": "Tue, 17 Nov 2026 15:01:24 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-      "author": "",
-      "published": "Tue, 17 Nov 2026 13:10:06 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 15:38:10 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
@@ -121,17 +161,7 @@
       "summary": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
       "author": "",
       "published": "Tue, 17 Nov 2026 13:15:38 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-      "author": "",
-      "published": "Tue, 17 Nov 2026 11:49:01 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
@@ -141,107 +171,97 @@
       "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
       "author": "",
       "published": "Tue, 17 Nov 2026 12:35:53 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "Will President Trump meet Kim Jong Un in China?",
-      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+      "link": "https://www.bbc.co.uk/news/videos/c6gqx1qkdy9do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
+      "summary": "Gamers can hardly contain their excitement as the release of Grand Theft Auto 6 approaches, ending a 13-year wait and fuelling extraordinary anticipation.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 10:13:27 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 16:38:50 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Briton scouted while watching a friend, now on the brink of the NFL",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/cm0ev1d54n52o?at_medium=RSS&at_campaign=rss",
+      "title": "Who to watch in Spain's election race",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport?",
+      "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 06:43:42 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 18:13:45 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+      "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+      "link": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+      "summary": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 02:38:08 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 17:57:56 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 00:08:19 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 21:06:11 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "Speed camera fault may have allowed drivers to escape fines",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+      "title": "Henry Nowak killer applies to appeal against conviction",
+      "link": "https://www.bbc.co.uk/news/articles/cm93080xj8xgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "summary": "Vicrum Digwa, who fatally stabbed Nowak in Southampton in 2015, is also seeking a sentence review.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 15:08:48 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 22:17:47 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "Cass report author tells BBC draft conversion practices bill is not workable",
-      "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 10:36:21 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 18:27:27 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC tracks down businessman at centre of council scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c6205wpv2g81o?at_medium=RSS&at_campaign=rss",
+      "title": "Protest against talk by academic who made Arday plagiarism claim",
+      "link": "https://www.bbc.co.uk/news/articles/c61md50k8vx4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Reporters find Liam Kavanagh at an exclusive apartment complex in Bucharest.",
+      "summary": "Nathan Cofnas accused late Cambridge professor Jason Arday of plagiarism.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 06:20:16 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 20:09:03 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "Channel 4 admits it doesn't know number of Married At First Sight UK sex abuse complaints",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2xvdpy2ro?at_medium=RSS&at_campaign=rss",
+      "title": "Church of England should protect 'every belief', King says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy80x44vxk7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "C4's chief executive is questioned by MPs after a string of allegations were made about the show.",
+      "summary": "King Charles III was speaking at the opening of General Synod, the Church of England's national assembly",
       "author": "",
-      "published": "Tue, 17 Nov 2026 13:43:49 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 19:29:44 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
-      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
       "author": "",
-      "published": "Tue, 17 Nov 2026 12:54:32 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "author": "",
-      "published": "Tue, 17 Nov 2026 13:02:17 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 17:37:04 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
@@ -251,17 +271,37 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Name's Milburn...Alan Milburn",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pn98vd?at_mid=SodFUYZkrY&at_campaign=Newscast_The_Names_Milburn_Alan_Milburn_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Names_Milburn_Alan_Milburn_news_rail&at_bbc_team=BBC&at_creation=News",
+      "title": "Can Milburn's Neets Report Help Britain's 'Lost Generation'?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pn991s?at_mid=HRXOiJv79e&at_campaign=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_bbc_team=BBC&at_creation=News",
       "full_text": "Find out how to listen to other BBC stations",
       "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "author": "",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Belief and bench help Northern Ireland scale new heights as promotion secured",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Manager Michael O'Neill hails the belief shown by his side after they came from behind against Hungary to seal the draw they needed for promotion to Nations League A.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 23:49:31 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Wales' Nations League campaign boosts Bellamy's belief despite loss to Portugal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 23:37:45 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
@@ -271,67 +311,47 @@
       "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
       "author": "",
       "published": "Tue, 17 Nov 2026 14:09:19 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "DeChambeau joins DP World Tour after LIV Golf collapse",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss",
+      "title": "South Africa head coach Erasmus banned for six matches",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "American superstar Bryson DeChambeau is among a number of former LIV players who will play on the European-based DP World Tour next season.",
+      "summary": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 13:44:17 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 16:09:24 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+      "title": "FA wants to host Nations League finals in England",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+      "summary": "England could host the Nations League finals this season after Football Association officials register their interest.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 10:32:07 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 15:51:30 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bethell to have more surgery and miss South Africa tour",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
+      "title": "Woods set to return next month after two years out",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jacob Bethell will miss England’s Test tour of South Africa because he requires more surgery on the knee injury that has kept him out since July.",
+      "summary": "Tiger Woods is set to return to competitive golf in December for the first time in more than two years.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 13:18:58 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 15:54:36 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     },
     {
       "source": "bbc",
-      "title": "Blackburn boss Mowbray steps back over health issues",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
+      "title": "Arsenal Double winner Storey dies aged 81",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.",
+      "summary": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
       "author": "",
-      "published": "Tue, 17 Nov 2026 10:40:41 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why always him? The rise and fall of Balotelli",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fifteen years since his 'Why always me?' Manchester derby T-shirt celebration, BBC Sport looks at the career of former Manchester City striker Mario Balotelli.",
-      "author": "",
-      "published": "Tue, 17 Nov 2026 06:15:43 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Romario demands Ancelotti sacking as war of words continues",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Romario, Brazil's fourth-highest scorer behind only Neymar, Pele and Ronaldo publicly demands that legendary manager Ancelotti be relieved of his duties.",
-      "author": "",
-      "published": "Tue, 17 Nov 2026 13:10:58 GMT",
-      "fetched_at": "2026-11-17T15:10:24.132820+00:00"
+      "published": "Tue, 17 Nov 2026 17:33:41 GMT",
+      "fetched_at": "2026-11-18T00:12:56.357786+00:00"
     }
   ]
 }
