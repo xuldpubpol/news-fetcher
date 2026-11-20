@@ -1,8 +1,38 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-19T14:54:59.496065+00:00",
-  "count": 30,
+  "fetched_at": "2026-11-20T00:00:29.576608+00:00",
+  "count": 33,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
+      "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it.\"",
+      "author": "",
+      "published": "Thu, 19 Nov 2026 22:17:29 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "author": "",
+      "published": "Thu, 19 Nov 2026 23:33:51 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
+      "author": "",
+      "published": "Thu, 19 Nov 2026 20:02:02 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
+    },
     {
       "source": "bbc",
       "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
@@ -11,37 +41,47 @@
       "summary": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
       "author": "",
       "published": "Thu, 19 Nov 2026 12:47:27 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
-      "link": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
+      "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
+      "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
       "author": "",
-      "published": "Thu, 19 Nov 2026 08:31:09 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 17:23:29 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 00:00:59 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 21:21:43 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "Leasehold system set to be scrapped in England and Wales",
-      "link": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
+      "title": "William and Catherine's India tour was 'particularly special', aide says",
+      "link": "https://www.bbc.co.uk/news/articles/cj04wzzy9yqro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.",
+      "summary": "Prince William's most senior advisor described the royal couple as \"very much a team\".",
       "author": "",
-      "published": "Thu, 19 Nov 2026 09:26:59 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 22:02:06 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "EU-UK talks going down to the wire, says No 10",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday.",
+      "author": "",
+      "published": "Thu, 19 Nov 2026 22:26:04 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
@@ -51,7 +91,27 @@
       "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
       "author": "",
       "published": "Thu, 19 Nov 2026 12:26:39 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+      "author": "",
+      "published": "Thu, 19 Nov 2026 16:33:17 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "author": "",
+      "published": "Thu, 19 Nov 2026 22:48:22 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
@@ -61,67 +121,37 @@
       "summary": "The actress said how stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
       "author": "",
       "published": "Thu, 19 Nov 2026 12:17:32 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Move comes after Brand's wife shared a message from him in which he claimed his innocence.",
-      "author": "",
-      "published": "Thu, 19 Nov 2026 13:09:01 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cleverly to run as Tory London mayor candidate",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0ep02wn3lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The former home and foreign secretary has been a London Assembly member and fire authority chair.",
-      "author": "",
-      "published": "Thu, 19 Nov 2026 14:36:17 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "EU-UK talks going down to the wire, says No 10",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday.",
-      "author": "",
-      "published": "Thu, 19 Nov 2026 14:17:32 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why experts say children lying can be a good thing",
+      "title": "Why fibbing about stolen snacks is an important part of childhood",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Research shows fibs and tricks can start \"surprisingly young\" and that these skills are practised.",
+      "summary": "Research shows lies and deception can start \"surprisingly young\" and are not always a bad thing.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 12:11:01 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 16:36:33 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "title": "Joanne Young was drugged and raped by strangers after her husband offered her online",
+      "link": "https://www.bbc.co.uk/news/articles/cwly0kxk5xe5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "summary": "The warning comes after four men are found guilty of abusing a woman who was drugged by her husband.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 04:42:52 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 17:18:24 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bob Mortimer returns to Middlesbrough and reflects on childhood",
-      "link": "https://www.bbc.co.uk/news/videos/cq5y1r5y7ge5o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthony Zurcher: Trilateral summit high on spectacle, short on substance",
+      "link": "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The comedian has had a new wave of success in recent years, as an author of four novels and two non-fiction books, including an autobiography.",
+      "summary": "The visuals of the historic trilateral meeting may be the only lasting impression left by the summit.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 13:00:07 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 17:55:15 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
@@ -131,17 +161,27 @@
       "summary": "Many of the names and arguments that defined the Brexit period are emerging again, as the debate over the UK being part of the EU is back on the agenda.",
       "author": "",
       "published": "Thu, 19 Nov 2026 11:48:01 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-      "link": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
+      "title": "Bob Mortimer returns to Middlesbrough and reflects on childhood",
+      "link": "https://www.bbc.co.uk/news/videos/cq5y1r5y7ge5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
+      "summary": "The comedian has had a new wave of success in recent years, as an author of four novels and two non-fiction books, including an autobiography.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 11:43:06 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 13:00:07 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England fined for fans' anti-Catholic chants in Spain",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
+      "author": "",
+      "published": "Thu, 19 Nov 2026 19:11:03 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
@@ -151,67 +191,57 @@
       "summary": "Langley won six awards, weeks after her hit Choosin' Texas broke a Billboard chart record in the US.",
       "author": "",
       "published": "Thu, 19 Nov 2026 12:01:35 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK to provide Ukraine with 1,000 long-range strike drones",
-      "link": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&at_campaign=rss",
+      "title": "Faults not fixed in 90% of homes in government insulation scheme",
+      "link": "https://www.bbc.co.uk/news/articles/c65y193gpvkgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister is set to make the announcement at a meeting of the Coalition of the Willing in Berlin.",
+      "summary": "People who signed up to a government insulation scheme have been struggling to get their damaged homes repaired.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 10:00:02 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 17:59:16 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "Surgeon calls for corporate homicide probe over claims patients unnecessarily bled to death",
-      "link": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o?at_medium=RSS&at_campaign=rss",
+      "title": "Cleverly to run as Tory London mayor candidate",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0ep02wn3lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dr Mohammed Habib said he had been raising concerns about NHS Grampian for a decade, including with government ministers and police.",
+      "summary": "The former home and foreign secretary has been a London Assembly member and fire authority chair.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 13:31:03 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 14:36:17 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-      "author": "",
-      "published": "Thu, 19 Nov 2026 00:49:19 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Badenoch defends amputee marathon runners claim in benefits cut row",
-      "link": "https://www.bbc.co.uk/news/articles/cw62pz48vj4go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Paralympian Richard Whitehead had accused the Conservative leader of \"weaponising\" his sporting success.",
-      "author": "",
-      "published": "Thu, 19 Nov 2026 13:34:02 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Fiona Harvey to appear at Crown Court on harassment charge",
+      "title": "Fiona Harvey, who allegedly inspired Baby Reindeer, to appear in court on harassment charge",
       "link": "https://www.bbc.co.uk/news/articles/cq143j81g6l3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Harvey, who allegedly inspired Netflix's Baby Reindeer, racially aggravated harassment without violence.",
       "author": "",
       "published": "Thu, 19 Nov 2026 13:39:56 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "title": "Discrimination claims by McDonald's workers can go ahead, court says",
+      "link": "https://www.bbc.co.uk/news/videos/cmq8lyx41xj4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "summary": "McDonald's has said that \"ensuring a safe, respectful and inclusive working environment across our restaurants and offices remains a fundamental priority\".",
       "author": "",
-      "published": "Thu, 19 Nov 2026 02:59:06 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 15:09:36 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Attempted murder arrest after councillor stabbed in Bradford",
+      "link": "https://www.bbc.co.uk/news/articles/cmj6l7kp2w22o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Bradford Moor councillor Ibrar Ali is in hospital with serious injuries.",
+      "author": "",
+      "published": "Thu, 19 Nov 2026 17:49:24 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +251,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
@@ -231,7 +261,7 @@
       "summary": "Anna Kendrick stars. Every friendship has its secrets - some are worth dying for...",
       "author": "",
       "published": "Tue, 31 Mar 2026 05:00:00 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
@@ -241,67 +271,67 @@
       "summary": "Happy homemaker or modern-day submission? Poppy Jay steps inside the world of tradwives",
       "author": "",
       "published": "Thu, 19 Nov 2026 10:10:20 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "How Premier League's big six keep getting richer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+      "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds.",
+      "summary": "Culture, defence and Bruno Fernandes - the key issues facing Mauricio Pochettino as he takes over as Manchester United boss.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 07:38:22 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 15:05:21 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK firms owed thousands as Saudi-backed LIV paid golfers millions",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cw7vpv793n24o?at_medium=RSS&at_campaign=rss",
+      "title": "Pochettino's first Man Utd training session filmed by drone operator",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A BBC Sport investigation has found bills to UK companies were already overdue when LIV Golf made its final payments to players and executives before filing for bankruptcy.",
+      "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 06:37:40 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 18:45:56 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
+      "title": "Unseeded Sykes stuns Humphries in Grand Slam thriller",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/ckzd9n5996zno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Premier League clubs vote to provide legal cover to the organisation's five board directors in the event Manchester City's sponsors sue them.",
+      "summary": "Luke Humphries follows Luke Littler in exiting the Grand Slam of Darts after losing 10-9 to unseeded Tom Sykes in a second-round thriller.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 13:29:42 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 22:45:41 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "Furbank leads returning England trio for All Blacks visit",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckdd1y064y0go?at_medium=RSS&at_campaign=rss",
+      "title": "Cummins' Australia captaincy at a crossroads - Agnew",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England are boosted by the recovery and return of George Furbank, Seb Atkinson and Ollie Chessum to face New Zealand",
+      "summary": "Jonathan Agnew says he struggles to see how Pat Cummins can lead Australia into next summer's Ashes series in England following latest developments in the sandpapergate scandal.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 14:18:36 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 14:57:42 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "Ireland hooker Sheehan named at number eight for Springboks game",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm4gnpgn3z1wo?at_medium=RSS&at_campaign=rss",
+      "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ireland captain Dan Sheehan is named at number eight for Saturday's highly anticipated Nations Championship match against world champions South Africa in Dublin.",
+      "summary": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 13:59:31 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 20:44:11 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     },
     {
       "source": "bbc",
-      "title": "McCullum plans to use Brook and Banton as bowlers",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqly43n4ey6ro?at_medium=RSS&at_campaign=rss",
+      "title": "England fined for fans' anti-Catholic chants in Spain",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "England white-ball coach Brendon McCullum believes that batters Harry Brook and Tom Banton can be genuine bowling options as they prepare for next year's World Cup.",
+      "summary": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
       "author": "",
-      "published": "Thu, 19 Nov 2026 12:37:15 GMT",
-      "fetched_at": "2026-11-19T14:54:51.874929+00:00"
+      "published": "Thu, 19 Nov 2026 19:11:03 GMT",
+      "fetched_at": "2026-11-20T00:00:27.564706+00:00"
     }
   ]
 }
