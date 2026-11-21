@@ -1,117 +1,57 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-21T04:48:50.320443+00:00",
-  "count": 32,
+  "fetched_at": "2026-11-21T13:53:54.332334+00:00",
+  "count": 25,
   "articles": [
     {
       "source": "bbc",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 17:49:48 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+      "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 16:41:52 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 12:00:03 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+      "link": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "summary": "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 22:42:47 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 12:17:45 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man guilty of murdering woman he groomed on fetish site",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.",
+      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 18:17:56 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 09:40:55 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "author": "",
-      "published": "Sat, 21 Nov 2026 02:09:46 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
-      "link": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
-      "author": "",
-      "published": "Sat, 21 Nov 2026 00:02:09 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "author": "",
-      "published": "Sat, 21 Nov 2026 04:34:00 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
-      "author": "",
-      "published": "Sat, 21 Nov 2026 04:32:50 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "author": "",
-      "published": "Fri, 20 Nov 2026 21:57:07 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "author": "",
-      "published": "Fri, 20 Nov 2026 20:54:12 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "author": "",
-      "published": "Fri, 20 Nov 2026 22:37:09 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 09:52:11 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
@@ -121,27 +61,7 @@
       "summary": "Speculation is rife as to who will play the new 007's leading lady, with commentators saying she will need a \"very strong identity\".",
       "author": "",
       "published": "Sat, 21 Nov 2026 00:03:16 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The Papers: 'Closest ties since Brexit' and 'Grand Theft EU'",
-      "link": "https://www.bbc.co.uk/news/articles/cw7829pl3xklo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Saturday's front pages focus on a new deal agreed between the UK and EU in Brussels.",
-      "author": "",
-      "published": "Sat, 21 Nov 2026 01:07:01 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
-      "author": "",
-      "published": "Sat, 21 Nov 2026 00:06:11 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
@@ -151,17 +71,27 @@
       "summary": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
       "author": "",
       "published": "Sat, 21 Nov 2026 00:08:19 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 00:06:11 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
       "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
       "author": "",
       "published": "Fri, 20 Nov 2026 23:20:33 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
@@ -171,7 +101,7 @@
       "summary": "The agreement will allow young people between 18 and 31 year-olds to travel, work or study in the EU for up to three years.",
       "author": "",
       "published": "Fri, 20 Nov 2026 16:07:55 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
@@ -181,77 +111,107 @@
       "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
       "author": "",
       "published": "Sat, 21 Nov 2026 01:02:39 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "What new UK-EU deal could mean for future post-Brexit relations",
-      "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+      "title": "Scouts say they face £1m tourist tax cost for overnight trips",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+      "summary": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 21:43:22 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 13:29:55 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
-      "link": "https://www.bbc.co.uk/news/articles/cqn70v1p6ymlo?at_medium=RSS&at_campaign=rss",
-      "full_text": "An asylum seeker is someone who wants to be in the UK because they say they cannot live safely in their own country due to persecution or violence.\nThe government must house an asylum seeker if they cannot financially support themselves while their claim is being considered. There were 89,089 people in asylum accommodation as of June 2026.\nAbout 18% of those people, 16,021, were in hotels. These are used when there is not enough shared housing available, such as houses of multiple occupation (HMOs) or former military sites.\nThe government has pledged to stop the use of hotels by 2029.\nMore people are in hotels across the south of England than elsewhere in the UK, while HMOs are more common in the north of England and Scotland.\nA total of 85,891 people applied for asylum in the UK from July 2025 to June 2026. This was down by 21% on the same period in the previous year.\nMost people who arrive in the UK by small boat claim asylum, but they were only 40% of all asylum seekers from July 2025 to June 2026.\nThe rest include people who arrived by other illegal means or who came to the UK legally and applied for asylum while holding, or just after holding, a valid visa.\nIt can take years for the government to decide whether someone should be granted asylum.\nIn June 2026, 40,168 people - across 32,401 asylum applications - were waiting for an initial decision. The number of people awaiting an initial decision was down by 56% on the previous year.\nAs of June 2026, a further 90,341 refused asylum applications were part of a second backlog, waiting the outcome of an appeal in the courts. This was up by 51% on the previous year.\nTogether, these initial decision and appeal cases form the government’s total asylum applications backlog, which it has pledged to clear.\nRefugee status was granted in about 38% of asylum decisions made by the Home Office from July 2025 to June 2026.\nAbout 39% of asylum appeal cases concluded between January 2026 to December 2026 resulted in a previous refusal decision being overturned.",
-      "summary": "Barnham is proposing breaking away from the UK in protest of plans to house migrants at RAF Barnham.",
-      "author": "",
-      "published": "Sat, 21 Nov 2026 01:34:51 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I was exhausted': Two days in the shoes of a tradwife",
-      "link": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News.",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
       "author": "",
-      "published": "Sat, 21 Nov 2026 00:29:00 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 04:34:00 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "US declassifies more UFO footage filmed in the Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+      "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+      "summary": "Ministers are expected to publish the details of how an independent review of the working environment at the Information Commission will be carried out next week.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 23:15:20 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 06:01:04 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+      "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "summary": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 19:45:20 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Fri, 20 Nov 2026 18:48:48 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
-      "link": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales.",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 19:41:30 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Fri, 20 Nov 2026 23:08:57 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man jailed for murder of woman drowned in Thames",
-      "link": "https://www.bbc.co.uk/news/articles/c67423wvdnpyo?at_medium=RSS&at_campaign=rss",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nelio Gouveia, 45, is jailed for killing Jennifer Symonds, who drowned in the River Thames.",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 16:59:20 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 09:34:20 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Freshers' flu left me deaf in both ears - I'm now helping people like me drive",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2p5p4jkvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Darcie Parker, 22, is now delivering courses about teaching deaf people how to drive.",
+      "author": "",
+      "published": "Tue, 17 Nov 2026 10:21:07 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Real life' family ghost story inspires 'nightmarish' new TV drama",
+      "link": "https://www.bbc.co.uk/news/articles/c6y4j73319dmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The \"real-life ghost story\" was filmed in Wales and stars Black Doves actress Gabrielle Creevy.",
+      "author": "",
+      "published": "Wed, 18 Nov 2026 06:10:18 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Donating kidney to daughter a 'no-brainer', says dad",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlyl651ppjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Brad Walker has donated one of his kidneys to his five-year-old daughter who has nephrotic syndrome.",
+      "author": "",
+      "published": "Sat, 14 Nov 2026 06:58:33 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Rare rhino's first steps captured on video at zoo",
+      "link": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
+      "author": "",
+      "published": "Thu, 19 Nov 2026 16:28:41 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
@@ -261,7 +221,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
@@ -271,57 +231,27 @@
       "summary": "Anna Kendrick stars. Every friendship has its secrets - some are worth dying for...",
       "author": "",
       "published": "Tue, 31 Mar 2026 05:00:00 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Price beats Kotaskova to become undisputed champion",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
+      "title": "Australia's Chaudhary downs England in tetchy first T20",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
+      "summary": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 23:30:56 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 12:24:33 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     },
     {
       "source": "bbc",
-      "title": "Cost of Man Utd hiring and firing managers nears £100m",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+      "title": "'Somebody has to stand up to that guy' - Verstappen-Russell rivalry blows up again",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+      "summary": "The George Russell-Max Verstappen feud surfaced again in Las Vegas, adding spice to a race where they will start on the front row.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 23:18:16 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Stacked England aim to pile on style and add to All Black misery",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrmgjpp0l48o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "England's easy-on-the-eye revival will be stress-tested by a New Zealand side under sudden pressure on Saturday",
-      "author": "",
-      "published": "Fri, 20 Nov 2026 16:51:17 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "NFL great Brady could buy Chelsea stake",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
-      "author": "",
-      "published": "Fri, 20 Nov 2026 22:36:35 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Price survives match darts to reach Grand Slam semis",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/ck7928yjd1dgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Gerwyn Price faces two match darts before winning a thrilling quarter-final against Nico Springer at the Grand Slam of Darts, as Luke Littler's conqueror Jermaine Wattimena is knocked out.",
-      "author": "",
-      "published": "Fri, 20 Nov 2026 22:30:34 GMT",
-      "fetched_at": "2026-11-21T04:48:43.577425+00:00"
+      "published": "Sat, 21 Nov 2026 08:13:58 GMT",
+      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
     }
   ]
 }
