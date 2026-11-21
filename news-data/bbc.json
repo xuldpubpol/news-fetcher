@@ -1,17 +1,27 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-21T13:53:54.332334+00:00",
-  "count": 25,
+  "fetched_at": "2026-11-21T22:35:23.274913+00:00",
+  "count": 36,
   "articles": [
     {
       "source": "bbc",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
       "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "author": "",
       "published": "Sat, 21 Nov 2026 13:17:38 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+      "link": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 16:16:29 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -21,7 +31,7 @@
       "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
       "author": "",
       "published": "Sat, 21 Nov 2026 12:00:03 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -31,17 +41,7 @@
       "summary": "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November.",
       "author": "",
       "published": "Sat, 21 Nov 2026 12:17:45 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "author": "",
-      "published": "Sat, 21 Nov 2026 09:40:55 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -50,8 +50,28 @@
       "full_text": "",
       "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "author": "",
-      "published": "Sat, 21 Nov 2026 09:52:11 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "published": "Sat, 21 Nov 2026 22:19:43 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 21:39:22 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Australia hold on for narrow win against Wales",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 22:25:36 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -61,17 +81,7 @@
       "summary": "Speculation is rife as to who will play the new 007's leading lady, with commentators saying she will need a \"very strong identity\".",
       "author": "",
       "published": "Sat, 21 Nov 2026 00:03:16 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
-      "link": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
-      "author": "",
-      "published": "Sat, 21 Nov 2026 00:08:19 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -81,7 +91,7 @@
       "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
       "author": "",
       "published": "Sat, 21 Nov 2026 00:06:11 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -91,7 +101,17 @@
       "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
       "author": "",
       "published": "Fri, 20 Nov 2026 23:20:33 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I was exhausted': Two days in the shoes of a tradwife",
+      "link": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 00:29:00 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -101,17 +121,47 @@
       "summary": "The agreement will allow young people between 18 and 31 year-olds to travel, work or study in the EU for up to three years.",
       "author": "",
       "published": "Fri, 20 Nov 2026 16:07:55 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
-      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
       "author": "",
-      "published": "Sat, 21 Nov 2026 01:02:39 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "published": "Sat, 21 Nov 2026 19:20:22 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
+      "link": "https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The former prime minister argues the European Union is probably moving in the wrong direction on technology innovation.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 19:33:49 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Village votes to 'leave UK' over migrant plan",
+      "link": "https://www.bbc.co.uk/news/articles/cvze71y6g85yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Barnham is the second village to declare \"independence\" in protest at plans to house asylum seekers.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 19:51:08 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "British man swims through Strait of Hormuz to highlight environmental impact of war",
+      "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 16:12:31 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -121,7 +171,7 @@
       "summary": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
       "author": "",
       "published": "Sat, 21 Nov 2026 13:29:55 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -131,47 +181,27 @@
       "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
       "author": "",
       "published": "Sat, 21 Nov 2026 04:34:00 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
-      "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo?at_medium=RSS&at_campaign=rss",
+      "title": "I've only sold five copies of GTA 6, says game shop owner",
+      "link": "https://www.bbc.co.uk/news/articles/cmqj5dr01e85o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ministers are expected to publish the details of how an independent review of the working environment at the Information Commission will be carried out next week.",
+      "summary": "Games shop owner Richard Tewksbury says the release of Grand Theft Auto 6 has been a \"write-off\".",
       "author": "",
-      "published": "Sat, 21 Nov 2026 06:01:04 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "published": "Fri, 20 Nov 2026 11:29:33 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
-      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-      "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+      "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
       "author": "",
-      "published": "Fri, 20 Nov 2026 18:48:48 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "author": "",
-      "published": "Fri, 20 Nov 2026 23:08:57 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "author": "",
-      "published": "Sat, 21 Nov 2026 09:34:20 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "published": "Tue, 17 Nov 2026 00:00:02 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -181,7 +211,7 @@
       "summary": "Darcie Parker, 22, is now delivering courses about teaching deaf people how to drive.",
       "author": "",
       "published": "Tue, 17 Nov 2026 10:21:07 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -191,27 +221,7 @@
       "summary": "The \"real-life ghost story\" was filmed in Wales and stars Black Doves actress Gabrielle Creevy.",
       "author": "",
       "published": "Wed, 18 Nov 2026 06:10:18 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Donating kidney to daughter a 'no-brainer', says dad",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlyl651ppjo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Brad Walker has donated one of his kidneys to his five-year-old daughter who has nephrotic syndrome.",
-      "author": "",
-      "published": "Sat, 14 Nov 2026 06:58:33 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Rare rhino's first steps captured on video at zoo",
-      "link": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
-      "author": "",
-      "published": "Thu, 19 Nov 2026 16:28:41 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -221,7 +231,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
@@ -231,27 +241,127 @@
       "summary": "Anna Kendrick stars. Every friendship has its secrets - some are worth dying for...",
       "author": "",
       "published": "Tue, 31 Mar 2026 05:00:00 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
-      "title": "Australia's Chaudhary downs England in tetchy first T20",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss",
+      "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
+      "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
       "author": "",
-      "published": "Sat, 21 Nov 2026 12:24:33 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "published": "Sat, 21 Nov 2026 22:27:36 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Somebody has to stand up to that guy' - Verstappen-Russell rivalry blows up again",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
+      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The George Russell-Max Verstappen feud surfaced again in Las Vegas, adding spice to a race where they will start on the front row.",
+      "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
       "author": "",
-      "published": "Sat, 21 Nov 2026 08:13:58 GMT",
-      "fetched_at": "2026-11-21T13:53:51.605641+00:00"
+      "published": "Sat, 21 Nov 2026 21:14:08 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ireland remind themselves that the best are beatable",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c820qxx2k7y2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 20:39:51 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "France secure Nations Championship final with Springboks",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 22:22:36 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Match of the Day",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+      "author": "",
+      "published": "Sun, 22 Nov 2026 09:00:00 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge.  They move up to sixth in the Premier League.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 19:59:13 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Arsenal go six points clear after lively draw at Newcastle",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 19:59:35 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 19:59:02 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Coventry beat Palace in Frank's first game after late own goal",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 19:58:52 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man City drop points to Fulham despite superb Anderson volley",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 19:59:08 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Evanilson strikes again as Bournemouth beat Forest",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 19:59:17 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Villa's home woes continue as Sunderland earn point",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
+      "author": "",
+      "published": "Sat, 21 Nov 2026 19:58:56 GMT",
+      "fetched_at": "2026-11-21T22:35:21.944194+00:00"
     }
   ]
 }
