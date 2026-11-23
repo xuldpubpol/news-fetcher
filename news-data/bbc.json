@@ -1,117 +1,147 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-23T04:45:58.391049+00:00",
-  "count": 34,
+  "fetched_at": "2026-11-23T16:51:17.054247+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
       "author": "",
-      "published": "Mon, 23 Nov 2026 00:50:35 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 15:41:23 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "What's next after no deal at COP31 climate talks?",
-      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "title": "How Ukraine attacked Russian ships in Libya",
+      "link": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "summary": "Verified videos show huge fireballs, smoke plumes rising and sea drones attacking the vessels.",
       "author": "",
-      "published": "Sun, 22 Nov 2026 18:57:24 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 14:32:12 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "title": "UK to host 2035 Women's World Cup, Fifa confirms",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
       "author": "",
-      "published": "Sun, 22 Nov 2026 22:49:10 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 15:09:50 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
-      "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+      "title": "US rapper Don Toliver postpones O2 arena show after Manchester evacuation",
+      "link": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+      "summary": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
       "author": "",
-      "published": "Mon, 23 Nov 2026 00:49:22 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 16:37:43 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 11:57:33 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 06:33:50 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+      "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 13:09:52 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Poundland is facing collapse - what's gone wrong?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 10:09:25 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Tyson Fury reveals schizophrenia diagnosis",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tyson Fury describes hearing voices in his head when he suffered a breakdown in 2015, and was also diagnosed with bipolar disorder.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 09:53:52 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
       "title": "Pip assessments need 'fundamental overhaul', report to say",
       "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+      "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
       "author": "",
-      "published": "Mon, 23 Nov 2026 04:01:13 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 13:20:32 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
-      "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
       "author": "",
-      "published": "Mon, 23 Nov 2026 04:21:50 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 15:49:52 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
-      "link": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+      "title": "'People were screaming in pain' during Co-op Live evacuation",
+      "link": "https://www.bbc.co.uk/news/articles/cmgqx3ve732jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+      "summary": "Rap fans say people were \"choking\" and \"coughing up blood\" after \"some smoke\" went off in Co-op Live.",
       "author": "",
-      "published": "Mon, 23 Nov 2026 00:40:36 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 16:43:42 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "title": "What six grazing horses tell us about England's housing crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cmd71x05q77zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The couple have been together for four years and were engaged in 2025.",
+      "summary": "⁠In Middlesbrough, York and Kent, the BBC sees why successive governments have failed to build enough homes.",
       "author": "",
-      "published": "Sun, 22 Nov 2026 21:22:40 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 06:00:43 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "title": "'They were all asleep': Ukrainians describe deadly overnight Russian apartment strike",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4r2elrvj8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ten people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+      "summary": "Eleven people were killed when Russia attacked a block of flats near Kyiv, causing a whole section to collapse.",
       "author": "",
-      "published": "Mon, 23 Nov 2026 04:44:00 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "author": "",
-      "published": "Mon, 23 Nov 2026 02:59:35 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "author": "",
-      "published": "Mon, 23 Nov 2026 01:23:43 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 14:11:19 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
@@ -121,137 +151,97 @@
       "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
       "author": "",
       "published": "Mon, 23 Nov 2026 01:05:07 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "What is going on with Poundland?",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Who is taking part in France's recent street protests?",
+      "link": "https://www.bbc.co.uk/news/videos/cw5y188vzxn8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "summary": "President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?",
       "author": "",
-      "published": "Mon, 23 Nov 2026 00:22:27 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 09:25:52 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "Would you go on holiday with your ex's kids and their mum? How to make blended families work",
+      "title": "Friends were wary of me holidaying with my ex's former wife and kids - but our blended family works",
       "link": "https://www.bbc.co.uk/news/articles/c617kj1j1x4jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Expert tips on how to get along with the mums and dads of your child's half-siblings.",
       "author": "",
-      "published": "Mon, 23 Nov 2026 01:09:04 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 14:30:04 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
       "author": "",
-      "published": "Mon, 23 Nov 2026 00:08:00 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 14:08:50 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Complete COP-out' and Tyson Fury's 'torment'",
-      "link": "https://www.bbc.co.uk/news/articles/cmedq21jgq8xo?at_medium=RSS&at_campaign=rss",
+      "title": "Teenage girl stabbed 55 times by 14-year-old boy, murder trial told",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydn1zye23o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The collapse of the COP31 climate talks in Turkey is a major focus of Monday's front pages.",
+      "summary": "Lilly Jones's body was found near Dyffryn Park in Blaina two days after she was reported missing.",
       "author": "",
-      "published": "Mon, 23 Nov 2026 02:24:41 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 15:36:17 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "The real people finding their work copied and stolen by AI characters",
-      "link": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
+      "title": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
+      "link": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.",
+      "summary": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
       "author": "",
-      "published": "Sun, 22 Nov 2026 05:00:38 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 12:41:42 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "How a teen gamer and his mother helped rescue a missing girl",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "title": "Jury out in train stabbing attempted murder trial",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70z6e5d3jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "summary": "Anthony Williams, 33, denies attempting to murder 10 passengers he stabbed on a London-bound train.",
       "author": "",
-      "published": "Sun, 22 Nov 2026 00:09:58 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 16:06:10 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+      "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
       "author": "",
-      "published": "Sun, 22 Nov 2026 17:18:26 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 11:24:37 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "title": "Two men admit sex offences in drugged wife case",
+      "link": "https://www.bbc.co.uk/news/articles/c52e83zy4ye0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "summary": "Two more men have admitted to sexual offences against the Stockport woman.",
       "author": "",
-      "published": "Sun, 22 Nov 2026 13:50:21 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 13:35:30 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-      "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
+      "title": "Flights cancelled in Belgium due to cost-of-living strike",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
+      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
       "author": "",
-      "published": "Sun, 22 Nov 2026 14:19:06 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Russell Brand's wife says she'll honour prison rules after message row",
-      "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
-      "author": "",
-      "published": "Sun, 22 Nov 2026 16:51:57 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "South Korea education minister resigns over exam cheating scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-      "author": "",
-      "published": "Sun, 22 Nov 2026 09:20:45 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Australian music legend Molly Meldrum dies aged 83",
-      "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-      "author": "",
-      "published": "Mon, 23 Nov 2026 01:03:35 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-      "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-      "author": "",
-      "published": "Sun, 22 Nov 2026 18:29:46 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 13:34:02 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
@@ -261,87 +251,77 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     },
     {
       "source": "bbc",
-      "title": "Thrilling dark comedy starring Blake Lively and Anna Kendrick",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m000pbnd?at_mid=nQHTb1sAnD&at_campaign=A_Simple_Favour&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000pbnd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=A_Simple_Favour&at_bbc_team=BBC&at_creation=film",
-      "full_text": "",
-      "summary": "Anna Kendrick stars. Every friendship has its secrets - some are worth dying for...",
-      "author": "",
-      "published": "Tue, 31 Mar 2026 05:00:00 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
-      "author": "",
-      "published": "Sun, 22 Nov 2026 21:22:10 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
-      "author": "",
-      "published": "Sun, 22 Nov 2026 23:20:16 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-      "author": "",
-      "published": "Sun, 22 Nov 2026 21:36:00 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Price wins Grand Slam to end wait for major title",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
-      "author": "",
-      "published": "Sun, 22 Nov 2026 21:06:47 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
-      "author": "",
-      "published": "Sun, 22 Nov 2026 20:15:48 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
-      "author": "",
-      "published": "Sun, 22 Nov 2026 19:59:35 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+      "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+      "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
       "author": "",
-      "published": "Sun, 22 Nov 2026 21:44:37 GMT",
-      "fetched_at": "2026-11-23T04:45:54.989870+00:00"
+      "published": "Mon, 23 Nov 2026 15:09:50 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 16:30:59 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Raya to miss Dortmund game but injury 'not serious'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Arsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 15:23:09 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "De Villiers claims ball-tampering from first 2018 Test",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 08:08:13 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "England's tearaway quick bowler reinvented as a top-order batter",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Katie George was once a tearaway fast bowler but, after years of injury pain, tells BBC Sport about reinventing herself as a top-order batter.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 14:26:27 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'Right on time' - Kildunne on Quins exit stories",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4kq78yj93o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "England and Bristol Bears full-back Ellie Kildunne makes a pointed reference to reports that poor time-keeping was behind her Harlequins exit.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 13:07:54 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fury reveals schizophrenia diagnosis",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Tyson Fury describes hearing voices in his head when he suffered a breakdown in 2015, and was also diagnosed with bipolar disorder.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 09:53:52 GMT",
+      "fetched_at": "2026-11-23T16:51:00.021697+00:00"
     }
   ]
 }
