@@ -1,8 +1,108 @@
 {
   "source": "the-diplomat",
-  "fetched_at": "2026-11-23T16:51:23.209975+00:00",
+  "fetched_at": "2026-11-24T03:37:28.575566+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "the-diplomat",
+      "title": "Can the China-Russia-US Summit Turn Political Momentum Into Nuclear Risk Reduction?",
+      "link": "https://thediplomat.com/2026/11/can-the-china-russia-us-summit-turn-political-momentum-into-nuclear-risk-reduction/",
+      "full_text": "",
+      "summary": "The Shenzhen summit created a new and unprecedented political opening among the three major nuclear powers. It must be capitalized on.",
+      "author": "",
+      "published": "Tue, 24 Nov 2026 02:39:00 +0900",
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
+    },
+    {
+      "source": "the-diplomat",
+      "title": "Tajikistan Is Leaving the ICC",
+      "link": "https://thediplomat.com/2026/11/tajikistan-is-leaving-the-icc/",
+      "full_text": "",
+      "summary": "Dushanbe joins a growing list of countries turning their backs on the court.",
+      "author": "",
+      "published": "Tue, 24 Nov 2026 03:28:00 +0900",
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
+    },
+    {
+      "source": "the-diplomat",
+      "title": "Could the Jensen Huang Scandal Help China’s AI Industry?",
+      "link": "https://thediplomat.com/2026/11/could-the-jensen-huang-scandal-help-chinas-ai-industry/",
+      "full_text": "",
+      "summary": "Tightened U.S. export controls will be difficult in the short term, but could open up new opportunities for China.",
+      "author": "",
+      "published": "Tue, 24 Nov 2026 00:53:00 +0900",
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
+    },
+    {
+      "source": "the-diplomat",
+      "title": "Why China Is Watching Taiwan’s Local Elections",
+      "link": "https://thediplomat.com/2026/11/why-china-is-watching-taiwans-local-elections/",
+      "full_text": "",
+      "summary": "The races are not about cross-strait relations – but Beijing has a rooting interest nonetheless.",
+      "author": "",
+      "published": "Tue, 24 Nov 2026 00:35:00 +0900",
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
+    },
+    {
+      "source": "the-diplomat",
+      "title": "South Korea Cannot Police Its Way Out of AI Cheating",
+      "link": "https://thediplomat.com/2026/11/south-korea-cannot-police-its-way-out-of-ai-cheating/",
+      "full_text": "",
+      "summary": "The top scorer on the tax exam confessed to AI cheating, and 111 more alleged cases surfaced at the college entrance exam. Given South Korea's exam-heavy education system, it's nothing short of a crisis.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 23:12:00 +0900",
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
+    },
+    {
+      "source": "the-diplomat",
+      "title": "Japan’s Shenzhen Snub: Why a Thaw Looks Unlikely Under Takaichi and Xi",
+      "link": "https://thediplomat.com/2026/11/japans-shenzhen-snub-why-a-thaw-looks-unlikely-under-takaichi-and-xi/",
+      "full_text": "",
+      "summary": "China’s cold reception for Japan’s prime minister makes it difficult for either leader to back down.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 23:45:00 +0900",
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
+    },
+    {
+      "source": "the-diplomat",
+      "title": "The Paradox of Takaichi’s Popularity",
+      "link": "https://thediplomat.com/2026/11/the-paradox-of-takaichis-popularity/",
+      "full_text": "",
+      "summary": "Takaichi continues to enjoy a healthy approval rating, despite controversy over some of her policy moves.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 22:31:00 +0900",
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
+    },
+    {
+      "source": "the-diplomat",
+      "title": "How Central Asia Fixed Its Most Dangerous Borders",
+      "link": "https://thediplomat.com/2026/11/how-central-asia-fixed-its-most-dangerous-borders/",
+      "full_text": "",
+      "summary": "In a world riven by conflict today, the peaceful settlement of contested borders in the Fergana Valley stands out.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 22:13:00 +0900",
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
+    },
+    {
+      "source": "the-diplomat",
+      "title": "Why is Tarique Rahman Blaming India For His Domestic Troubles?",
+      "link": "https://thediplomat.com/2026/11/why-is-tarique-rahman-blaming-india-for-his-domestic-troubles/",
+      "full_text": "",
+      "summary": "By pointing to “the country across the border,” he is seeking to deflect attention away from his government’s failures in dealing with the crises gripping Bangladesh today.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 18:24:00 +0900",
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
+    },
+    {
+      "source": "the-diplomat",
+      "title": "Why are Kazakhstan and Pakistan Eyeing Each Other?",
+      "link": "https://thediplomat.com/2026/11/why-are-kazakhstan-and-pakistan-eyeing-each-other/",
+      "full_text": "",
+      "summary": "At the recent Second Tianshan Forum in Almaty, Pakistan drew attention to its ports that could provide landlocked Kazakhstan with another route to the sea.",
+      "author": "",
+      "published": "Mon, 23 Nov 2026 13:28:00 +0900",
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
+    },
     {
       "source": "the-diplomat",
       "title": "Is the Baloch Insurgency’s Landscape Fracturing Again?",
@@ -11,7 +111,7 @@
       "summary": "For several years, the Baloch insurgency enjoyed a tactical upper hand vis-à-vis the security forces. The battlefield pendulum is now shifting in favor of the Pakistani state.",
       "author": "",
       "published": "Mon, 23 Nov 2026 12:52:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -21,7 +121,7 @@
       "summary": "Outside the official United Nations process, individual nations are setting ambitious targets for decarbonization.",
       "author": "",
       "published": "Mon, 23 Nov 2026 15:43:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -31,7 +131,7 @@
       "summary": "Over the past two years, Thai authorities have recorded unsafe levels of arsenic and other toxic compounds in several major waterways.",
       "author": "",
       "published": "Mon, 23 Nov 2026 13:40:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -41,7 +141,7 @@
       "summary": "Enid Madarcos of Habitat for Humanity says that housing for the poor is becoming a more pressing issue as the world gets hotter.",
       "author": "",
       "published": "Mon, 23 Nov 2026 14:16:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -51,7 +151,7 @@
       "summary": "The region's response to the landmark November 19 judgment against Naypyidaw has been muted.",
       "author": "",
       "published": "Mon, 23 Nov 2026 11:16:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -61,7 +161,7 @@
       "summary": "A recent DFA statement revealed differences within the country's Cabinet on how best to respond to the ongoing maritime disputes with Beijing.",
       "author": "",
       "published": "Mon, 23 Nov 2026 10:33:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -71,7 +171,7 @@
       "summary": "A look at the history behind the Third Neighbor policy",
       "author": "",
       "published": "Mon, 23 Nov 2026 10:36:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -81,7 +181,7 @@
       "summary": "Rohingya refugees who have spent nearly a decade in crowded camps finally see justice with the ICJ's ruling. Now they are hoping for meaningful action that will allow them to return home.",
       "author": "",
       "published": "Sat, 21 Nov 2026 03:20:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -91,7 +191,7 @@
       "summary": "Russia once held firm on denuclearization and reluctantly accepted sanctions as a necessary tool. Those days are over.",
       "author": "",
       "published": "Sat, 21 Nov 2026 02:58:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -101,7 +201,7 @@
       "summary": "The longer the Chinese government relied on bogus population figures, the more difficult it became to admit that it had been manipulating them.",
       "author": "",
       "published": "Sat, 21 Nov 2026 00:53:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -111,7 +211,7 @@
       "summary": "Your guide to the most competitive races – and the ones that could impact the 2028 presidential election.",
       "author": "",
       "published": "Sat, 21 Nov 2026 00:35:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -121,7 +221,7 @@
       "summary": "Chinese companies are increasing investments in African manufacturing and processing. Will they also buy from local suppliers and train local engineers?",
       "author": "",
       "published": "Fri, 20 Nov 2026 23:43:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -131,7 +231,7 @@
       "summary": "The way forward requires immense investment. But international investors need legal certainty and protection from political interference.",
       "author": "",
       "published": "Fri, 20 Nov 2026 23:35:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -141,7 +241,7 @@
       "summary": "Across Asia’s river basins, upper-riparian infrastructure proceeds unilaterally, without consultation to downstream states. China’s mega-dam in Tibet is just the latest example.",
       "author": "",
       "published": "Fri, 20 Nov 2026 22:59:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -151,7 +251,7 @@
       "summary": "Legal experts warn of a potential backlash against the ICJ after its Rohingya ruling.",
       "author": "",
       "published": "Fri, 20 Nov 2026 23:08:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -161,7 +261,7 @@
       "summary": "Jensen Huang's affair acted as a magnet for controversial takes on gender dynamics, particularly in the workplace.",
       "author": "",
       "published": "Fri, 20 Nov 2026 22:26:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -171,7 +271,7 @@
       "summary": "Islamabad sees the consensus on nuclear risk reduction and non-use as a validation of its warnings over the dangers of confrontation between nuclear-armed states.",
       "author": "",
       "published": "Fri, 20 Nov 2026 19:29:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -181,7 +281,7 @@
       "summary": "The real action was on the sidelines, including a Quad leaders meeting in Manila and a Putin-Trump-Xi trilateral in Shenzhen.",
       "author": "",
       "published": "Fri, 20 Nov 2026 22:21:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -191,7 +291,7 @@
       "summary": "The verdict marked broke new legal ground, but enforcing the judgment on Naypyidaw will not be easy.",
       "author": "",
       "published": "Fri, 20 Nov 2026 14:15:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -201,7 +301,7 @@
       "summary": "The recent visit to Pakistan by Singapore's foreign minister offers an opportunity to establish a framework of cooperation connecting South Asia with Southeast Asia.",
       "author": "",
       "published": "Fri, 20 Nov 2026 09:15:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -211,7 +311,7 @@
       "summary": "The supreme leader’s sister is speaking out more frequently. There is a risk in that.",
       "author": "",
       "published": "Fri, 20 Nov 2026 12:03:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -221,7 +321,7 @@
       "summary": "India cannot allow the energy transition to further outpace the socio-economic transition of millions dependent on coal.",
       "author": "",
       "published": "Fri, 20 Nov 2026 11:53:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -231,7 +331,7 @@
       "summary": "The Comprehensive Economic Partnership Agreement marks an important milestone in the relationship between the EU and Southeast Asia’s most populous nation.",
       "author": "",
       "published": "Fri, 20 Nov 2026 08:21:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -241,7 +341,7 @@
       "summary": "Data suggests the country's current energy transition pains began before the war in the Gulf.",
       "author": "",
       "published": "Fri, 20 Nov 2026 05:49:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -251,7 +351,7 @@
       "summary": "The country's government has big ambitions for its silk industry, but what do those ambitions mean for farmers?",
       "author": "",
       "published": "Fri, 20 Nov 2026 03:22:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -261,7 +361,7 @@
       "summary": "China’s expansive export-control system is in key respects modeled on that of the United States. But there is an important difference.",
       "author": "",
       "published": "Fri, 20 Nov 2026 03:34:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -271,7 +371,7 @@
       "summary": "Yet more turnover in Mongolia’s leadership highlights factional politics and a lack of accountability mechanisms.",
       "author": "",
       "published": "Fri, 20 Nov 2026 02:01:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -281,7 +381,7 @@
       "summary": "Neither Kazakh nor Uzbek authorities have commented on the case, with Dr. Ikboljon Qoraboyev’s relatives stating that he’s been sentenced to 10 years.",
       "author": "",
       "published": "Fri, 20 Nov 2026 00:46:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -291,7 +391,7 @@
       "summary": "With a politically tense year coming to an end, a new national survey suggests that Kazakhs are increasingly disillusioned with the country's political life, feeling that engagement has little impact on government decisions.",
       "author": "",
       "published": "Thu, 19 Nov 2026 23:15:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -301,7 +401,7 @@
       "summary": "Xi seems to have been a reluctant host who decided to turn the event to his own advantage.",
       "author": "",
       "published": "Fri, 20 Nov 2026 00:26:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -311,7 +411,7 @@
       "summary": "Myanmar's security forces killed thousands of Rohingya civilians and committed \"widespread sexual violence\" against women and \"extreme violence\" against children, the court said.",
       "author": "",
       "published": "Thu, 19 Nov 2026 22:50:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -321,7 +421,7 @@
       "summary": "The South Korean president made his appeal in Shenzhen, hoping to entice fellow leaders to address North Korea issues.",
       "author": "",
       "published": "Thu, 19 Nov 2026 22:43:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -331,7 +431,7 @@
       "summary": "Russian military flights near Japan and Taiwan raise questions about Moscow’s message to Beijing.",
       "author": "",
       "published": "Thu, 19 Nov 2026 21:52:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -341,7 +441,7 @@
       "summary": "The international community must recognize that the well-being of the Rohingya is inseparable from the well-being of Myanmar.",
       "author": "",
       "published": "Thu, 19 Nov 2026 22:02:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -351,7 +451,7 @@
       "summary": "Jakarta should evaluate its international nuclear partnerships by the extent to which they can contribute to its long-term technological and industrial development.",
       "author": "",
       "published": "Thu, 19 Nov 2026 12:38:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -361,7 +461,7 @@
       "summary": "Washington is targeting the renting of advanced AI computing capacity to Chinese companies in Singapore, Malaysia, Thailand, and Indonesia.",
       "author": "",
       "published": "Thu, 19 Nov 2026 10:30:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -371,7 +471,7 @@
       "summary": "Shenzhen gives Beijing a stage to showcase its ambitions for the “Greater Bay Area” and China's next phase of growth.",
       "author": "",
       "published": "Thu, 19 Nov 2026 05:45:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -381,7 +481,7 @@
       "summary": "Min Aung Hlaing's comment came after the 11-nation bloc decided to maintain the bar on Myanmar's attendance at its summits and foreign ministers' meetings.",
       "author": "",
       "published": "Thu, 19 Nov 2026 08:15:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -391,7 +491,7 @@
       "summary": "Melaka's landslide looked like a win for Malay nationalism. Seen from the ground, it was a test of whether Malaysian votes still follow their leaders.",
       "author": "",
       "published": "Thu, 19 Nov 2026 00:13:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     },
     {
       "source": "the-diplomat",
@@ -401,107 +501,7 @@
       "summary": "“Our cooperation with Ukraine has not ended,” says Newtype’s CEO, Sengwon Joe Cho. “...This incident tells me that Russia has noticed our system and wants it gone from the battlefield.”",
       "author": "",
       "published": "Thu, 19 Nov 2026 03:24:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
-    },
-    {
-      "source": "the-diplomat",
-      "title": "The Afghan Taliban’s Environmental Misgovernance",
-      "link": "https://thediplomat.com/2026/11/the-afghan-talibans-environmental-misgovernance/",
-      "full_text": "",
-      "summary": "Afghanistan's environmental crisis is also a crisis of governance.",
-      "author": "",
-      "published": "Thu, 19 Nov 2026 02:49:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
-    },
-    {
-      "source": "the-diplomat",
-      "title": "Vietnam’s Opening in Fractured Asia-Pacific Supply Chains",
-      "link": "https://thediplomat.com/2026/11/vietnams-opening-in-fractured-asia-pacific-supply-chains/",
-      "full_text": "",
-      "summary": "As supply chains move from “just-in-time” to “just-in-case,” Vietnam has key advantages over its neighbors.",
-      "author": "",
-      "published": "Thu, 19 Nov 2026 01:01:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
-    },
-    {
-      "source": "the-diplomat",
-      "title": "What Would the ‘Finlandization’ of Taiwan Look Like?",
-      "link": "https://thediplomat.com/2026/11/what-would-the-finlandization-of-taiwan-look-like/",
-      "full_text": "",
-      "summary": "Insights from Pekka Virkki.",
-      "author": "",
-      "published": "Thu, 19 Nov 2026 00:26:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
-    },
-    {
-      "source": "the-diplomat",
-      "title": "The China-US AI Hotline Needs to Be Different",
-      "link": "https://thediplomat.com/2026/11/the-china-us-ai-hotline-needs-to-be-different/",
-      "full_text": "",
-      "summary": "China-U.S. hotlines have historically failed when needed most. This one needs to actually work – and here’s how to make sure it does.",
-      "author": "",
-      "published": "Thu, 19 Nov 2026 00:07:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
-    },
-    {
-      "source": "the-diplomat",
-      "title": "‘Bienvenue à Phnom Penh’: Why Cambodia’s Francophonie Summit Matters",
-      "link": "https://thediplomat.com/2026/11/bienvenue-a-phnom-penh-why-cambodias-francophonie-summit-matters/",
-      "full_text": "",
-      "summary": "By hosting the 20th Francophonie summit, Cambodia has turned a historical legacy into a diplomatic opportunity. Political divisions, however, threaten to overshadow the institution’s Asian ambition.",
-      "author": "",
-      "published": "Wed, 18 Nov 2026 23:45:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
-    },
-    {
-      "source": "the-diplomat",
-      "title": "Can Singapore Get the South China Sea COC Over the Finish Line in 2027?",
-      "link": "https://thediplomat.com/2026/11/can-singapore-get-the-south-china-sea-coc-over-the-finish-line-in-2027/",
-      "full_text": "",
-      "summary": "Another ASEAN summit ended with no Code of Conduct. With 80% done, can Singapore spearhead the completion of the agreement next year?",
-      "author": "",
-      "published": "Wed, 18 Nov 2026 23:20:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
-    },
-    {
-      "source": "the-diplomat",
-      "title": "The Manila Summit: Promise and Peril for India’s Quad Chairmanship",
-      "link": "https://thediplomat.com/2026/11/the-manila-summit-promise-and-peril-for-indias-quad-chairmanship/",
-      "full_text": "",
-      "summary": "Since the Quad’s revival in 2021, New Delhi has not hosted any leaders’ summit on its own soil.",
-      "author": "",
-      "published": "Wed, 18 Nov 2026 19:50:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
-    },
-    {
-      "source": "the-diplomat",
-      "title": "Trump, Xi, and Putin Are Having a Trilateral Summit. But What’s on the Agenda?",
-      "link": "https://thediplomat.com/2026/11/trump-xi-and-putin-are-having-a-trilateral-summit-but-whats-on-the-agenda/",
-      "full_text": "",
-      "summary": "Trump wants to talk nuclear weapons; Putin wants to discuss Ukraine. China would prefer not to discuss either. The best-case outcome is a photo-op.",
-      "author": "",
-      "published": "Wed, 18 Nov 2026 22:44:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
-    },
-    {
-      "source": "the-diplomat",
-      "title": "Quad! What Is It Good for? | Kashish Parpiani",
-      "link": "https://thediplomat.com/2026/11/quad-what-is-it-good-for-kashish-parpiani/",
-      "full_text": "",
-      "summary": "Kashish Parpiani joins host Tushar Shetty to examine whether the Quad still matters as its leaders reconvene after two years.",
-      "author": "",
-      "published": "Wed, 18 Nov 2026 22:10:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
-    },
-    {
-      "source": "the-diplomat",
-      "title": "India Looks to Stronger ASEAN Partnership Amid Increasing Global Turbulence",
-      "link": "https://thediplomat.com/2026/11/india-looks-to-stronger-asean-partnership-amid-increasing-global-turbulence/",
-      "full_text": "",
-      "summary": "To speed up the momentum of cooperation, Prime Minister Modi suggested that India and ASEAN should focus on the maritime domain.",
-      "author": "",
-      "published": "Wed, 18 Nov 2026 16:35:00 +0900",
-      "fetched_at": "2026-11-23T16:51:18.186559+00:00"
+      "fetched_at": "2026-11-24T03:37:19.194268+00:00"
     }
   ]
 }
