@@ -1,8 +1,208 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-24T16:43:05.665184+00:00",
+  "fetched_at": "2026-11-25T01:44:51.003219+00:00",
   "count": 32,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+      "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+      "author": "",
+      "published": "Tue, 24 Nov 2026 22:49:41 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Nuclear test veterans speak to BBC about search for justice",
+      "link": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.",
+      "author": "",
+      "published": "Tue, 24 Nov 2026 22:45:03 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US preparing to unveil new tariffs on global trading partners",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 00:38:01 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom",
+      "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 01:03:05 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+      "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+      "author": "",
+      "published": "Tue, 24 Nov 2026 23:38:39 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 01:40:42 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 00:29:58 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "author": "",
+      "published": "Tue, 24 Nov 2026 23:05:11 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 00:56:51 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 00:58:34 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Ministers ask public for views on changing age of consent",
+      "link": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Some campaigners have argued that different limits should apply, depending on the age gap between the people involved.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 01:38:39 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 00:54:13 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "author": "",
+      "published": "Tue, 24 Nov 2026 23:03:59 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+      "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 01:00:36 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The rising cost of putting food on the table in India",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "India's food inflation is broadening, squeezing household budgets.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 01:02:13 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 00:30:52 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK papers: PIP benefits 'not fit for purpose' and Royal 'security scare'",
+      "link": "https://www.bbc.co.uk/news/articles/crq5v3g5jq13o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Many of the papers are leading on the findings of a government-commissioned review into personal independence payment.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 01:34:53 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why tiny cars are taking off across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 00:34:05 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Substance released at Manchester concert could be linked to robberies, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Police are investigating a possible link between the Co-op Live evacuation and reported robberies.",
+      "author": "",
+      "published": "Tue, 24 Nov 2026 22:01:30 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 01:11:57 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
+    },
     {
       "source": "bbc",
       "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
@@ -11,47 +211,17 @@
       "summary": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
       "author": "",
       "published": "Tue, 24 Nov 2026 16:19:29 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
-      "title": "Huntley murderer handed new whole life jail term",
-      "link": "https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss",
+      "title": "Will there be a White Christmas this year?",
+      "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Triple killer Anthony Russell admits murdering child killer Ian Huntley at Frankland Prison.",
+      "summary": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
       "author": "",
-      "published": "Tue, 24 Nov 2026 16:30:19 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 16:11:33 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zoe Kleinman: My week with Meta's AI agent Muse ahead of its UK launch",
-      "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 09:33:00 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Former police chief inspector jailed for rape",
-      "link": "https://www.bbc.co.uk/news/articles/crjeq7ey7llqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Glen Mahony once worked with Wayne Couzens, who was convicted of the 2021 murder of Sarah Everard.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 15:41:42 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "published": "Wed, 25 Nov 2026 01:03:24 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
@@ -61,187 +231,27 @@
       "summary": "Social media influencer Max Balegde has deleted a video filmed outside the door of Number 10, which was posted on TikTok, in which he mimed along to explicit lyrics.",
       "author": "",
       "published": "Tue, 24 Nov 2026 16:11:29 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
-      "title": "Record 5,200 heat-linked deaths estimated in England this year",
-      "link": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
+      "title": "Bake Off winner crowned after high-stakes final",
+      "link": "https://www.bbc.co.uk/news/articles/cm894exd27j2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
+      "summary": "Judge Nigella Lawson describes the three finalists as \"sensational\" bakers.",
       "author": "",
-      "published": "Tue, 24 Nov 2026 16:22:16 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "published": "Tue, 24 Nov 2026 21:40:58 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: BBC secret filming shows dog breeder selling sick puppies for £2k each",
-      "link": "https://www.bbc.co.uk/news/videos/ckx28x5nlr2vo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Trump pardons turkeys Freedom and Feathers",
+      "link": "https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+      "summary": "Donald Trump continued a long-standing White House holiday tradition, pardoning two turkeys named Freedom and Feathers.",
       "author": "",
-      "published": "Tue, 24 Nov 2026 06:21:29 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Inquiry into Birmingham housing scheme 'exploitation' after BBC investigation",
-      "link": "https://www.bbc.co.uk/news/articles/cm0rk19kl52do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Birmingham has more than 34,000 people living in Supported Exempt Accommodation.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 15:18:42 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 15:35:53 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Key takeaways from the Timms review into Pip disability benefit",
-      "link": "https://www.bbc.co.uk/news/articles/c69w9gw9wx9no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Disability minister Sir Stephen Timms has published his review of the personal independence payment (Pip), along with recommended changes.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 13:46:07 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-      "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Companies say demand is growing for their services as people's lives become increasingly frantic.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 00:01:04 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The shake-up facing renters as a new kind of landlord emerges",
-      "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 00:28:48 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
-      "link": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 00:45:53 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The content creator's self-shot videos of her dancing on the London Underground blew up online in 2023.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 09:47:20 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 07:26:27 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why I don't always tell potential employers I'm dyslexic",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 00:00:47 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 15:17:28 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "First Children's Booker prize reveals shortlist - and its child judges",
-      "link": "https://www.bbc.co.uk/news/articles/c65y18gl23gko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The eight books in contention include War by Artemis Fowl author Eoin Colfer  and Andrew Donkin.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 07:29:37 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Southport survivors' parents 'disgusted' by school recovery funding",
-      "link": "https://www.bbc.co.uk/news/articles/c3wy0x4774dpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Southport survivors' families are criticising disparities in school recovery funding.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 15:50:44 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Prince William meets Burnham on first Downing Street visit",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1xk1gpqvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Prince of Wales is meeting Andy Burnham with homelessness expected to be among the topics.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 11:37:53 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Baby P's mother given open prison recommendation",
-      "link": "https://www.bbc.co.uk/news/articles/cwn70z7ryp8ro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Tracey Connelly was first sentenced in 2009 over the death of her toddler son Peter.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 13:02:41 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 11:10:57 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Man baffled after accidentally travelling to Spain on wife's passport",
-      "link": "https://www.bbc.co.uk/news/articles/cmzx9ygq1x2wo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Ben Moore says he is still baffled over how he was able to make the journey without being stopped.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 14:04:14 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "published": "Tue, 24 Nov 2026 20:45:09 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
@@ -251,47 +261,47 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
-      "title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+      "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+      "summary": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
       "author": "",
-      "published": "Tue, 24 Nov 2026 16:11:33 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "published": "Tue, 24 Nov 2026 23:17:42 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
-      "title": "Man Utd's Yoro has Anfield red card overturned",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
+      "title": "Bellingham plays down Zidane comparison after wonder goal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
+      "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
       "author": "",
-      "published": "Tue, 24 Nov 2026 16:16:58 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "published": "Tue, 24 Nov 2026 23:54:10 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
-      "title": "FA chief signs NDA to view Fifa sell-off plot documents",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
+      "title": "Arteta says Arsenal need more luck to kill off games",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
+      "summary": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
       "author": "",
-      "published": "Tue, 24 Nov 2026 16:34:18 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "published": "Tue, 24 Nov 2026 23:44:04 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
-      "title": "'The rest of the world noticed' - Welshman Donald demolishes Aussies",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&at_campaign=rss",
+      "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A remarkable opening partnership of 150 in 10 overs between Aneurin Donald and Phil Salt helps England chase 184 against Australia to level the T20 series.",
+      "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
       "author": "",
-      "published": "Tue, 24 Nov 2026 12:58:20 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "published": "Tue, 24 Nov 2026 22:05:31 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
@@ -301,27 +311,17 @@
       "summary": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket.",
       "author": "",
       "published": "Tue, 24 Nov 2026 14:52:50 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     },
     {
       "source": "bbc",
-      "title": "Millwall face partial stadium closure over chants",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
+      "title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
+      "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
       "author": "",
-      "published": "Tue, 24 Nov 2026 14:23:49 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Is Hamilton and Leclerc's Ferrari partnership sustainable? F1 Q&A",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC F1 correspondent Andrew Benson answers your latest questions after the Las Vegas Grand Prix.",
-      "author": "",
-      "published": "Tue, 24 Nov 2026 08:10:15 GMT",
-      "fetched_at": "2026-11-24T16:43:00.775026+00:00"
+      "published": "Tue, 24 Nov 2026 17:16:09 GMT",
+      "fetched_at": "2026-11-25T01:44:49.858035+00:00"
     }
   ]
 }
