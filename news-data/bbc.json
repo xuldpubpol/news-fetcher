@@ -1,77 +1,217 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-25T16:27:57.889019+00:00",
-  "count": 37,
+  "fetched_at": "2026-11-26T01:18:59.907958+00:00",
+  "count": 34,
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Stalking law simplified to become one offence",
+      "link": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 00:02:50 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 00:07:51 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
     {
       "source": "bbc",
       "title": "Poundland collapses putting 11,000 jobs at risk",
       "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 16:24:30 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 21:31:10 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two men charged with trying to steal cufflinks and clock from Royal home",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+      "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The court hears the items from the Sandringham estate are of an unknown value.",
+      "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 15:05:50 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Thu, 26 Nov 2026 00:08:07 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "US stocks fall further as fears over AI intensify",
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "title": "BBC launches partnership with Met Office for weather coverage",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "summary": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 16:07:26 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Thu, 26 Nov 2026 00:12:37 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Wife drugged and raped by husband asked police if she was to blame",
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 22:19:38 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 20:11:46 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
       "link": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
       "author": "",
       "published": "Wed, 25 Nov 2026 15:42:10 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
-      "link": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
+      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 13:57:12 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 22:18:06 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup.",
+      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 11:57:31 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 19:38:05 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "My family died in Ukraine and my mum blamed Zelensky's troops - the truth is complicated",
-      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "title": "'Top Gear is back': Gordon Ramsay announced as new host",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gne4wgz27o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "summary": "TV chef Gordon Ramsay will lead the new presenting line-up on BBC motoring show Top Gear as it returns to screens in 2028.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 00:54:13 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 17:32:13 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 00:22:18 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+      "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 00:23:27 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The US pastor who wants to see women's right to vote overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 00:24:25 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 23:26:50 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
+      "link": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The world has experienced six consecutive days of temperatures 2C warmer than pre-industrial levels, according to the Guardian.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 01:01:31 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
+      "link": "https://www.bbc.co.uk/news/articles/c0666rn4l5vo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "How a wayward child from the north-east of England made it with the world's biggest band.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 22:16:14 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Why has Poundland collapsed and what happens next?",
+      "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 16:24:30 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Motorcycle rider who took stunning cricket catch found",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 23:50:02 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 16:42:11 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Hotels need 'minimum standards' to keep women safe",
+      "link": "https://www.bbc.co.uk/news/articles/crgj3gnjeqe0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "MPs hear calls for national hotel safety standards after an outcry over a sexual assault at a Travelodge.",
+      "author": "",
+      "published": "Wed, 25 Nov 2026 20:45:18 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
@@ -81,207 +221,37 @@
       "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
       "author": "",
       "published": "Wed, 25 Nov 2026 13:42:08 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Badenoch challenges Burnham over university fees for EU students",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The PM says EU students paying the same as British students is the European position and \"won't be put on the table\".",
+      "summary": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 16:17:34 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 11:57:31 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why has China sent the first Pakistani astronaut to space?",
-      "link": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss",
+      "title": "Two men charged with trying to steal cufflinks and clock from royal home",
+      "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station.",
+      "summary": "The court hears the items from the Sandringham estate are of an unknown value.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 10:26:50 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 15:05:50 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Festive market cancels bookings after backlash over misleading AI images",
-      "link": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Visitors and stallholders say the event did not match the promotional AI pictures.",
+      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 06:02:07 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 12:12:11 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "What will the price cap changes mean for my bills?",
-      "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 09:54:32 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why the Iran war is being blamed for raising UK energy bills",
-      "link": "https://www.bbc.co.uk/news/articles/cv1j6wk020p8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "How a big drop in liquified natural gas supplies from the Middle East is putting up Briton's fuel bills.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 14:58:51 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why are bills going up?",
-      "link": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "BBC correspondent Colletta Smith explains the January increase.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 13:24:29 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Raheem Sterling - from national icon to suspended jail sentence",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 12:42:57 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
-      "link": "https://www.bbc.co.uk/news/videos/c6z9dk30880zo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "More than 14,000 hours of CCTV evidence helped convict former police officer Beau Lamarre of killing his ex-partner and the man's new boyfriend in 2024.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 06:58:24 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "She spent decades as an FBI agent and this is the case she could not let go",
-      "link": "https://www.bbc.co.uk/news/articles/c539g1pwy3wyo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jane Collins had all but given up on seeing Michael Donovan and Richard Moore face justice. Then they were charged with stealing from a mass-shooter’s brother.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 02:48:53 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why tiny cars are taking off across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 00:34:05 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 10:03:12 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "A question of trust in the NHS could be Swinney's most dangerous political moment",
-      "link": "https://www.bbc.co.uk/news/articles/c65y12kg8711o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 06:17:47 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
-      "link": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hunter Schafer and co-stars say the sci-fi TV show explores more than the idea of robotic consciousness.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 06:28:22 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK sent sex offender refugee to African country in undisclosed deal",
-      "link": "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 06:00:45 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 06:00:36 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "EU offers UK fresh deal on 'Made in Europe' scheme",
-      "link": "https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 10:59:22 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "No 10 does not rule out inviting back influencer at centre of video row",
-      "link": "https://www.bbc.co.uk/news/articles/cx987j6e26elo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "It comes after Kemi Badenoch called on the PM to apologise for allowing an \"obscene\" video to be recorded outside Number 10.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 14:41:27 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Missed chances to save boy, 2, murdered by grandparents despite dad's concerns, review finds",
-      "link": "https://www.bbc.co.uk/news/articles/c63egnjyy5dno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Safeguarding board apologises \"unreservedly\" after a review into the death of the Flintshire toddler.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 10:00:14 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 14:46:41 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 19:47:39 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
@@ -291,7 +261,7 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
@@ -301,77 +271,77 @@
       "summary": "Rare and unseen moments from the making of the hit single by charity supergroup Band Aid.",
       "author": "",
       "published": "Mon, 25 Nov 2024 06:00:00 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Sterling - from England icon to suspended jail sentence",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
+      "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
       "author": "",
-      "published": "Wed, 25 Nov 2026 12:42:57 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Thu, 26 Nov 2026 00:24:48 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fisilau starts as England change five for All Blacks rematch",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv8e04gj2wwwo?at_medium=RSS&at_campaign=rss",
+      "title": "'All coming together' - Isak repaying Liverpool faith",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Exeter back row Greg Fisilau will make his first England start in one of five changes to their XV to face New Zealand on Saturday.",
+      "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 16:00:50 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 23:25:30 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dottin out to 'free ball' after historic WBBL decision",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx7v2rm8477ro?at_medium=RSS&at_campaign=rss",
+      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face her first delivery.",
+      "summary": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 12:34:42 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 22:32:51 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why four-time MVP Rodgers may have played last NFL game",
+      "title": "Four-time MVP Rodgers released and may have played last NFL game",
       "link": "https://www.bbc.co.uk/sport/american-football/articles/c64gn8ryp7jno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Veteran quarterback Aaron Rodgers may have played his last game in the NFL after being dropped by the Pittsburgh Steelers.",
+      "summary": "Veteran quarterback Aaron Rodgers may have played his last game in the NFL after being released by the Pittsburgh Steelers.",
       "author": "",
       "published": "Wed, 25 Nov 2026 14:37:16 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Fury v Joshua fight to go ahead despite objections over 3am finish",
-      "link": "https://www.bbc.co.uk/news/articles/c5kg73d2px7mo?at_medium=RSS&at_campaign=rss",
+      "title": "Motorcycle rider who took stunning cricket catch found",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Cardiff council said the fight would be a \"big deal\" for the city, boosting its revenue and profile.",
+      "summary": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 13:09:06 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 23:50:02 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "All Blacks great Beauden Barrett close to Bristol move",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg2ex1v0vzo?at_medium=RSS&at_campaign=rss",
+      "title": "Isak scores twice as clinical Liverpool beat Brugge",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "New Zealand great Beauden Barrett is close to agreeing a deal to join Bristol Bears in what would be one of the highest-profile signings in Prem history.",
+      "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last  Champions League match.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 13:29:10 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 22:12:19 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     },
     {
       "source": "bbc",
-      "title": "Bellingham plays down Zidane comparison after wonder goal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+      "title": "Regulator chief 'has stomach' to face Man City",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
+      "summary": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City.",
       "author": "",
-      "published": "Tue, 24 Nov 2026 23:54:10 GMT",
-      "fetched_at": "2026-11-25T16:27:50.780815+00:00"
+      "published": "Wed, 25 Nov 2026 21:27:35 GMT",
+      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
     }
   ]
 }
