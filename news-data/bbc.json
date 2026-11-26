@@ -1,47 +1,77 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-26T01:18:59.907958+00:00",
-  "count": 34,
+  "fetched_at": "2026-11-26T16:01:18.660333+00:00",
+  "count": 33,
   "articles": [
     {
       "source": "bbc",
-      "title": "Stalking law simplified to become one offence",
-      "link": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+      "title": "How the train attack unfolded - carriage by carriage",
+      "link": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
+      "summary": "In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 00:02:50 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 15:25:57 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "title": "Knifeman told doctor his psychosis drugs weren't working days before attack",
+      "link": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "summary": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 00:07:51 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 15:38:38 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+      "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "summary": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 21:31:10 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 14:55:16 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
-      "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+      "title": "Mandelson kept lobby firm shares despite conflict of interest fears, documents show",
+      "link": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+      "summary": "Mandelson kept lobby firm shares for months after becoming US ambassador",
       "author": "",
-      "published": "Thu, 26 Nov 2026 00:08:07 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 15:46:08 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Burnham joined by former PMs at Ann Widdecombe service",
+      "link": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "About 600 guests are attending including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 15:00:03 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 05:00:24 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 05:00:27 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
@@ -51,87 +81,57 @@
       "summary": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
       "author": "",
       "published": "Thu, 26 Nov 2026 00:12:37 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
+      "link": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+      "summary": "It comes after reports that reservists have received letters telling them to prepare to be called up for war.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 22:19:38 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 13:24:22 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
-      "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+      "title": "Tommy Robinson charged with failing to give phone Pin code to police",
+      "link": "https://www.bbc.co.uk/news/articles/cwly4v7nvxl5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+      "summary": "Robinson, whose real name is Stephen Yaxley-Lennon, is due to appear at Westminster Magistrates' Court on 14 December.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 20:11:46 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 14:53:37 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
-      "link": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
+      "title": "Number of young people out of work or training still stubbornly high, data shows",
+      "link": "https://www.bbc.co.uk/news/articles/cq62p64e13rno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
+      "summary": "The new data comes a week after the Milburn review called for a \"complete reset\" to address the issue.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 15:42:10 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 13:55:02 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 22:18:06 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 06:01:58 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "What we know about Trump's Thanksgiving tariffs",
-      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+      "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 19:38:05 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'Top Gear is back': Gordon Ramsay announced as new host",
-      "link": "https://www.bbc.co.uk/news/videos/cm4gne4wgz27o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "TV chef Gordon Ramsay will lead the new presenting line-up on BBC motoring show Top Gear as it returns to screens in 2028.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 17:32:13 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Has global jihadism failed, or is it simply changing shape?",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 00:22:18 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
-      "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 00:23:27 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 13:40:46 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
@@ -141,27 +141,17 @@
       "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
       "author": "",
       "published": "Thu, 26 Nov 2026 00:24:25 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
       "author": "",
-      "published": "Wed, 25 Nov 2026 23:26:50 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
-      "link": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The world has experienced six consecutive days of temperatures 2C warmer than pre-industrial levels, according to the Guardian.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 01:01:31 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 00:22:18 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
@@ -171,87 +161,97 @@
       "summary": "How a wayward child from the north-east of England made it with the world's biggest band.",
       "author": "",
       "published": "Wed, 25 Nov 2026 22:16:14 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Why has Poundland collapsed and what happens next?",
-      "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+      "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 16:24:30 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Wed, 25 Nov 2026 23:26:50 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Motorcycle rider who took stunning cricket catch found",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo?at_medium=RSS&at_campaign=rss",
+      "title": "I regret surviving the e-bike fire that killed my family",
+      "link": "https://www.bbc.co.uk/news/articles/c9n73yp1g057o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
+      "summary": "Scott Peden says he was powerless to put out the fatal fire that tore through the family's home.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 23:50:02 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 05:47:25 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 16:42:11 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 15:23:17 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hotels need 'minimum standards' to keep women safe",
-      "link": "https://www.bbc.co.uk/news/articles/crgj3gnjeqe0o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "MPs hear calls for national hotel safety standards after an outcry over a sexual assault at a Travelodge.",
+      "title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+      "full_text": "A modern browser with JavaScript and a stable internet connection is required to view this interactive.",
+      "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 20:45:18 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 14:00:20 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Energy bills to rise by 26% from January after gas prices surge",
-      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 13:42:08 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 14:44:26 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup.",
+      "summary": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 11:57:31 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 14:28:22 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Two men charged with trying to steal cufflinks and clock from royal home",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+      "title": "Scotland's chief medical officer Gregor Smith resigns on mental health grounds",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y108evd7qo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The court hears the items from the Sandringham estate are of an unknown value.",
+      "summary": "Sir Gregor Smith said he was unable to continue with the \"exceptional challenges\" his role demands.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 15:05:50 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 14:41:12 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-      "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "title": "William expresses sadness as Diana Award charity goes into administration",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2nmd9n8yo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "summary": "The charity, set up in memory of the late Princess of Wales, says it confirmed the news with \"heavy hearts\".",
       "author": "",
-      "published": "Wed, 25 Nov 2026 19:47:39 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 13:50:38 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Double jeopardy killer recommended for release from prison",
+      "link": "https://www.bbc.co.uk/news/articles/c8n50e4z9559o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "William Dunlop, who strangled Julie Hogg in County Durham, was jailed after a double jeopardy law change.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 15:45:22 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
@@ -261,87 +261,77 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "The making of Band Aid's iconic Christmas hit 42 years on",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0025gmy/the-making-of-do-they-know-its-christmas?at_mid=Ic6fsbnoVI&at_campaign=The_Making_of_Do_They_Know_Its_Christmas&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0025gmy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Making_of_Do_They_Know_Its_Christmas&at_bbc_team=BBC",
+      "title": "GB win decider to reach Davis Cup semis for first time since 2019",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c5m2lvevrk1mo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Rare and unseen moments from the making of the hit single by charity supergroup Band Aid.",
+      "summary": "Great Britain advance to the semi-finals of the Davis Cup for the first time since 2019 as Henry Patten and Neal Skupski win a decisive doubles tie against Germany in Bologna.",
       "author": "",
-      "published": "Mon, 25 Nov 2024 06:00:00 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 15:35:01 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
+      "title": "Not even making a 12-man bench - what next for Garnacho?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
+      "summary": "Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?",
       "author": "",
-      "published": "Thu, 26 Nov 2026 00:24:48 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 13:23:05 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "'All coming together' - Isak repaying Liverpool faith",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
+      "title": "Selby faces tough UK Championship opener, with Allen set to feature",
+      "link": "https://www.bbc.co.uk/sport/snooker/articles/cwkgmdryrv4ro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club.",
+      "summary": "Mark Selby is to start his defence of the UK Championship title against Matt Selt on Saturday in York.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 23:25:30 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 15:49:07 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
+      "title": "Faldo urges LIV stars to 'chip in' for unpaid firms",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/ckq6emzlegjyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.",
+      "summary": "The six-time major winner calls on those who benefited financially from LIV Golf to help small businesses still owed money by the tour.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 22:32:51 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 11:45:31 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Four-time MVP Rodgers released and may have played last NFL game",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/c64gn8ryp7jno?at_medium=RSS&at_campaign=rss",
+      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Veteran quarterback Aaron Rodgers may have played his last game in the NFL after being released by the Pittsburgh Steelers.",
+      "summary": "Manchester United goalkeeper Senne Lammens made two major mistakes in the 2-2 draw with Sporting - could Mauricio Pochettino drop his goalkeeper?",
       "author": "",
-      "published": "Wed, 25 Nov 2026 14:37:16 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 14:56:30 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Motorcycle rider who took stunning cricket catch found",
+      "title": "Motorcycle passenger who took stunning cricket catch found",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
       "author": "",
       "published": "Wed, 25 Nov 2026 23:50:02 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     },
     {
       "source": "bbc",
-      "title": "Isak scores twice as clinical Liverpool beat Brugge",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+      "title": "Former England scrum-half and commentator Starmer-Smith dies aged 81",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6rrg20xdq2vo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last  Champions League match.",
+      "summary": "Former England international and rugby union commentator Nigel Starmer-Smith dies aged 81.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 22:12:19 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Regulator chief 'has stomach' to face Man City",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 21:27:35 GMT",
-      "fetched_at": "2026-11-26T01:18:53.618845+00:00"
+      "published": "Thu, 26 Nov 2026 15:26:24 GMT",
+      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
     }
   ]
 }
