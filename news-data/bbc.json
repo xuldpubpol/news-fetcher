@@ -1,27 +1,107 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-26T16:01:18.660333+00:00",
-  "count": 33,
+  "fetched_at": "2026-11-27T01:17:09.624282+00:00",
+  "count": 32,
   "articles": [
     {
       "source": "bbc",
-      "title": "How the train attack unfolded - carriage by carriage",
-      "link": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.",
+      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 15:25:57 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Thu, 26 Nov 2026 22:49:27 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "Knifeman told doctor his psychosis drugs weren't working days before attack",
+      "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+      "link": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 19:00:33 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
       "link": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
       "summary": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.",
       "author": "",
       "published": "Thu, 26 Nov 2026 15:38:38 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "author": "",
+      "published": "Fri, 27 Nov 2026 00:52:11 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Drug rape husband says wife 'would have been terrified', court hears",
+      "link": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The husband has told a jury that his wife \"would never agree to do any of this\".",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 18:21:59 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+      "author": "",
+      "published": "Fri, 27 Nov 2026 00:48:11 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 23:03:16 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+      "author": "",
+      "published": "Fri, 27 Nov 2026 00:20:10 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 23:17:12 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Huw Edwards gives first interviews since child abuse image conviction",
+      "link": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Minister Anna Turley said she was \"deeply uncomfortable\" with the interviews, while Channel 4 has insisted it \"holds Edwards to account\".",
+      "author": "",
+      "published": "Fri, 27 Nov 2026 00:38:03 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
@@ -31,227 +111,147 @@
       "summary": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
       "author": "",
       "published": "Thu, 26 Nov 2026 14:55:16 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "Mandelson kept lobby firm shares despite conflict of interest fears, documents show",
-      "link": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss",
+      "title": "Australia's sandpapergate probe to also include 2017-18 Ashes against England",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mandelson kept lobby firm shares for months after becoming US ambassador",
+      "summary": "Cricket Australia's fresh independent probe into the sandpapergate scandal has been widened to include the 2017-18 Ashes series against England.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 15:46:08 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Fri, 27 Nov 2026 00:43:03 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "The young hikers finding friendship and fresh air offline",
+      "link": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
+      "author": "",
+      "published": "Fri, 27 Nov 2026 00:52:34 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "author": "",
+      "published": "Fri, 27 Nov 2026 00:54:45 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Weekly quiz: Which music icon's house did Miley Cyrus get married at?",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2lv9yy72yo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 18:31:07 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+      "author": "",
+      "published": "Fri, 27 Nov 2026 00:58:49 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 19:55:58 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "How the Huntingdon train attack unfolded - carriage by carriage",
+      "link": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 15:25:57 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Fury 'never received' schizophrenia diagnosis",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Paris Fury, the wife of Tyson Fury, says the boxer has never received a diagnosis of schizophrenia.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 21:25:00 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Both the man and his dog escaped unharmed, the police department says.",
+      "author": "",
+      "published": "Thu, 26 Nov 2026 21:51:16 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
       "title": "Burnham joined by former PMs at Ann Widdecombe service",
       "link": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "About 600 guests are attending including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
+      "summary": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 15:00:03 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Thu, 26 Nov 2026 18:26:09 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 05:00:24 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Thu, 26 Nov 2026 21:17:53 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-      "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "title": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
+      "link": "https://www.bbc.co.uk/news/articles/cw24ez32d1n4o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.",
+      "summary": "Energy Secretary Miatta Fahnbulleh is due to make a decision on whether to give the go-ahead for drilling in the oil field off the north-west coast of Shetland within weeks.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 05:00:27 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Thu, 26 Nov 2026 16:29:54 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "BBC launches partnership with Met Office for weather coverage",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 00:12:37 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Thu, 26 Nov 2026 22:01:22 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
-      "link": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss",
+      "title": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
+      "link": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "It comes after reports that reservists have received letters telling them to prepare to be called up for war.",
+      "summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 13:24:22 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tommy Robinson charged with failing to give phone Pin code to police",
-      "link": "https://www.bbc.co.uk/news/articles/cwly4v7nvxl5o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Robinson, whose real name is Stephen Yaxley-Lennon, is due to appear at Westminster Magistrates' Court on 14 December.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 14:53:37 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Number of young people out of work or training still stubbornly high, data shows",
-      "link": "https://www.bbc.co.uk/news/articles/cq62p64e13rno?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The new data comes a week after the Milburn review called for a \"complete reset\" to address the issue.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 13:55:02 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Desperate appeals from women on death row in Iran after protests",
-      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 06:01:58 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-      "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 13:40:46 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "The US pastor who wants to see women's right to vote overturned",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 00:24:25 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Has global jihadism failed, or is it simply changing shape?",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 00:22:18 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
-      "link": "https://www.bbc.co.uk/news/articles/c0666rn4l5vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "How a wayward child from the north-east of England made it with the world's biggest band.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 22:16:14 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
-      "author": "",
-      "published": "Wed, 25 Nov 2026 23:26:50 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "I regret surviving the e-bike fire that killed my family",
-      "link": "https://www.bbc.co.uk/news/articles/c9n73yp1g057o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Scott Peden says he was powerless to put out the fatal fire that tore through the family's home.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 05:47:25 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 15:23:17 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Millions of people to see average monthly mortgage payments rise by £100",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "A modern browser with JavaScript and a stable internet connection is required to view this interactive.",
-      "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 14:00:20 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 14:44:26 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 14:28:22 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Scotland's chief medical officer Gregor Smith resigns on mental health grounds",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y108evd7qo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Sir Gregor Smith said he was unable to continue with the \"exceptional challenges\" his role demands.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 14:41:12 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "William expresses sadness as Diana Award charity goes into administration",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2nmd9n8yo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The charity, set up in memory of the late Princess of Wales, says it confirmed the news with \"heavy hearts\".",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 13:50:38 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Double jeopardy killer recommended for release from prison",
-      "link": "https://www.bbc.co.uk/news/articles/c8n50e4z9559o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "William Dunlop, who strangled Julie Hogg in County Durham, was jailed after a double jeopardy law change.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 15:45:22 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Thu, 26 Nov 2026 18:22:31 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
@@ -261,77 +261,67 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "GB win decider to reach Davis Cup semis for first time since 2019",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c5m2lvevrk1mo?at_medium=RSS&at_campaign=rss",
+      "title": "Australia's sandpapergate probe to also include 2017-18 Ashes",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Great Britain advance to the semi-finals of the Davis Cup for the first time since 2019 as Henry Patten and Neal Skupski win a decisive doubles tie against Germany in Bologna.",
+      "summary": "Cricket Australia's fresh independent probe into the sandpapergate scandal has been widened to include the 2017-18 Ashes series against England.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 15:35:01 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Fri, 27 Nov 2026 00:43:03 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "Not even making a 12-man bench - what next for Garnacho?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
+      "title": "Fury 'never received' schizophrenia diagnosis",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?",
+      "summary": "Paris Fury, the wife of Tyson Fury, says the boxer has never received a diagnosis of schizophrenia.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 13:23:05 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Thu, 26 Nov 2026 21:25:00 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "Selby faces tough UK Championship opener, with Allen set to feature",
-      "link": "https://www.bbc.co.uk/sport/snooker/articles/cwkgmdryrv4ro?at_medium=RSS&at_campaign=rss",
+      "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mark Selby is to start his defence of the UK Championship title against Matt Selt on Saturday in York.",
+      "summary": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 15:49:07 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Thu, 26 Nov 2026 22:27:52 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "Faldo urges LIV stars to 'chip in' for unpaid firms",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/ckq6emzlegjyo?at_medium=RSS&at_campaign=rss",
+      "title": "India's Pant joins New Zealand club match under false name",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crx27984p14jo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The six-time major winner calls on those who benefited financially from LIV Golf to help small businesses still owed money by the tour.",
+      "summary": "India wicketkeeper Rishabh Pant unexpectedly joins a club game in Christchurch before the second Test against New Zealand and scores 54 off 21 balls.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 11:45:31 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Thu, 26 Nov 2026 16:21:44 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
+      "title": "Taylor and Lewis lose all five pairs matches on return",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/cm9q8y09xgdno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Manchester United goalkeeper Senne Lammens made two major mistakes in the 2-2 draw with Sporting - could Mauricio Pochettino drop his goalkeeper?",
+      "summary": "Phil Taylor and his England team-mate Adrian Lewis lose all five matches, having returned to darts action together at the MODUS Super Series International Pairs tournament.",
       "author": "",
-      "published": "Thu, 26 Nov 2026 14:56:30 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Thu, 26 Nov 2026 21:11:52 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     },
     {
       "source": "bbc",
-      "title": "Motorcycle passenger who took stunning cricket catch found",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo?at_medium=RSS&at_campaign=rss",
+      "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
+      "summary": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression.",
       "author": "",
-      "published": "Wed, 25 Nov 2026 23:50:02 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Former England scrum-half and commentator Starmer-Smith dies aged 81",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6rrg20xdq2vo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Former England international and rugby union commentator Nigel Starmer-Smith dies aged 81.",
-      "author": "",
-      "published": "Thu, 26 Nov 2026 15:26:24 GMT",
-      "fetched_at": "2026-11-26T16:01:13.993733+00:00"
+      "published": "Fri, 27 Nov 2026 00:18:44 GMT",
+      "fetched_at": "2026-11-27T01:17:02.646750+00:00"
     }
   ]
 }
