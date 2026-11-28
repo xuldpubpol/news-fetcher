@@ -1,27 +1,67 @@
 {
   "source": "bbc",
-  "fetched_at": "2026-11-28T00:51:15.296071+00:00",
-  "count": 32,
+  "fetched_at": "2026-11-28T14:45:02.953593+00:00",
+  "count": 24,
   "articles": [
     {
       "source": "bbc",
-      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+      "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
       "author": "",
-      "published": "Fri, 27 Nov 2026 20:42:44 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Sat, 28 Nov 2026 13:36:36 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "Watch: What has happened to DWP online services?",
-      "link": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss",
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department.",
+      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
       "author": "",
-      "published": "Fri, 27 Nov 2026 17:17:11 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Sat, 28 Nov 2026 13:02:10 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Man arrested on suspicion of murder of girl, 16",
+      "link": "https://www.bbc.co.uk/news/articles/ckq5vj3ldpx5o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "A man is arrested on suspicion murdering a 16-year-old girl who died in east London on Friday.",
+      "author": "",
+      "published": "Sat, 28 Nov 2026 14:40:49 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "author": "",
+      "published": "Sat, 28 Nov 2026 10:34:58 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Woman, 21, dies in Staffordshire crash following police pursuit",
+      "link": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "Two forces are being investigated after Friday's late night crash on Rugeley Road in Hednesford.",
+      "author": "",
+      "published": "Sat, 28 Nov 2026 14:43:29 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "author": "",
+      "published": "Sat, 28 Nov 2026 11:35:34 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
@@ -31,67 +71,97 @@
       "summary": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
       "author": "",
       "published": "Fri, 27 Nov 2026 22:03:22 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "title": "'I don't know what I'd do without it': Is this the end for Poundland?",
+      "link": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "summary": "With baskets loaded full of bargains, shoppers at the much-loved chain tell the BBC the high street doesn't need more empty shops.",
       "author": "",
-      "published": "Fri, 27 Nov 2026 21:55:53 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Sat, 28 Nov 2026 01:12:28 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss",
+      "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
+      "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.",
+      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
       "author": "",
-      "published": "Fri, 27 Nov 2026 17:47:14 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Sat, 28 Nov 2026 00:05:17 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "title": "Carly Rae Jepsen's viral hit proves what fans knew all along",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "summary": "The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.",
       "author": "",
-      "published": "Fri, 27 Nov 2026 18:42:50 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Sat, 28 Nov 2026 03:03:36 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "New satellite data shows how fast some African cities are sinking",
-      "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "title": "The AI-powered race to get GTA 6 onto PC before Rockstar",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient.",
       "author": "",
-      "published": "Fri, 27 Nov 2026 19:03:18 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Sat, 28 Nov 2026 01:30:50 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "title": "Flu cases are rising - should you get a vaccine now?",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+      "summary": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
       "author": "",
-      "published": "Fri, 27 Nov 2026 22:03:46 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Sat, 28 Nov 2026 01:03:11 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
       "author": "",
-      "published": "Fri, 27 Nov 2026 20:06:31 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Sat, 28 Nov 2026 14:10:01 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Channel 4 executive defends Huw Edwards documentary",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3z8y0nxdo?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "The broadcaster defends its decision to interview the disgraced ex-BBC newsreader in an upcoming documentary.",
+      "author": "",
+      "published": "Sat, 28 Nov 2026 14:42:33 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Pharmacies get new powers to swap prescriptions during shortages",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
+      "author": "",
+      "published": "Sat, 28 Nov 2026 06:00:11 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
+    },
+    {
+      "source": "bbc",
+      "title": "Actor and comedian PJ Gallagher dies aged 51",
+      "link": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o?at_medium=RSS&at_campaign=rss",
+      "full_text": "",
+      "summary": "PJ Gallagher appeared on Irish television for more than two decades with shows including Naked Camera and The Young Offenders.",
+      "author": "",
+      "published": "Sat, 28 Nov 2026 13:34:39 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
@@ -101,167 +171,57 @@
       "summary": "The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name.",
       "author": "",
       "published": "Fri, 27 Nov 2026 21:26:30 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "title": "Specialist 'quad squad' called in to deliver shocked couple's four babies",
+      "link": "https://www.bbc.co.uk/news/articles/cjdx10k6ln6lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "summary": "A team of 30 clinicians helped deliver the quadruplets, following a one in 700,000 pregnancy.",
       "author": "",
-      "published": "Fri, 27 Nov 2026 18:00:40 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Fri, 27 Nov 2026 11:59:05 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
-      "link": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss",
+      "title": "Bellingham's backing of reporter praised after viral clip",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg5d3078zro?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.",
+      "summary": "A clip of Jude Bellingham preventing someone from interrupting a reporter has gone viral.",
       "author": "",
-      "published": "Fri, 27 Nov 2026 14:06:20 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Thu, 26 Nov 2026 06:25:29 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
-      "link": "https://www.bbc.co.uk/news/articles/ck792l9q07xro?at_medium=RSS&at_campaign=rss",
+      "title": "Robotic exoskeleton helps boy, 7, take first steps",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2517m8804o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "The Princess of Wales opening up on her \"cancer battle\" and a cyber incident hitting the pensions department lead Saturday's papers.",
+      "summary": "Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says.",
       "author": "",
-      "published": "Sat, 28 Nov 2026 00:38:55 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Fri, 27 Nov 2026 12:09:27 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "Chicken Shop Date: The perfect end or a disappointing send-off?",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74123x2jvo?at_medium=RSS&at_campaign=rss",
+      "title": "Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
+      "link": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Amelia Dimoldenberg has called time on her hit YouTube series Chicken Shop Date after more than a decade.",
+      "summary": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
       "author": "",
-      "published": "Fri, 27 Nov 2026 18:02:25 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Thu, 26 Nov 2026 09:22:34 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "Is it a cold, flu or Covid? How to tell the difference",
-      "link": "https://www.bbc.co.uk/news/articles/cly1rryv2ryo?at_medium=RSS&at_campaign=rss",
+      "title": "Jilted bride who went ahead with her wedding alone finally walks down the aisle",
+      "link": "https://www.bbc.co.uk/news/articles/cxp80yln85nyo?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "How to tell if you have cold, flu or Covid and how to look after yourself.",
+      "summary": "Guests burst into applause as Swansea bride Kayley Stead, jilted in 2022, finally says \"I do\".",
       "author": "",
-      "published": "Fri, 27 Nov 2026 09:43:38 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
-      "link": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 07:53:24 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "GTA 6 crashes into top end of music chart after its record launch",
-      "link": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Several songs on the game's soundtrack have climbed the UK's singles chart.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 17:39:11 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Why snooker could be the most mentally challenging sport",
-      "link": "https://www.bbc.co.uk/sport/snooker/articles/cm174wqxk8lpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "With Mark Allen the latest snooker player to talk about his mental health struggles, BBC Sport looks at why the sport is so mentally challenging - and what is being done to help.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 17:00:10 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 10:10:36 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Police look for more than 100 gig-goers to help Co-op Live probe",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy5vnpggnpo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Rap fans say people were \"choking\" and \"coughing up blood\" towards the end of Don Toliver's gig.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 16:40:22 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "'We have no interest in hearing from Huw Edwards', Downing Street says",
-      "link": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "There has been a backlash against new interviews with the disgraced former BBC News presenter.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 14:33:10 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 09:57:37 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "NHS Grampian publishes leaked report at centre of hospital scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cq36gjdkdn2xo?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The report was leaked last week by a surgeon who called for NHS Grampian to face a corporate homicide investigation.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 20:07:45 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Body found in woodland confirmed as missing Kelsey Hunter",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2e315rz00o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Kelsey Hunter's body was found in a wooded area near the village of Springholm where she lived.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 17:03:03 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Tory candidates must sign pledge to scrap net-zero targets, says Badenoch",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy95295835o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The Tory leader says her \"candidates covenant\" would build trust in the party, but some ex-MPs have criticised the move.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 16:42:22 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 11:44:40 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Wed, 25 Nov 2026 06:06:26 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
@@ -271,57 +231,17 @@
       "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
       "author": "",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     },
     {
       "source": "bbc",
-      "title": "Five-try Ireland beat Australia in autumn finale",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
+      "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
       "full_text": "",
-      "summary": "Ireland secure a fifth-place finish in the inaugural Nations Championship thanks to a 38-14 victory over Australia in London.",
+      "summary": "Cole Palmer's dip in form mirrors Chelsea's recent slump and his frustration was evident after his side's recent defeat against Leeds - but will he ever get back to his best?",
       "author": "",
-      "published": "Fri, 27 Nov 2026 22:17:45 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Decline of deities - the long game the All Blacks cannot afford to lose",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgkl7de60go?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Statistically, this generation of All Blacks is the weakest in decades. How has a sporting shorthand for success slipped so far?",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 18:42:05 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
-      "full_text": "After the opportunity to rate players has closed, the score displayed represents the average from all the submissions by BBC Sport users.",
-      "summary": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 21:59:48 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Mercedes set pace in eventful Qatar second practice",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "World champion Kimi Antonelli sets the pace ahead of Mercedes team-mate George Russell in a disrupted second practice at the Qatar Grand Prix.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 19:50:06 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
-    },
-    {
-      "source": "bbc",
-      "title": "Cricket Australia may not like sandpaper forum findings - Vaughan",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5pv903jvy2po?at_medium=RSS&at_campaign=rss",
-      "full_text": "",
-      "summary": "Cricket Australia will not like what it finds from a forum into the sandpaper scandal, according to former England captain Michael Vaughan.",
-      "author": "",
-      "published": "Fri, 27 Nov 2026 14:05:57 GMT",
-      "fetched_at": "2026-11-28T00:51:05.723678+00:00"
+      "published": "Sat, 28 Nov 2026 11:53:00 GMT",
+      "fetched_at": "2026-11-28T14:45:01.373811+00:00"
     }
   ]
 }
